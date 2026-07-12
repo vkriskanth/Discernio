@@ -1,0 +1,15 @@
+# Shared tool configuration for ruff, pylint, and pyrefly.
+# This file has no [project] section — each hypothesis folder has its own.
+
+[tool.ruff]
+line-length = 88
+target-version = "py314"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W"]
+
+[tool.pylint.main]
+py-version = "3.14"
+
+[tool.pyrefly]
+python_version = "3.14"

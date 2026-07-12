@@ -1,0 +1,9 @@
+[project]
+name = "hypothesis-001-example"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    # Add hypothesis-specific dependencies here, e.g.:
+    # "requests>=2.32",
+    # "pandas>=2.0",
+]
