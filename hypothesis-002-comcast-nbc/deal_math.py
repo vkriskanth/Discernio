@@ -38,7 +38,28 @@ CE_TOTAL_EBITDA = 6_467  # Content & Experiences incl. HQ/eliminations ($M)
 CE_TOTAL_REV = 45_559
 
 
+def _print_sum_of_parts(media_ex_versant: float, studios: float, parks: float) -> None:
+    print("\nIllustrative sum-of-parts for NBCU spinco (EBITDA x peer multiple, $B):")
+    print("  NOTE: estimates. Sky is included in the announced spinco but its EBITDA")
+    print("  is reported inside Connectivity & Platforms, so it is EXCLUDED here.")
+    media_label = f"Media ex-Versant (~${media_ex_versant:.1f}B EBITDA)"
+    ranges = {
+        media_label: (media_ex_versant, 5, 7),
+        f"Studios (${studios:.1f}B EBITDA)": (studios, 9, 11),
+        f"Theme Parks (${parks:.1f}B EBITDA)": (parks, 9, 12),
+    }
+    total_lo = total_hi = 0.0
+    for label, (ebitda, mlo, mhi) in ranges.items():
+        lo, hi = ebitda * mlo, ebitda * mhi
+        total_lo += lo
+        total_hi += hi
+        print(f"  {label:46s} {mlo:>2d}-{mhi:<2d}x -> ${lo:5.1f} - ${hi:5.1f}B")
+    print(f"  {'Total enterprise value (ex-Sky, ex-HQ costs)':46s}       -> "
+          f"${total_lo:5.1f} - ${total_hi:5.1f}B")
+
+
 def main() -> None:
+    """Print NBCU acquisition return math and spin-related valuation estimates."""
     print(f"NBCU total acquisition cost 2011-2013: ${TOTAL_COST:.1f}B (nominal)")
     print(f"  = ${COST_2011_51PCT}B (51%, 2011) + ${COST_2013_49PCT}B (49%, 2013)"
           f" + ${COST_2013_30ROCK}B (30 Rock real estate)")
@@ -72,24 +93,7 @@ def main() -> None:
     media_ex_versant = media_all - vsnt_ebitda
     parks = FY25["Theme Parks"]["ebitda"] / 1000
     studios = FY25["Studios"]["ebitda"] / 1000
-
-    print("\nIllustrative sum-of-parts for NBCU spinco (EBITDA x peer multiple, $B):")
-    print("  NOTE: estimates. Sky is included in the announced spinco but its EBITDA")
-    print("  is reported inside Connectivity & Platforms, so it is EXCLUDED here.")
-    mev = media_ex_versant
-    ranges = {
-        f"Media ex-Versant (~${mev:.1f}B EBITDA)": (mev, 5, 7),
-        f"Studios (${studios:.1f}B EBITDA)": (studios, 9, 11),
-        f"Theme Parks (${parks:.1f}B EBITDA)": (parks, 9, 12),
-    }
-    total_lo = total_hi = 0.0
-    for label, (e, mlo, mhi) in ranges.items():
-        lo, hi = e * mlo, e * mhi
-        total_lo += lo
-        total_hi += hi
-        print(f"  {label:46s} {mlo:>2d}-{mhi:<2d}x -> ${lo:5.1f} - ${hi:5.1f}B")
-    print(f"  {'Total enterprise value (ex-Sky, ex-HQ costs)':46s}       -> "
-          f"${total_lo:5.1f} - ${total_hi:5.1f}B")
+    _print_sum_of_parts(media_ex_versant, studios, parks)
 
     cmcsa_cap = (yf.Ticker("CMCSA").info.get("marketCap") or 0) / 1e9
     print(f"\nComcast market cap today: ${cmcsa_cap:.1f}B — the whole company trades"
