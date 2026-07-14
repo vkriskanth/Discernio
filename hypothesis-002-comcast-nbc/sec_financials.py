@@ -50,6 +50,7 @@ def annual_series(facts: dict, tags: list[str]) -> dict[int, float]:
 
 
 def main() -> int:
+    """Fetch SEC EDGAR XBRL facts, build the annual financials table, save/print it."""
     DATA_DIR.mkdir(exist_ok=True)
     resp = requests.get(URL, headers=HEADERS, timeout=60)
     resp.raise_for_status()
@@ -57,7 +58,9 @@ def main() -> int:
 
     table = {name: annual_series(facts, tags) for name, tags in TAGS.items()}
     df = pd.DataFrame(table).sort_index()
-    df = df[df.index >= 2009] / 1e9  # $B
+    # pylint's astroid can't infer pandas' dynamic __getitem__, so this reads as
+    # unsubscriptable even though boolean-mask indexing is standard DataFrame usage.
+    df = df[df.index >= 2009] / 1e9  # pylint: disable=unsubscriptable-object  # $B
     df["fcf"] = df["op_cash_flow"] - df["capex"]
     df = df.round(2)
 
