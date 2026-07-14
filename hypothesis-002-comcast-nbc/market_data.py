@@ -32,10 +32,12 @@ DATA_DIR = Path(__file__).parent / "data"
 
 
 def pct(a: float, b: float) -> float:
+    """Percent change of a relative to b."""
     return (a / b - 1.0) * 100.0
 
 
 def main() -> int:
+    """Print price/valuation summary tables and save them to data/."""
     DATA_DIR.mkdir(exist_ok=True)
 
     prices = yf.download(
@@ -91,7 +93,9 @@ def main() -> int:
             continue
         try:
             info = yf.Ticker(tkr).info
-        except Exception as exc:  # noqa: BLE001
+        # yfinance doesn't document a stable exception type for API/network
+        # failures; catch broadly so one bad ticker doesn't kill the run.
+        except Exception as exc:  # pylint: disable=broad-exception-caught
             print(f"{tkr}: info fetch failed ({exc})", file=sys.stderr)
             continue
         vrows.append(
