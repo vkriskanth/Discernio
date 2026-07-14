@@ -1,0 +1,15 @@
+[project]
+name = "hypothesis-003-hyperscaler-bonds"
+version = "0.1.0"
+description = "Test: are 2026 hyperscaler bonds a good short-term monthly cash-parking vehicle for a retail investor with $10k?"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=2.2",
+    "yfinance>=0.2.50",
+    "requests>=2.32",
+]
+
+[dependency-groups]
+dev = [
+    "pylint>=4.0.6",
+]
