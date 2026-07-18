@@ -1,9 +1,19 @@
 {
   "name": "Python Hypothesis Lab",
-  "image": "mcr.microsoft.com/devcontainers/python:3.14",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/workspaces/discernio",
+  "shutdownAction": "stopCompose",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {
       "version": "lts"
+    }
+  },
+  "forwardPorts": [8088],
+  "portsAttributes": {
+    "8088": {
+      "label": "Superset",
+      "onAutoForward": "notify"
     }
   },
   "postCreateCommand": "bash .devcontainer/post-create.sh",
@@ -12,7 +22,8 @@
       "extensions": [
         "ms-python.python",
         "ms-python.pylance",
-        "charliermarsh.ruff"
+        "charliermarsh.ruff",
+        "anthropic.claude-code"
       ],
       "settings": {
         "editor.formatOnSave": true,

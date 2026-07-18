@@ -1,0 +1,14 @@
+[project]
+name = "hypothesis-005-gas-prices"
+version = "0.1.0"
+description = "Test: refining capacity is strained with no fuel-market buffer - is that tradable via NYMEX CL/HO/RB futures and a basket of diesel-levered refiners?"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=2.2",
+    "yfinance>=0.2.50",
+]
+
+[dependency-groups]
+dev = [
+    "pylint>=4.0.6",
+]
