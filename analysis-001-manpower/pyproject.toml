@@ -1,0 +1,14 @@
+[project]
+name = "analysis-001-manpower"
+version = "0.1.0"
+description = "Analysis 001: ManpowerGroup's 32% earnings pop through a Buffett-style business/moat/management/price lens vs its staffing peers."
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=2.2",
+    "yfinance>=0.2.50",
+]
+
+[dependency-groups]
+dev = [
+    "pylint>=4.0.6",
+]
