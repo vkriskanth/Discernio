@@ -91,24 +91,65 @@ Why it fails, structurally:
 4. It did save BMI (−6% instead of −34%) — one save out of nine did
    not come close to paying for the other five false stops.
 
-**Adopted instead:** position size is the loss cap (max $1,400 = 14%
-of book, so a total single-name wipeout costs 14%); a thesis-based
-review at −25% from cost (re-run the name through the screen — exit
-if the score broke, add only if nothing changed but price); no upside
-cap — winners are reviewed on S&P 400 promotion (below), not sold on
-a number.
+Trailing-stop variants were simulated too (same book, same year):
 
-## Exit / review discipline
+| Variant | Equal-weight return | Failure mode |
+|---|---|---|
+| Buy-and-hold | **+29.2%** | rode BMI to −34% |
+| Trailing −15% | −5.9% | stopped every name incl. the +124% winner |
+| Trailing −20% | +4.9% | clipped YOU at +2% before its +79% finish |
+| Trailing −25% | +20.1% | winners survived; still worsened IPAR and BMI |
+| Trailing −25% + hard −15% | +22.6% | best guardrail; ~6.6pp insurance premium |
 
-- **Promotion event:** if a name is added to the S&P 400, the
-  graduation thesis is complete — reassess as a pure
-  business/valuation hold within ~1 quarter (the hindcast says
-  post-add returns are ordinary).
-- **Thesis break:** exit on a GAAP loss quarter (breaks S&P
-  eligibility) or dilution > 3%/yr (breaks the management score).
-- **Rebalance check:** rerun `main.py` quarterly (caps and the S&P
-  bands both move); re-run `backtest.py` annually to re-validate the
-  zone structure.
+Even the best stop variant lagged buy-and-hold in this (strongly up)
+sample year. Caveat both ways: stops always look useless in up-tapes;
+their value shows in the drawdown year not sampled here. Verdict: no
+per-name price trigger is adopted; the risk framework below replaces
+them.
+
+## Risk framework (adopted)
+
+Principle: **in a positive-skew strategy, risk control must never
+touch the right tail.** Every mechanism that can force-sell a future
+ENVA (+124%) costs more than it saves. Risk is controlled by size,
+fundamentals, time, and (optionally) an index hedge — never by
+per-name price triggers.
+
+1. **Position sizing is the stop-loss.** Max position $1,400 (14% of
+   invested book): a total single-name wipeout costs 14%, bounded
+   without path-dependence and without ever selling a winner. Flatten
+   toward equal-weight (~11%) for more safety.
+2. **The screen is the exit signal, not the price.** Checked when
+   filings land, quarterly:
+   - GAAP loss quarter → S&P eligibility broken → exit;
+   - dilution > 3%/yr or a leveraged acquisition → management score
+     broken → exit;
+   - composite materially lower on the re-run with price down → exit;
+   - composite intact with price down → that is a buy signal, not a
+     sell. Price stops invert this logic — they sell hardest exactly
+     when the value case improves.
+3. **Time-boxed reviews, no continuous triggers.** Small-cap gaps
+   happen at earnings; intraday stops donate the gap to someone else.
+   Review each name the week after its earnings; rerun `main.py`
+   quarterly (caps and S&P bands move); rerun `backtest.py` annually
+   to re-validate the zone structure itself.
+4. **Staged entry converts volatility into cost basis.** Deploy half
+   of each position now; hold the rest plus the $1,100 reserve for
+   either a −15/20% drawdown with thesis intact (IPAR and TBBK swung
+   that much and recovered) or confirmation at the next earnings.
+5. **Crash protection, if wanted, is an index hedge — not stops.**
+   Per-name stops conflate market beta with stock signal. A cheap OTM
+   IWM put ladder sized to the book (~1–2%/yr, roughly what false
+   stops were bleeding) caps the 2022-style systemic scenario while
+   leaving every name free to run.
+6. **Harvest on thesis completion, not on a number.** The S&P 400 add
+   is the profit-taking event — post-add returns go ordinary (+11% in
+   the hindcast). Trim into promotion; recycle proceeds into the next
+   names the quarterly re-screen surfaces. The screen is a conveyor;
+   the portfolio turns over with it.
+
+One line: **let size cap the losses, let fundamentals call the exits,
+let winners run until the index committee ends the trade.**
 
 ## Caveats (do not skip)
 
