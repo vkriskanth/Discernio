@@ -90,6 +90,79 @@ names, led by **ZWS and EAT** (quality + in-family + at the cap floor),
 with **SNEX, LTH, RHP** behind them. The in-400 quality names (FCFS
 above all) are still interesting — as businesses, not as flow trades.
 
+## The zoned screen (added after the hindcast)
+
+Acting on the hindcast's lesson, the screen now tags three zones
+instead of cutting at $8B: **in-band** ($8.0–22.7B), **approaching**
+($4–8B), **far-below** ($1.5–4B, TTM NI ≥ $50M required). Result: 336
+candidates — 15 in-band, 149 approaching, 172 far-below.
+
+**Approaching zone — the strategy zone — top names:**
+
+| Ticker | Composite | Read |
+|---|---|---|
+| AX (Axos Financial) | 8.87 | digital bank, 21% growth, 16.6% ROE, 11.7x — the screen's best score anywhere |
+| VCTR (Victory Capital) | 8.34 | asset manager, mgmt 10/10 on buybacks, 21.8x |
+| ENVA (Enova) | 7.95 | online lender, 22% growth at 17.6x |
+| CALM (Cal-Maine) | 7.75 | 6.3x P/E but egg-cycle peak earnings — treat the value score skeptically |
+| YOU (Clear Secure) | 7.66 | 27% growth, 34% ROE, network-effect model, 41.8x |
+| PFSI, PJT, FTDR, MCY | 7.0–7.3 | the next tier |
+
+(IDCC, QLYS, ANF, LNTH, IBOC, SIGI also score 7+ in this cap range but
+are already S&P 400 members — quality holds, not graduation trades.)
+
+**Far-below zone — the 2+ year quality watchlist — top names:**
+TBBK (Bancorp, 8.96 — the highest composite in the whole screen: 26%
+growth, 26% ROE, 13x), SKWD (Skyward Specialty), IPAR (Inter Parfums,
+moat 8.3), PLMR (Palomar, 39% growth), CASH (Pathward), BMI (Badger
+Meter), SPSC (SPS Commerce), LMAT (LeMaitre Vascular). Financials
+dominate — their scores rest on fewer metric legs, so discount
+accordingly.
+
+The candidate funnel is heavy on banks/insurers (the Russell's profit
+base); a sector-diversity constraint would be the next refinement.
+
+## One-year hindcast (backtest.py, as of 2025-07-25)
+
+We reran the screen as a July-2025 analyst: market caps rebuilt from
+2025-07-25 closes, scoring restricted to FY≤2024 statements, same
+$8.0–22.7B band (it took effect 2025-07-01). Two findings:
+
+**1. The strict screen's zone empties fast.** Within today's Russell
+holdings only 8 names were in the cap band a year ago and just 4 passed
+the profit gate (HQY, HIMS, UMBF, ONB) — and all 4 were *already* S&P
+400 members in July 2025. Profitable $8B+ Russell names do not stay
+unpromoted for long; the screen catches promotions ~0–2 quarters out,
+not 12 months. The 4-name cohort returned +3.3% equal-weight vs IWM
++31.1% (HIMS −43% did the damage) — but n=4 and survivorship-distorted,
+so weak evidence either way.
+
+**2. The money was made one zone earlier.** Autopsy of the 45 actual
+S&P 400 additions from Jul 2025–Jul 2026, positioned by their estimated
+July-2025 market cap:
+
+| Zone a year before the add | n | avg 1-yr return |
+|---|---|---|
+| In band already ($8B+) | 20 | +11% |
+| **Approaching ($4–8B)** | **20** | **+95%** |
+| Far below (<$4B) | 4 | +354% |
+
+Names already in the band returned little — the promotion was priced.
+The approaching cohort (BTSG +255%, SITM +192%, TTMI +190%, HL +147%,
+STRL just above the line at +147%) is where a year of holding paid.
+The <$4B rockets (ARWR +444%) are not screenable this way.
+
+**Selection-bias warning:** the +95% is the return of 4–8B names
+*conditioned on having been added* — the winners, known only in
+hindsight. The honest strategy return requires buying the whole
+quality-filtered 4–8B cohort a year early and eating the non-promotions.
+What the hindcast does establish: (a) the strict $8B+ screen is a
+0–2-quarter catalyst tool with modest remaining upside, and (b) the
+strategic refinement is to run the same quality screen on the **$4–8B
+"approaching" band** and hold into graduation — that is where BTSG,
+KRYS, and CTRE sat a year before their adds, and where the payoff
+concentrated.
+
 ## Caveats (honest ones)
 
 - yfinance gives only ~4 fiscal years; "stability" measured on 4 points

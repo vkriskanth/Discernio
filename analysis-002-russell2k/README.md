@@ -39,9 +39,11 @@ Then prints:
    holdings CSV,
 2. the profit concentration map — % unprofitable, and how much of the
    index's positive earnings the top 25/50/100 earners produce,
-3. the graduation screen — S&P eligibility mechanics (cap band, GAAP
-   profitability, US domicile/listing) with `400-ready` / `500-track`
-   cohort tags and an S&P 600 membership flag,
+3. the graduation screen — GAAP profitability, US domicile/listing,
+   cap ≥ $1.5B, tagged into three zones: **in-band** ($8.0–22.7B, the
+   MidCap 400 addition range), **approaching** ($4–8B — the backtest's
+   +95% cohort), and **far-below** ($1.5–4B, requires TTM NI ≥ $50M),
+   with S&P 400/600 membership flags,
 4. the moat test — ROE level and stability, gross margin, growth, FCF
    conversion over ~4 fiscal years, scored 0–10,
 5. the management test — dilution, cash returned vs FCF, debt
@@ -49,9 +51,22 @@ Then prints:
 6. price, scored loosely — FCF yield, P/E, crude PEG vs the S&P 400
    multiple a promoted name re-rates toward; ranks but never eliminates,
 7. the composite shortlist — moat 35% + management 25% + model/growth
-   20% + value 20%, top 15 printed, full table in `data/shortlist.csv`.
+   20% + value 20%, ranked per zone, full table in `data/shortlist.csv`.
 
 Raw downloads and intermediates land in `data/` (gitignored).
+
+## Backtest
+
+```bash
+uv run python backtest.py   # requires a prior main.py run (reuses cache)
+```
+
+Reruns the screen as of 2025-07-25 (caps rebuilt from that day's closes,
+scoring restricted to FY≤2024 statements) and autopsies the year's 45
+actual S&P 400 additions by where they sat a year earlier. Headline:
+the $8B+ screen catches promotions only 0–2 quarters out (+11% avg for
+names already in band); the +95%-avg payoff zone was the **$4–8B
+"approaching" cohort** — see ANALYSIS.md for the selection-bias caveat.
 
 ## Caveats
 
