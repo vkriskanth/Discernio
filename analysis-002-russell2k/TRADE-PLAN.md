@@ -54,6 +54,50 @@ the <$4B tail paid even more on a longer clock. Allocation follows:
 Totals: $8,900 invested + $1,100 cash. Financials $4,300 (43%, at the
 cap). Approaching $6,400 / far-below $2,500.
 
+## Per-name brackets: the +50% / −5% rule, tested and rejected
+
+Proposed rule: cap each name's upside at +50% (take-profit) and
+downside at −5% (stop-loss). Mechanically possible — brokers support
+OCO/bracket orders. Simulated on this exact book over the past year
+(close-based, entry 2025-07-25, cached prices):
+
+| Ticker | 1-yr hold | Bracket outcome |
+|---|---|---|
+| AX | +12.4% | stopped −6.1% (Oct 10) |
+| VCTR | +41.4% | stopped −5.4% (**week one**) |
+| YOU | +78.8% | capped at +50% |
+| ENVA | +124.2% | capped at +50% |
+| FTDR | +21.2% | stopped −7.0% (week two) |
+| FSS | +8.8% | held |
+| IPAR | +4.7% | stopped −6.8% (week three) |
+| TBBK | +5.2% | stopped −6.2% |
+| BMI | −33.9% | stopped −6.1% ✓ (the one save) |
+| **Equal-weight** | **+29.2%** | **+7.9%** |
+
+Why it fails, structurally:
+
+1. **−5% is inside small-cap noise.** Every book name had 3–7 single
+   days of ≤−5% moves and max drawdowns of −18% to −41%. Six of nine
+   stopped out — five of those went on to finish positive, two of them
+   +40%+. The stop converts ordinary volatility into realized losses.
+2. **+50% amputates the payoff tail.** The whole zone strategy is
+   positive skew — the backtest's approaching cohort averaged +95%
+   *because* of names like ENVA (+124%). Capping winners while
+   stopping losers inverts the skew: you keep the noise, sell the
+   signal.
+3. **The −5% floor isn't even real.** Close-based fills came in at
+   −5.4% to −7.0%; intraday stops and earnings gaps fill worse. A stop
+   order caps nothing — it guarantees a sale, not a price.
+4. It did save BMI (−6% instead of −34%) — one save out of nine did
+   not come close to paying for the other five false stops.
+
+**Adopted instead:** position size is the loss cap (max $1,400 = 14%
+of book, so a total single-name wipeout costs 14%); a thesis-based
+review at −25% from cost (re-run the name through the screen — exit
+if the score broke, add only if nothing changed but price); no upside
+cap — winners are reviewed on S&P 400 promotion (below), not sold on
+a number.
+
 ## Exit / review discipline
 
 - **Promotion event:** if a name is added to the S&P 400, the
