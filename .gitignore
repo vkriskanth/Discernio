@@ -11,3 +11,4 @@ hypothesis-*/data/
 analysis-*/data/
 .devcontainer/.env
 .env
+.vscode/
