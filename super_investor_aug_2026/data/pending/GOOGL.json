@@ -1,0 +1,55 @@
+{
+  "ticker": "GOOGL",
+  "stock": {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "BRK",
+      "manager_name": "Warren Buffett - Berkshire Hathaway",
+      "action": "add",
+      "share_change_pct": 203.99,
+      "pct_of_portfolio": 3.98,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GOOGL",
+    "asof": "2026-08-08",
+    "market_cap": 4333065732096.0,
+    "pe": 17.759398,
+    "forward_pe": 24.045721,
+    "ev_ebitda": 24.424,
+    "fcf_yield": 0.005230707854744783,
+    "roe": 0.48676,
+    "gross_margin": 0.60897,
+    "op_margin": 0.34033,
+    "rev_growth": 0.242,
+    "debt_to_equity": 18.859
+  },
+  "market_stats": {
+    "ticker": "GOOGL",
+    "asof": "2026-08-08",
+    "short_pct_float": 0.0134000005,
+    "short_ratio": 2.32,
+    "putcall_oi_ratio": 0.42433460076045626,
+    "avg_volume": 33177020.0,
+    "beta": 1.237
+  },
+  "momentum": {
+    "ticker": "GOOGL",
+    "asof": "2026-08-08",
+    "ret_1m": -1.2789508395671167,
+    "ret_3m": -10.924490186903013,
+    "ret_6m": 7.097706795666903,
+    "ret_12m": 81.19778870593754,
+    "rsi14": 50.933634422437805,
+    "pct_vs_200dma": 7.746299579525573,
+    "score": 64.4,
+    "components_json": "{\"trend\": 81.33108046500418, \"rsi\": 50.933634422437805, \"vs_200dma\": 65.49259915905114, \"short_squeeze\": 6.70000025, \"options_skew\": 71.74688212927757}",
+    "thesis": null
+  }
+}
