@@ -1,0 +1,63 @@
+{
+  "ticker": "CARR",
+  "stock": {
+    "ticker": "CARR",
+    "name": "Carrier Global Corporation",
+    "sector": "Industrials",
+    "industry": "Building Products & Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 98.36,
+      "pct_of_portfolio": 0.41,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 13.74,
+      "pct_of_portfolio": 0.18,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CARR",
+    "asof": "2026-08-12",
+    "market_cap": 51924238336.0,
+    "pe": 44.99286,
+    "forward_pe": 19.053755,
+    "ev_ebitda": 20.633,
+    "fcf_yield": 0.016596295749658273,
+    "roe": 0.08966,
+    "gross_margin": 0.24691999,
+    "op_margin": 0.13069001,
+    "rev_growth": 0.039,
+    "debt_to_equity": 91.998
+  },
+  "market_stats": {
+    "ticker": "CARR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.026600001,
+    "short_ratio": 2.58,
+    "putcall_oi_ratio": 6.83541846419327,
+    "avg_volume": 6548519.0,
+    "beta": 1.309
+  },
+  "momentum": {
+    "ticker": "CARR",
+    "asof": "2026-08-12",
+    "ret_1m": -6.778638369837287,
+    "ret_3m": -2.9156448165365223,
+    "ret_6m": -1.7345636837010958,
+    "ret_12m": -1.9988002704964147,
+    "rsi14": 35.38297219616568,
+    "pct_vs_200dma": 4.980876380763988,
+    "score": 40.8,
+    "components_json": "{\"trend\": 47.80541734173015, \"rsi\": 35.38297219616568, \"vs_200dma\": 59.961752761527976, \"short_squeeze\": 13.3000005, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

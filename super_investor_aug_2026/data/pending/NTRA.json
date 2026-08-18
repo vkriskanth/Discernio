@@ -1,0 +1,71 @@
+{
+  "ticker": "NTRA",
+  "stock": {
+    "ticker": "NTRA",
+    "name": "Natera, Inc.",
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 24.11,
+      "pct_of_portfolio": 0.53,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 1.68,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 28.21,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NTRA",
+    "asof": "2026-08-12",
+    "market_cap": 45600010240.0,
+    "pe": null,
+    "forward_pe": -2820.5244,
+    "ev_ebitda": -197.057,
+    "fcf_yield": 0.0022813372069979605,
+    "roe": -0.1254,
+    "gross_margin": 0.65230006,
+    "op_margin": -0.102910005,
+    "rev_growth": 0.377,
+    "debt_to_equity": 13.093
+  },
+  "market_stats": {
+    "ticker": "NTRA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0312,
+    "short_ratio": 3.77,
+    "putcall_oi_ratio": 1.484076433121019,
+    "avg_volume": 1467938.0,
+    "beta": 1.514
+  },
+  "momentum": {
+    "ticker": "NTRA",
+    "asof": "2026-08-12",
+    "ret_1m": 14.939846257041367,
+    "ret_3m": 53.46700881940196,
+    "ret_6m": 48.07228823590226,
+    "ret_12m": 99.56380693588946,
+    "rsi14": 71.02525114264733,
+    "pct_vs_200dma": 39.31037546964438,
+    "score": 77.3,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 71.02525114264733, \"vs_200dma\": 100.0, \"short_squeeze\": 15.599999999999998, \"options_skew\": 1.0621019108280327}",
+    "thesis": null
+  }
+}

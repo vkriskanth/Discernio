@@ -1,0 +1,71 @@
+{
+  "ticker": "MAS",
+  "stock": {
+    "ticker": "MAS",
+    "name": "Masco Corp.",
+    "sector": "Industrials",
+    "industry": "Building Products & Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 29.09,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 16.9,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 4.65,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MAS",
+    "asof": "2026-08-12",
+    "market_cap": 14656942080.0,
+    "pe": 17.126728,
+    "forward_pe": 15.948556,
+    "ev_ebitda": 12.073,
+    "fcf_yield": 0.06120819657356523,
+    "roe": 58.625,
+    "gross_margin": 0.37205002,
+    "op_margin": 0.23645,
+    "rev_growth": -0.029,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "MAS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.055,
+    "short_ratio": 3.41,
+    "putcall_oi_ratio": 0.756200280767431,
+    "avg_volume": 2607487.0,
+    "beta": 1.296
+  },
+  "momentum": {
+    "ticker": "MAS",
+    "asof": "2026-08-12",
+    "ret_1m": -2.9749462388498293,
+    "ret_3m": 3.8732910728673353,
+    "ret_6m": 5.520901044240212,
+    "ret_12m": 9.26146686041076,
+    "rsi14": 44.60531364541175,
+    "pct_vs_200dma": 8.80977979042752,
+    "score": 53.9,
+    "components_json": "{\"trend\": 56.52284437929657, \"rsi\": 44.60531364541175, \"vs_200dma\": 67.61955958085504, \"short_squeeze\": 27.5, \"options_skew\": 49.61144127281236}",
+    "thesis": null
+  }
+}

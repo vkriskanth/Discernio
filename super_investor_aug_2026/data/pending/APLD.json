@@ -1,0 +1,55 @@
+{
+  "ticker": "APLD",
+  "stock": {
+    "ticker": "APLD",
+    "name": "Applied Digital Corporation",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "APLD",
+    "asof": "2026-08-12",
+    "market_cap": 9000681472.0,
+    "pe": null,
+    "forward_pe": -125.06,
+    "ev_ebitda": -132.562,
+    "fcf_yield": -0.551229230301552,
+    "roe": -0.08376,
+    "gross_margin": 0.25879,
+    "op_margin": -0.48219,
+    "rev_growth": 4.066,
+    "debt_to_equity": 136.231
+  },
+  "market_stats": {
+    "ticker": "APLD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.274,
+    "short_ratio": 3.54,
+    "putcall_oi_ratio": 0.3614228074753598,
+    "avg_volume": 20475782.0,
+    "beta": 5.767
+  },
+  "momentum": {
+    "ticker": "APLD",
+    "asof": "2026-08-12",
+    "ret_1m": 7.8503711424509515,
+    "ret_3m": -30.10471270110957,
+    "ret_6m": -18.054446428091488,
+    "ret_12m": 118.85246263795564,
+    "rsi14": 51.94557286157732,
+    "pct_vs_200dma": -5.407965930896297,
+    "score": 68.4,
+    "components_json": "{\"trend\": 83.09323731642195, \"rsi\": 51.94557286157732, \"vs_200dma\": 39.18406813820741, \"short_squeeze\": 100.0, \"options_skew\": 75.9430987413935}",
+    "thesis": null
+  }
+}

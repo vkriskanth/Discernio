@@ -1,0 +1,55 @@
+{
+  "ticker": "TFC",
+  "stock": {
+    "ticker": "TFC",
+    "name": "Truist Financial Corporation",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 17.05,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TFC",
+    "asof": "2026-08-12",
+    "market_cap": 64220889088.0,
+    "pe": 12.085057,
+    "forward_pe": 10.561399,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.09059,
+    "gross_margin": 0.0,
+    "op_margin": 0.39815,
+    "rev_growth": 0.082,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "TFC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0227,
+    "short_ratio": 3.55,
+    "putcall_oi_ratio": 0.932295753771035,
+    "avg_volume": 8994385.0,
+    "beta": 0.87
+  },
+  "momentum": {
+    "ticker": "TFC",
+    "asof": "2026-08-12",
+    "ret_1m": 1.1934531718564845,
+    "ret_3m": 10.00208974204857,
+    "ret_6m": -2.6111009936050533,
+    "ret_12m": 26.74293365132856,
+    "rsi14": 62.12388926435728,
+    "pct_vs_200dma": 8.26944891641963,
+    "score": 56.0,
+    "components_json": "{\"trend\": 62.91447008506448, \"rsi\": 62.12388926435728, \"vs_200dma\": 66.53889783283927, \"short_squeeze\": 11.35, \"options_skew\": 37.865873223471965}",
+    "thesis": null
+  }
+}

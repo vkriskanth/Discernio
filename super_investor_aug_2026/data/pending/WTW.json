@@ -1,0 +1,63 @@
+{
+  "ticker": "WTW",
+  "stock": {
+    "ticker": "WTW",
+    "name": "Willis Towers Watson Public Lim",
+    "sector": "Financial Services",
+    "industry": "Insurance Brokers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 7.21,
+      "pct_of_portfolio": 0.16,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 5.88,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WTW",
+    "asof": "2026-08-12",
+    "market_cap": 31517947904.0,
+    "pe": 21.000618,
+    "forward_pe": 14.844139,
+    "ev_ebitda": 13.253,
+    "fcf_yield": 0.044914883554977275,
+    "roe": 0.19761999,
+    "gross_margin": 0.42516,
+    "op_margin": 0.17559,
+    "rev_growth": 0.091,
+    "debt_to_equity": 91.39
+  },
+  "market_stats": {
+    "ticker": "WTW",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0435,
+    "short_ratio": 5.89,
+    "putcall_oi_ratio": 1.3571428571428572,
+    "avg_volume": 660312.0,
+    "beta": 0.418
+  },
+  "momentum": {
+    "ticker": "WTW",
+    "asof": "2026-08-12",
+    "ret_1m": 16.978520218884686,
+    "ret_3m": 31.534514123816358,
+    "ret_6m": 4.050965740182999,
+    "ret_12m": 5.192045271295287,
+    "rsi14": 79.72471991570107,
+    "pct_vs_200dma": 13.69735549751121,
+    "score": 59.5,
+    "components_json": "{\"trend\": 62.75246206771792, \"rsi\": 79.72471991570107, \"vs_200dma\": 77.39471099502242, \"short_squeeze\": 21.75, \"options_skew\": 9.528571428571425}",
+    "thesis": null
+  }
+}

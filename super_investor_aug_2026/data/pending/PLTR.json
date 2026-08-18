@@ -1,0 +1,55 @@
+{
+  "ticker": "PLTR",
+  "stock": {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HH",
+      "manager_name": "Duan Yongping - H&H International Investment",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PLTR",
+    "asof": "2026-08-12",
+    "market_cap": 406477307904.0,
+    "pe": 144.57265,
+    "forward_pe": 73.09095,
+    "ev_ebitda": 154.473,
+    "fcf_yield": 0.005311746732267592,
+    "roe": 0.38097,
+    "gross_margin": 0.84796,
+    "op_margin": 0.47120997,
+    "rev_growth": 0.928,
+    "debt_to_equity": 2.139
+  },
+  "market_stats": {
+    "ticker": "PLTR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0317,
+    "short_ratio": 1.87,
+    "putcall_oi_ratio": 0.7832341560936296,
+    "avg_volume": 43717872.0,
+    "beta": 1.563
+  },
+  "momentum": {
+    "ticker": "PLTR",
+    "asof": "2026-08-12",
+    "ret_1m": 28.701768271349913,
+    "ret_3m": 26.544122134937954,
+    "ret_6m": 23.36034182488824,
+    "ret_12m": -5.791540943973484,
+    "rsi14": 77.71584891142481,
+    "pct_vs_200dma": 13.073308220717216,
+    "score": 62.1,
+    "components_json": "{\"trend\": 62.654722810358464, \"rsi\": 77.71584891142481, \"vs_200dma\": 76.14661644143443, \"short_squeeze\": 15.85, \"options_skew\": 47.80828178855491}",
+    "thesis": null
+  }
+}

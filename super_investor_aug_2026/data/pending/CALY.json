@@ -1,0 +1,55 @@
+{
+  "ticker": "CALY",
+  "stock": {
+    "ticker": "CALY",
+    "name": "Callaway Golf Company",
+    "sector": "Consumer Cyclical",
+    "industry": "Leisure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 107.31,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CALY",
+    "asof": "2026-08-12",
+    "market_cap": 2956134144.0,
+    "pe": 38.511627,
+    "forward_pe": 18.935884,
+    "ev_ebitda": 11.734,
+    "fcf_yield": 0.034157786853125975,
+    "roe": 0.03466,
+    "gross_margin": 0.44812,
+    "op_margin": 0.19046,
+    "rev_growth": 0.02,
+    "debt_to_equity": 12.643
+  },
+  "market_stats": {
+    "ticker": "CALY",
+    "asof": "2026-08-08",
+    "short_pct_float": 0.0626,
+    "short_ratio": 3.61,
+    "putcall_oi_ratio": 0.9069767441860465,
+    "avg_volume": 2426850.0,
+    "beta": 0.956
+  },
+  "momentum": {
+    "ticker": "CALY",
+    "asof": "2026-08-08",
+    "ret_1m": -4.764478578677201,
+    "ret_3m": 19.092752927721946,
+    "ret_6m": 20.893470254308568,
+    "ret_12m": 100.11376824715855,
+    "rsi14": 37.38141969546881,
+    "pct_vs_200dma": 22.423555730552145,
+    "score": 76.4,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 37.38141969546881, \"vs_200dma\": 94.84711146110429, \"short_squeeze\": 31.300000000000004, \"options_skew\": 39.554651162790705}",
+    "thesis": null
+  }
+}

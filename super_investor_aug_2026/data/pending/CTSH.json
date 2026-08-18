@@ -1,0 +1,71 @@
+{
+  "ticker": "CTSH",
+  "stock": {
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions ",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 30.93,
+      "pct_of_portfolio": 0.71,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 4.73,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.83,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CTSH",
+    "asof": "2026-08-12",
+    "market_cap": 25832976384.0,
+    "pe": 12.306867,
+    "forward_pe": 9.082861,
+    "ev_ebitda": 6.799,
+    "fcf_yield": 0.08576247657518085,
+    "roe": 0.14924,
+    "gross_margin": 0.3344,
+    "op_margin": 0.17479,
+    "rev_growth": 0.045,
+    "debt_to_equity": 14.479
+  },
+  "market_stats": {
+    "ticker": "CTSH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0996,
+    "short_ratio": 4.6,
+    "putcall_oi_ratio": 0.8615262531411189,
+    "avg_volume": 11259661.0,
+    "beta": 0.809
+  },
+  "momentum": {
+    "ticker": "CTSH",
+    "asof": "2026-08-12",
+    "ret_1m": 34.394616480627406,
+    "ret_3m": 22.01504057620236,
+    "ret_6m": -21.504455461129456,
+    "ret_12m": -14.603443489672053,
+    "rsi14": 84.3692081761201,
+    "pct_vs_200dma": -8.389250925545277,
+    "score": 47.9,
+    "components_json": "{\"trend\": 44.311798138653046, \"rsi\": 84.3692081761201, \"vs_200dma\": 33.22149814890945, \"short_squeeze\": 49.8, \"options_skew\": 42.58619891548737}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "KEX",
+  "stock": {
+    "ticker": "KEX",
+    "name": "Kirby Corporation",
+    "sector": "Industrials",
+    "industry": "Marine Shipping"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AIM",
+      "manager_name": "Alex Roepers - Atlantic Investment Management",
+      "action": "add",
+      "share_change_pct": 15.25,
+      "pct_of_portfolio": 2.63,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KEX",
+    "asof": "2026-08-12",
+    "market_cap": 7106351616.0,
+    "pe": 20.674345,
+    "forward_pe": 16.144201,
+    "ev_ebitda": 10.528,
+    "fcf_yield": 0.0488603934567822,
+    "roe": 0.10414,
+    "gross_margin": 0.33196998,
+    "op_margin": 0.13833,
+    "rev_growth": 0.078,
+    "debt_to_equity": 35.618
+  },
+  "market_stats": {
+    "ticker": "KEX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0355,
+    "short_ratio": 2.26,
+    "putcall_oi_ratio": 0.23842592592592593,
+    "avg_volume": 609987.0,
+    "beta": 0.859
+  },
+  "momentum": {
+    "ticker": "KEX",
+    "asof": "2026-08-12",
+    "ret_1m": -4.529205982412221,
+    "ret_3m": -4.2539748276117395,
+    "ret_6m": 14.669472142269747,
+    "ret_12m": 35.062486194329814,
+    "rsi14": 38.959314297045246,
+    "pct_vs_200dma": 6.103667279649616,
+    "score": 58.4,
+    "components_json": "{\"trend\": 67.14964367212933, \"rsi\": 38.959314297045246, \"vs_200dma\": 62.207334559299234, \"short_squeeze\": 17.75, \"options_skew\": 84.14699074074073}",
+    "thesis": null
+  }
+}

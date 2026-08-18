@@ -1,0 +1,55 @@
+{
+  "ticker": "FOA",
+  "stock": {
+    "ticker": "FOA",
+    "name": "Finance Of America Companies Inc.",
+    "sector": "Financial Services",
+    "industry": "Credit Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oa",
+      "manager_name": "Leon Cooperman",
+      "action": "add",
+      "share_change_pct": 0.0,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FOA",
+    "asof": "2026-08-12",
+    "market_cap": 201596704.0,
+    "pe": null,
+    "forward_pe": 4.2576222,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": -0.099259995,
+    "gross_margin": 0.71128,
+    "op_margin": -0.67553,
+    "rev_growth": -0.648,
+    "debt_to_equity": 2968.466
+  },
+  "market_stats": {
+    "ticker": "FOA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1452,
+    "short_ratio": 8.32,
+    "putcall_oi_ratio": 0.1,
+    "avg_volume": 58858.0,
+    "beta": 1.691
+  },
+  "momentum": {
+    "ticker": "FOA",
+    "asof": "2026-08-12",
+    "ret_1m": -13.589941904525881,
+    "ret_3m": 4.51306792100441,
+    "ret_6m": 0.9174347244904846,
+    "ret_12m": -10.85899624001927,
+    "rsi14": 42.78668487623521,
+    "pct_vs_200dma": 1.6199137487474147,
+    "score": 55.2,
+    "components_json": "{\"trend\": 47.28555229764076, \"rsi\": 42.78668487623521, \"vs_200dma\": 53.23982749749483, \"short_squeeze\": 72.6, \"options_skew\": 93.38}",
+    "thesis": null
+  }
+}

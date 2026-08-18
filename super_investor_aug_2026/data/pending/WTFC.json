@@ -1,0 +1,55 @@
+{
+  "ticker": "WTFC",
+  "stock": {
+    "ticker": "WTFC",
+    "name": "Wintrust Financial Corporation",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 23.83,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WTFC",
+    "asof": "2026-08-12",
+    "market_cap": 10910913536.0,
+    "pe": 12.991968,
+    "forward_pe": 11.7157,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.12208,
+    "gross_margin": 0.0,
+    "op_margin": 0.46085998,
+    "rev_growth": 0.102,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "WTFC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0312,
+    "short_ratio": 3.09,
+    "putcall_oi_ratio": 0.7553191489361702,
+    "avg_volume": 568341.0,
+    "beta": 0.845
+  },
+  "momentum": {
+    "ticker": "WTFC",
+    "asof": "2026-08-12",
+    "ret_1m": 0.2301754473653661,
+    "ret_3m": 7.635046301487414,
+    "ret_6m": 3.008575360121535,
+    "ret_12m": 31.64416449533909,
+    "rsi14": 46.546901687504274,
+    "pct_vs_200dma": 11.347498064100803,
+    "score": 58.0,
+    "components_json": "{\"trend\": 65.85075229661832, \"rsi\": 46.546901687504274, \"vs_200dma\": 72.69499612820161, \"short_squeeze\": 15.599999999999998, \"options_skew\": 49.670212765957444}",
+    "thesis": null
+  }
+}

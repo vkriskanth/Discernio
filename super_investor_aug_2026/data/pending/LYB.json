@@ -1,0 +1,71 @@
+{
+  "ticker": "LYB",
+  "stock": {
+    "ticker": "LYB",
+    "name": "LyondellBasell Industries NV",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.07,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 55.43,
+      "pct_of_portfolio": 0.7,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MUHL",
+      "manager_name": "Muhlenkamp",
+      "action": "add",
+      "share_change_pct": 0.72,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LYB",
+    "asof": "2026-08-12",
+    "market_cap": 20425689088.0,
+    "pe": null,
+    "forward_pe": 9.808043,
+    "ev_ebitda": 9.101,
+    "fcf_yield": 0.060120370711088736,
+    "roe": -0.02269,
+    "gross_margin": 0.12888,
+    "op_margin": 0.17924999,
+    "rev_growth": 0.198,
+    "debt_to_equity": 132.759
+  },
+  "market_stats": {
+    "ticker": "LYB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0478,
+    "short_ratio": 2.43,
+    "putcall_oi_ratio": 1.762651908484053,
+    "avg_volume": 5099258.0,
+    "beta": 0.347
+  },
+  "momentum": {
+    "ticker": "LYB",
+    "asof": "2026-08-12",
+    "ret_1m": 7.947534568731851,
+    "ret_3m": -13.486234145960951,
+    "ret_6m": 16.073428807869927,
+    "ret_12m": 38.237309863008065,
+    "rsi14": 52.917552827182476,
+    "pct_vs_200dma": 8.752429585712607,
+    "score": 53.6,
+    "components_json": "{\"trend\": 66.07108234377591, \"rsi\": 52.917552827182476, \"vs_200dma\": 67.50485917142521, \"short_squeeze\": 23.900000000000002, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

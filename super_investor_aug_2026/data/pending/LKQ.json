@@ -1,0 +1,63 @@
+{
+  "ticker": "LKQ",
+  "stock": {
+    "ticker": "LKQ",
+    "name": "LKQ Corp.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 142.94,
+      "pct_of_portfolio": 0.69,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 45.54,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LKQ",
+    "asof": "2026-08-12",
+    "market_cap": 6177046016.0,
+    "pe": 13.5638895,
+    "forward_pe": 7.8953924,
+    "ev_ebitda": 8.044,
+    "fcf_yield": 0.11722836289779066,
+    "roe": 0.07131,
+    "gross_margin": 0.3834,
+    "op_margin": 0.07013,
+    "rev_growth": -0.03,
+    "debt_to_equity": 82.105
+  },
+  "market_stats": {
+    "ticker": "LKQ",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0695,
+    "short_ratio": 4.49,
+    "putcall_oi_ratio": 1.8265947888589398,
+    "avg_volume": 3185398.0,
+    "beta": 0.827
+  },
+  "momentum": {
+    "ticker": "LKQ",
+    "asof": "2026-08-12",
+    "ret_1m": -1.1062008009943392,
+    "ret_3m": -7.361059952960458,
+    "ret_6m": -27.407467981187782,
+    "ret_12m": -12.392146217128841,
+    "rsi14": 48.77027418709623,
+    "pct_vs_200dma": -14.696565163580145,
+    "score": 29.8,
+    "components_json": "{\"trend\": 34.61258313290399, \"rsi\": 48.77027418709623, \"vs_200dma\": 20.60686967283971, \"short_squeeze\": 34.75000000000001, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

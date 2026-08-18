@@ -1,0 +1,63 @@
+{
+  "ticker": "FRPT",
+  "stock": {
+    "ticker": "FRPT",
+    "name": "Freshpet, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "ENG",
+      "manager_name": "Glenn Welling - Engaged Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 8.87,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 356.41,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FRPT",
+    "asof": "2026-08-15",
+    "market_cap": 3496705536.0,
+    "pe": 18.849743,
+    "forward_pe": 37.093685,
+    "ev_ebitda": 18.788,
+    "fcf_yield": 0.00551208095779444,
+    "roe": 0.17622,
+    "gross_margin": 0.41367,
+    "op_margin": 0.07113,
+    "rev_growth": 0.155,
+    "debt_to_equity": 39.885
+  },
+  "market_stats": {
+    "ticker": "FRPT",
+    "asof": "2026-08-14",
+    "short_pct_float": 0.19209999,
+    "short_ratio": 6.68,
+    "putcall_oi_ratio": 0.8405139833711263,
+    "avg_volume": 1518525.0,
+    "beta": 1.639
+  },
+  "momentum": {
+    "ticker": "FRPT",
+    "asof": "2026-08-14",
+    "ret_1m": 35.639695646627835,
+    "ret_3m": 37.01959466471343,
+    "ret_6m": 4.048643446748623,
+    "ret_12m": 13.676154856676682,
+    "rsi14": 76.61478012672782,
+    "pct_vs_200dma": 17.523259115797796,
+    "score": 73.9,
+    "components_json": "{\"trend\": 67.7909333761093, \"rsi\": 76.61478012672782, \"vs_200dma\": 85.0465182315956, \"short_squeeze\": 96.049995, \"options_skew\": 43.98771730914588}",
+    "thesis": null
+  }
+}

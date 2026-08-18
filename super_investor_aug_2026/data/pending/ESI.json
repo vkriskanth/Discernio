@@ -1,0 +1,63 @@
+{
+  "ticker": "ESI",
+  "stock": {
+    "ticker": "ESI",
+    "name": "Element Solutions Inc.",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 548.85,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ESI",
+    "asof": "2026-08-12",
+    "market_cap": 9300463616.0,
+    "pe": 51.574326,
+    "forward_pe": 18.333311,
+    "ev_ebitda": 19.71,
+    "fcf_yield": 0.005463437318606892,
+    "roe": 0.06539,
+    "gross_margin": 0.38591,
+    "op_margin": 0.118310004,
+    "rev_growth": 0.564,
+    "debt_to_equity": 74.976
+  },
+  "market_stats": {
+    "ticker": "ESI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0514,
+    "short_ratio": 1.31,
+    "putcall_oi_ratio": 0.25675675675675674,
+    "avg_volume": 4622259.0,
+    "beta": 1.269
+  },
+  "momentum": {
+    "ticker": "ESI",
+    "asof": "2026-08-12",
+    "ret_1m": -5.940961438808035,
+    "ret_3m": -12.839073261060086,
+    "ret_6m": 19.09044721967559,
+    "ret_12m": 62.46340832452106,
+    "rsi14": 49.709178384131675,
+    "pct_vs_200dma": 11.637077192088551,
+    "score": 67.4,
+    "components_json": "{\"trend\": 76.86077551739308, \"rsi\": 49.709178384131675, \"vs_200dma\": 73.27415438417711, \"short_squeeze\": 25.700000000000003, \"options_skew\": 82.92432432432433}",
+    "thesis": null
+  }
+}

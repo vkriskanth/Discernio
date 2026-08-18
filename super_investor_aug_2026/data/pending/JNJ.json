@@ -1,0 +1,63 @@
+{
+  "ticker": "JNJ",
+  "stock": {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.85,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 33.61,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "JNJ",
+    "asof": "2026-08-12",
+    "market_cap": 626163908608.0,
+    "pe": 30.107761,
+    "forward_pe": 21.111517,
+    "ev_ebitda": 18.765,
+    "fcf_yield": 0.02696598268900015,
+    "roe": 0.25742,
+    "gross_margin": 0.6814,
+    "op_margin": 0.2919,
+    "rev_growth": 0.066,
+    "debt_to_equity": 57.709
+  },
+  "market_stats": {
+    "ticker": "JNJ",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0117,
+    "short_ratio": 3.16,
+    "putcall_oi_ratio": 0.6449855186294242,
+    "avg_volume": 8285072.0,
+    "beta": 0.231
+  },
+  "momentum": {
+    "ticker": "JNJ",
+    "asof": "2026-08-12",
+    "ret_1m": 2.6649533063634268,
+    "ret_3m": 16.87943293472649,
+    "ret_6m": 10.554741985529725,
+    "ret_12m": 53.68008970486904,
+    "rsi14": 52.083012340310894,
+    "pct_vs_200dma": 14.525667905603857,
+    "score": 65.7,
+    "components_json": "{\"trend\": 79.70228835802448, \"rsi\": 52.083012340310894, \"vs_200dma\": 79.05133581120771, \"short_squeeze\": 5.85, \"options_skew\": 57.02946590741741}",
+    "thesis": null
+  }
+}

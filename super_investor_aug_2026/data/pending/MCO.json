@@ -1,0 +1,79 @@
+{
+  "ticker": "MCO",
+  "stock": {
+    "ticker": "MCO",
+    "name": "Moody's Corp.",
+    "sector": "Financial Services",
+    "industry": "Financial Data & Stock Exchanges"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HC",
+      "manager_name": "Li Lu - Himalaya Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.61,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "tci",
+      "manager_name": "Chris Hohn - TCI Fund Management",
+      "action": "add",
+      "share_change_pct": 7.71,
+      "pct_of_portfolio": 0.99,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "add",
+      "share_change_pct": 10.26,
+      "pct_of_portfolio": 0.69,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "AP",
+      "manager_name": "AltaRock Partners",
+      "action": "add",
+      "share_change_pct": 5.84,
+      "pct_of_portfolio": 0.5,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MCO",
+    "asof": "2026-08-12",
+    "market_cap": 82422030336.0,
+    "pe": 30.179453,
+    "forward_pe": 25.163761,
+    "ev_ebitda": 21.905,
+    "fcf_yield": 0.03129169448369557,
+    "roe": 0.76932,
+    "gross_margin": 0.74974996,
+    "op_margin": 0.49473998,
+    "rev_growth": 0.151,
+    "debt_to_equity": 240.682
+  },
+  "market_stats": {
+    "ticker": "MCO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0207,
+    "short_ratio": 3.42,
+    "putcall_oi_ratio": 1.2130008176614882,
+    "avg_volume": 985335.0,
+    "beta": 1.33
+  },
+  "momentum": {
+    "ticker": "MCO",
+    "asof": "2026-08-12",
+    "ret_1m": -3.4342005487155824,
+    "ret_3m": 6.0055231327059255,
+    "ret_6m": 14.549119975226589,
+    "ret_12m": -5.848375590222476,
+    "rsi14": 55.83121621289323,
+    "pct_vs_200dma": 1.529003245982108,
+    "score": 46.1,
+    "components_json": "{\"trend\": 53.82704269629076, \"rsi\": 55.83121621289323, \"vs_200dma\": 53.058006491964214, \"short_squeeze\": 10.35, \"options_skew\": 19.14284546197874}",
+    "thesis": null
+  }
+}

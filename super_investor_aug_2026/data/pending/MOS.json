@@ -1,0 +1,55 @@
+{
+  "ticker": "MOS",
+  "stock": {
+    "ticker": "MOS",
+    "name": "Mosaic Co.",
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 0.89,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MOS",
+    "asof": "2026-08-12",
+    "market_cap": 7155831296.0,
+    "pe": null,
+    "forward_pe": 13.368095,
+    "ev_ebitda": 7.738,
+    "fcf_yield": -0.10428907238452594,
+    "roe": -0.05073,
+    "gross_margin": 0.11236,
+    "op_margin": -0.00117,
+    "rev_growth": -0.06,
+    "debt_to_equity": 52.249
+  },
+  "market_stats": {
+    "ticker": "MOS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1329,
+    "short_ratio": 4.04,
+    "putcall_oi_ratio": 0.4924741939884498,
+    "avg_volume": 8786962.0,
+    "beta": 0.821
+  },
+  "momentum": {
+    "ticker": "MOS",
+    "asof": "2026-08-12",
+    "ret_1m": -1.8090710804963495,
+    "ret_3m": 1.6257154924312456,
+    "ret_6m": -23.81850856968538,
+    "ret_12m": -28.26352105278088,
+    "rsi14": 52.121203714162476,
+    "pct_vs_200dma": -7.9687637881820645,
+    "score": 42.5,
+    "components_json": "{\"trend\": 32.03675365571141, \"rsi\": 52.121203714162476, \"vs_200dma\": 34.06247242363587, \"short_squeeze\": 66.44999999999999, \"options_skew\": 67.2019712609704}",
+    "thesis": null
+  }
+}

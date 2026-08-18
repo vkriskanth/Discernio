@@ -1,0 +1,55 @@
+{
+  "ticker": "HOG",
+  "stock": {
+    "ticker": "HOG",
+    "name": "Harley-Davidson, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Recreational Vehicles"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TA",
+      "manager_name": "Third Avenue Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 4.8,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HOG",
+    "asof": "2026-08-12",
+    "market_cap": 2690274304.0,
+    "pe": 14.361112,
+    "forward_pe": 13.054699,
+    "ev_ebitda": 8.545,
+    "fcf_yield": 0.045499170035562295,
+    "roe": 0.06093,
+    "gross_margin": 0.28456,
+    "op_margin": 0.07242,
+    "rev_growth": -0.059,
+    "debt_to_equity": 74.04
+  },
+  "market_stats": {
+    "ticker": "HOG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.23809999,
+    "short_ratio": 6.87,
+    "putcall_oi_ratio": 0.8961313394018205,
+    "avg_volume": 2618120.0,
+    "beta": 1.29
+  },
+  "momentum": {
+    "ticker": "HOG",
+    "asof": "2026-08-12",
+    "ret_1m": 4.4265608232745945,
+    "ret_3m": 10.62077044656311,
+    "ret_6m": 31.541866839770538,
+    "ret_12m": 10.633660741657502,
+    "rsi14": 39.19075475900147,
+    "pct_vs_200dma": 14.818623569748324,
+    "score": 66.6,
+    "components_json": "{\"trend\": 66.90225548256309, \"rsi\": 39.19075475900147, \"vs_200dma\": 79.63724713949665, \"short_squeeze\": 100.0, \"options_skew\": 40.27803966189857}",
+    "thesis": null
+  }
+}

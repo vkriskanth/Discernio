@@ -1,0 +1,55 @@
+{
+  "ticker": "SPYM",
+  "stock": {
+    "ticker": "SPYM",
+    "name": "State Street SPDR Portfolio S&P",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "add",
+      "share_change_pct": 1.88,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SPYM",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 26.010502,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "SPYM",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.7201041472940302,
+    "avg_volume": 12797491.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "SPYM",
+    "asof": "2026-08-12",
+    "ret_1m": 2.7627115195753893,
+    "ret_3m": 4.94359928052317,
+    "ret_6m": 12.2709989467362,
+    "ret_12m": 22.957342250372314,
+    "rsi14": 75.74981815065792,
+    "pct_vs_200dma": 10.132180863651108,
+    "score": 59.9,
+    "components_json": "{\"trend\": 64.34731636832674, \"rsi\": 75.74981815065792, \"vs_200dma\": 70.26436172730222, \"short_squeeze\": 0.0, \"options_skew\": 52.01905337548819}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "RXO",
+  "stock": {
+    "ticker": "RXO",
+    "name": "RXO, Inc.",
+    "sector": "Industrials",
+    "industry": "Trucking"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RXO",
+    "asof": "2026-08-12",
+    "market_cap": 3704240640.0,
+    "pe": null,
+    "forward_pe": 36.79313,
+    "ev_ebitda": 46.257,
+    "fcf_yield": 0.001552274962352338,
+    "roe": -0.06787,
+    "gross_margin": 0.14912,
+    "op_margin": 0.00676,
+    "rev_growth": 0.25,
+    "debt_to_equity": 48.34
+  },
+  "market_stats": {
+    "ticker": "RXO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2511,
+    "short_ratio": 8.02,
+    "putcall_oi_ratio": 3.2195121951219514,
+    "avg_volume": 2296761.0,
+    "beta": 1.986
+  },
+  "momentum": {
+    "ticker": "RXO",
+    "asof": "2026-08-12",
+    "ret_1m": -13.42095511300223,
+    "ret_3m": 4.491950725686955,
+    "ret_6m": 34.47928873274964,
+    "ret_12m": 53.768604150496515,
+    "rsi14": 32.63070501474887,
+    "pct_vs_200dma": 24.798640350823288,
+    "score": 73.1,
+    "components_json": "{\"trend\": 83.19881349772959, \"rsi\": 32.63070501474887, \"vs_200dma\": 99.59728070164658, \"short_squeeze\": 100.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

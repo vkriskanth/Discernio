@@ -1,0 +1,55 @@
+{
+  "ticker": "ALL",
+  "stock": {
+    "ticker": "ALL",
+    "name": "Allstate Corporation (The)",
+    "sector": "Financial Services",
+    "industry": "Insurance - Property & Casualty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ALL",
+    "asof": "2026-08-12",
+    "market_cap": 66660941824.0,
+    "pe": 5.279992,
+    "forward_pe": 9.588091,
+    "ev_ebitda": 4.094,
+    "fcf_yield": 0.2273989065444381,
+    "roe": 0.46113998,
+    "gross_margin": 0.36800998,
+    "op_margin": 0.22827,
+    "rev_growth": 0.118,
+    "debt_to_equity": 22.261
+  },
+  "market_stats": {
+    "ticker": "ALL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.00029999999,
+    "short_ratio": 0.04,
+    "putcall_oi_ratio": 2.2780309936189607,
+    "avg_volume": 1796277.0,
+    "beta": 0.156
+  },
+  "momentum": {
+    "ticker": "ALL",
+    "asof": "2026-08-12",
+    "ret_1m": 2.9629195234571304,
+    "ret_3m": 22.181460087851047,
+    "ret_6m": 26.113002276826847,
+    "ret_12m": 28.91674554027186,
+    "rsi14": 53.46232683483759,
+    "pct_vs_200dma": 20.660726040047315,
+    "score": 61.3,
+    "components_json": "{\"trend\": 76.05503692551211, \"rsi\": 53.46232683483759, \"vs_200dma\": 91.32145208009463, \"short_squeeze\": 0.14999999500000002, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

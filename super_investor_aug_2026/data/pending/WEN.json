@@ -1,0 +1,63 @@
+{
+  "ticker": "WEN",
+  "stock": {
+    "ticker": "WEN",
+    "name": "Wendy's Company (The)",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FFH",
+      "manager_name": "Prem Watsa - Fairfax Financial Holdings",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.17,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TF",
+      "manager_name": "Nelson Peltz - Trian Fund Management",
+      "action": "add",
+      "share_change_pct": 0.02,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WEN",
+    "asof": "2026-08-12",
+    "market_cap": 1662467456.0,
+    "pe": 13.212878,
+    "forward_pe": 15.975122,
+    "ev_ebitda": 11.341,
+    "fcf_yield": 0.10426654872214232,
+    "roe": 1.08042,
+    "gross_margin": 0.33111,
+    "op_margin": 0.14292,
+    "rev_growth": 0.017,
+    "debt_to_equity": 3380.615
+  },
+  "market_stats": {
+    "ticker": "WEN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.4325,
+    "short_ratio": 5.05,
+    "putcall_oi_ratio": 0.17671524987156298,
+    "avg_volume": 16843503.0,
+    "beta": 0.379
+  },
+  "momentum": {
+    "ticker": "WEN",
+    "asof": "2026-08-12",
+    "ret_1m": 14.622641873191133,
+    "ret_3m": 9.65189692488888,
+    "ret_6m": 12.835930914817162,
+    "ret_12m": -11.724266064735456,
+    "rsi14": 65.54132729258194,
+    "pct_vs_200dma": 13.153901444760763,
+    "score": 68.6,
+    "components_json": "{\"trend\": 52.05664192601763, \"rsi\": 65.54132729258194, \"vs_200dma\": 76.30780288952153, \"short_squeeze\": 100.0, \"options_skew\": 88.26309283356676}",
+    "thesis": null
+  }
+}

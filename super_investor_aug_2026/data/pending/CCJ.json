@@ -1,0 +1,55 @@
+{
+  "ticker": "CCJ",
+  "stock": {
+    "ticker": "CCJ",
+    "name": "Cameco Corporation",
+    "sector": "Energy",
+    "industry": "Uranium"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 241.26,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CCJ",
+    "asof": "2026-08-12",
+    "market_cap": 42943553536.0,
+    "pe": 170.0,
+    "forward_pe": 52.657547,
+    "ev_ebitda": 53.991,
+    "fcf_yield": 0.0011641939216345712,
+    "roe": 0.051149998,
+    "gross_margin": 0.35112998,
+    "op_margin": 0.09111,
+    "rev_growth": -0.072,
+    "debt_to_equity": 17.131
+  },
+  "market_stats": {
+    "ticker": "CCJ",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 1.83,
+    "putcall_oi_ratio": 3.6498144712430425,
+    "avg_volume": 3417477.0,
+    "beta": 0.992
+  },
+  "momentum": {
+    "ticker": "CCJ",
+    "asof": "2026-08-12",
+    "ret_1m": 8.272356638077326,
+    "ret_3m": -15.209957765921722,
+    "ret_6m": -16.042848913820727,
+    "ret_12m": 27.897563711674312,
+    "rsi14": 67.86168399837499,
+    "pct_vs_200dma": -5.447821814087083,
+    "score": 40.7,
+    "components_json": "{\"trend\": 51.78318348074699, \"rsi\": 67.86168399837499, \"vs_200dma\": 39.10435637182583, \"short_squeeze\": 0.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

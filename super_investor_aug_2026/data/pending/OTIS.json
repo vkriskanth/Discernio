@@ -1,0 +1,55 @@
+{
+  "ticker": "OTIS",
+  "stock": {
+    "ticker": "OTIS",
+    "name": "Otis Worldwide Corporation",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 16.58,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "OTIS",
+    "asof": "2026-08-12",
+    "market_cap": 27948515328.0,
+    "pe": 18.873882,
+    "forward_pe": 15.986144,
+    "ev_ebitda": 13.686,
+    "fcf_yield": 0.05138913345286375,
+    "roe": null,
+    "gross_margin": 0.30313,
+    "op_margin": 0.15133001,
+    "rev_growth": 0.073,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "OTIS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0433,
+    "short_ratio": 3.71,
+    "putcall_oi_ratio": 0.5006912897491606,
+    "avg_volume": 3678482.0,
+    "beta": 0.879
+  },
+  "momentum": {
+    "ticker": "OTIS",
+    "asof": "2026-08-12",
+    "ret_1m": 1.2541395985777637,
+    "ret_3m": -0.2494525034436701,
+    "ret_6m": -17.549335410583733,
+    "ret_12m": -12.866927858558252,
+    "rsi14": 63.69171652987653,
+    "pct_vs_200dma": -9.395975514419186,
+    "score": 42.0,
+    "components_json": "{\"trend\": 39.51359248236848, \"rsi\": 63.69171652987653, \"vs_200dma\": 31.208048971161627, \"short_squeeze\": 21.65, \"options_skew\": 66.653890973731}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "ELAN",
+  "stock": {
+    "ticker": "ELAN",
+    "name": "Elanco Animal Health Incorporat",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 35.52,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ELAN",
+    "asof": "2026-08-12",
+    "market_cap": 10892994560.0,
+    "pe": null,
+    "forward_pe": 17.254745,
+    "ev_ebitda": 14.955,
+    "fcf_yield": 0.07590887918335654,
+    "roe": -0.029779999,
+    "gross_margin": 0.55359,
+    "op_margin": 0.086260006,
+    "rev_growth": 0.102,
+    "debt_to_equity": 64.253
+  },
+  "market_stats": {
+    "ticker": "ELAN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1145,
+    "short_ratio": 7.88,
+    "putcall_oi_ratio": 1.0560747663551402,
+    "avg_volume": 6459924.0,
+    "beta": 1.694
+  },
+  "momentum": {
+    "ticker": "ELAN",
+    "asof": "2026-08-12",
+    "ret_1m": -12.127317751375799,
+    "ret_3m": -7.780127620578103,
+    "ret_6m": -13.4523856919187,
+    "ret_12m": 32.34223344512772,
+    "rsi14": 33.10578220014895,
+    "pct_vs_200dma": -7.288345683588471,
+    "score": 45.1,
+    "components_json": "{\"trend\": 56.56713938430205, \"rsi\": 33.10578220014895, \"vs_200dma\": 35.42330863282306, \"short_squeeze\": 57.25000000000001, \"options_skew\": 29.60981308411215}",
+    "thesis": null
+  }
+}

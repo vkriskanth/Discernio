@@ -1,0 +1,55 @@
+{
+  "ticker": "PBH",
+  "stock": {
+    "ticker": "PBH",
+    "name": "Prestige Consumer Healthcare",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 4.19,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PBH",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 14.789916,
+    "forward_pe": 10.391144,
+    "ev_ebitda": 13.884,
+    "fcf_yield": null,
+    "roe": 0.0912,
+    "gross_margin": 0.54772997,
+    "op_margin": 0.20834999,
+    "rev_growth": 0.065,
+    "debt_to_equity": 107.864
+  },
+  "market_stats": {
+    "ticker": "PBH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.09729999,
+    "short_ratio": 7.96,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 699512.0,
+    "beta": 0.327
+  },
+  "momentum": {
+    "ticker": "PBH",
+    "asof": "2026-08-12",
+    "ret_1m": 12.507947286201325,
+    "ret_3m": 5.321362705821309,
+    "ret_6m": -19.690669657952466,
+    "ret_12m": -16.900141983881422,
+    "rsi14": 65.55535708416632,
+    "pct_vs_200dma": -7.77454680247347,
+    "score": 43.9,
+    "components_json": "{\"trend\": 38.929151120808086, \"rsi\": 65.55535708416632, \"vs_200dma\": 34.45090639505306, \"short_squeeze\": 48.649995, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

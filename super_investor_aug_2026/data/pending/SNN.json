@@ -1,0 +1,55 @@
+{
+  "ticker": "SNN",
+  "stock": {
+    "ticker": "SNN",
+    "name": "Smith & Nephew SNATS, Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 57.85,
+      "pct_of_portfolio": 0.14,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SNN",
+    "asof": "2026-08-12",
+    "market_cap": 12440713216.0,
+    "pe": 20.197279,
+    "forward_pe": 12.232656,
+    "ev_ebitda": 48.398,
+    "fcf_yield": 0.08512373700874482,
+    "roe": 0.11851,
+    "gross_margin": 0.68444,
+    "op_margin": 0.14466,
+    "rev_growth": 0.046,
+    "debt_to_equity": 73.069
+  },
+  "market_stats": {
+    "ticker": "SNN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0121,
+    "short_ratio": 2.68,
+    "putcall_oi_ratio": 0.75,
+    "avg_volume": 1485812.0,
+    "beta": 0.688
+  },
+  "momentum": {
+    "ticker": "SNN",
+    "asof": "2026-08-12",
+    "ret_1m": -2.138156666732549,
+    "ret_3m": -0.9983335929358628,
+    "ret_6m": -14.128239301573153,
+    "ret_12m": -14.220489694789606,
+    "rsi14": 45.342463176409915,
+    "pct_vs_200dma": -7.918659907452119,
+    "score": 36.9,
+    "components_json": "{\"trend\": 39.773832253731456, \"rsi\": 45.342463176409915, \"vs_200dma\": 34.162680185095766, \"short_squeeze\": 6.05, \"options_skew\": 50.025000000000006}",
+    "thesis": null
+  }
+}

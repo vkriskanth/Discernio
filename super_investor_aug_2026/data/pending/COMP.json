@@ -1,0 +1,55 @@
+{
+  "ticker": "COMP",
+  "stock": {
+    "ticker": "COMP",
+    "name": "Compass, Inc.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TA",
+      "manager_name": "Third Avenue Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.22,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "COMP",
+    "asof": "2026-08-12",
+    "market_cap": 9718380544.0,
+    "pe": 211.0,
+    "forward_pe": 14.982603,
+    "ev_ebitda": 37.46,
+    "fcf_yield": 0.068753736589634,
+    "roe": 0.036259998,
+    "gross_margin": 0.14214,
+    "op_margin": 0.03762,
+    "rev_growth": 1.09,
+    "debt_to_equity": 137.563
+  },
+  "market_stats": {
+    "ticker": "COMP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.063,
+    "short_ratio": 3.69,
+    "putcall_oi_ratio": 0.09228115567054765,
+    "avg_volume": 13537020.0,
+    "beta": 2.343
+  },
+  "momentum": {
+    "ticker": "COMP",
+    "asof": "2026-08-12",
+    "ret_1m": 8.912665970353784,
+    "ret_3m": 52.165074642700084,
+    "ret_6m": -0.3056466337763686,
+    "ret_12m": 53.63526724592784,
+    "rsi14": 75.66781161389132,
+    "pct_vs_200dma": 28.874344841886668,
+    "score": 83.7,
+    "components_json": "{\"trend\": 87.01193530104825, \"rsi\": 75.66781161389132, \"vs_200dma\": 100.0, \"short_squeeze\": 31.5, \"options_skew\": 93.89484691677448}",
+    "thesis": null
+  }
+}

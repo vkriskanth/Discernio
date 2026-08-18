@@ -1,0 +1,71 @@
+{
+  "ticker": "LIN",
+  "stock": {
+    "ticker": "LIN",
+    "name": "Linde plc",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.46,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AKO",
+      "manager_name": "AKO Capital",
+      "action": "add",
+      "share_change_pct": 899.04,
+      "pct_of_portfolio": 1.18,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 5.38,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LIN",
+    "asof": "2026-08-12",
+    "market_cap": 222893129728.0,
+    "pe": 31.194838,
+    "forward_pe": 24.698826,
+    "ev_ebitda": 18.144,
+    "fcf_yield": 0.018667018068602784,
+    "roe": 0.18400998,
+    "gross_margin": 0.48348,
+    "op_margin": 0.28119,
+    "rev_growth": 0.093,
+    "debt_to_equity": 68.947
+  },
+  "market_stats": {
+    "ticker": "LIN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0121,
+    "short_ratio": 2.6,
+    "putcall_oi_ratio": 1.0732600732600732,
+    "avg_volume": 2313620.0,
+    "beta": 0.726
+  },
+  "momentum": {
+    "ticker": "LIN",
+    "asof": "2026-08-12",
+    "ret_1m": -9.007337375616054,
+    "ret_3m": -1.9396512256837473,
+    "ret_6m": 8.249777353087984,
+    "ret_12m": 4.074964423773841,
+    "rsi14": 33.78793480114807,
+    "pct_vs_200dma": 1.9299454722280451,
+    "score": 43.4,
+    "components_json": "{\"trend\": 53.523023607730806, \"rsi\": 33.78793480114807, \"vs_200dma\": 53.85989094445609, \"short_squeeze\": 6.05, \"options_skew\": 28.463553113553118}",
+    "thesis": null
+  }
+}

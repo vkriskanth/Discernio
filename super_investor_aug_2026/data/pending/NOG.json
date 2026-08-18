@@ -1,0 +1,55 @@
+{
+  "ticker": "NOG",
+  "stock": {
+    "ticker": "NOG",
+    "name": "Northern Oil and Gas, Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 10.54,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NOG",
+    "asof": "2026-08-12",
+    "market_cap": 2562506496.0,
+    "pe": null,
+    "forward_pe": 5.6041923,
+    "ev_ebitda": 4.37,
+    "fcf_yield": -0.1793669568125848,
+    "roe": -0.22049999,
+    "gross_margin": 0.75398004,
+    "op_margin": 0.57063997,
+    "rev_growth": 0.16,
+    "debt_to_equity": 136.559
+  },
+  "market_stats": {
+    "ticker": "NOG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.22850001,
+    "short_ratio": 6.47,
+    "putcall_oi_ratio": 0.4200878526778172,
+    "avg_volume": 3130701.0,
+    "beta": 0.727
+  },
+  "momentum": {
+    "ticker": "NOG",
+    "asof": "2026-08-12",
+    "ret_1m": 19.21549630841848,
+    "ret_3m": 3.004447596764326,
+    "ret_6m": -2.7232818232097,
+    "ret_12m": 8.126274953966583,
+    "rsi14": 61.31013981433705,
+    "pct_vs_200dma": 5.345832688987562,
+    "score": 62.9,
+    "components_json": "{\"trend\": 53.33485971365302, \"rsi\": 61.31013981433705, \"vs_200dma\": 60.69166537797513, \"short_squeeze\": 100.0, \"options_skew\": 72.0301402263896}",
+    "thesis": null
+  }
+}

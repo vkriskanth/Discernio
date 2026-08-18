@@ -1,0 +1,55 @@
+{
+  "ticker": "QURE",
+  "stock": {
+    "ticker": "QURE",
+    "name": "uniQure N.V.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 5.41,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "QURE",
+    "asof": "2026-08-12",
+    "market_cap": 3139177216.0,
+    "pe": null,
+    "forward_pe": -15.10759,
+    "ev_ebitda": -15.654,
+    "fcf_yield": -0.024713482120277977,
+    "roe": -1.57607,
+    "gross_margin": 0.0,
+    "op_margin": -8.72231,
+    "rev_growth": 0.11,
+    "debt_to_equity": 170.396
+  },
+  "market_stats": {
+    "ticker": "QURE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.15609999,
+    "short_ratio": 6.78,
+    "putcall_oi_ratio": 0.16761768901569188,
+    "avg_volume": 1955538.0,
+    "beta": 0.94
+  },
+  "momentum": {
+    "ticker": "QURE",
+    "asof": "2026-08-12",
+    "ret_1m": 8.65848068657935,
+    "ret_3m": 55.03436799676158,
+    "ret_6m": 82.57791724005486,
+    "ret_12m": 219.51134592151922,
+    "rsi14": 69.1736967309397,
+    "pct_vs_200dma": 61.64139244163431,
+    "score": 92.1,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 69.1736967309397, \"vs_200dma\": 100.0, \"short_squeeze\": 78.049995, \"options_skew\": 88.86990014265335}",
+    "thesis": null
+  }
+}

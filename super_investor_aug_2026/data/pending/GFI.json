@@ -1,0 +1,55 @@
+{
+  "ticker": "GFI",
+  "stock": {
+    "ticker": "GFI",
+    "name": "Gold Fields Limited",
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 0.81,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GFI",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 10.431472,
+    "forward_pe": 7.656212,
+    "ev_ebitda": 14.257,
+    "fcf_yield": null,
+    "roe": 0.51931,
+    "gross_margin": 0.5529,
+    "op_margin": 0.51784,
+    "rev_growth": 0.714,
+    "debt_to_equity": 37.143
+  },
+  "market_stats": {
+    "ticker": "GFI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0076,
+    "short_ratio": 1.51,
+    "putcall_oi_ratio": 0.5244897959183673,
+    "avg_volume": 3750188.0,
+    "beta": 0.597
+  },
+  "momentum": {
+    "ticker": "GFI",
+    "asof": "2026-08-12",
+    "ret_1m": 19.47862227524013,
+    "ret_3m": -9.07266972681462,
+    "ret_6m": -21.550968722671225,
+    "ret_12m": 34.847654623869786,
+    "rsi14": 86.89237186156619,
+    "pct_vs_200dma": -4.316392893125586,
+    "score": 52.2,
+    "components_json": "{\"trend\": 54.75197031470216, \"rsi\": 86.89237186156619, \"vs_200dma\": 41.367214213748824, \"short_squeeze\": 3.8, \"options_skew\": 65.0665306122449}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "JLL",
+  "stock": {
+    "ticker": "JLL",
+    "name": "Jones Lang Lasalle Inc.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 213.3,
+      "pct_of_portfolio": 0.48,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 14.67,
+      "pct_of_portfolio": 0.45,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "JLL",
+    "asof": "2026-08-12",
+    "market_cap": 16663069696.0,
+    "pe": 17.362415,
+    "forward_pe": 13.007217,
+    "ev_ebitda": 11.637,
+    "fcf_yield": 0.09002693281419255,
+    "roe": 0.13520001,
+    "gross_margin": 0.51232,
+    "op_margin": 0.045700002,
+    "rev_growth": 0.108,
+    "debt_to_equity": 42.352
+  },
+  "market_stats": {
+    "ticker": "JLL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.021300001,
+    "short_ratio": 2.45,
+    "putcall_oi_ratio": 0.39727891156462586,
+    "avg_volume": 388550.0,
+    "beta": 1.24
+  },
+  "momentum": {
+    "ticker": "JLL",
+    "asof": "2026-08-12",
+    "ret_1m": 12.054655072014109,
+    "ret_3m": 10.732790256998449,
+    "ret_6m": 8.458227254363738,
+    "ret_12m": 31.982997348727093,
+    "rsi14": 71.07373945605819,
+    "pct_vs_200dma": 13.35617690134574,
+    "score": 65.7,
+    "components_json": "{\"trend\": 68.5505041928995, \"rsi\": 71.07373945605819, \"vs_200dma\": 76.71235380269148, \"short_squeeze\": 10.650000499999999, \"options_skew\": 73.55149659863946}",
+    "thesis": null
+  }
+}

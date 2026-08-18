@@ -1,0 +1,55 @@
+{
+  "ticker": "AVBH",
+  "stock": {
+    "ticker": "AVBH",
+    "name": "Avidbank Holdings, Inc.",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 43.93,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AVBH",
+    "asof": "2026-08-12",
+    "market_cap": 360234656.0,
+    "pe": null,
+    "forward_pe": 8.502916,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": -0.056399997,
+    "gross_margin": 0.0,
+    "op_margin": 0.38858002,
+    "rev_growth": 0.289,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "AVBH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0363,
+    "short_ratio": 2.42,
+    "putcall_oi_ratio": null,
+    "avg_volume": 130172.0,
+    "beta": 0.337
+  },
+  "momentum": {
+    "ticker": "AVBH",
+    "asof": "2026-08-12",
+    "ret_1m": 2.4602955481497712,
+    "ret_3m": 12.440195722910886,
+    "ret_6m": 7.868857461898049,
+    "ret_12m": 39.7027710901336,
+    "rsi14": 71.84878394363217,
+    "pct_vs_200dma": 13.197685163803774,
+    "score": 65.5,
+    "components_json": "{\"trend\": 71.97382439149612, \"rsi\": 71.84878394363217, \"vs_200dma\": 76.39537032760755, \"short_squeeze\": 18.15, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

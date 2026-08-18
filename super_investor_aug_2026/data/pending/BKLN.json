@@ -1,0 +1,55 @@
+{
+  "ticker": "BKLN",
+  "stock": {
+    "ticker": "BKLN",
+    "name": "Invesco Senior Loan ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oc",
+      "manager_name": "Howard Marks - Oaktree Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BKLN",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "BKLN",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 6.9960264900662255,
+    "avg_volume": 8189270.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "BKLN",
+    "asof": "2026-08-12",
+    "ret_1m": 0.9039617667430111,
+    "ret_3m": 0.8676152453304109,
+    "ret_6m": 2.3126038986166275,
+    "ret_12m": 4.377263044139834,
+    "rsi14": 80.00050863406322,
+    "pct_vs_200dma": 1.753656231005296,
+    "score": 46.5,
+    "components_json": "{\"trend\": 52.70497096084004, \"rsi\": 80.00050863406322, \"vs_200dma\": 53.50731246201059, \"short_squeeze\": 0.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

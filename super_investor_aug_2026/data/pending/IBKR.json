@@ -1,0 +1,63 @@
+{
+  "ticker": "IBKR",
+  "stock": {
+    "ticker": "IBKR",
+    "name": "Interactive Brokers Group Inc.",
+    "sector": "Financial Services",
+    "industry": "Capital Markets"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.26,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "RVC",
+      "manager_name": "Robert Vinall - RV Capital GmbH",
+      "action": "add",
+      "share_change_pct": 0.72,
+      "pct_of_portfolio": 0.1,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IBKR",
+    "asof": "2026-08-12",
+    "market_cap": 156633464832.0,
+    "pe": 36.480556,
+    "forward_pe": 28.877518,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.24018998,
+    "gross_margin": 0.93036,
+    "op_margin": 0.76532996,
+    "rev_growth": 0.263,
+    "debt_to_equity": 205.748
+  },
+  "market_stats": {
+    "ticker": "IBKR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0238,
+    "short_ratio": 2.03,
+    "putcall_oi_ratio": 1.3176054874246519,
+    "avg_volume": 5044911.0,
+    "beta": 1.343
+  },
+  "momentum": {
+    "ticker": "IBKR",
+    "asof": "2026-08-12",
+    "ret_1m": -4.141825184805947,
+    "ret_3m": 8.455890086827011,
+    "ret_6m": 18.965518095109644,
+    "ret_12m": 39.123366658938075,
+    "rsi14": 49.77651251641513,
+    "pct_vs_200dma": 19.363580067040196,
+    "score": 61.6,
+    "components_json": "{\"trend\": 73.87576911815623, \"rsi\": 49.77651251641513, \"vs_200dma\": 88.72716013408039, \"short_squeeze\": 11.900000000000002, \"options_skew\": 12.16571398877572}",
+    "thesis": null
+  }
+}

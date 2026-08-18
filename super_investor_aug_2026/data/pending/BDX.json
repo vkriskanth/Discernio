@@ -1,0 +1,63 @@
+{
+  "ticker": "BDX",
+  "stock": {
+    "ticker": "BDX",
+    "name": "Becton, Dickinson and Company",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GA",
+      "manager_name": "Greenhaven Associates",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 9.93,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 1.5,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BDX",
+    "asof": "2026-08-08",
+    "market_cap": 48174333952.0,
+    "pe": 30.598616,
+    "forward_pe": 13.267697,
+    "ev_ebitda": 10.13,
+    "fcf_yield": 0.09589390409845432,
+    "roe": 0.06607,
+    "gross_margin": 0.48430002,
+    "op_margin": 0.15090999,
+    "rev_growth": -0.095,
+    "debt_to_equity": 68.84
+  },
+  "market_stats": {
+    "ticker": "BDX",
+    "asof": "2026-08-08",
+    "short_pct_float": 0.0429,
+    "short_ratio": 3.74,
+    "putcall_oi_ratio": 0.3315508021390374,
+    "avg_volume": 2518400.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "BDX",
+    "asof": "2026-08-08",
+    "ret_1m": 17.242289330096195,
+    "ret_3m": 16.212212998662288,
+    "ret_6m": 10.4056654608502,
+    "ret_12m": 33.68461785107115,
+    "rsi14": 85.07835071271406,
+    "pct_vs_200dma": 14.683882335946773,
+    "score": 71.1,
+    "components_json": "{\"trend\": 71.4592106782822, \"rsi\": 85.07835071271406, \"vs_200dma\": 79.36776467189355, \"short_squeeze\": 21.45, \"options_skew\": 77.9355614973262}",
+    "thesis": null
+  }
+}

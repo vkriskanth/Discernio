@@ -1,0 +1,55 @@
+{
+  "ticker": "MMI",
+  "stock": {
+    "ticker": "MMI",
+    "name": "Marcus & Millichap, Inc.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 6.37,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MMI",
+    "asof": "2026-08-12",
+    "market_cap": 1177788288.0,
+    "pe": 84.054054,
+    "forward_pe": 33.44086,
+    "ev_ebitda": 49.861,
+    "fcf_yield": 0.057998117909625536,
+    "roe": 0.0242,
+    "gross_margin": 0.37724,
+    "op_margin": 0.01091,
+    "rev_growth": 0.178,
+    "debt_to_equity": 12.809
+  },
+  "market_stats": {
+    "ticker": "MMI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0679,
+    "short_ratio": 7.87,
+    "putcall_oi_ratio": 1.75,
+    "avg_volume": 201467.0,
+    "beta": 1.24
+  },
+  "momentum": {
+    "ticker": "MMI",
+    "asof": "2026-08-12",
+    "ret_1m": 3.61566753720175,
+    "ret_3m": 2.8922900313831157,
+    "ret_6m": 14.802382118897238,
+    "ret_12m": 7.961709278150786,
+    "rsi14": 59.4594678189112,
+    "pct_vs_200dma": 9.592933909036528,
+    "score": 53.0,
+    "components_json": "{\"trend\": 58.49308535634442, \"rsi\": 59.4594678189112, \"vs_200dma\": 69.18586781807306, \"short_squeeze\": 33.95, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

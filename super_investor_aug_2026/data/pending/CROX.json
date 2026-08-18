@@ -1,0 +1,87 @@
+{
+  "ticker": "CROX",
+  "stock": {
+    "ticker": "CROX",
+    "name": "Crocs, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Footwear & Accessories"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.74,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.84,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HC",
+      "manager_name": "Li Lu - Himalaya Capital Management",
+      "action": "add",
+      "share_change_pct": 41.22,
+      "pct_of_portfolio": 0.67,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 11.08,
+      "pct_of_portfolio": 0.26,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 36.86,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CROX",
+    "asof": "2026-08-12",
+    "market_cap": 6212723200.0,
+    "pe": 11.497782,
+    "forward_pe": 8.667524,
+    "ev_ebitda": 8.455,
+    "fcf_yield": 0.08593473728235632,
+    "roe": 0.42299998,
+    "gross_margin": 0.5747,
+    "op_margin": 0.24221,
+    "rev_growth": 0.026,
+    "debt_to_equity": 121.993
+  },
+  "market_stats": {
+    "ticker": "CROX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1241,
+    "short_ratio": 4.15,
+    "putcall_oi_ratio": 0.9605982810581538,
+    "avg_volume": 1163025.0,
+    "beta": 1.526
+  },
+  "momentum": {
+    "ticker": "CROX",
+    "asof": "2026-08-12",
+    "ret_1m": -0.6861278562535267,
+    "ret_3m": 31.161905631026276,
+    "ret_6m": 56.0493519812983,
+    "ret_12m": 70.15413848826373,
+    "rsi14": 47.90795397989196,
+    "pct_vs_200dma": 30.815636028849713,
+    "score": 82.0,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 47.90795397989196, \"vs_200dma\": 100.0, \"short_squeeze\": 62.05, \"options_skew\": 35.978094653421145}",
+    "thesis": null
+  }
+}

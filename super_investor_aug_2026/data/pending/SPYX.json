@@ -1,0 +1,55 @@
+{
+  "ticker": "SPYX",
+  "stock": {
+    "ticker": "SPYX",
+    "name": "State Street SPDR S&P 500 Fossi",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 7.05,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SPYX",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 26.042093,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "SPYX",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 69511.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "SPYX",
+    "asof": "2026-08-12",
+    "ret_1m": 2.807851088861968,
+    "ret_3m": 5.218566724041862,
+    "ret_6m": 12.163270930833026,
+    "ret_12m": 22.275826105943963,
+    "rsi14": 75.22272587756565,
+    "pct_vs_200dma": 10.069586932352358,
+    "score": 59.5,
+    "components_json": "{\"trend\": 64.12488173884006, \"rsi\": 75.22272587756565, \"vs_200dma\": 70.13917386470472, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "EVC",
+  "stock": {
+    "ticker": "EVC",
+    "name": "Entravision Communications Corp",
+    "sector": "Communication Services",
+    "industry": "Advertising Agencies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EVC",
+    "asof": "2026-08-12",
+    "market_cap": 847668096.0,
+    "pe": 459.25003,
+    "forward_pe": -48.34211,
+    "ev_ebitda": 13.83,
+    "fcf_yield": 0.07886488628681385,
+    "roe": 0.05673,
+    "gross_margin": 0.25645,
+    "op_margin": 0.13281,
+    "rev_growth": 1.262,
+    "debt_to_equity": 246.858
+  },
+  "market_stats": {
+    "ticker": "EVC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1243,
+    "short_ratio": 3.43,
+    "putcall_oi_ratio": 0.33801580333625986,
+    "avg_volume": 2329545.0,
+    "beta": 1.733
+  },
+  "momentum": {
+    "ticker": "EVC",
+    "asof": "2026-08-12",
+    "ret_1m": -23.160174429093814,
+    "ret_3m": 10.029494549077222,
+    "ret_6m": 193.6445541084302,
+    "ret_12m": 288.4606534396418,
+    "rsi14": 37.14064005399264,
+    "pct_vs_200dma": 63.50261045627279,
+    "score": 84.5,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 37.14064005399264, \"vs_200dma\": 100.0, \"short_squeeze\": 62.15, \"options_skew\": 77.50434591747147}",
+    "thesis": null
+  }
+}

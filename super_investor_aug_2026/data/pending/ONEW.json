@@ -1,0 +1,55 @@
+{
+  "ticker": "ONEW",
+  "stock": {
+    "ticker": "ONEW",
+    "name": "OneWater Marine Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Specialty Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 44.13,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ONEW",
+    "asof": "2026-08-12",
+    "market_cap": 205487088.0,
+    "pe": null,
+    "forward_pe": 9.975729,
+    "ev_ebitda": 11.75,
+    "fcf_yield": 0.42659552409443846,
+    "roe": -0.35889998,
+    "gross_margin": 0.23507999,
+    "op_margin": 0.06814,
+    "rev_growth": -0.04,
+    "debt_to_equity": 305.503
+  },
+  "market_stats": {
+    "ticker": "ONEW",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.12529999,
+    "short_ratio": 14.53,
+    "putcall_oi_ratio": 5.0,
+    "avg_volume": 106682.0,
+    "beta": 1.537
+  },
+  "momentum": {
+    "ticker": "ONEW",
+    "asof": "2026-08-12",
+    "ret_1m": 12.55707784429887,
+    "ret_3m": 3.224457641643208,
+    "ret_6m": -7.539385747884564,
+    "ret_12m": -24.153847327599152,
+    "rsi14": 38.52183784557321,
+    "pct_vs_200dma": 4.921073626302341,
+    "score": 42.6,
+    "components_json": "{\"trend\": 39.043982637087936, \"rsi\": 38.52183784557321, \"vs_200dma\": 59.84214725260468, \"short_squeeze\": 62.649995000000004, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

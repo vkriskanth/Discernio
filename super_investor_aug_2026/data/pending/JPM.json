@@ -1,0 +1,63 @@
+{
+  "ticker": "JPM",
+  "stock": {
+    "ticker": "JPM",
+    "name": "JP Morgan Chase & Co.",
+    "sector": "Financial Services",
+    "industry": "Banks - Diversified"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 41.87,
+      "pct_of_portfolio": 0.66,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "GC",
+      "manager_name": "Francois Rochon - Giverny Capital",
+      "action": "add",
+      "share_change_pct": 0.89,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "JPM",
+    "asof": "2026-08-12",
+    "market_cap": 969307586560.0,
+    "pe": 15.616702,
+    "forward_pe": 14.581923,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.17789,
+    "gross_margin": 0.0,
+    "op_margin": 0.50394,
+    "rev_growth": 0.304,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "JPM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0107,
+    "short_ratio": 2.96,
+    "putcall_oi_ratio": 1.126846783212667,
+    "avg_volume": 9084019.0,
+    "beta": 0.977
+  },
+  "momentum": {
+    "ticker": "JPM",
+    "asof": "2026-08-12",
+    "ret_1m": 6.434999848698175,
+    "ret_3m": 20.243730232273794,
+    "ret_6m": 15.770781143919987,
+    "ret_12m": 28.44897596622884,
+    "rsi14": 66.31623440881837,
+    "pct_vs_200dma": 17.02674771650814,
+    "score": 62.9,
+    "components_json": "{\"trend\": 72.18394379934966, \"rsi\": 66.31623440881837, \"vs_200dma\": 84.05349543301628, \"short_squeeze\": 5.35, \"options_skew\": 24.889319559715116}",
+    "thesis": null
+  }
+}

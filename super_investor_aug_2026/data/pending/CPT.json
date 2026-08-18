@@ -1,0 +1,63 @@
+{
+  "ticker": "CPT",
+  "stock": {
+    "ticker": "CPT",
+    "name": "Camden Property Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 1.64,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.24,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CPT",
+    "asof": "2026-08-12",
+    "market_cap": 10828088320.0,
+    "pe": 35.544556,
+    "forward_pe": 98.807335,
+    "ev_ebitda": 17.908,
+    "fcf_yield": 0.012899749971747553,
+    "roe": 0.07885,
+    "gross_margin": 0.61619,
+    "op_margin": 0.16104001,
+    "rev_growth": -0.008,
+    "debt_to_equity": 125.648
+  },
+  "market_stats": {
+    "ticker": "CPT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.048299998,
+    "short_ratio": 3.9,
+    "putcall_oi_ratio": 0.8118081180811808,
+    "avg_volume": 1110316.0,
+    "beta": 0.789
+  },
+  "momentum": {
+    "ticker": "CPT",
+    "asof": "2026-08-12",
+    "ret_1m": -4.133479960684783,
+    "ret_3m": 3.87005816512187,
+    "ret_6m": 0.0811708568283942,
+    "ret_12m": 8.334669417435524,
+    "rsi14": 37.53442039786999,
+    "pct_vs_200dma": 2.930408309018384,
+    "score": 48.4,
+    "components_json": "{\"trend\": 54.51923647355929, \"rsi\": 37.53442039786999, \"vs_200dma\": 55.860816618036765, \"short_squeeze\": 24.149998999999998, \"options_skew\": 45.90239852398524}",
+    "thesis": null
+  }
+}

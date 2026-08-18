@@ -1,0 +1,55 @@
+{
+  "ticker": "AKBLF",
+  "stock": {
+    "ticker": "AKBLF",
+    "name": "ALK-ABELLO A/S",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 42.86,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AKBLF",
+    "asof": "2026-08-12",
+    "market_cap": 8401378816.0,
+    "pe": 42.601124,
+    "forward_pe": 47.39375,
+    "ev_ebitda": 3.608,
+    "fcf_yield": 0.10388175978184579,
+    "roe": 0.20906,
+    "gross_margin": 0.67916,
+    "op_margin": 0.32185,
+    "rev_growth": 0.164,
+    "debt_to_equity": 6.241
+  },
+  "market_stats": {
+    "ticker": "AKBLF",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": null,
+    "avg_volume": 25.0,
+    "beta": 0.707
+  },
+  "momentum": {
+    "ticker": "AKBLF",
+    "asof": "2026-08-12",
+    "ret_1m": -6.728168530597434,
+    "ret_3m": 6.6406030384533965,
+    "ret_6m": 10.52383895475515,
+    "ret_12m": 37.82073926052871,
+    "rsi14": null,
+    "pct_vs_200dma": 8.042507846284263,
+    "score": 57.1,
+    "components_json": "{\"trend\": 70.27762830217405, \"rsi\": 50.0, \"vs_200dma\": 66.08501569256853, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

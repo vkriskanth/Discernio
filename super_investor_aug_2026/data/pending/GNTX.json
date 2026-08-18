@@ -1,0 +1,55 @@
+{
+  "ticker": "GNTX",
+  "stock": {
+    "ticker": "GNTX",
+    "name": "Gentex Corp.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 5.73,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GNTX",
+    "asof": "2026-08-12",
+    "market_cap": 4934203392.0,
+    "pe": 12.326316,
+    "forward_pe": 10.560015,
+    "ev_ebitda": 7.803,
+    "fcf_yield": 0.07458868529755168,
+    "roe": 0.16354999,
+    "gross_margin": 0.35018003,
+    "op_margin": 0.21757,
+    "rev_growth": -0.01,
+    "debt_to_equity": 0.441
+  },
+  "market_stats": {
+    "ticker": "GNTX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0727,
+    "short_ratio": 5.48,
+    "putcall_oi_ratio": 0.736318407960199,
+    "avg_volume": 2497625.0,
+    "beta": 0.798
+  },
+  "momentum": {
+    "ticker": "GNTX",
+    "asof": "2026-08-12",
+    "ret_1m": -1.8650447755276134,
+    "ret_3m": 1.9604299442740114,
+    "ret_6m": -3.327537491849597,
+    "ret_12m": -10.223045513365946,
+    "rsi14": 44.89421488589414,
+    "pct_vs_200dma": 0.5937920254649232,
+    "score": 46.5,
+    "components_json": "{\"trend\": 45.50064953038095, \"rsi\": 44.89421488589414, \"vs_200dma\": 51.18758405092984, \"short_squeeze\": 36.35, \"options_skew\": 50.93756218905473}",
+    "thesis": null
+  }
+}

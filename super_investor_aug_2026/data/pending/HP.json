@@ -1,0 +1,55 @@
+{
+  "ticker": "HP",
+  "stock": {
+    "ticker": "HP",
+    "name": "Helmerich & Payne, Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Drilling"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 8.34,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HP",
+    "asof": "2026-08-12",
+    "market_cap": 4264394496.0,
+    "pe": null,
+    "forward_pe": 28.682627,
+    "ev_ebitda": 7.222,
+    "fcf_yield": 0.11562576784640893,
+    "roe": -0.04639,
+    "gross_margin": 0.31845,
+    "op_margin": 0.05096,
+    "rev_growth": -0.006,
+    "debt_to_equity": 69.731
+  },
+  "market_stats": {
+    "ticker": "HP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1197,
+    "short_ratio": 7.89,
+    "putcall_oi_ratio": 0.2898032200357782,
+    "avg_volume": 1243530.0,
+    "beta": 0.619
+  },
+  "momentum": {
+    "ticker": "HP",
+    "asof": "2026-08-12",
+    "ret_1m": 26.76348052780302,
+    "ret_3m": 9.886201287420771,
+    "ret_6m": 26.70844059629447,
+    "ret_12m": 153.12689714245334,
+    "rsi14": 74.99999380731178,
+    "pct_vs_200dma": 27.82219173746705,
+    "score": 90.3,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 74.99999380731178, \"vs_200dma\": 100.0, \"short_squeeze\": 59.85, \"options_skew\": 80.7201252236136}",
+    "thesis": null
+  }
+}

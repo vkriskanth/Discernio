@@ -1,0 +1,55 @@
+{
+  "ticker": "DRTS",
+  "stock": {
+    "ticker": "DRTS",
+    "name": "Alpha Tau Medical Ltd.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DRTS",
+    "asof": "2026-08-12",
+    "market_cap": 1223012352.0,
+    "pe": null,
+    "forward_pe": -25.70333,
+    "ev_ebitda": -25.269,
+    "fcf_yield": -0.01656718835820883,
+    "roe": -1.41683,
+    "gross_margin": 0.0,
+    "op_margin": 0.0,
+    "rev_growth": null,
+    "debt_to_equity": 34.393
+  },
+  "market_stats": {
+    "ticker": "DRTS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0517,
+    "short_ratio": 4.01,
+    "putcall_oi_ratio": 0.06109324758842444,
+    "avg_volume": 832891.0,
+    "beta": 1.185
+  },
+  "momentum": {
+    "ticker": "DRTS",
+    "asof": "2026-08-12",
+    "ret_1m": 10.696917978136277,
+    "ret_3m": 38.259106165861525,
+    "ret_6m": 85.59782064690604,
+    "ret_12m": 283.70786704976155,
+    "rsi14": 53.230768869614565,
+    "pct_vs_200dma": 73.21737098558224,
+    "score": 85.2,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 53.230768869614565, \"vs_200dma\": 100.0, \"short_squeeze\": 25.85, \"options_skew\": 95.9750803858521}",
+    "thesis": null
+  }
+}

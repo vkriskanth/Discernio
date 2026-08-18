@@ -1,0 +1,63 @@
+{
+  "ticker": "JAN",
+  "stock": {
+    "ticker": "JAN",
+    "name": "Janus Living, Inc.",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 250.0,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "JAN",
+    "asof": "2026-08-12",
+    "market_cap": 6410078720.0,
+    "pe": null,
+    "forward_pe": 103.33903,
+    "ev_ebitda": 32.016,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": 0.30299,
+    "op_margin": -0.01205,
+    "rev_growth": 0.454,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "JAN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0744,
+    "short_ratio": 5.13,
+    "putcall_oi_ratio": null,
+    "avg_volume": 1605561.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "JAN",
+    "asof": "2026-08-12",
+    "ret_1m": 0.49973964420864103,
+    "ret_3m": 10.636754733020148,
+    "ret_6m": null,
+    "ret_12m": null,
+    "rsi14": 42.94293675075327,
+    "pct_vs_200dma": null,
+    "score": 48.9,
+    "components_json": "{\"trend\": 53.191026419906045, \"rsi\": 42.94293675075327, \"vs_200dma\": 50, \"short_squeeze\": 37.199999999999996, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

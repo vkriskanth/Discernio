@@ -1,0 +1,63 @@
+{
+  "ticker": "HSIC",
+  "stock": {
+    "ticker": "HSIC",
+    "name": "Henry Schein Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "add",
+      "share_change_pct": 27.71,
+      "pct_of_portfolio": 0.3,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HSIC",
+    "asof": "2026-08-08",
+    "market_cap": 9821784064.0,
+    "pe": 25.693876,
+    "forward_pe": 14.692373,
+    "ev_ebitda": 13.929,
+    "fcf_yield": 0.045409265474969415,
+    "roe": 0.088549994,
+    "gross_margin": 0.31319,
+    "op_margin": 0.057550002,
+    "rev_growth": 0.067,
+    "debt_to_equity": 80.733
+  },
+  "market_stats": {
+    "ticker": "HSIC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0685,
+    "short_ratio": 4.71,
+    "putcall_oi_ratio": 0.011363636363636364,
+    "avg_volume": 1442724.0,
+    "beta": 0.808
+  },
+  "momentum": {
+    "ticker": "HSIC",
+    "asof": "2026-08-12",
+    "ret_1m": 3.9753699874327086,
+    "ret_3m": 30.302811610717594,
+    "ret_6m": 11.534191073683363,
+    "ret_12m": 36.709530937657235,
+    "rsi14": 74.52711530555109,
+    "pct_vs_200dma": 16.922968675140204,
+    "score": 76.4,
+    "components_json": "{\"trend\": 77.23491318038319, \"rsi\": 74.52711530555109, \"vs_200dma\": 83.84593735028041, \"short_squeeze\": 34.25, \"options_skew\": 99.29204545454546}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "VSEC",
+  "stock": {
+    "ticker": "VSEC",
+    "name": "VSE Corporation",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "add",
+      "share_change_pct": 59.77,
+      "pct_of_portfolio": 1.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 140.05,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VSEC",
+    "asof": "2026-08-12",
+    "market_cap": 6718193152.0,
+    "pe": 76.724365,
+    "forward_pe": 32.051693,
+    "ev_ebitda": 34.869,
+    "fcf_yield": -0.03880731055230012,
+    "roe": 0.042659998,
+    "gross_margin": 0.15621,
+    "op_margin": 0.12682,
+    "rev_growth": 0.65,
+    "debt_to_equity": 34.965
+  },
+  "market_stats": {
+    "ticker": "VSEC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0801,
+    "short_ratio": 5.01,
+    "putcall_oi_ratio": 7.25,
+    "avg_volume": 476343.0,
+    "beta": 1.236
+  },
+  "momentum": {
+    "ticker": "VSEC",
+    "asof": "2026-08-12",
+    "ret_1m": 12.523043903964748,
+    "ret_3m": 20.94040753044286,
+    "ret_6m": 27.34113516959362,
+    "ret_12m": 54.67776823214221,
+    "rsi14": 73.66652594537219,
+    "pct_vs_200dma": 24.594988694461595,
+    "score": 74.4,
+    "components_json": "{\"trend\": 86.35557010286783, \"rsi\": 73.66652594537219, \"vs_200dma\": 99.18997738892318, \"short_squeeze\": 40.05, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

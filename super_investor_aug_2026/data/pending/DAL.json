@@ -2,7 +2,7 @@
   "ticker": "DAL",
   "stock": {
     "ticker": "DAL",
-    "name": "Delta Air Lines Inc.",
+    "name": "Delta Air Lines, Inc.",
     "sector": "Industrials",
     "industry": "Airlines"
   },
@@ -18,11 +18,11 @@
   ],
   "fundamentals": {
     "ticker": "DAL",
-    "asof": "2026-08-08",
+    "asof": "2026-08-12",
     "market_cap": null,
-    "pe": 15.147594,
-    "forward_pe": 10.312608,
-    "ev_ebitda": 10.145,
+    "pe": 14.715589,
+    "forward_pe": 10.018495,
+    "ev_ebitda": 10.064,
     "fcf_yield": null,
     "roe": 0.20125,
     "gross_margin": 0.187,
@@ -32,24 +32,24 @@
   },
   "market_stats": {
     "ticker": "DAL",
-    "asof": "2026-08-08",
-    "short_pct_float": 0.0385,
-    "short_ratio": 2.87,
-    "putcall_oi_ratio": 0.9719345894867878,
-    "avg_volume": 7250887.0,
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0392,
+    "short_ratio": 3.73,
+    "putcall_oi_ratio": 1.0638556211711463,
+    "avg_volume": 7161185.0,
     "beta": 1.311
   },
   "momentum": {
     "ticker": "DAL",
-    "asof": "2026-08-08",
-    "ret_1m": 2.629209368416441,
-    "ret_3m": 25.57577908778661,
-    "ret_6m": 31.925916800203822,
-    "ret_12m": 70.61947437397853,
-    "rsi14": 64.01483738782724,
-    "pct_vs_200dma": 28.018099915825445,
-    "score": 78.2,
-    "components_json": "{\"trend\": 95.49829851598855, \"rsi\": 64.01483738782724, \"vs_200dma\": 100.0, \"short_squeeze\": 19.25, \"options_skew\": 35.221962881231256}",
+    "asof": "2026-08-12",
+    "ret_1m": 4.859079260315458,
+    "ret_3m": 27.457034685672955,
+    "ret_6m": 21.36683688385339,
+    "ret_12m": 69.43165735525017,
+    "rsi14": 65.0381082082865,
+    "pct_vs_200dma": 24.886280020135576,
+    "score": 76.5,
+    "components_json": "{\"trend\": 92.41982441295798, \"rsi\": 65.0381082082865, \"vs_200dma\": 99.77256004027114, \"short_squeeze\": 19.6, \"options_skew\": 29.090830067884543}",
     "thesis": null
   }
 }

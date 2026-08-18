@@ -1,0 +1,55 @@
+{
+  "ticker": "WPC",
+  "stock": {
+    "ticker": "WPC",
+    "name": "W. P. Carey Inc. REIT",
+    "sector": "Real Estate",
+    "industry": "REIT - Diversified"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 359.32,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WPC",
+    "asof": "2026-08-12",
+    "market_cap": 16096861184.0,
+    "pe": 24.198631,
+    "forward_pe": 20.405985,
+    "ev_ebitda": 16.163,
+    "fcf_yield": 0.06809475831782137,
+    "roe": 0.077800006,
+    "gross_margin": 0.94371,
+    "op_margin": 0.59301996,
+    "rev_growth": 0.184,
+    "debt_to_equity": 101.882
+  },
+  "market_stats": {
+    "ticker": "WPC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.048600003,
+    "short_ratio": 5.45,
+    "putcall_oi_ratio": 0.5634328358208955,
+    "avg_volume": 1516753.0,
+    "beta": 0.782
+  },
+  "momentum": {
+    "ticker": "WPC",
+    "asof": "2026-08-12",
+    "ret_1m": -1.7792587376396218,
+    "ret_3m": -4.221343674044631,
+    "ret_6m": -0.028658698433092766,
+    "ret_12m": 13.725231367912262,
+    "rsi14": 24.32133862902377,
+    "pct_vs_200dma": 2.2180575534380242,
+    "score": 47.6,
+    "components_json": "{\"trend\": 54.21509183542159, \"rsi\": 24.32133862902377, \"vs_200dma\": 54.436115106876045, \"short_squeeze\": 24.3000015, \"options_skew\": 62.46902985074627}",
+    "thesis": null
+  }
+}

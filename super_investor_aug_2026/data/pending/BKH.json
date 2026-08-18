@@ -1,0 +1,63 @@
+{
+  "ticker": "BKH",
+  "stock": {
+    "ticker": "BKH",
+    "name": "Black Hills Corporation",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Gas"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 38.22,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 4.41,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BKH",
+    "asof": "2026-08-12",
+    "market_cap": 5616806912.0,
+    "pe": 18.554157,
+    "forward_pe": 15.97138,
+    "ev_ebitda": 12.022,
+    "fcf_yield": -0.01384238433297242,
+    "roe": 0.07958,
+    "gross_margin": 0.39716,
+    "op_margin": 0.21422,
+    "rev_growth": 0.031,
+    "debt_to_equity": 111.686
+  },
+  "market_stats": {
+    "ticker": "BKH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.16139999,
+    "short_ratio": 12.81,
+    "putcall_oi_ratio": 0.42105263157894735,
+    "avg_volume": 932111.0,
+    "beta": 0.695
+  },
+  "momentum": {
+    "ticker": "BKH",
+    "asof": "2026-08-12",
+    "ret_1m": -0.06140579925613121,
+    "ret_3m": -1.710819393416374,
+    "ret_6m": 0.27099852033534155,
+    "ret_12m": 27.49914377915459,
+    "rsi14": 44.35372200735329,
+    "pct_vs_200dma": 2.812649181334348,
+    "score": 60.1,
+    "components_json": "{\"trend\": 60.56771124973753, \"rsi\": 44.35372200735329, \"vs_200dma\": 55.625298362668694, \"short_squeeze\": 80.699995, \"options_skew\": 71.96578947368421}",
+    "thesis": null
+  }
+}

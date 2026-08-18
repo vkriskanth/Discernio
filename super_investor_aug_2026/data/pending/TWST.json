@@ -1,0 +1,55 @@
+{
+  "ticker": "TWST",
+  "stock": {
+    "ticker": "TWST",
+    "name": "Twist Bioscience Corporation",
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 130.1,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TWST",
+    "asof": "2026-08-12",
+    "market_cap": 7734960640.0,
+    "pe": null,
+    "forward_pe": -194.76419,
+    "ev_ebitda": -66.466,
+    "fcf_yield": -0.008380456348385504,
+    "roe": -0.29594,
+    "gross_margin": 0.51965,
+    "op_margin": -0.30648002,
+    "rev_growth": 0.232,
+    "debt_to_equity": 24.362
+  },
+  "market_stats": {
+    "ticker": "TWST",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2874,
+    "short_ratio": 10.05,
+    "putcall_oi_ratio": 0.6467315716272601,
+    "avg_volume": 1785385.0,
+    "beta": 2.158
+  },
+  "momentum": {
+    "ticker": "TWST",
+    "asof": "2026-08-12",
+    "ret_1m": 32.39031126333882,
+    "ret_3m": 111.8380597827043,
+    "ret_6m": 163.29088355356797,
+    "ret_12m": 378.8031041031635,
+    "rsi14": 75.00000260851827,
+    "pct_vs_200dma": 125.61815258847417,
+    "score": 91.9,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 75.00000260851827, \"vs_200dma\": 100.0, \"short_squeeze\": 100.0, \"options_skew\": 56.913004172461754}",
+    "thesis": null
+  }
+}

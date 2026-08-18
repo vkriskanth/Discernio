@@ -1,0 +1,55 @@
+{
+  "ticker": "DOLE",
+  "stock": {
+    "ticker": "DOLE",
+    "name": "Dole plc",
+    "sector": "Consumer Defensive",
+    "industry": "Farm Products"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AIM",
+      "manager_name": "Alex Roepers - Atlantic Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 5.63,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DOLE",
+    "asof": "2026-08-12",
+    "market_cap": 1229853696.0,
+    "pe": 17.594595,
+    "forward_pe": 8.579901,
+    "ev_ebitda": 8.332,
+    "fcf_yield": 0.12161904500224391,
+    "roe": 0.06933,
+    "gross_margin": 0.07317,
+    "op_margin": 0.027449999,
+    "rev_growth": 0.029,
+    "debt_to_equity": 98.641
+  },
+  "market_stats": {
+    "ticker": "DOLE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.041300002,
+    "short_ratio": 3.21,
+    "putcall_oi_ratio": null,
+    "avg_volume": 1142553.0,
+    "beta": 0.629
+  },
+  "momentum": {
+    "ticker": "DOLE",
+    "asof": "2026-08-12",
+    "ret_1m": -6.954353421078618,
+    "ret_3m": -11.333270456823774,
+    "ret_6m": -18.972920115192814,
+    "ret_12m": -7.826031993666871,
+    "rsi14": 25.450883649390192,
+    "pct_vs_200dma": -9.702220614767398,
+    "score": 33.6,
+    "components_json": "{\"trend\": 37.777730030928275, \"rsi\": 25.450883649390192, \"vs_200dma\": 30.595558770465203, \"short_squeeze\": 20.650001000000003, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

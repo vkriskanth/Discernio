@@ -1,0 +1,55 @@
+{
+  "ticker": "ACWX",
+  "stock": {
+    "ticker": "ACWX",
+    "name": "iShares MSCI ACWI ex U.S. ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 8.1,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ACWX",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 18.631327,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "ACWX",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.06224737267582862,
+    "avg_volume": 1743343.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "ACWX",
+    "asof": "2026-08-12",
+    "ret_1m": 3.3133703435948236,
+    "ret_3m": 5.121024556126219,
+    "ret_6m": 7.319432876197451,
+    "ret_12m": 29.20290849155185,
+    "rsi14": 71.26437453595169,
+    "pct_vs_200dma": 9.823206812267117,
+    "score": 63.9,
+    "components_json": "{\"trend\": 65.41330062631783, \"rsi\": 71.26437453595169, \"vs_200dma\": 69.64641362453423, \"short_squeeze\": 0.0, \"options_skew\": 95.89810024252223}",
+    "thesis": null
+  }
+}

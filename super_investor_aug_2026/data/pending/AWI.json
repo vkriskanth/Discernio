@@ -1,0 +1,71 @@
+{
+  "ticker": "AWI",
+  "stock": {
+    "ticker": "AWI",
+    "name": "Armstrong World Industries Inc",
+    "sector": "Industrials",
+    "industry": "Building Products & Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "add",
+      "share_change_pct": 106.54,
+      "pct_of_portfolio": 0.74,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 1.75,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.03,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AWI",
+    "asof": "2026-08-12",
+    "market_cap": 7740435968.0,
+    "pe": 25.089039,
+    "forward_pe": 19.202723,
+    "ev_ebitda": 18.678,
+    "fcf_yield": 0.028528753795383117,
+    "roe": 0.36618,
+    "gross_margin": 0.40308997,
+    "op_margin": 0.21568,
+    "rev_growth": 0.112,
+    "debt_to_equity": 65.589
+  },
+  "market_stats": {
+    "ticker": "AWI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.051599998,
+    "short_ratio": 3.21,
+    "putcall_oi_ratio": 1.5166666666666666,
+    "avg_volume": 484050.0,
+    "beta": 1.17
+  },
+  "momentum": {
+    "ticker": "AWI",
+    "asof": "2026-08-12",
+    "ret_1m": 18.08320363123288,
+    "ret_3m": 15.433563878923295,
+    "ret_6m": -9.225498819429134,
+    "ret_12m": -2.5605950116627363,
+    "rsi14": 75.85132246844313,
+    "pct_vs_200dma": 4.843794627200038,
+    "score": 49.2,
+    "components_json": "{\"trend\": 50.83818151318315, \"rsi\": 75.85132246844313, \"vs_200dma\": 59.68758925440007, \"short_squeeze\": 25.799999000000003, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

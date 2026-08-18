@@ -1,0 +1,63 @@
+{
+  "ticker": "MRK",
+  "stock": {
+    "ticker": "MRK",
+    "name": "Merck & Company, Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "add",
+      "share_change_pct": 0.43,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MRK",
+    "asof": "2026-08-12",
+    "market_cap": 328084455424.0,
+    "pe": 106.383995,
+    "forward_pe": 13.931711,
+    "ev_ebitda": 12.767,
+    "fcf_yield": 0.046242666426829365,
+    "roe": 0.06961,
+    "gross_margin": 0.759,
+    "op_margin": -0.00241,
+    "rev_growth": 0.051,
+    "debt_to_equity": 128.408
+  },
+  "market_stats": {
+    "ticker": "MRK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0115,
+    "short_ratio": 3.22,
+    "putcall_oi_ratio": 0.6614076908600465,
+    "avg_volume": 10157348.0,
+    "beta": 0.211
+  },
+  "momentum": {
+    "ticker": "MRK",
+    "asof": "2026-08-12",
+    "ret_1m": 9.993458353157457,
+    "ret_3m": 19.07577450690163,
+    "ret_6m": 15.063175316682752,
+    "ret_12m": 71.55007607129096,
+    "rsi14": 59.17921473146748,
+    "pct_vs_200dma": 18.4051562297592,
+    "score": 72.3,
+    "components_json": "{\"trend\": 88.8617153755917, \"rsi\": 59.17921473146748, \"vs_200dma\": 86.8103124595184, \"short_squeeze\": 5.75, \"options_skew\": 55.9341070196349}",
+    "thesis": null
+  }
+}

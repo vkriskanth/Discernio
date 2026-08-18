@@ -1,0 +1,55 @@
+{
+  "ticker": "GIII",
+  "stock": {
+    "ticker": "GIII",
+    "name": "G-III Apparel Group, LTD.",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Manufacturing"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 41.6,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GIII",
+    "asof": "2026-08-12",
+    "market_cap": 1410219776.0,
+    "pe": 11.769366,
+    "forward_pe": 13.532388,
+    "ev_ebitda": 5.09,
+    "fcf_yield": 0.09105132276913978,
+    "roe": 0.0719,
+    "gross_margin": 0.43488,
+    "op_margin": 0.15903,
+    "rev_growth": -0.082,
+    "debt_to_equity": 16.093
+  },
+  "market_stats": {
+    "ticker": "GIII",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.29299998,
+    "short_ratio": 16.76,
+    "putcall_oi_ratio": 2.1881188118811883,
+    "avg_volume": 569806.0,
+    "beta": 1.288
+  },
+  "momentum": {
+    "ticker": "GIII",
+    "asof": "2026-08-12",
+    "ret_1m": -1.8437146244582703,
+    "ret_3m": 7.4656276733301885,
+    "ret_6m": 11.836642851550682,
+    "ret_12m": 38.589677497964445,
+    "rsi14": 36.41535408609718,
+    "pct_vs_200dma": 9.77095787516098,
+    "score": 61.3,
+    "components_json": "{\"trend\": 71.22655215665004, \"rsi\": 36.41535408609718, \"vs_200dma\": 69.54191575032196, \"short_squeeze\": 100.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

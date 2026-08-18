@@ -1,0 +1,63 @@
+{
+  "ticker": "FITB",
+  "stock": {
+    "ticker": "FITB",
+    "name": "Fifth Third Bancorp",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.3,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 2.52,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FITB",
+    "asof": "2026-08-12",
+    "market_cap": 52327702528.0,
+    "pe": 19.42761,
+    "forward_pe": 11.681557,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.08438,
+    "gross_margin": 0.0,
+    "op_margin": 0.39078,
+    "rev_growth": 0.518,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "FITB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0,
+    "short_ratio": 0.0,
+    "putcall_oi_ratio": 0.48958201793155703,
+    "avg_volume": 6810851.0,
+    "beta": 0.923
+  },
+  "momentum": {
+    "ticker": "FITB",
+    "asof": "2026-08-12",
+    "ret_1m": 1.086383275276237,
+    "ret_3m": 17.77678612106337,
+    "ret_6m": 6.434503357773558,
+    "ret_12m": 44.88028883539164,
+    "rsi14": 54.804245582382876,
+    "pct_vs_200dma": 17.66574918552639,
+    "score": 66.4,
+    "components_json": "{\"trend\": 75.21550237780774, \"rsi\": 54.804245582382876, \"vs_200dma\": 85.33149837105279, \"short_squeeze\": 0.0, \"options_skew\": 67.39487940396515}",
+    "thesis": null
+  }
+}

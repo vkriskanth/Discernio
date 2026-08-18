@@ -1,0 +1,55 @@
+{
+  "ticker": "CBT",
+  "stock": {
+    "ticker": "CBT",
+    "name": "Cabot Corporation",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 52.54,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CBT",
+    "asof": "2026-08-12",
+    "market_cap": 4446978560.0,
+    "pe": 24.12605,
+    "forward_pe": 12.342689,
+    "ev_ebitda": 7.69,
+    "fcf_yield": 0.05807313809041616,
+    "roe": 0.13345,
+    "gross_margin": 0.24215999,
+    "op_margin": 0.14257,
+    "rev_growth": 0.064,
+    "debt_to_equity": 74.394
+  },
+  "market_stats": {
+    "ticker": "CBT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0995,
+    "short_ratio": 9.08,
+    "putcall_oi_ratio": 0.6018518518518519,
+    "avg_volume": 546662.0,
+    "beta": 0.839
+  },
+  "momentum": {
+    "ticker": "CBT",
+    "asof": "2026-08-12",
+    "ret_1m": 1.005729450704096,
+    "ret_3m": 6.850948652709299,
+    "ret_6m": 14.579746184170595,
+    "ret_12m": 13.6620722354732,
+    "rsi14": 44.86305455394903,
+    "pct_vs_200dma": 15.038250689652987,
+    "score": 62.5,
+    "components_json": "{\"trend\": 61.89403734525325, \"rsi\": 44.86305455394903, \"vs_200dma\": 80.07650137930597, \"short_squeeze\": 49.75000000000001, \"options_skew\": 59.906481481481485}",
+    "thesis": null
+  }
+}

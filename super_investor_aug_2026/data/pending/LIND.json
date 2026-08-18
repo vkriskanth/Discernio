@@ -1,0 +1,55 @@
+{
+  "ticker": "LIND",
+  "stock": {
+    "ticker": "LIND",
+    "name": "Lindblad Expeditions Hldgs Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Travel Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 12.52,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LIND",
+    "asof": "2026-08-12",
+    "market_cap": 2191697664.0,
+    "pe": null,
+    "forward_pe": 76.43021,
+    "ev_ebitda": 18.999,
+    "fcf_yield": 0.06448060894588789,
+    "roe": null,
+    "gross_margin": 0.4665,
+    "op_margin": 0.06,
+    "rev_growth": 0.186,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "LIND",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1175,
+    "short_ratio": 7.48,
+    "putcall_oi_ratio": 0.46122448979591835,
+    "avg_volume": 880417.0,
+    "beta": 2.245
+  },
+  "momentum": {
+    "ticker": "LIND",
+    "asof": "2026-08-12",
+    "ret_1m": 28.17521748444789,
+    "ret_3m": 58.41608355756329,
+    "ret_6m": 83.2877451289834,
+    "ret_12m": 156.74329945146553,
+    "rsi14": 79.68828423997108,
+    "pct_vs_200dma": 75.68813533763759,
+    "score": 89.8,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 79.68828423997108, \"vs_200dma\": 100.0, \"short_squeeze\": 58.75, \"options_skew\": 69.28632653061224}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "LITE",
+  "stock": {
+    "ticker": "LITE",
+    "name": "Lumentum Holdings Inc.",
+    "sector": "Technology",
+    "industry": "Communication Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TGM",
+      "manager_name": "Chase Coleman - Tiger Global Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.42,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LITE",
+    "asof": "2026-08-12",
+    "market_cap": 71383834624.0,
+    "pe": 162.10779,
+    "forward_pe": 29.583055,
+    "ev_ebitda": 115.915,
+    "fcf_yield": 0.0013077190443985304,
+    "roe": 0.22834998,
+    "gross_margin": 0.40837002,
+    "op_margin": 0.21771,
+    "rev_growth": 0.901,
+    "debt_to_equity": 111.445
+  },
+  "market_stats": {
+    "ticker": "LITE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1216,
+    "short_ratio": 1.96,
+    "putcall_oi_ratio": 1.299027027027027,
+    "avg_volume": 5272230.0,
+    "beta": 1.513
+  },
+  "momentum": {
+    "ticker": "LITE",
+    "asof": "2026-08-12",
+    "ret_1m": 15.375556108710597,
+    "ret_3m": -5.269201838490578,
+    "ret_6m": 67.53337175155549,
+    "ret_12m": 717.2476980492149,
+    "rsi14": 56.92283739658794,
+    "pct_vs_200dma": 49.57969169086491,
+    "score": 81.0,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 56.92283739658794, \"vs_200dma\": 100.0, \"short_squeeze\": 60.8, \"options_skew\": 13.4048972972973}",
+    "thesis": null
+  }
+}

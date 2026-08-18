@@ -1,0 +1,55 @@
+{
+  "ticker": "OKE",
+  "stock": {
+    "ticker": "OKE",
+    "name": "ONEOK, Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 0.06,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "OKE",
+    "asof": "2026-08-12",
+    "market_cap": 57839566848.0,
+    "pe": 15.84715,
+    "forward_pe": 14.609063,
+    "ev_ebitda": 11.825,
+    "fcf_yield": 0.015558121490861688,
+    "roe": 0.16277,
+    "gross_margin": 0.27214,
+    "op_margin": 0.13254,
+    "rev_growth": 0.528,
+    "debt_to_equity": 143.07
+  },
+  "market_stats": {
+    "ticker": "OKE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0531,
+    "short_ratio": 8.45,
+    "putcall_oi_ratio": 0.6416774488165005,
+    "avg_volume": 3768287.0,
+    "beta": 0.715
+  },
+  "momentum": {
+    "ticker": "OKE",
+    "asof": "2026-08-12",
+    "ret_1m": 3.7018844655357874,
+    "ret_3m": 9.498275293273583,
+    "ret_6m": 15.305702304274437,
+    "ret_12m": 28.71253312713671,
+    "rsi14": 50.04966910467037,
+    "pct_vs_200dma": 14.452667745440205,
+    "score": 63.2,
+    "components_json": "{\"trend\": 68.92620653011909, \"rsi\": 50.04966910467037, \"vs_200dma\": 78.90533549088042, \"short_squeeze\": 26.550000000000004, \"options_skew\": 57.25011416393942}",
+    "thesis": null
+  }
+}

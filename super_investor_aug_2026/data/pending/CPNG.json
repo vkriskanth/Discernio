@@ -1,0 +1,87 @@
+{
+  "ticker": "CPNG",
+  "stock": {
+    "ticker": "CPNG",
+    "name": "Coupang, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Internet Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SP",
+      "manager_name": "Dennis Hong - ShawSpring Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 6.39,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TGM",
+      "manager_name": "Chase Coleman - Tiger Global Management",
+      "action": "add",
+      "share_change_pct": 31.71,
+      "pct_of_portfolio": 0.69,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.31,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.25,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 46.26,
+      "pct_of_portfolio": 0.24,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CPNG",
+    "asof": "2026-08-12",
+    "market_cap": 29649956864.0,
+    "pe": null,
+    "forward_pe": 61.86476,
+    "ev_ebitda": -634.39,
+    "fcf_yield": -0.008309455866330126,
+    "roe": -0.19995001,
+    "gross_margin": 0.28354,
+    "op_margin": -0.06278,
+    "rev_growth": 0.039,
+    "debt_to_equity": 188.584
+  },
+  "market_stats": {
+    "ticker": "CPNG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0626,
+    "short_ratio": 4.37,
+    "putcall_oi_ratio": 0.2518778967556337,
+    "avg_volume": 22849620.0,
+    "beta": 1.157
+  },
+  "momentum": {
+    "ticker": "CPNG",
+    "asof": "2026-08-12",
+    "ret_1m": -6.848929922569602,
+    "ret_3m": 3.930817704370315,
+    "ret_6m": -9.452056884765625,
+    "ret_12m": -40.27828126864396,
+    "rsi14": 59.78141167509548,
+    "pct_vs_200dma": -19.386018441721664,
+    "score": 36.1,
+    "components_json": "{\"trend\": 32.23231573842382, \"rsi\": 59.78141167509548, \"vs_200dma\": 11.227963116556673, \"short_squeeze\": 31.300000000000004, \"options_skew\": 83.24974428639923}",
+    "thesis": null
+  }
+}

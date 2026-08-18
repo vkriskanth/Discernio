@@ -1,0 +1,71 @@
+{
+  "ticker": "SN",
+  "stock": {
+    "ticker": "SN",
+    "name": "SharkNinja, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Furnishings, Fixtures & Appliances"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "ABI",
+      "manager_name": "Abrams Bison Investments",
+      "action": "add",
+      "share_change_pct": 16.94,
+      "pct_of_portfolio": 0.95,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.16,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 66.44,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SN",
+    "asof": "2026-08-12",
+    "market_cap": 26341896192.0,
+    "pe": 37.986732,
+    "forward_pe": 24.764772,
+    "ev_ebitda": 23.936,
+    "fcf_yield": 0.02424531306876695,
+    "roe": 0.27528,
+    "gross_margin": 0.48921,
+    "op_margin": 0.1016,
+    "rev_growth": 0.222,
+    "debt_to_equity": 32.11
+  },
+  "market_stats": {
+    "ticker": "SN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1291,
+    "short_ratio": 5.26,
+    "putcall_oi_ratio": 6.352542372881356,
+    "avg_volume": 2089348.0,
+    "beta": 1.168
+  },
+  "momentum": {
+    "ticker": "SN",
+    "asof": "2026-08-12",
+    "ret_1m": 24.810159784061625,
+    "ret_3m": 64.18846465520527,
+    "ret_6m": 64.05794296399117,
+    "ret_12m": 62.692703021683904,
+    "rsi14": 76.56653987148312,
+    "pct_vs_200dma": 55.50379079536083,
+    "score": 82.9,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 76.56653987148312, \"vs_200dma\": 100.0, \"short_squeeze\": 64.55, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

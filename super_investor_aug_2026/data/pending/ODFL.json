@@ -1,0 +1,55 @@
+{
+  "ticker": "ODFL",
+  "stock": {
+    "ticker": "ODFL",
+    "name": "Old Dominion Freight Line",
+    "sector": "Industrials",
+    "industry": "Trucking"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 352.38,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ODFL",
+    "asof": "2026-08-12",
+    "market_cap": 44327403520.0,
+    "pe": 41.548733,
+    "forward_pe": 32.207348,
+    "ev_ebitda": 24.071,
+    "fcf_yield": 0.02190013226382631,
+    "roe": 0.24818,
+    "gross_margin": 0.39566,
+    "op_margin": 0.28835,
+    "rev_growth": 0.104,
+    "debt_to_equity": 0.44
+  },
+  "market_stats": {
+    "ticker": "ODFL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0463,
+    "short_ratio": 4.63,
+    "putcall_oi_ratio": 2.108433734939759,
+    "avg_volume": 1849461.0,
+    "beta": 1.177
+  },
+  "momentum": {
+    "ticker": "ODFL",
+    "asof": "2026-08-12",
+    "ret_1m": -5.84901764749678,
+    "ret_3m": 7.49749221437086,
+    "ret_6m": 5.474853781251832,
+    "ret_12m": 42.75297092681936,
+    "rsi14": 32.79956842709245,
+    "pct_vs_200dma": 12.166770570987051,
+    "score": 54.2,
+    "components_json": "{\"trend\": 70.99289216941455, \"rsi\": 32.79956842709245, \"vs_200dma\": 74.33354114197411, \"short_squeeze\": 23.15, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

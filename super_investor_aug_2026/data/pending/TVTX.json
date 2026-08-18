@@ -1,0 +1,55 @@
+{
+  "ticker": "TVTX",
+  "stock": {
+    "ticker": "TVTX",
+    "name": "Travere Therapeutics, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TVTX",
+    "asof": "2026-08-12",
+    "market_cap": 5844658176.0,
+    "pe": null,
+    "forward_pe": 11.294377,
+    "ev_ebitda": 253.271,
+    "fcf_yield": -0.003123236543577121,
+    "roe": -2.36355,
+    "gross_margin": 0.59208,
+    "op_margin": 0.02332,
+    "rev_growth": 0.482,
+    "debt_to_equity": 2515.721
+  },
+  "market_stats": {
+    "ticker": "TVTX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.16129999,
+    "short_ratio": 8.71,
+    "putcall_oi_ratio": 0.24960505529225907,
+    "avg_volume": 1935287.0,
+    "beta": 1.042
+  },
+  "momentum": {
+    "ticker": "TVTX",
+    "asof": "2026-08-12",
+    "ret_1m": 9.202345391589617,
+    "ret_3m": 41.27787541256114,
+    "ret_6m": 104.42301910393309,
+    "ret_12m": 262.8689449986652,
+    "rsi14": 64.07348290547648,
+    "pct_vs_200dma": 55.51169361961674,
+    "score": 91.0,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 64.07348290547648, \"vs_200dma\": 100.0, \"short_squeeze\": 80.649995, \"options_skew\": 83.40134281200632}",
+    "thesis": null
+  }
+}

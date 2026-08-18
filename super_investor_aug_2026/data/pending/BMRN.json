@@ -1,0 +1,55 @@
+{
+  "ticker": "BMRN",
+  "stock": {
+    "ticker": "BMRN",
+    "name": "BioMarin Pharmaceutical Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 16.98,
+      "pct_of_portfolio": 0.16,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BMRN",
+    "asof": "2026-08-12",
+    "market_cap": 13615977472.0,
+    "pe": 190.1081,
+    "forward_pe": 10.612584,
+    "ev_ebitda": 26.02,
+    "fcf_yield": 0.006254224213804575,
+    "roe": 0.011820001,
+    "gross_margin": 0.50968,
+    "op_margin": 0.21162,
+    "rev_growth": 0.199,
+    "debt_to_equity": 66.473
+  },
+  "market_stats": {
+    "ticker": "BMRN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0648,
+    "short_ratio": 7.87,
+    "putcall_oi_ratio": 0.5747927031509121,
+    "avg_volume": 2174535.0,
+    "beta": 0.227
+  },
+  "momentum": {
+    "ticker": "BMRN",
+    "asof": "2026-08-12",
+    "ret_1m": 19.553453285088686,
+    "ret_3m": 30.74361544521913,
+    "ret_6m": 21.58953897550213,
+    "ret_12m": 18.86983079963267,
+    "rsi14": 84.03547160778486,
+    "pct_vs_200dma": 24.70964189347049,
+    "score": 76.2,
+    "components_json": "{\"trend\": 73.24787864606944, \"rsi\": 84.03547160778486, \"vs_200dma\": 99.41928378694098, \"short_squeeze\": 32.4, \"options_skew\": 61.71132669983416}",
+    "thesis": null
+  }
+}

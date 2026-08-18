@@ -1,0 +1,55 @@
+{
+  "ticker": "AAON",
+  "stock": {
+    "ticker": "AAON",
+    "name": "AAON, Inc.",
+    "sector": "Industrials",
+    "industry": "Building Products & Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GC",
+      "manager_name": "Francois Rochon - Giverny Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.61,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AAON",
+    "asof": "2026-08-12",
+    "market_cap": 7133064704.0,
+    "pe": 63.610294,
+    "forward_pe": 24.520975,
+    "ev_ebitda": 25.02,
+    "fcf_yield": -0.029492651578224068,
+    "roe": 0.17284,
+    "gross_margin": 0.25569,
+    "op_margin": 0.10987,
+    "rev_growth": 1.012,
+    "debt_to_equity": 43.052
+  },
+  "market_stats": {
+    "ticker": "AAON",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.058000002,
+    "short_ratio": 3.63,
+    "putcall_oi_ratio": 0.8427895981087471,
+    "avg_volume": 1084580.0,
+    "beta": 1.439
+  },
+  "momentum": {
+    "ticker": "AAON",
+    "asof": "2026-08-12",
+    "ret_1m": -23.374146615026213,
+    "ret_3m": -34.592760156940095,
+    "ret_6m": -8.87574446576509,
+    "ret_12m": 4.110375607195027,
+    "rsi14": 33.118698547069215,
+    "pct_vs_200dma": -15.618215232795784,
+    "score": 32.4,
+    "components_json": "{\"trend\": 38.603598856066455, \"rsi\": 33.118698547069215, \"vs_200dma\": 18.763569534408433, \"short_squeeze\": 29.000001, \"options_skew\": 43.83593380614657}",
+    "thesis": null
+  }
+}

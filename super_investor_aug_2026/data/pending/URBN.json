@@ -1,0 +1,55 @@
+{
+  "ticker": "URBN",
+  "stock": {
+    "ticker": "URBN",
+    "name": "Urban Outfitters, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "ABI",
+      "manager_name": "Abrams Bison Investments",
+      "action": "add",
+      "share_change_pct": 31.79,
+      "pct_of_portfolio": 1.47,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "URBN",
+    "asof": "2026-08-12",
+    "market_cap": 6646138368.0,
+    "pe": 14.925,
+    "forward_pe": 11.467672,
+    "ev_ebitda": 10.04,
+    "fcf_yield": 0.0006962125589016927,
+    "roe": 0.18732001,
+    "gross_margin": 0.36061,
+    "op_margin": 0.08964,
+    "rev_growth": 0.114,
+    "debt_to_equity": 46.143
+  },
+  "market_stats": {
+    "ticker": "URBN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.115100004,
+    "short_ratio": 6.35,
+    "putcall_oi_ratio": 1.4520325203252034,
+    "avg_volume": 1198729.0,
+    "beta": 1.251
+  },
+  "momentum": {
+    "ticker": "URBN",
+    "asof": "2026-08-12",
+    "ret_1m": 10.329106351082128,
+    "ret_3m": 15.5648410277196,
+    "ret_6m": 9.937535146769449,
+    "ret_12m": -0.4883028204936357,
+    "rsi14": 70.63786933415486,
+    "pct_vs_200dma": 9.380233912136582,
+    "score": 56.8,
+    "components_json": "{\"trend\": 57.45539172414926, \"rsi\": 70.63786933415486, \"vs_200dma\": 68.76046782427316, \"short_squeeze\": 57.550002000000006, \"options_skew\": 3.1994308943089362}",
+    "thesis": null
+  }
+}

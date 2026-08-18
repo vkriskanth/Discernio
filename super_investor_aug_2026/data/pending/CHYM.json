@@ -1,0 +1,63 @@
+{
+  "ticker": "CHYM",
+  "stock": {
+    "ticker": "CHYM",
+    "name": "Chime Financial, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 41.61,
+      "pct_of_portfolio": 0.59,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 2.71,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CHYM",
+    "asof": "2026-08-12",
+    "market_cap": 11802390528.0,
+    "pe": 5.8054004,
+    "forward_pe": 19.363354,
+    "ev_ebitda": 28.739,
+    "fcf_yield": 0.037081661970235054,
+    "roe": -0.01284,
+    "gross_margin": 0.88707,
+    "op_margin": 0.18605,
+    "rev_growth": 0.268,
+    "debt_to_equity": 12.876
+  },
+  "market_stats": {
+    "ticker": "CHYM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0795,
+    "short_ratio": 4.43,
+    "putcall_oi_ratio": 0.949132184253198,
+    "avg_volume": 6227300.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "CHYM",
+    "asof": "2026-08-12",
+    "ret_1m": 45.45667047662387,
+    "ret_3m": 72.45856074425797,
+    "ret_6m": 37.38996961254377,
+    "ret_12m": 3.326716645389727,
+    "rsi14": 82.82575094753622,
+    "pct_vs_200dma": 44.54584308224048,
+    "score": 78.8,
+    "components_json": "{\"trend\": 84.28524576519641, \"rsi\": 82.82575094753622, \"vs_200dma\": 100.0, \"short_squeeze\": 39.75, \"options_skew\": 36.7428833103117}",
+    "thesis": null
+  }
+}

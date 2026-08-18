@@ -1,0 +1,71 @@
+{
+  "ticker": "WFC",
+  "stock": {
+    "ticker": "WFC",
+    "name": "Wells Fargo",
+    "sector": "Financial Services",
+    "industry": "Banks - Diversified"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 0.62,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 0.7,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 4.35,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WFC",
+    "asof": "2026-08-12",
+    "market_cap": 267986812928.0,
+    "pe": 12.880815,
+    "forward_pe": 11.217125,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.12575,
+    "gross_margin": 0.0,
+    "op_margin": 0.37387002,
+    "rev_growth": 0.095,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "WFC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0,
+    "short_ratio": 0.0,
+    "putcall_oi_ratio": 1.2406200522846937,
+    "avg_volume": 15649106.0,
+    "beta": 0.92
+  },
+  "momentum": {
+    "ticker": "WFC",
+    "asof": "2026-08-12",
+    "ret_1m": 1.60085969209538,
+    "ret_3m": 21.056623449757407,
+    "ret_6m": -5.313690013297068,
+    "ret_12m": 16.24445359040836,
+    "rsi14": 61.103691262872616,
+    "pct_vs_200dma": 5.501438627538802,
+    "score": 50.6,
+    "components_json": "{\"trend\": 61.22066146710144, \"rsi\": 61.103691262872616, \"vs_200dma\": 61.00287725507761, \"short_squeeze\": 0.0, \"options_skew\": 17.300642512610928}",
+    "thesis": null
+  }
+}

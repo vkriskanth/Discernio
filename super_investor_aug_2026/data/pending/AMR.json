@@ -1,0 +1,55 @@
+{
+  "ticker": "AMR",
+  "stock": {
+    "ticker": "AMR",
+    "name": "Alpha Metallurgical Resources, ",
+    "sector": "Basic Materials",
+    "industry": "Coking Coal"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PI",
+      "manager_name": "Mohnish Pabrai - Pabrai Investments",
+      "action": "add",
+      "share_change_pct": 6.77,
+      "pct_of_portfolio": 1.78,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AMR",
+    "asof": "2026-08-12",
+    "market_cap": 1958912512.0,
+    "pe": null,
+    "forward_pe": 7.694878,
+    "ev_ebitda": 11.89,
+    "fcf_yield": 0.02678131242647349,
+    "roe": -0.0296,
+    "gross_margin": 0.10018,
+    "op_margin": -0.02903,
+    "rev_growth": -0.104,
+    "debt_to_equity": 0.761
+  },
+  "market_stats": {
+    "ticker": "AMR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1915,
+    "short_ratio": 6.4,
+    "putcall_oi_ratio": 1.1713395638629283,
+    "avg_volume": 274195.0,
+    "beta": 0.613
+  },
+  "momentum": {
+    "ticker": "AMR",
+    "asof": "2026-08-12",
+    "ret_1m": -0.1364211449503605,
+    "ret_3m": -18.24177167177349,
+    "ret_6m": -19.068176784742143,
+    "ret_12m": -1.5434889660113305,
+    "rsi14": 63.981923063506954,
+    "pct_vs_200dma": -16.71285535066217,
+    "score": 40.8,
+    "components_json": "{\"trend\": 38.189619876640776, \"rsi\": 63.981923063506954, \"vs_200dma\": 16.57428929867566, \"short_squeeze\": 95.75, \"options_skew\": 21.921651090342685}",
+    "thesis": null
+  }
+}

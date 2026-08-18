@@ -1,0 +1,63 @@
+{
+  "ticker": "VGT",
+  "stock": {
+    "ticker": "VGT",
+    "name": "Vanguard Information Tech ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VGT",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VGT",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.7062530295685895,
+    "avg_volume": 4912424.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VGT",
+    "asof": "2026-08-12",
+    "ret_1m": 3.9663535298930075,
+    "ret_3m": 8.548461061390356,
+    "ret_6m": 30.4661873133794,
+    "ret_12m": 40.714478186205085,
+    "rsi14": 65.17617089084199,
+    "pct_vs_200dma": 19.800875894353954,
+    "score": 68.7,
+    "components_json": "{\"trend\": 77.99018578691296, \"rsi\": 65.17617089084199, \"vs_200dma\": 89.6017517887079, \"short_squeeze\": 0.0, \"options_skew\": 52.942922927775086}",
+    "thesis": null
+  }
+}

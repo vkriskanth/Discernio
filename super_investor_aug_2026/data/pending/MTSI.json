@@ -1,0 +1,55 @@
+{
+  "ticker": "MTSI",
+  "stock": {
+    "ticker": "MTSI",
+    "name": "MACOM Technology Solutions Hold",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 92.66,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MTSI",
+    "asof": "2026-08-12",
+    "market_cap": 24187435008.0,
+    "pe": 100.542854,
+    "forward_pe": 37.334316,
+    "ev_ebitda": 82.075,
+    "fcf_yield": 0.004314285659702474,
+    "roe": 0.17184,
+    "gross_margin": 0.56536,
+    "op_margin": 0.23337,
+    "rev_growth": 0.358,
+    "debt_to_equity": 26.873
+  },
+  "market_stats": {
+    "ticker": "MTSI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0369,
+    "short_ratio": 1.54,
+    "putcall_oi_ratio": 0.9747150997150997,
+    "avg_volume": 1708045.0,
+    "beta": 1.71
+  },
+  "momentum": {
+    "ticker": "MTSI",
+    "asof": "2026-08-12",
+    "ret_1m": 4.556601125072723,
+    "ret_3m": -13.025140238177757,
+    "ret_6m": 36.85695278650951,
+    "ret_12m": 166.5906327279047,
+    "rsi14": 58.68537029496429,
+    "pct_vs_200dma": 24.475610406818582,
+    "score": 78.9,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 58.68537029496429, \"vs_200dma\": 98.95122081363716, \"short_squeeze\": 18.450000000000003, \"options_skew\": 35.03650284900285}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "SIRI",
+  "stock": {
+    "ticker": "SIRI",
+    "name": "SiriusXM Holdings Inc",
+    "sector": "Communication Services",
+    "industry": "Entertainment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 41.83,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SIRI",
+    "asof": "2026-08-12",
+    "market_cap": 9522139136.0,
+    "pe": 11.345382,
+    "forward_pe": 8.470587,
+    "ev_ebitda": 7.553,
+    "fcf_yield": 0.12455184523781358,
+    "roe": 0.07574,
+    "gross_margin": 0.47355998,
+    "op_margin": 0.22129999,
+    "rev_growth": 0.01,
+    "debt_to_equity": 81.105
+  },
+  "market_stats": {
+    "ticker": "SIRI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1724,
+    "short_ratio": 8.62,
+    "putcall_oi_ratio": 1.3197560444347636,
+    "avg_volume": 4972390.0,
+    "beta": 0.964
+  },
+  "momentum": {
+    "ticker": "SIRI",
+    "asof": "2026-08-12",
+    "ret_1m": -6.120955587406973,
+    "ret_3m": 9.059031028364362,
+    "ret_6m": 36.76766905069422,
+    "ret_12m": 41.058340952710125,
+    "rsi14": 42.748178262125705,
+    "pct_vs_200dma": 17.941551329625828,
+    "score": 69.8,
+    "components_json": "{\"trend\": 80.17134640480162, \"rsi\": 42.748178262125705, \"vs_200dma\": 85.88310265925165, \"short_squeeze\": 86.19999999999999, \"options_skew\": 12.02227183620127}",
+    "thesis": null
+  }
+}

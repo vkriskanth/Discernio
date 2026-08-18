@@ -1,0 +1,55 @@
+{
+  "ticker": "OUT",
+  "stock": {
+    "ticker": "OUT",
+    "name": "OUTFRONT Media Inc.",
+    "sector": "Real Estate",
+    "industry": "REIT - Specialty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 17.39,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "OUT",
+    "asof": "2026-08-12",
+    "market_cap": 5321926656.0,
+    "pe": 21.73741,
+    "forward_pe": 20.47836,
+    "ev_ebitda": 18.971,
+    "fcf_yield": 0.03640128933035788,
+    "roe": 0.35024,
+    "gross_margin": 0.51405,
+    "op_margin": 0.22278,
+    "rev_growth": 0.135,
+    "debt_to_equity": 573.64
+  },
+  "market_stats": {
+    "ticker": "OUT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.06,
+    "short_ratio": 4.68,
+    "putcall_oi_ratio": 0.15955983493810177,
+    "avg_volume": 1898408.0,
+    "beta": 1.478
+  },
+  "momentum": {
+    "ticker": "OUT",
+    "asof": "2026-08-12",
+    "ret_1m": -10.839990436742763,
+    "ret_3m": -7.234817674513494,
+    "ret_6m": 15.263134480422359,
+    "ret_12m": 79.19341397681829,
+    "rsi14": 24.04540003952485,
+    "pct_vs_200dma": 11.650473394832606,
+    "score": 67.5,
+    "components_json": "{\"trend\": 84.08586063249999, \"rsi\": 24.04540003952485, \"vs_200dma\": 73.3009467896652, \"short_squeeze\": 30.0, \"options_skew\": 89.40735900962862}",
+    "thesis": null
+  }
+}

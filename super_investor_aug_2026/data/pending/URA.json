@@ -1,0 +1,55 @@
+{
+  "ticker": "URA",
+  "stock": {
+    "ticker": "URA",
+    "name": "Global X Uranium ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 0.02,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "URA",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 29.7656,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "URA",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.7496638552744164,
+    "avg_volume": 3510583.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "URA",
+    "asof": "2026-08-12",
+    "ret_1m": 9.097479334301806,
+    "ret_3m": -16.59613044398024,
+    "ret_6m": -15.271024614851047,
+    "ret_12m": 19.843323077270636,
+    "rsi14": 64.34426176113382,
+    "pct_vs_200dma": -6.2814426476707315,
+    "score": 43.4,
+    "components_json": "{\"trend\": 48.37718271325887, \"rsi\": 64.34426176113382, \"vs_200dma\": 37.43711470465854, \"short_squeeze\": 0.0, \"options_skew\": 50.04742085319643}",
+    "thesis": null
+  }
+}

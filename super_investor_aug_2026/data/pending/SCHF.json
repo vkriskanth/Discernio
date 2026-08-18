@@ -1,0 +1,55 @@
+{
+  "ticker": "SCHF",
+  "stock": {
+    "ticker": "SCHF",
+    "name": "Schwab International Equity ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 1.95,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SCHF",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 18.774523,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "SCHF",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.10434782608695652,
+    "avg_volume": 7736266.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "SCHF",
+    "asof": "2026-08-12",
+    "ret_1m": 2.9219612612289447,
+    "ret_3m": 4.264568066321139,
+    "ret_6m": 9.845153226382063,
+    "ret_12m": 31.171839754240736,
+    "rsi14": 71.57362601330047,
+    "pct_vs_200dma": 10.92233380686254,
+    "score": 64.7,
+    "components_json": "{\"trend\": 66.70165228950725, \"rsi\": 71.57362601330047, \"vs_200dma\": 71.84466761372508, \"short_squeeze\": 0.0, \"options_skew\": 93.09}",
+    "thesis": null
+  }
+}

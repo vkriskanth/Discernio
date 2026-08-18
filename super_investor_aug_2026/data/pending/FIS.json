@@ -1,0 +1,55 @@
+{
+  "ticker": "FIS",
+  "stock": {
+    "ticker": "FIS",
+    "name": "Fidelity National Information S",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SE",
+      "manager_name": "Mason Hawkins - Southeastern Asset Management",
+      "action": "add",
+      "share_change_pct": 33.01,
+      "pct_of_portfolio": 0.47,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FIS",
+    "asof": "2026-08-12",
+    "market_cap": 21536704512.0,
+    "pe": 6.4149923,
+    "forward_pe": 6.232833,
+    "ev_ebitda": 12.079,
+    "fcf_yield": 0.12319085858849527,
+    "roe": 0.22348,
+    "gross_margin": 0.35836,
+    "op_margin": 0.20669001,
+    "rev_growth": 0.291,
+    "debt_to_equity": 132.51
+  },
+  "market_stats": {
+    "ticker": "FIS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0423,
+    "short_ratio": 3.29,
+    "putcall_oi_ratio": 0.1921760391198044,
+    "avg_volume": 6664385.0,
+    "beta": 0.813
+  },
+  "momentum": {
+    "ticker": "FIS",
+    "asof": "2026-08-12",
+    "ret_1m": -0.952829241408637,
+    "ret_3m": -3.2999965134603015,
+    "ret_6m": -18.320083388848463,
+    "ret_12m": -38.738924057035796,
+    "rsi14": 56.15016504968553,
+    "pct_vs_200dma": -18.54110390927749,
+    "score": 33.7,
+    "components_json": "{\"trend\": 28.018406406493053, \"rsi\": 56.15016504968553, \"vs_200dma\": 12.917792181445023, \"short_squeeze\": 21.15, \"options_skew\": 87.23185819070905}",
+    "thesis": null
+  }
+}

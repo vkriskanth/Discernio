@@ -1,0 +1,55 @@
+{
+  "ticker": "OSK",
+  "stock": {
+    "ticker": "OSK",
+    "name": "Oshkosh Corporation (Holding Co",
+    "sector": "Industrials",
+    "industry": "Farm & Heavy Construction Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GA",
+      "manager_name": "Greenhaven Associates",
+      "action": "add",
+      "share_change_pct": 1.09,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "OSK",
+    "asof": "2026-08-12",
+    "market_cap": 9519342592.0,
+    "pe": 17.681765,
+    "forward_pe": 11.025507,
+    "ev_ebitda": 9.898,
+    "fcf_yield": 0.07711010470585236,
+    "roe": 0.12387,
+    "gross_margin": 0.15898,
+    "op_margin": 0.08405,
+    "rev_growth": 0.067,
+    "debt_to_equity": 24.359
+  },
+  "market_stats": {
+    "ticker": "OSK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.049000002,
+    "short_ratio": 2.91,
+    "putcall_oi_ratio": 0.15867158671586715,
+    "avg_volume": 822525.0,
+    "beta": 1.255
+  },
+  "momentum": {
+    "ticker": "OSK",
+    "asof": "2026-08-12",
+    "ret_1m": 5.5986302999035065,
+    "ret_3m": 17.724420417097786,
+    "ret_6m": -11.084832207831319,
+    "ret_12m": 16.126905707445705,
+    "rsi14": 52.47702218058999,
+    "pct_vs_200dma": 7.90323747761239,
+    "score": 59.1,
+    "components_json": "{\"trend\": 58.442638745758224, \"rsi\": 52.47702218058999, \"vs_200dma\": 65.80647495522479, \"short_squeeze\": 24.500001, \"options_skew\": 89.46660516605166}",
+    "thesis": null
+  }
+}

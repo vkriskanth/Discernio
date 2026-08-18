@@ -1,0 +1,55 @@
+{
+  "ticker": "LBRDK",
+  "stock": {
+    "ticker": "LBRDK",
+    "name": "Liberty Broadband Corp. CL C",
+    "sector": "Communication Services",
+    "industry": "Telecom Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 73.92,
+      "pct_of_portfolio": 1.42,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LBRDK",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": 5.31982,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": -0.68394,
+    "gross_margin": 0.0,
+    "op_margin": 0.0,
+    "rev_growth": null,
+    "debt_to_equity": 37.94
+  },
+  "market_stats": {
+    "ticker": "LBRDK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.035,
+    "short_ratio": 2.62,
+    "putcall_oi_ratio": 0.7633928571428571,
+    "avg_volume": 1899748.0,
+    "beta": 0.627
+  },
+  "momentum": {
+    "ticker": "LBRDK",
+    "asof": "2026-08-12",
+    "ret_1m": 17.449216288058288,
+    "ret_3m": 2.2022665117205964,
+    "ret_6m": -38.82046916871099,
+    "ret_12m": -40.04759585245221,
+    "rsi14": 68.45951693121759,
+    "pct_vs_200dma": -19.55817315169137,
+    "score": 28.9,
+    "components_json": "{\"trend\": 22.995500861921997, \"rsi\": 68.45951693121759, \"vs_200dma\": 10.883653696617259, \"short_squeeze\": 17.500000000000004, \"options_skew\": 49.13169642857143}",
+    "thesis": null
+  }
+}

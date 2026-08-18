@@ -1,0 +1,55 @@
+{
+  "ticker": "IMVT",
+  "stock": {
+    "ticker": "IMVT",
+    "name": "Immunovant, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IMVT",
+    "asof": "2026-08-12",
+    "market_cap": 8681409536.0,
+    "pe": null,
+    "forward_pe": -16.816574,
+    "ev_ebitda": -13.537,
+    "fcf_yield": -0.027495953394451177,
+    "roe": -0.80096,
+    "gross_margin": 0.0,
+    "op_margin": 0.0,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "IMVT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1783,
+    "short_ratio": 16.33,
+    "putcall_oi_ratio": 0.04451682953311618,
+    "avg_volume": 1699495.0,
+    "beta": 0.81
+  },
+  "momentum": {
+    "ticker": "IMVT",
+    "asof": "2026-08-12",
+    "ret_1m": 7.892703990614103,
+    "ret_3m": 46.003498736522985,
+    "ret_6m": 56.78411301569546,
+    "ret_12m": 183.40109202168745,
+    "rsi14": 66.09947258389951,
+    "pct_vs_200dma": 44.63726789667255,
+    "score": 93.5,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 66.09947258389951, \"vs_200dma\": 100.0, \"short_squeeze\": 89.14999999999999, \"options_skew\": 97.08072747014116}",
+    "thesis": null
+  }
+}

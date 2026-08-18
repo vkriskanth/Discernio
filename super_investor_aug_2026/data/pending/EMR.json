@@ -1,0 +1,55 @@
+{
+  "ticker": "EMR",
+  "stock": {
+    "ticker": "EMR",
+    "name": "Emerson Electric Company",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EMR",
+    "asof": "2026-08-12",
+    "market_cap": 91217035264.0,
+    "pe": 35.783367,
+    "forward_pe": 22.610626,
+    "ev_ebitda": 17.056,
+    "fcf_yield": 0.040631116471538296,
+    "roe": 0.128,
+    "gross_margin": 0.53161,
+    "op_margin": 0.26924,
+    "rev_growth": 0.07,
+    "debt_to_equity": 67.677
+  },
+  "market_stats": {
+    "ticker": "EMR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0223,
+    "short_ratio": 4.81,
+    "putcall_oi_ratio": 0.5354135710747895,
+    "avg_volume": 2887190.0,
+    "beta": 1.235
+  },
+  "momentum": {
+    "ticker": "EMR",
+    "asof": "2026-08-12",
+    "ret_1m": 18.404375475189095,
+    "ret_3m": 16.83857142779701,
+    "ret_6m": 5.311370345353805,
+    "ret_12m": 25.811117198620703,
+    "rsi14": 72.81644699050548,
+    "pct_vs_200dma": 17.43531135989278,
+    "score": 66.5,
+    "components_json": "{\"trend\": 66.96942941139352, \"rsi\": 72.81644699050548, \"vs_200dma\": 84.87062271978556, \"short_squeeze\": 11.15, \"options_skew\": 64.33791480931154}",
+    "thesis": null
+  }
+}

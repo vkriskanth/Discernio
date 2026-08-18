@@ -1,0 +1,55 @@
+{
+  "ticker": "BRSL",
+  "stock": {
+    "ticker": "BRSL",
+    "name": "Brightstar Lottery PLC Trading ",
+    "sector": "Consumer Cyclical",
+    "industry": "Gambling"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FFH",
+      "manager_name": "Prem Watsa - Fairfax Financial Holdings",
+      "action": "add",
+      "share_change_pct": 87.63,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BRSL",
+    "asof": "2026-08-12",
+    "market_cap": 2049957504.0,
+    "pe": 11.747369,
+    "forward_pe": 15.501291,
+    "ev_ebitda": 8.587,
+    "fcf_yield": 2.1411419697410468,
+    "roe": 0.15182,
+    "gross_margin": 0.48501,
+    "op_margin": 0.20718999,
+    "rev_growth": -0.074,
+    "debt_to_equity": 219.168
+  },
+  "market_stats": {
+    "ticker": "BRSL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.044,
+    "short_ratio": 5.28,
+    "putcall_oi_ratio": 0.016299918500407497,
+    "avg_volume": 1762016.0,
+    "beta": 0.981
+  },
+  "momentum": {
+    "ticker": "BRSL",
+    "asof": "2026-08-12",
+    "ret_1m": 1.5454552390358645,
+    "ret_3m": -10.118879250316514,
+    "ret_6m": -17.798979992660392,
+    "ret_12m": -23.205194401580663,
+    "rsi14": 57.76173707788729,
+    "pct_vs_200dma": -14.045429695217827,
+    "score": 39.2,
+    "components_json": "{\"trend\": 32.34256446647466, \"rsi\": 57.76173707788729, \"vs_200dma\": 21.909140609564346, \"short_squeeze\": 21.999999999999996, \"options_skew\": 98.96279543602282}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "NWSA",
+  "stock": {
+    "ticker": "NWSA",
+    "name": "News Corporation",
+    "sector": "Communication Services",
+    "industry": "Entertainment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 2.25,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.81,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NWSA",
+    "asof": "2026-08-12",
+    "market_cap": 15372283904.0,
+    "pe": 27.611652,
+    "forward_pe": 18.967335,
+    "ev_ebitda": 12.716,
+    "fcf_yield": 0.06798761970093783,
+    "roe": 0.07979,
+    "gross_margin": 0.57167,
+    "op_margin": 0.12537,
+    "rev_growth": 0.108,
+    "debt_to_equity": 31.561
+  },
+  "market_stats": {
+    "ticker": "NWSA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.033299997,
+    "short_ratio": 2.98,
+    "putcall_oi_ratio": 0.8571428571428571,
+    "avg_volume": 4920306.0,
+    "beta": 0.911
+  },
+  "momentum": {
+    "ticker": "NWSA",
+    "asof": "2026-08-12",
+    "ret_1m": 3.2789810390889684,
+    "ret_3m": 7.40391174624877,
+    "ret_6m": 21.39150780943371,
+    "ret_12m": 1.2041775828928847,
+    "rsi14": 64.88705781106884,
+    "pct_vs_200dma": 10.390427121585333,
+    "score": 57.0,
+    "components_json": "{\"trend\": 59.1202968998619, \"rsi\": 64.88705781106884, \"vs_200dma\": 70.78085424317067, \"short_squeeze\": 16.6499985, \"options_skew\": 42.87857142857143}",
+    "thesis": null
+  }
+}

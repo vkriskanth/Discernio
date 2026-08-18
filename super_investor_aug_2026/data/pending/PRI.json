@@ -1,0 +1,55 @@
+{
+  "ticker": "PRI",
+  "stock": {
+    "ticker": "PRI",
+    "name": "Primerica, Inc.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Life"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CCM",
+      "manager_name": "Glenn Greenberg - Brave Warrior Advisors",
+      "action": "add",
+      "share_change_pct": 12.72,
+      "pct_of_portfolio": 0.61,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PRI",
+    "asof": "2026-08-12",
+    "market_cap": 9672397824.0,
+    "pe": 12.636509,
+    "forward_pe": 11.643403,
+    "ev_ebitda": 9.62,
+    "fcf_yield": 0.1074172261010591,
+    "roe": 0.32966,
+    "gross_margin": 0.72097,
+    "op_margin": 0.31542,
+    "rev_growth": 0.087,
+    "debt_to_equity": 71.521
+  },
+  "market_stats": {
+    "ticker": "PRI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.049099997,
+    "short_ratio": 6.7,
+    "putcall_oi_ratio": 0.31343283582089554,
+    "avg_volume": 194611.0,
+    "beta": 0.871
+  },
+  "momentum": {
+    "ticker": "PRI",
+    "asof": "2026-08-12",
+    "ret_1m": 1.561993245848825,
+    "ret_3m": 14.251192234998289,
+    "ret_6m": 18.590393795962722,
+    "ret_12m": 22.633615396261963,
+    "rsi14": 53.58948453083314,
+    "pct_vs_200dma": 15.609822032671584,
+    "score": 66.3,
+    "components_json": "{\"trend\": 68.90592196779309, \"rsi\": 53.58948453083314, \"vs_200dma\": 81.21964406534318, \"short_squeeze\": 24.5499985, \"options_skew\": 79.14402985074626}",
+    "thesis": null
+  }
+}

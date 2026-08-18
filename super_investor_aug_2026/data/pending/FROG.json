@@ -1,0 +1,55 @@
+{
+  "ticker": "FROG",
+  "stock": {
+    "ticker": "FROG",
+    "name": "JFrog Ltd.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 360.06,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FROG",
+    "asof": "2026-08-12",
+    "market_cap": 10715462656.0,
+    "pe": null,
+    "forward_pe": 76.85024,
+    "ev_ebitda": -241.761,
+    "fcf_yield": 0.01892303921067391,
+    "roe": -0.04932,
+    "gross_margin": 0.77862,
+    "op_margin": -0.07117,
+    "rev_growth": 0.287,
+    "debt_to_equity": 1.516
+  },
+  "market_stats": {
+    "ticker": "FROG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0879,
+    "short_ratio": 4.09,
+    "putcall_oi_ratio": 0.26886821898994945,
+    "avg_volume": 2782654.0,
+    "beta": 1.248
+  },
+  "momentum": {
+    "ticker": "FROG",
+    "asof": "2026-08-12",
+    "ret_1m": -6.0052633367124635,
+    "ret_3m": 26.86157782874332,
+    "ret_6m": 61.080824183975665,
+    "ret_12m": 103.2613852110448,
+    "rsi14": 56.081544459580066,
+    "pct_vs_200dma": 37.6034085877824,
+    "score": 86.0,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 56.081544459580066, \"vs_200dma\": 100.0, \"short_squeeze\": 43.95, \"options_skew\": 82.11648979337038}",
+    "thesis": null
+  }
+}

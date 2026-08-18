@@ -1,0 +1,55 @@
+{
+  "ticker": "HRI",
+  "stock": {
+    "ticker": "HRI",
+    "name": "Herc Holdings Inc.",
+    "sector": "Industrials",
+    "industry": "Rental & Leasing Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 56.84,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HRI",
+    "asof": "2026-08-12",
+    "market_cap": 5613640704.0,
+    "pe": 99.35798,
+    "forward_pe": 16.613174,
+    "ev_ebitda": 16.362,
+    "fcf_yield": 0.08958090382266118,
+    "roe": 0.02578,
+    "gross_margin": 0.3194,
+    "op_margin": 0.12209,
+    "rev_growth": 0.202,
+    "debt_to_equity": 505.714
+  },
+  "market_stats": {
+    "ticker": "HRI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0809,
+    "short_ratio": 3.63,
+    "putcall_oi_ratio": 0.3415492957746479,
+    "avg_volume": 556154.0,
+    "beta": 1.869
+  },
+  "momentum": {
+    "ticker": "HRI",
+    "asof": "2026-08-12",
+    "ret_1m": 13.970382571321416,
+    "ret_3m": 21.16276013133829,
+    "ret_6m": -6.437240333173245,
+    "ret_12m": 54.148370102835926,
+    "rsi14": 53.98183442271368,
+    "pct_vs_200dma": 20.909508011893884,
+    "score": 73.3,
+    "components_json": "{\"trend\": 76.07700398058388, \"rsi\": 53.98183442271368, \"vs_200dma\": 91.81901602378777, \"short_squeeze\": 40.45, \"options_skew\": 77.26866197183098}",
+    "thesis": null
+  }
+}

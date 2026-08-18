@@ -1,0 +1,55 @@
+{
+  "ticker": "SDY",
+  "stock": {
+    "ticker": "SDY",
+    "name": "State Street SPDR S&P Dividend ",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 0.08,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SDY",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 20.697178,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "SDY",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 224803.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "SDY",
+    "asof": "2026-08-12",
+    "ret_1m": 2.9158206723153945,
+    "ret_3m": 6.876353009838954,
+    "ret_6m": 5.003293506591744,
+    "ret_12m": 17.013430749489423,
+    "rsi14": 64.64163037875801,
+    "pct_vs_200dma": 7.978958750985199,
+    "score": 55.3,
+    "components_json": "{\"trend\": 60.36926625472498, \"rsi\": 64.64163037875801, \"vs_200dma\": 65.9579175019704, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

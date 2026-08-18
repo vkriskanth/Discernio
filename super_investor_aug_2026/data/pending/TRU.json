@@ -1,0 +1,71 @@
+{
+  "ticker": "TRU",
+  "stock": {
+    "ticker": "TRU",
+    "name": "TransUnion",
+    "sector": "Financial Services",
+    "industry": "Financial Data & Stock Exchanges"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VVP",
+      "manager_name": "Vulcan Value Partners",
+      "action": "add",
+      "share_change_pct": 201.85,
+      "pct_of_portfolio": 3.93,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TFP",
+      "manager_name": "Triple Frond Partners",
+      "action": "add",
+      "share_change_pct": 48.38,
+      "pct_of_portfolio": 1.92,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 64.49,
+      "pct_of_portfolio": 0.24,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TRU",
+    "asof": "2026-08-12",
+    "market_cap": 15159392256.0,
+    "pe": 20.55065,
+    "forward_pe": 14.109877,
+    "ev_ebitda": 13.343,
+    "fcf_yield": 0.05334151992009778,
+    "roe": 0.15626,
+    "gross_margin": 0.5873,
+    "op_margin": 0.19701,
+    "rev_growth": 0.149,
+    "debt_to_equity": 113.212
+  },
+  "market_stats": {
+    "ticker": "TRU",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0448,
+    "short_ratio": 3.41,
+    "putcall_oi_ratio": 0.12432847275518036,
+    "avg_volume": 2400112.0,
+    "beta": 1.53
+  },
+  "momentum": {
+    "ticker": "TRU",
+    "asof": "2026-08-12",
+    "ret_1m": 4.86901325221154,
+    "ret_3m": 14.740820638922681,
+    "ret_6m": 7.27614805039376,
+    "ret_12m": -7.262957768305201,
+    "rsi14": 60.94316640410197,
+    "pct_vs_200dma": 3.9199784095276025,
+    "score": 56.5,
+    "components_json": "{\"trend\": 53.69990749947285, \"rsi\": 60.94316640410197, \"vs_200dma\": 57.8399568190552, \"short_squeeze\": 22.4, \"options_skew\": 91.75729086722947}",
+    "thesis": null
+  }
+}

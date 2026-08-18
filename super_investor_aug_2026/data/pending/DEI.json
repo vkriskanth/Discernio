@@ -1,0 +1,55 @@
+{
+  "ticker": "DEI",
+  "stock": {
+    "ticker": "DEI",
+    "name": "Douglas Emmett, Inc.",
+    "sector": "Real Estate",
+    "industry": "REIT - Office"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 32.29,
+      "pct_of_portfolio": 0.28,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DEI",
+    "asof": "2026-08-12",
+    "market_cap": 2320469760.0,
+    "pe": null,
+    "forward_pe": -101.05078,
+    "ev_ebitda": 15.342,
+    "fcf_yield": 0.17057456503979607,
+    "roe": -0.01928,
+    "gross_margin": 0.63176996,
+    "op_margin": 0.19624001,
+    "rev_growth": 0.016,
+    "debt_to_equity": 163.133
+  },
+  "market_stats": {
+    "ticker": "DEI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2543,
+    "short_ratio": 14.06,
+    "putcall_oi_ratio": 3.504103165298945,
+    "avg_volume": 2298545.0,
+    "beta": 1.18
+  },
+  "momentum": {
+    "ticker": "DEI",
+    "asof": "2026-08-12",
+    "ret_1m": -7.217326005872094,
+    "ret_3m": -1.680433026653938,
+    "ret_6m": 13.128461067129749,
+    "ret_12m": -12.086623345332148,
+    "rsi14": 37.155949857714376,
+    "pct_vs_200dma": 5.935333369755447,
+    "score": 50.5,
+    "components_json": "{\"trend\": 48.59975907400988, \"rsi\": 37.155949857714376, \"vs_200dma\": 61.870666739510895, \"short_squeeze\": 100.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

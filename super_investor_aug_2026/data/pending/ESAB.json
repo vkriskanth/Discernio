@@ -1,0 +1,55 @@
+{
+  "ticker": "ESAB",
+  "stock": {
+    "ticker": "ESAB",
+    "name": "ESAB Corporation",
+    "sector": "Industrials",
+    "industry": "Metal Fabrication"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ESAB",
+    "asof": "2026-08-12",
+    "market_cap": 5322877952.0,
+    "pe": 26.85423,
+    "forward_pe": 13.12214,
+    "ev_ebitda": 14.865,
+    "fcf_yield": 0.027452511464234303,
+    "roe": 0.08727,
+    "gross_margin": 0.36955002,
+    "op_margin": 0.12016,
+    "rev_growth": 0.129,
+    "debt_to_equity": 98.269
+  },
+  "market_stats": {
+    "ticker": "ESAB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.103199996,
+    "short_ratio": 8.4,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 711830.0,
+    "beta": 1.149
+  },
+  "momentum": {
+    "ticker": "ESAB",
+    "asof": "2026-08-12",
+    "ret_1m": -1.8240178631288129,
+    "ret_3m": -9.03422198401822,
+    "ret_6m": -36.19854384134621,
+    "ret_12m": -21.008595567227793,
+    "rsi14": 52.63158337334788,
+    "pct_vs_200dma": -18.431846778328687,
+    "score": 32.5,
+    "components_json": "{\"trend\": 28.026732025499555, \"rsi\": 52.63158337334788, \"vs_200dma\": 13.136306443342626, \"short_squeeze\": 51.59999800000001, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

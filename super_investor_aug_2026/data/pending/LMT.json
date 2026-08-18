@@ -1,0 +1,63 @@
+{
+  "ticker": "LMT",
+  "stock": {
+    "ticker": "LMT",
+    "name": "Lockheed Martin Corp.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 1.28,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 1.08,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LMT",
+    "asof": "2026-08-12",
+    "market_cap": 137883631616.0,
+    "pe": 22.013266,
+    "forward_pe": 18.26109,
+    "ev_ebitda": 15.982,
+    "fcf_yield": 0.04034289609873108,
+    "roe": 0.89165,
+    "gross_margin": 0.11798,
+    "op_margin": 0.119569995,
+    "rev_growth": 0.105,
+    "debt_to_equity": 234.238
+  },
+  "market_stats": {
+    "ticker": "LMT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.014099999,
+    "short_ratio": 2.25,
+    "putcall_oi_ratio": 1.2679119040981321,
+    "avg_volume": 1246004.0,
+    "beta": 0.11
+  },
+  "momentum": {
+    "ticker": "LMT",
+    "asof": "2026-08-12",
+    "ret_1m": 16.911013516172147,
+    "ret_3m": 16.31891390011917,
+    "ret_6m": -3.2315692263865214,
+    "ret_12m": 45.05676960114193,
+    "rsi14": 67.23624492996186,
+    "pct_vs_200dma": 10.553992232879917,
+    "score": 58.9,
+    "components_json": "{\"trend\": 71.94891124257657, \"rsi\": 67.23624492996186, \"vs_200dma\": 71.10798446575984, \"short_squeeze\": 7.0499995, \"options_skew\": 15.480275996654587}",
+    "thesis": null
+  }
+}

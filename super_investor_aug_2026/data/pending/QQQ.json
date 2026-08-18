@@ -1,0 +1,63 @@
+{
+  "ticker": "QQQ",
+  "stock": {
+    "ticker": "QQQ",
+    "name": "Invesco QQQ Trust, Series 1",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 1.84,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 13.84,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "QQQ",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 30.943008,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "QQQ",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 1.3743772948298105,
+    "avg_volume": 43869909.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "QQQ",
+    "asof": "2026-08-12",
+    "ret_1m": 0.7058448779750703,
+    "ret_3m": 2.591255064926079,
+    "ret_6m": 18.80898361975778,
+    "ret_12m": 27.129362733909268,
+    "rsi14": 63.5768865325,
+    "pct_vs_200dma": 11.775006886861018,
+    "score": 55.7,
+    "components_json": "{\"trend\": 67.27181669896886, \"rsi\": 63.5768865325, \"vs_200dma\": 73.55001377372204, \"short_squeeze\": 0.0, \"options_skew\": 8.379034434851638}",
+    "thesis": null
+  }
+}

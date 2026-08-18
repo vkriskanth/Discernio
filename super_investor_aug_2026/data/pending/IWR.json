@@ -1,0 +1,55 @@
+{
+  "ticker": "IWR",
+  "stock": {
+    "ticker": "IWR",
+    "name": "iShares Russell Mid-Cap ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "add",
+      "share_change_pct": 0.66,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IWR",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 22.444849,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "IWR",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 2.459016393442623,
+    "avg_volume": 2032901.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "IWR",
+    "asof": "2026-08-12",
+    "ret_1m": 3.377269398082383,
+    "ret_3m": 8.681796664657071,
+    "ret_6m": 15.245628721985582,
+    "ret_12m": 23.52107424705472,
+    "rsi14": 75.71650302631286,
+    "pct_vs_200dma": 11.902926210919219,
+    "score": 56.4,
+    "components_json": "{\"trend\": 66.58665731481469, \"rsi\": 75.71650302631286, \"vs_200dma\": 73.80585242183844, \"short_squeeze\": 0.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

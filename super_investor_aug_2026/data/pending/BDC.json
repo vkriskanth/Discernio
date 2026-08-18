@@ -1,0 +1,55 @@
+{
+  "ticker": "BDC",
+  "stock": {
+    "ticker": "BDC",
+    "name": "Belden Inc",
+    "sector": "Technology",
+    "industry": "Communication Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 41.77,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BDC",
+    "asof": "2026-08-12",
+    "market_cap": 5373056000.0,
+    "pe": 22.393322,
+    "forward_pe": 13.6863365,
+    "ev_ebitda": 13.358,
+    "fcf_yield": 0.02014395978750268,
+    "roe": 0.18643999,
+    "gross_margin": 0.3766,
+    "op_margin": 0.13171,
+    "rev_growth": 0.116,
+    "debt_to_equity": 97.069
+  },
+  "market_stats": {
+    "ticker": "BDC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1439,
+    "short_ratio": 6.16,
+    "putcall_oi_ratio": 0.21138877509217535,
+    "avg_volume": 572254.0,
+    "beta": 1.105
+  },
+  "momentum": {
+    "ticker": "BDC",
+    "asof": "2026-08-12",
+    "ret_1m": 31.247606255666426,
+    "ret_3m": 25.08403660845733,
+    "ret_6m": -3.029575162132636,
+    "ret_12m": 16.484105304109463,
+    "rsi14": 87.26350021496606,
+    "pct_vs_200dma": 15.511189772031475,
+    "score": 74.4,
+    "components_json": "{\"trend\": 63.20998055554119, \"rsi\": 87.26350021496606, \"vs_200dma\": 81.02237954406294, \"short_squeeze\": 71.95, \"options_skew\": 85.95036870135192}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "NVO",
+  "stock": {
+    "ticker": "NVO",
+    "name": "Novo Nordisk A/S",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.89,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.39,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 18.15,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NVO",
+    "asof": "2026-08-12",
+    "market_cap": 202518659072.0,
+    "pe": 11.385468,
+    "forward_pe": 13.78034,
+    "ev_ebitda": 1.75,
+    "fcf_yield": 0.1860236038922532,
+    "roe": 0.59815,
+    "gross_margin": 0.81987,
+    "op_margin": 0.42540002,
+    "rev_growth": 0.021,
+    "debt_to_equity": 63.327
+  },
+  "market_stats": {
+    "ticker": "NVO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0093,
+    "short_ratio": 3.02,
+    "putcall_oi_ratio": 0.7980370988320739,
+    "avg_volume": 12407433.0,
+    "beta": 0.349
+  },
+  "momentum": {
+    "ticker": "NVO",
+    "asof": "2026-08-12",
+    "ret_1m": -5.757083310594413,
+    "ret_3m": -1.606385251309006,
+    "ret_6m": -2.400189807950681,
+    "ret_12m": -2.7847390908932734,
+    "rsi14": 43.84345735124805,
+    "pct_vs_200dma": 1.2239754274123271,
+    "score": 43.9,
+    "components_json": "{\"trend\": 47.68413184586478, \"rsi\": 43.84345735124805, \"vs_200dma\": 52.447950854824654, \"short_squeeze\": 4.6499999999999995, \"options_skew\": 46.820925507900675}",
+    "thesis": null
+  }
+}

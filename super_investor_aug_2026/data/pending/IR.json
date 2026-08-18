@@ -1,0 +1,63 @@
+{
+  "ticker": "IR",
+  "stock": {
+    "ticker": "IR",
+    "name": "Ingersoll Rand Inc.",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "WIM",
+      "manager_name": "Wallace Weitz - Weitz Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.74,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 4.91,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IR",
+    "asof": "2026-08-12",
+    "market_cap": 32525991936.0,
+    "pe": 34.640495,
+    "forward_pe": 21.399126,
+    "ev_ebitda": 18.255,
+    "fcf_yield": 0.03404738666168991,
+    "roe": 0.0947,
+    "gross_margin": 0.42821,
+    "op_margin": 0.16882999,
+    "rev_growth": 0.085,
+    "debt_to_equity": 47.903
+  },
+  "market_stats": {
+    "ticker": "IR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0433,
+    "short_ratio": 3.56,
+    "putcall_oi_ratio": 0.5147058823529411,
+    "avg_volume": 4311125.0,
+    "beta": 1.161
+  },
+  "momentum": {
+    "ticker": "IR",
+    "asof": "2026-08-12",
+    "ret_1m": 7.5686565825276775,
+    "ret_3m": 16.123225324720615,
+    "ret_6m": -13.054816755982134,
+    "ret_12m": 11.282345232723445,
+    "rsi14": 52.00708353281291,
+    "pct_vs_200dma": 3.8134411624447972,
+    "score": 53.1,
+    "components_json": "{\"trend\": 55.433460663710925, \"rsi\": 52.00708353281291, \"vs_200dma\": 57.62688232488959, \"short_squeeze\": 21.65, \"options_skew\": 65.71911764705882}",
+    "thesis": null
+  }
+}

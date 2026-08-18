@@ -1,0 +1,55 @@
+{
+  "ticker": "BCC",
+  "stock": {
+    "ticker": "BCC",
+    "name": "Boise Cascade, L.L.C.",
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TA",
+      "manager_name": "Third Avenue Management",
+      "action": "add",
+      "share_change_pct": 30.7,
+      "pct_of_portfolio": 1.63,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BCC",
+    "asof": "2026-08-12",
+    "market_cap": 2902297600.0,
+    "pe": 27.913088,
+    "forward_pe": 15.729162,
+    "ev_ebitda": 10.034,
+    "fcf_yield": 0.014930714203808735,
+    "roe": 0.0506,
+    "gross_margin": 0.16511999,
+    "op_margin": 0.045840003,
+    "rev_growth": 0.052,
+    "debt_to_equity": 27.115
+  },
+  "market_stats": {
+    "ticker": "BCC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.059699997,
+    "short_ratio": 3.6,
+    "putcall_oi_ratio": 4.542857142857143,
+    "avg_volume": 435261.0,
+    "beta": 1.051
+  },
+  "momentum": {
+    "ticker": "BCC",
+    "asof": "2026-08-12",
+    "ret_1m": 16.085275595515757,
+    "ret_3m": 15.620468330460625,
+    "ret_6m": -5.393224946267949,
+    "ret_12m": 2.2792751296903724,
+    "rsi14": 63.5098497194914,
+    "pct_vs_200dma": 10.507006468157742,
+    "score": 51.9,
+    "components_json": "{\"trend\": 53.979883067133954, \"rsi\": 63.5098497194914, \"vs_200dma\": 71.01401293631548, \"short_squeeze\": 29.849998499999998, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

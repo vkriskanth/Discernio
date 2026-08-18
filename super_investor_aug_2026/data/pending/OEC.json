@@ -1,0 +1,63 @@
+{
+  "ticker": "OEC",
+  "stock": {
+    "ticker": "OEC",
+    "name": "Orion S.A.",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 48.1,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 3.74,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "OEC",
+    "asof": "2026-08-12",
+    "market_cap": 369667040.0,
+    "pe": null,
+    "forward_pe": 19.338348,
+    "ev_ebitda": 7.195,
+    "fcf_yield": 0.12541691571961622,
+    "roe": -0.22744,
+    "gross_margin": 0.18404,
+    "op_margin": 0.042519998,
+    "rev_growth": 0.074,
+    "debt_to_equity": 301.709
+  },
+  "market_stats": {
+    "ticker": "OEC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0279,
+    "short_ratio": 2.21,
+    "putcall_oi_ratio": 0.8333333333333334,
+    "avg_volume": 593933.0,
+    "beta": 1.005
+  },
+  "momentum": {
+    "ticker": "OEC",
+    "asof": "2026-08-12",
+    "ret_1m": 6.5681380707403925,
+    "ret_3m": -13.12828257806845,
+    "ret_6m": -10.719235234613544,
+    "ret_12m": -32.83382543891752,
+    "rsi14": 45.01347161526871,
+    "pct_vs_200dma": 5.403260250852959,
+    "score": 39.7,
+    "components_json": "{\"trend\": 29.71221448062839, \"rsi\": 45.01347161526871, \"vs_200dma\": 60.80652050170592, \"short_squeeze\": 13.95, \"options_skew\": 44.46666666666667}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "KNF",
+  "stock": {
+    "ticker": "KNF",
+    "name": "Knife Riv Holding Co.",
+    "sector": "Basic Materials",
+    "industry": "Building Materials"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 8.54,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KNF",
+    "asof": "2026-08-12",
+    "market_cap": 3844870400.0,
+    "pe": 27.534554,
+    "forward_pe": 17.158962,
+    "ev_ebitda": 11.117,
+    "fcf_yield": -0.0009106288732124755,
+    "roe": 0.09122,
+    "gross_margin": 0.17828,
+    "op_margin": 0.08802,
+    "rev_growth": 0.126,
+    "debt_to_equity": 103.908
+  },
+  "market_stats": {
+    "ticker": "KNF",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0754,
+    "short_ratio": 7.91,
+    "putcall_oi_ratio": 0.5384615384615384,
+    "avg_volume": 641961.0,
+    "beta": 0.552
+  },
+  "momentum": {
+    "ticker": "KNF",
+    "asof": "2026-08-12",
+    "ret_1m": -13.127313369669169,
+    "ret_3m": -23.329205223138505,
+    "ret_6m": -10.768624494379974,
+    "ret_12m": -21.983943623672054,
+    "rsi14": 30.850276080584436,
+    "pct_vs_200dma": -13.035087609650864,
+    "score": 33.2,
+    "components_json": "{\"trend\": 30.977073635275634, \"rsi\": 30.850276080584436, \"vs_200dma\": 23.929824780698272, \"short_squeeze\": 37.699999999999996, \"options_skew\": 64.13461538461539}",
+    "thesis": null
+  }
+}

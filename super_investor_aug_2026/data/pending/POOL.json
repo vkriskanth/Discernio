@@ -1,0 +1,55 @@
+{
+  "ticker": "POOL",
+  "stock": {
+    "ticker": "POOL",
+    "name": "Pool Corp.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "WIM",
+      "manager_name": "Wallace Weitz - Weitz Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.21,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "POOL",
+    "asof": "2026-08-12",
+    "market_cap": 7239258624.0,
+    "pe": 18.309282,
+    "forward_pe": 16.854485,
+    "ev_ebitda": 13.979,
+    "fcf_yield": 0.02941326827226224,
+    "roe": 0.31254998,
+    "gross_margin": 0.29579002,
+    "op_margin": 0.15137,
+    "rev_growth": 0.022,
+    "debt_to_equity": 134.537
+  },
+  "market_stats": {
+    "ticker": "POOL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1162,
+    "short_ratio": 4.03,
+    "putcall_oi_ratio": 1.407239819004525,
+    "avg_volume": 982762.0,
+    "beta": 1.054
+  },
+  "momentum": {
+    "ticker": "POOL",
+    "asof": "2026-08-12",
+    "ret_1m": -4.607991430033298,
+    "ret_3m": 10.725915153877953,
+    "ret_6m": -24.03007129260465,
+    "ret_12m": -33.1916306547025,
+    "rsi14": 64.57621391094935,
+    "pct_vs_200dma": -8.838961280596436,
+    "score": 37.3,
+    "components_json": "{\"trend\": 32.732100896500995, \"rsi\": 64.57621391094935, \"vs_200dma\": 32.32207743880713, \"short_squeeze\": 58.099999999999994, \"options_skew\": 6.187104072398183}",
+    "thesis": null
+  }
+}

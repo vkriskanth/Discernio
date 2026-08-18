@@ -1,0 +1,55 @@
+{
+  "ticker": "CRCL",
+  "stock": {
+    "ticker": "CRCL",
+    "name": "Circle Internet Group, Inc.",
+    "sector": "Financial Services",
+    "industry": "Capital Markets"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HH",
+      "manager_name": "Duan Yongping - H&H International Investment",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.1,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CRCL",
+    "asof": "2026-08-12",
+    "market_cap": 18920759296.0,
+    "pe": 13.909821,
+    "forward_pe": 42.938717,
+    "ev_ebitda": 71.458,
+    "fcf_yield": 0.01089963530393828,
+    "roe": 0.15347,
+    "gross_margin": 0.21997999,
+    "op_margin": 0.04899,
+    "rev_growth": 0.066,
+    "debt_to_equity": 0.454
+  },
+  "market_stats": {
+    "ticker": "CRCL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.10609999,
+    "short_ratio": 1.73,
+    "putcall_oi_ratio": 0.571517699715177,
+    "avg_volume": 13605072.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "CRCL",
+    "asof": "2026-08-12",
+    "ret_1m": 10.756082396493905,
+    "ret_3m": -43.372425572989734,
+    "ret_6m": 17.18827890052954,
+    "ret_12m": -56.55519176114376,
+    "rsi14": 64.78128784849383,
+    "pct_vs_200dma": -19.627411001383187,
+    "score": 31.7,
+    "components_json": "{\"trend\": 19.522679293804437, \"rsi\": 64.78128784849383, \"vs_200dma\": 10.745177997233625, \"short_squeeze\": 53.049995, \"options_skew\": 61.9297694289977}",
+    "thesis": null
+  }
+}

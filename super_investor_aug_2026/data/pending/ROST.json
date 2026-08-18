@@ -1,0 +1,55 @@
+{
+  "ticker": "ROST",
+  "stock": {
+    "ticker": "ROST",
+    "name": "Ross Stores, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ROST",
+    "asof": "2026-08-12",
+    "market_cap": 80100638720.0,
+    "pe": 34.923775,
+    "forward_pe": 29.161095,
+    "ev_ebitda": 23.716,
+    "fcf_yield": 0.02556263621264667,
+    "roe": 0.38981998,
+    "gross_margin": 0.32740003,
+    "op_margin": 0.13377,
+    "rev_growth": 0.206,
+    "debt_to_equity": 74.911
+  },
+  "market_stats": {
+    "ticker": "ROST",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0353,
+    "short_ratio": 4.17,
+    "putcall_oi_ratio": 0.8199760765550239,
+    "avg_volume": 3002646.0,
+    "beta": 0.877
+  },
+  "momentum": {
+    "ticker": "ROST",
+    "asof": "2026-08-12",
+    "ret_1m": 12.470014921055995,
+    "ret_3m": 14.378266901177316,
+    "ret_6m": 29.723010002949856,
+    "ret_12m": 71.16156611863116,
+    "rsi14": 72.16863123354393,
+    "pct_vs_200dma": 20.76302713667204,
+    "score": 76.7,
+    "components_json": "{\"trend\": 91.69500951869061, \"rsi\": 72.16863123354393, \"vs_200dma\": 91.52605427334407, \"short_squeeze\": 17.65, \"options_skew\": 45.357595693779906}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "SNAP",
+  "stock": {
+    "ticker": "SNAP",
+    "name": "Snap Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SNAP",
+    "asof": "2026-08-12",
+    "market_cap": 8967575552.0,
+    "pe": null,
+    "forward_pe": 6.8760047,
+    "ev_ebitda": -74.409,
+    "fcf_yield": 0.07964895080707762,
+    "roe": -0.15576,
+    "gross_margin": 0.57333,
+    "op_margin": -0.026400002,
+    "rev_growth": 0.189,
+    "debt_to_equity": 219.281
+  },
+  "market_stats": {
+    "ticker": "SNAP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0813,
+    "short_ratio": 2.72,
+    "putcall_oi_ratio": 0.5537664074910125,
+    "avg_volume": 41778570.0,
+    "beta": 1.024
+  },
+  "momentum": {
+    "ticker": "SNAP",
+    "asof": "2026-08-12",
+    "ret_1m": 12.71368138575404,
+    "ret_3m": -4.954956503001839,
+    "ret_6m": 0.8604221057329386,
+    "ret_12m": -26.63421344384991,
+    "rsi14": 65.69873071341229,
+    "pct_vs_200dma": -13.045268417093524,
+    "score": 41.5,
+    "components_json": "{\"trend\": 38.11795430327936, \"rsi\": 65.69873071341229, \"vs_200dma\": 23.90946316581295, \"short_squeeze\": 40.64999999999999, \"options_skew\": 63.11378062034947}",
+    "thesis": null
+  }
+}

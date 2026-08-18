@@ -1,0 +1,63 @@
+{
+  "ticker": "VO",
+  "stock": {
+    "ticker": "VO",
+    "name": "Vanguard Morningstar Mid-Cap ET",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 21.92,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 424.92,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VO",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 24.384977,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VO",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.04330708661417323,
+    "avg_volume": 3029027.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VO",
+    "asof": "2026-08-12",
+    "ret_1m": 3.311467061377815,
+    "ret_3m": 8.179142040596243,
+    "ret_6m": 14.375915110188608,
+    "ret_12m": 19.091100013162652,
+    "rsi14": 77.21328960475125,
+    "pct_vs_200dma": 10.663148635994645,
+    "score": 64.9,
+    "components_json": "{\"trend\": 64.40295715050051, \"rsi\": 77.21328960475125, \"vs_200dma\": 71.32629727198929, \"short_squeeze\": 0.0, \"options_skew\": 97.16141732283465}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "CTAS",
+  "stock": {
+    "ticker": "CTAS",
+    "name": "Cintas Corporation",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "JIM",
+      "manager_name": "Jensen Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.38,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 14.38,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CTAS",
+    "asof": "2026-08-12",
+    "market_cap": 81426505728.0,
+    "pe": 41.441956,
+    "forward_pe": 33.29074,
+    "ev_ebitda": 28.235,
+    "fcf_yield": 0.01798462084191377,
+    "roe": 0.40714002,
+    "gross_margin": 0.50668997,
+    "op_margin": 0.23688,
+    "rev_growth": 0.089,
+    "debt_to_equity": 52.646
+  },
+  "market_stats": {
+    "ticker": "CTAS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.038,
+    "short_ratio": 4.44,
+    "putcall_oi_ratio": 1.3341608738828203,
+    "avg_volume": 2325325.0,
+    "beta": 0.918
+  },
+  "momentum": {
+    "ticker": "CTAS",
+    "asof": "2026-08-12",
+    "ret_1m": 11.30548529165496,
+    "ret_3m": 24.366622861734765,
+    "ret_6m": 3.4571476319930516,
+    "ret_12m": -7.487731237119666,
+    "rsi14": 52.9011010299958,
+    "pct_vs_200dma": 10.956268073168228,
+    "score": 51.1,
+    "components_json": "{\"trend\": 55.352038653270476, \"rsi\": 52.9011010299958, \"vs_200dma\": 71.91253614633646, \"short_squeeze\": 19.0, \"options_skew\": 11.061469712015883}",
+    "thesis": null
+  }
+}

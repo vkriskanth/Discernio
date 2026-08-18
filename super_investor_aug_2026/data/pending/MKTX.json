@@ -1,0 +1,63 @@
+{
+  "ticker": "MKTX",
+  "stock": {
+    "ticker": "MKTX",
+    "name": "MarketAxess Holdings, Inc.",
+    "sector": "Financial Services",
+    "industry": "Capital Markets"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 3.37,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 225250.0,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MKTX",
+    "asof": "2026-08-12",
+    "market_cap": 5722012160.0,
+    "pe": 19.195984,
+    "forward_pe": 18.438715,
+    "ev_ebitda": 12.799,
+    "fcf_yield": -0.08000507569700796,
+    "roe": 0.2314,
+    "gross_margin": 0.61662996,
+    "op_margin": 0.41862,
+    "rev_growth": -0.005,
+    "debt_to_equity": 14.275
+  },
+  "market_stats": {
+    "ticker": "MKTX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.056500003,
+    "short_ratio": 1.38,
+    "putcall_oi_ratio": 0.11514392991239049,
+    "avg_volume": 940959.0,
+    "beta": 0.825
+  },
+  "momentum": {
+    "ticker": "MKTX",
+    "asof": "2026-08-12",
+    "ret_1m": 42.63466587128546,
+    "ret_3m": 7.0835661707063124,
+    "ret_6m": 0.8378583089303504,
+    "ret_12m": -11.353079824049273,
+    "rsi14": 97.58364074383081,
+    "pct_vs_200dma": 3.5671685033831224,
+    "score": 60.1,
+    "components_json": "{\"trend\": 47.83519541427129, \"rsi\": 97.58364074383081, \"vs_200dma\": 57.134337006766245, \"short_squeeze\": 28.250001500000003, \"options_skew\": 92.36989987484357}",
+    "thesis": null
+  }
+}

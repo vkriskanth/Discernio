@@ -1,0 +1,55 @@
+{
+  "ticker": "ISRG",
+  "stock": {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical, Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 60.39,
+      "pct_of_portfolio": 0.18,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ISRG",
+    "asof": "2026-08-12",
+    "market_cap": 143347056640.0,
+    "pe": 45.935707,
+    "forward_pe": 33.146023,
+    "ev_ebitda": 32.687,
+    "fcf_yield": 0.018243834657643374,
+    "roe": 0.17423001,
+    "gross_margin": 0.66679,
+    "op_margin": 0.33603,
+    "rev_growth": 0.185,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "ISRG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0188,
+    "short_ratio": 1.71,
+    "putcall_oi_ratio": 0.568647318520663,
+    "avg_volume": 3100717.0,
+    "beta": 1.46
+  },
+  "momentum": {
+    "ticker": "ISRG",
+    "asof": "2026-08-12",
+    "ret_1m": 6.192358366271411,
+    "ret_3m": -6.684880969643114,
+    "ret_6m": -18.610521060765517,
+    "ret_12m": -14.591502641288756,
+    "rsi14": 83.51273567900711,
+    "pct_vs_200dma": -15.771345430153715,
+    "score": 38.9,
+    "components_json": "{\"trend\": 36.57477833436191, \"rsi\": 83.51273567900711, \"vs_200dma\": 18.45730913969257, \"short_squeeze\": 9.4, \"options_skew\": 62.12122385467178}",
+    "thesis": null
+  }
+}

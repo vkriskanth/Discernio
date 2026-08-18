@@ -1,0 +1,63 @@
+{
+  "ticker": "BIO",
+  "stock": {
+    "ticker": "BIO",
+    "name": "Bio-Rad Laboratories Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 2.78,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 1.47,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BIO",
+    "asof": "2026-08-12",
+    "market_cap": 9417988096.0,
+    "pe": 43.007328,
+    "forward_pe": 35.124794,
+    "ev_ebitda": 21.037,
+    "fcf_yield": 0.030068788058914105,
+    "roe": 0.0311,
+    "gross_margin": 0.52041,
+    "op_margin": 0.111829996,
+    "rev_growth": -0.001,
+    "debt_to_equity": 19.103
+  },
+  "market_stats": {
+    "ticker": "BIO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0,
+    "short_ratio": 0.0,
+    "putcall_oi_ratio": 0.3056872037914692,
+    "avg_volume": 365366.0,
+    "beta": 1.047
+  },
+  "momentum": {
+    "ticker": "BIO",
+    "asof": "2026-08-12",
+    "ret_1m": 20.07441690138252,
+    "ret_3m": 48.206528913134996,
+    "ret_6m": 19.425930521129686,
+    "ret_12m": 35.4213180506636,
+    "rsi14": 79.3684379147983,
+    "pct_vs_200dma": 20.69996476760423,
+    "score": 76.5,
+    "components_json": "{\"trend\": 84.45826505054484, \"rsi\": 79.3684379147983, \"vs_200dma\": 91.39992953520846, \"short_squeeze\": 0.0, \"options_skew\": 79.660663507109}",
+    "thesis": null
+  }
+}

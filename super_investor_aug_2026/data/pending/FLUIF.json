@@ -1,0 +1,55 @@
+{
+  "ticker": "FLUIF",
+  "stock": {
+    "ticker": "FLUIF",
+    "name": "FLUIDRA SA",
+    "sector": "Consumer Cyclical",
+    "industry": "Leisure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 18.64,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FLUIF",
+    "asof": "2026-08-12",
+    "market_cap": 4169616640.0,
+    "pe": 21.782179,
+    "forward_pe": null,
+    "ev_ebitda": 14.846,
+    "fcf_yield": 0.07127247074685504,
+    "roe": 0.10586,
+    "gross_margin": 0.55992,
+    "op_margin": 0.17653,
+    "rev_growth": 0.043,
+    "debt_to_equity": 76.487
+  },
+  "market_stats": {
+    "ticker": "FLUIF",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": null,
+    "avg_volume": 16.0,
+    "beta": 0.825
+  },
+  "momentum": {
+    "ticker": "FLUIF",
+    "asof": "2026-08-12",
+    "ret_1m": -12.663757310146318,
+    "ret_3m": -11.54001102688288,
+    "ret_6m": -26.33694800142903,
+    "ret_12m": -16.608917337075102,
+    "rsi14": 0.0,
+    "pct_vs_200dma": -19.116360379803453,
+    "score": 20.7,
+    "components_json": "{\"trend\": 31.993345356676386, \"rsi\": 0.0, \"vs_200dma\": 11.767279240393094, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

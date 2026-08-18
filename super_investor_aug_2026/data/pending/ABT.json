@@ -1,0 +1,71 @@
+{
+  "ticker": "ABT",
+  "stock": {
+    "ticker": "ABT",
+    "name": "Abbott Laboratories",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.1,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.35,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 1.93,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ABT",
+    "asof": "2026-08-12",
+    "market_cap": 188542566400.0,
+    "pe": 34.923077,
+    "forward_pe": 17.972872,
+    "ev_ebitda": 18.631,
+    "fcf_yield": 0.038236059907583816,
+    "roe": 0.10576,
+    "gross_margin": 0.56847,
+    "op_margin": 0.14706999,
+    "rev_growth": 0.13,
+    "debt_to_equity": 63.212
+  },
+  "market_stats": {
+    "ticker": "ABT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0146,
+    "short_ratio": 1.8,
+    "putcall_oi_ratio": 0.5419221032726386,
+    "avg_volume": 12357408.0,
+    "beta": 0.581
+  },
+  "momentum": {
+    "ticker": "ABT",
+    "asof": "2026-08-12",
+    "ret_1m": 25.325477927617058,
+    "ret_3m": 32.17492268593203,
+    "ret_6m": -0.08105256778941916,
+    "ret_12m": -13.779921899827464,
+    "rsi14": 77.11169928803429,
+    "pct_vs_200dma": 4.208597935466818,
+    "score": 54.9,
+    "components_json": "{\"trend\": 54.11619227551179, \"rsi\": 77.11169928803429, \"vs_200dma\": 58.41719587093364, \"short_squeeze\": 7.3, \"options_skew\": 63.90379571171501}",
+    "thesis": null
+  }
+}

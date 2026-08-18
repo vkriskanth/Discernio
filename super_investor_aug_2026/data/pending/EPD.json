@@ -1,0 +1,63 @@
+{
+  "ticker": "EPD",
+  "stock": {
+    "ticker": "EPD",
+    "name": "Enterprise Products Partners LP",
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 181.68,
+      "pct_of_portfolio": 0.1,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "fairx",
+      "manager_name": "Bruce Berkowitz - Fairholme Capital",
+      "action": "add",
+      "share_change_pct": 0.1,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EPD",
+    "asof": "2026-08-12",
+    "market_cap": 81908973568.0,
+    "pe": 13.124567,
+    "forward_pe": 12.027562,
+    "ev_ebitda": 11.292,
+    "fcf_yield": 0.013395968722390034,
+    "roe": 0.20852,
+    "gross_margin": 0.13325,
+    "op_margin": 0.11763,
+    "rev_growth": 0.608,
+    "debt_to_equity": 109.358
+  },
+  "market_stats": {
+    "ticker": "EPD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0231,
+    "short_ratio": 5.52,
+    "putcall_oi_ratio": 0.30685886564914266,
+    "avg_volume": 3287556.0,
+    "beta": 0.479
+  },
+  "momentum": {
+    "ticker": "EPD",
+    "asof": "2026-08-12",
+    "ret_1m": 1.975138203750415,
+    "ret_3m": 0.8260470797831987,
+    "ret_6m": 10.908220823210613,
+    "ret_12m": 29.623742224828575,
+    "rsi14": 46.11999707689703,
+    "pct_vs_200dma": 9.314569515309357,
+    "score": 59.3,
+    "components_json": "{\"trend\": 65.36977726082958, \"rsi\": 46.11999707689703, \"vs_200dma\": 68.62913903061872, \"short_squeeze\": 11.55, \"options_skew\": 79.58251366120219}",
+    "thesis": null
+  }
+}

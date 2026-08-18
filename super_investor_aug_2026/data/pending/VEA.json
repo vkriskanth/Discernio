@@ -1,0 +1,71 @@
+{
+  "ticker": "VEA",
+  "stock": {
+    "ticker": "VEA",
+    "name": "Vanguard FTSE Developed Markets",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 74.81,
+      "pct_of_portfolio": 0.25,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 7.65,
+      "pct_of_portfolio": 0.12,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 781.98,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VEA",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 19.299181,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VEA",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.19578002789062027,
+    "avg_volume": 11202951.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VEA",
+    "asof": "2026-08-12",
+    "ret_1m": 3.7039630598973305,
+    "ret_3m": 5.188474032967139,
+    "ret_6m": 7.565829516130451,
+    "ret_12m": 30.35482380926733,
+    "rsi14": 71.86509293218127,
+    "pct_vs_200dma": 10.467058991396083,
+    "score": 63.6,
+    "components_json": "{\"trend\": 65.96822058843621, \"rsi\": 71.86509293218127, \"vs_200dma\": 70.93411798279217, \"short_squeeze\": 0.0, \"options_skew\": 86.99147213969563}",
+    "thesis": null
+  }
+}

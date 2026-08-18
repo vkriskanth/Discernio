@@ -1,0 +1,63 @@
+{
+  "ticker": "MHK",
+  "stock": {
+    "ticker": "MHK",
+    "name": "Mohawk Industries",
+    "sector": "Consumer Cyclical",
+    "industry": "Furnishings, Fixtures & Appliances"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AIM",
+      "manager_name": "Alex Roepers - Atlantic Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.29,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 1.67,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MHK",
+    "asof": "2026-08-12",
+    "market_cap": 9162939392.0,
+    "pe": 17.94032,
+    "forward_pe": 13.447633,
+    "ev_ebitda": 7.161,
+    "fcf_yield": 0.10552290336485072,
+    "roe": 0.055120002,
+    "gross_margin": 0.25641,
+    "op_margin": 0.097849995,
+    "rev_growth": 0.068,
+    "debt_to_equity": 27.604
+  },
+  "market_stats": {
+    "ticker": "MHK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1097,
+    "short_ratio": 5.07,
+    "putcall_oi_ratio": 0.43249427917620137,
+    "avg_volume": 813401.0,
+    "beta": 1.181
+  },
+  "momentum": {
+    "ticker": "MHK",
+    "asof": "2026-08-12",
+    "ret_1m": 23.744547432943296,
+    "ret_3m": 36.73100088710499,
+    "ret_6m": -0.6427974165498007,
+    "ret_12m": 13.406704605421504,
+    "rsi14": 79.53667766341292,
+    "pct_vs_200dma": 21.394460485270407,
+    "score": 74.2,
+    "components_json": "{\"trend\": 66.18914288333517, \"rsi\": 79.53667766341292, \"vs_200dma\": 92.78892097054081, \"short_squeeze\": 54.85, \"options_skew\": 71.20263157894736}",
+    "thesis": null
+  }
+}

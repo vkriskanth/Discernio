@@ -1,0 +1,71 @@
+{
+  "ticker": "CLX",
+  "stock": {
+    "ticker": "CLX",
+    "name": "Clorox Company (The)",
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.26,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "JIM",
+      "manager_name": "Jensen Investment Management",
+      "action": "add",
+      "share_change_pct": 3.55,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CLX",
+    "asof": "2026-08-12",
+    "market_cap": 12743709696.0,
+    "pe": 21.908524,
+    "forward_pe": 16.560902,
+    "ev_ebitda": 16.41,
+    "fcf_yield": 0.008661135778590793,
+    "roe": 1.6376,
+    "gross_margin": 0.42321,
+    "op_margin": 0.12885,
+    "rev_growth": -0.02,
+    "debt_to_equity": 2221.429
+  },
+  "market_stats": {
+    "ticker": "CLX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1289,
+    "short_ratio": 5.8,
+    "putcall_oi_ratio": 1.0218045724513871,
+    "avg_volume": 2567370.0,
+    "beta": 0.541
+  },
+  "momentum": {
+    "ticker": "CLX",
+    "asof": "2026-08-12",
+    "ret_1m": 12.269129287598934,
+    "ret_3m": 19.37492904431968,
+    "ret_6m": -11.308429888078198,
+    "ret_12m": -8.944554845086117,
+    "rsi14": 73.04380115974675,
+    "pct_vs_200dma": 3.7655800295983255,
+    "score": 54.5,
+    "components_json": "{\"trend\": 48.842127808838, \"rsi\": 73.04380115974675, \"vs_200dma\": 57.53116005919665, \"short_squeeze\": 64.44999999999999, \"options_skew\": 31.89563501749248}",
+    "thesis": null
+  }
+}

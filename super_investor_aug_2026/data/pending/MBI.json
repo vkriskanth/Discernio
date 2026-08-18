@@ -1,0 +1,55 @@
+{
+  "ticker": "MBI",
+  "stock": {
+    "ticker": "MBI",
+    "name": "MBIA Inc.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Specialty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "KB",
+      "manager_name": "Kahn Brothers Group",
+      "action": "add",
+      "share_change_pct": 99.89,
+      "pct_of_portfolio": 1.07,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MBI",
+    "asof": "2026-08-12",
+    "market_cap": 248450080.0,
+    "pe": null,
+    "forward_pe": -10.94382,
+    "ev_ebitda": null,
+    "fcf_yield": 0.4910443176351563,
+    "roe": null,
+    "gross_margin": 1.29545,
+    "op_margin": 0.22222,
+    "rev_growth": -0.25,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "MBI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0581,
+    "short_ratio": 6.92,
+    "putcall_oi_ratio": 53.333333333333336,
+    "avg_volume": 374301.0,
+    "beta": 1.344
+  },
+  "momentum": {
+    "ticker": "MBI",
+    "asof": "2026-08-12",
+    "ret_1m": -22.797171695936548,
+    "ret_3m": -20.548541754000016,
+    "ret_6m": -20.290582713599825,
+    "ret_12m": -18.572142415043313,
+    "rsi14": 15.448410569118295,
+    "pct_vs_200dma": -23.445362997361986,
+    "score": 18.1,
+    "components_json": "{\"trend\": 30.319405693702723, \"rsi\": 15.448410569118295, \"vs_200dma\": 3.1092740052760277, \"short_squeeze\": 29.049999999999997, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

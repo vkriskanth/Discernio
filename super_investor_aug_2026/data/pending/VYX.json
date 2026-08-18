@@ -1,0 +1,55 @@
+{
+  "ticker": "VYX",
+  "stock": {
+    "ticker": "VYX",
+    "name": "NCR Voyix Corporation",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 7.28,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VYX",
+    "asof": "2026-08-12",
+    "market_cap": 1103868928.0,
+    "pe": 28.553572,
+    "forward_pe": 7.7923975,
+    "ev_ebitda": 9.536,
+    "fcf_yield": 0.19590188156831606,
+    "roe": 0.05272,
+    "gross_margin": 0.25825,
+    "op_margin": 0.02486,
+    "rev_growth": -0.208,
+    "debt_to_equity": 115.799
+  },
+  "market_stats": {
+    "ticker": "VYX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.3728,
+    "short_ratio": 14.47,
+    "putcall_oi_ratio": 0.027624309392265192,
+    "avg_volume": 2333567.0,
+    "beta": 1.499
+  },
+  "momentum": {
+    "ticker": "VYX",
+    "asof": "2026-08-12",
+    "ret_1m": -0.7754401188992843,
+    "ret_3m": -4.221561947140174,
+    "ret_6m": -18.80711032433252,
+    "ret_12m": -36.173183453986205,
+    "rsi14": 52.12929607118625,
+    "pct_vs_200dma": -7.190758552162501,
+    "score": 48.0,
+    "components_json": "{\"trend\": 28.622124936963708, \"rsi\": 52.12929607118625, \"vs_200dma\": 35.618482895675, \"short_squeeze\": 100.0, \"options_skew\": 98.20745856353591}",
+    "thesis": null
+  }
+}

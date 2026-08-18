@@ -1,0 +1,71 @@
+{
+  "ticker": "VT",
+  "stock": {
+    "ticker": "VT",
+    "name": "Vanguard Tot World Stk ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 33.67,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 16.95,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VT",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VT",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.8658823529411764,
+    "avg_volume": 3131569.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VT",
+    "asof": "2026-08-12",
+    "ret_1m": 3.0201560449156117,
+    "ret_3m": 5.020065837416965,
+    "ret_6m": 10.095682448225872,
+    "ret_12m": 25.01881769927894,
+    "rsi14": 75.90798407070518,
+    "pct_vs_200dma": 9.975760582450445,
+    "score": 58.9,
+    "components_json": "{\"trend\": 64.54225156540443, \"rsi\": 75.90798407070518, \"vs_200dma\": 69.9515211649009, \"short_squeeze\": 0.0, \"options_skew\": 42.29564705882353}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "ZS",
+  "stock": {
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SP",
+      "manager_name": "Dennis Hong - ShawSpring Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 10.51,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ZS",
+    "asof": "2026-08-12",
+    "market_cap": 28591859712.0,
+    "pe": null,
+    "forward_pe": 38.47451,
+    "ev_ebitda": -447.436,
+    "fcf_yield": 0.03878091775662389,
+    "roe": -0.037100002,
+    "gross_margin": 0.76737,
+    "op_margin": -0.03276,
+    "rev_growth": 0.254,
+    "debt_to_equity": 78.939
+  },
+  "market_stats": {
+    "ticker": "ZS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0705,
+    "short_ratio": 3.03,
+    "putcall_oi_ratio": 0.809478534337746,
+    "avg_volume": 4459277.0,
+    "beta": 0.917
+  },
+  "momentum": {
+    "ticker": "ZS",
+    "asof": "2026-08-12",
+    "ret_1m": 15.425082042705341,
+    "ret_3m": 20.099887289356523,
+    "ret_6m": 0.6940499823815838,
+    "ret_12m": -35.26439715571392,
+    "rsi14": 82.15245424144838,
+    "pct_vs_200dma": -4.828211445007879,
+    "score": 47.4,
+    "components_json": "{\"trend\": 42.132422319235864, \"rsi\": 82.15245424144838, \"vs_200dma\": 40.34357710998424, \"short_squeeze\": 35.24999999999999, \"options_skew\": 46.057781759672345}",
+    "thesis": null
+  }
+}

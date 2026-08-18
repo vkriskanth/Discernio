@@ -1,0 +1,55 @@
+{
+  "ticker": "KSA",
+  "stock": {
+    "ticker": "KSA",
+    "name": "iShares MSCI Saudi Arabia ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KSA",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 14.728561,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "KSA",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 2.087136929460581,
+    "avg_volume": 529169.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "KSA",
+    "asof": "2026-08-12",
+    "ret_1m": 2.3983693358726077,
+    "ret_3m": -0.9995386360338032,
+    "ret_6m": -2.210858866330012,
+    "ret_12m": 3.7317348317732035,
+    "rsi14": 61.49915972502928,
+    "pct_vs_200dma": 0.2251604079518632,
+    "score": 42.0,
+    "components_json": "{\"trend\": 50.52957468200014, \"rsi\": 61.49915972502928, \"vs_200dma\": 50.45032081590372, \"short_squeeze\": 0.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "TALO",
+  "stock": {
+    "ticker": "TALO",
+    "name": "Talos Energy, Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 123.72,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TALO",
+    "asof": "2026-08-12",
+    "market_cap": 2571268096.0,
+    "pe": null,
+    "forward_pe": 13.573544,
+    "ev_ebitda": 2.972,
+    "fcf_yield": 0.21422790445574758,
+    "roe": -0.17822,
+    "gross_margin": 0.71367997,
+    "op_margin": 0.34449002,
+    "rev_growth": 0.566,
+    "debt_to_equity": 66.094
+  },
+  "market_stats": {
+    "ticker": "TALO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0858,
+    "short_ratio": 4.62,
+    "putcall_oi_ratio": 0.10434782608695652,
+    "avg_volume": 2028095.0,
+    "beta": 0.345
+  },
+  "momentum": {
+    "ticker": "TALO",
+    "asof": "2026-08-12",
+    "ret_1m": 9.39265492964767,
+    "ret_3m": 0.9120481183664486,
+    "ret_6m": 21.11024094853835,
+    "ret_12m": 97.57652384745299,
+    "rsi14": 51.97934154795257,
+    "pct_vs_200dma": 17.051420594152876,
+    "score": 80.7,
+    "components_json": "{\"trend\": 95.63729625905263, \"rsi\": 51.97934154795257, \"vs_200dma\": 84.10284118830575, \"short_squeeze\": 42.9, \"options_skew\": 93.09}",
+    "thesis": null
+  }
+}

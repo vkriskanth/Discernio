@@ -1,0 +1,63 @@
+{
+  "ticker": "RPRX",
+  "stock": {
+    "ticker": "RPRX",
+    "name": "Royalty Pharma plc",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 9.3,
+      "pct_of_portfolio": 0.55,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DA",
+      "manager_name": "Pat Dorsey - Dorsey Asset Management",
+      "action": "add",
+      "share_change_pct": 0.76,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RPRX",
+    "asof": "2026-08-12",
+    "market_cap": 34034509824.0,
+    "pe": 31.666668,
+    "forward_pe": 10.267012,
+    "ev_ebitda": 23.636,
+    "fcf_yield": -0.035122355696660085,
+    "roe": 0.13965,
+    "gross_margin": 0.95821,
+    "op_margin": 0.19746,
+    "rev_growth": 0.165,
+    "debt_to_equity": 91.581
+  },
+  "market_stats": {
+    "ticker": "RPRX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.024300002,
+    "short_ratio": 3.92,
+    "putcall_oi_ratio": 0.25,
+    "avg_volume": 3571277.0,
+    "beta": 0.425
+  },
+  "momentum": {
+    "ticker": "RPRX",
+    "asof": "2026-08-12",
+    "ret_1m": 6.053534861551224,
+    "ret_3m": 14.702061474951499,
+    "ret_6m": 34.8371771890811,
+    "ret_12m": 66.63978878702524,
+    "rsi14": 50.117373467014765,
+    "pct_vs_200dma": 25.485405845264953,
+    "score": 78.7,
+    "components_json": "{\"trend\": 91.51768711401988, \"rsi\": 50.117373467014765, \"vs_200dma\": 100.0, \"short_squeeze\": 12.150001000000001, \"options_skew\": 83.375}",
+    "thesis": null
+  }
+}

@@ -22,6 +22,11 @@ def pending_tickers(conn: sqlite3.Connection, table: str) -> list[str]:
     return [r["ticker"] for r in rows]
 
 
+def yf_symbol(ticker: str) -> str:
+    """Dataroma uses dot share-class suffixes (BRK.B); yfinance wants a dash."""
+    return ticker.replace(".", "-")
+
+
 def _get(info: dict, *keys: str) -> float | None:
     for k in keys:
         v = info.get(k)
@@ -33,7 +38,7 @@ def _get(info: dict, *keys: str) -> float | None:
 def enrich_ticker(conn: sqlite3.Connection, ticker: str) -> bool:
     """Fetch fundamentals for one ticker; returns False on failure."""
     try:
-        info = yf.Ticker(ticker).info or {}
+        info = yf.Ticker(yf_symbol(ticker)).info or {}
     except Exception as exc:  # yfinance raises many ad-hoc types
         db.log_run(conn, "enrich", "error", f"{ticker}: {exc}")
         return False
@@ -44,6 +49,8 @@ def enrich_ticker(conn: sqlite3.Connection, ticker: str) -> bool:
     market_cap = _get(info, "marketCap")
     fcf = _get(info, "freeCashflow")
     fcf_yield = (fcf / market_cap) if fcf and market_cap else None
+    price = _get(info, "currentPrice", "regularMarketPrice", "previousClose")
+    shares_outstanding = _get(info, "sharesOutstanding")
 
     db.upsert(
         conn,
@@ -60,6 +67,8 @@ def enrich_ticker(conn: sqlite3.Connection, ticker: str) -> bool:
         "fundamentals",
         {"ticker": ticker, "asof": db.today()},
         {
+            "price": price,
+            "shares_outstanding": shares_outstanding,
             "market_cap": market_cap,
             "pe": _get(info, "trailingPE"),
             "forward_pe": _get(info, "forwardPE"),

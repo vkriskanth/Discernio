@@ -1,0 +1,71 @@
+{
+  "ticker": "BA",
+  "stock": {
+    "ticker": "BA",
+    "name": "Boeing Company (The)",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.37,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 106.63,
+      "pct_of_portfolio": 0.4,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 14.41,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BA",
+    "asof": "2026-08-12",
+    "market_cap": 182053830656.0,
+    "pe": 82.85612,
+    "forward_pe": 55.89637,
+    "ev_ebitda": -73.598,
+    "fcf_yield": 0.03089951588346105,
+    "roe": 1.73537,
+    "gross_margin": 0.0471,
+    "op_margin": 4.0000003e-05,
+    "rev_growth": 0.08,
+    "debt_to_equity": 790.875
+  },
+  "market_stats": {
+    "ticker": "BA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0001,
+    "short_ratio": 0.01,
+    "putcall_oi_ratio": 0.6786444557000019,
+    "avg_volume": 6388846.0,
+    "beta": 1.221
+  },
+  "momentum": {
+    "ticker": "BA",
+    "asof": "2026-08-12",
+    "ret_1m": 6.132836996902213,
+    "ret_3m": -2.7208984667902447,
+    "ret_6m": -5.0146310522998006,
+    "ret_12m": 1.976011774306885,
+    "rsi14": 64.9883333577917,
+    "pct_vs_200dma": 5.150265034197266,
+    "score": 49.7,
+    "components_json": "{\"trend\": 48.46974585399574, \"rsi\": 64.9883333577917, \"vs_200dma\": 60.30053006839453, \"short_squeeze\": 0.05, \"options_skew\": 54.78441480480988}",
+    "thesis": null
+  }
+}

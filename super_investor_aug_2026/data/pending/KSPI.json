@@ -1,0 +1,71 @@
+{
+  "ticker": "KSPI",
+  "stock": {
+    "ticker": "KSPI",
+    "name": "Jsc Kaspi.kz ADR",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 14.95,
+      "pct_of_portfolio": 0.1,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 72.52,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 14.42,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KSPI",
+    "asof": "2026-08-12",
+    "market_cap": 18358534144.0,
+    "pe": 8.328448,
+    "forward_pe": 0.01420017,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": 0.69556,
+    "op_margin": 0.0,
+    "rev_growth": 0.139,
+    "debt_to_equity": 11.857
+  },
+  "market_stats": {
+    "ticker": "KSPI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0115,
+    "short_ratio": 3.98,
+    "putcall_oi_ratio": 1.6340996168582376,
+    "avg_volume": 451351.0,
+    "beta": 0.08
+  },
+  "momentum": {
+    "ticker": "KSPI",
+    "asof": "2026-08-12",
+    "ret_1m": 10.191721144824871,
+    "ret_3m": 16.316575615603735,
+    "ret_6m": 34.373473118328924,
+    "ret_12m": 7.142627820448766,
+    "rsi14": 87.77018599576607,
+    "pct_vs_200dma": 25.70842594620664,
+    "score": 66.0,
+    "components_json": "{\"trend\": 68.0640657483593, \"rsi\": 87.77018599576607, \"vs_200dma\": 100.0, \"short_squeeze\": 5.75, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

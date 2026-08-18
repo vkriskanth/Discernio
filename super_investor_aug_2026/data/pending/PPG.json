@@ -1,0 +1,55 @@
+{
+  "ticker": "PPG",
+  "stock": {
+    "ticker": "PPG",
+    "name": "PPG Industries, Inc.",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 4.4,
+      "pct_of_portfolio": 0.12,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PPG",
+    "asof": "2026-08-12",
+    "market_cap": 25526710272.0,
+    "pe": 16.474894,
+    "forward_pe": 13.231458,
+    "ev_ebitda": 11.798,
+    "fcf_yield": 0.04327330126873624,
+    "roe": 0.19297001,
+    "gross_margin": 0.41202998,
+    "op_margin": 0.14016,
+    "rev_growth": 0.072,
+    "debt_to_equity": 86.938
+  },
+  "market_stats": {
+    "ticker": "PPG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0319,
+    "short_ratio": 2.98,
+    "putcall_oi_ratio": 0.16924141111367305,
+    "avg_volume": 1957290.0,
+    "beta": 1.063
+  },
+  "momentum": {
+    "ticker": "PPG",
+    "asof": "2026-08-12",
+    "ret_1m": -0.5060918909707834,
+    "ret_3m": 6.6054643692396775,
+    "ret_6m": -6.130255491802372,
+    "ret_12m": 12.080807695112972,
+    "rsi14": 49.488239287376395,
+    "pct_vs_200dma": 5.688742087115739,
+    "score": 55.2,
+    "components_json": "{\"trend\": 54.97488574127638, \"rsi\": 49.488239287376395, \"vs_200dma\": 61.377484174231476, \"short_squeeze\": 15.95, \"options_skew\": 88.761597878718}",
+    "thesis": null
+  }
+}

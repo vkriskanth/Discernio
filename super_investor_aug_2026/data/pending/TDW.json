@@ -1,0 +1,63 @@
+{
+  "ticker": "TDW",
+  "stock": {
+    "ticker": "TDW",
+    "name": "Tidewater Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TA",
+      "manager_name": "Third Avenue Management",
+      "action": "add",
+      "share_change_pct": 5.51,
+      "pct_of_portfolio": 0.65,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 14.03,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TDW",
+    "asof": "2026-08-12",
+    "market_cap": 4555680256.0,
+    "pe": 18.572008,
+    "forward_pe": 15.644783,
+    "ev_ebitda": 11.407,
+    "fcf_yield": 0.08069467463521654,
+    "roe": 0.19448,
+    "gross_margin": 0.48092,
+    "op_margin": -0.08663999,
+    "rev_growth": -0.431,
+    "debt_to_equity": 45.454
+  },
+  "market_stats": {
+    "ticker": "TDW",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.16290002,
+    "short_ratio": 10.05,
+    "putcall_oi_ratio": 1.3162393162393162,
+    "avg_volume": 738051.0,
+    "beta": 0.541
+  },
+  "momentum": {
+    "ticker": "TDW",
+    "asof": "2026-08-12",
+    "ret_1m": 29.896686817365726,
+    "ret_3m": 17.88466856228932,
+    "ret_6m": 44.86269377831069,
+    "ret_12m": 48.85663945709793,
+    "rsi14": 68.1661677293695,
+    "pct_vs_200dma": 32.12449428981934,
+    "score": 79.9,
+    "components_json": "{\"trend\": 88.36686448501918, \"rsi\": 68.1661677293695, \"vs_200dma\": 100.0, \"short_squeeze\": 81.45001, \"options_skew\": 12.256837606837609}",
+    "thesis": null
+  }
+}

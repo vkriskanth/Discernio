@@ -1,0 +1,63 @@
+{
+  "ticker": "CG",
+  "stock": {
+    "ticker": "CG",
+    "name": "Carlyle Group",
+    "sector": "Financial Services",
+    "industry": "Asset Management"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 9.12,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 0.8,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CG",
+    "asof": "2026-08-12",
+    "market_cap": 16883048448.0,
+    "pe": 49.354168,
+    "forward_pe": 9.268479,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.077659994,
+    "gross_margin": 0.98319,
+    "op_margin": 0.26855,
+    "rev_growth": -0.329,
+    "debt_to_equity": 197.617
+  },
+  "market_stats": {
+    "ticker": "CG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.064,
+    "short_ratio": 6.13,
+    "putcall_oi_ratio": 0.17114585001408086,
+    "avg_volume": 3576756.0,
+    "beta": 1.825
+  },
+  "momentum": {
+    "ticker": "CG",
+    "asof": "2026-08-12",
+    "ret_1m": 6.911206029661976,
+    "ret_3m": -4.896401791977212,
+    "ret_6m": -17.454493520493386,
+    "ret_12m": -20.323167711740965,
+    "rsi14": 63.21021992220509,
+    "pct_vs_200dma": -6.393353114501609,
+    "score": 44.9,
+    "components_json": "{\"trend\": 35.16546432156244, \"rsi\": 63.21021992220509, \"vs_200dma\": 37.213293770996785, \"short_squeeze\": 32.0, \"options_skew\": 88.63457180406081}",
+    "thesis": null
+  }
+}

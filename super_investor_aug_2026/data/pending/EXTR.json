@@ -1,0 +1,55 @@
+{
+  "ticker": "EXTR",
+  "stock": {
+    "ticker": "EXTR",
+    "name": "Extreme Networks, Inc.",
+    "sector": "Technology",
+    "industry": "Communication Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 66.77,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EXTR",
+    "asof": "2026-08-12",
+    "market_cap": 3239906816.0,
+    "pe": 79.64968,
+    "forward_pe": 16.240923,
+    "ev_ebitda": 37.505,
+    "fcf_yield": 0.02513945882571951,
+    "roe": 0.54638,
+    "gross_margin": 0.61479,
+    "op_margin": 0.064380005,
+    "rev_growth": 0.103,
+    "debt_to_equity": 219.625
+  },
+  "market_stats": {
+    "ticker": "EXTR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0853,
+    "short_ratio": 4.42,
+    "putcall_oi_ratio": 0.17555235350624399,
+    "avg_volume": 2122795.0,
+    "beta": 1.798
+  },
+  "momentum": {
+    "ticker": "EXTR",
+    "asof": "2026-08-12",
+    "ret_1m": -25.11408405541211,
+    "ret_3m": 4.655609234875868,
+    "ret_6m": 63.44620906554168,
+    "ret_12m": 22.158810109761994,
+    "rsi14": 31.553236455836824,
+    "pct_vs_200dma": 20.36718852965944,
+    "score": 72.2,
+    "components_json": "{\"trend\": 79.29406953403006, \"rsi\": 31.553236455836824, \"vs_200dma\": 90.73437705931889, \"short_squeeze\": 42.65, \"options_skew\": 88.34065802113354}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "QQQM",
+  "stock": {
+    "ticker": "QQQM",
+    "name": "Invesco NASDAQ 100 ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GC",
+      "manager_name": "Francois Rochon - Giverny Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "QQQM",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 30.933796,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "QQQM",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.9850901525658807,
+    "avg_volume": 3984101.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "QQQM",
+    "asof": "2026-08-12",
+    "ret_1m": 0.7053720454409218,
+    "ret_3m": 2.6122753697666923,
+    "ret_6m": 18.81597103303154,
+    "ret_12m": 27.168981142641947,
+    "rsi14": 63.51737082159366,
+    "pct_vs_200dma": 11.784000675898309,
+    "score": 58.3,
+    "components_json": "{\"trend\": 67.29606637789625, \"rsi\": 63.51737082159366, \"vs_200dma\": 73.56800135179662, \"short_squeeze\": 0.0, \"options_skew\": 34.34448682385576}",
+    "thesis": null
+  }
+}

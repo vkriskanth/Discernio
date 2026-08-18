@@ -1,0 +1,55 @@
+{
+  "ticker": "CASY",
+  "stock": {
+    "ticker": "CASY",
+    "name": "Caseys General Stores, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Specialty Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 50.0,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CASY",
+    "asof": "2026-08-12",
+    "market_cap": 30977181696.0,
+    "pe": 43.64494,
+    "forward_pe": 35.448727,
+    "ev_ebitda": 22.159,
+    "fcf_yield": 0.017785338040327323,
+    "roe": 0.19153,
+    "gross_margin": 0.24606001,
+    "op_margin": 0.05351,
+    "rev_growth": 0.145,
+    "debt_to_equity": 73.514
+  },
+  "market_stats": {
+    "ticker": "CASY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0512,
+    "short_ratio": 4.4,
+    "putcall_oi_ratio": 1.048780487804878,
+    "avg_volume": 515798.0,
+    "beta": 0.615
+  },
+  "momentum": {
+    "ticker": "CASY",
+    "asof": "2026-08-12",
+    "ret_1m": 1.7063795457080255,
+    "ret_3m": -1.7537500220722535,
+    "ret_6m": 28.113451103934416,
+    "ret_12m": 60.75260797942696,
+    "rsi14": 38.79126031001586,
+    "pct_vs_200dma": 19.73620593755696,
+    "score": 66.6,
+    "components_json": "{\"trend\": 82.20895351632944, \"rsi\": 38.79126031001586, \"vs_200dma\": 89.47241187511392, \"short_squeeze\": 25.6, \"options_skew\": 30.096341463414632}",
+    "thesis": null
+  }
+}

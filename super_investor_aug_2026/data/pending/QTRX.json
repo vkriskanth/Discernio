@@ -1,0 +1,55 @@
+{
+  "ticker": "QTRX",
+  "stock": {
+    "ticker": "QTRX",
+    "name": "Quanterix Corporation",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 111.77,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "QTRX",
+    "asof": "2026-08-08",
+    "market_cap": 189837104.0,
+    "pe": null,
+    "forward_pe": -2.9632354,
+    "ev_ebitda": -1.977,
+    "fcf_yield": -0.11580191404521215,
+    "roe": -0.34814,
+    "gross_margin": 0.45308,
+    "op_margin": -0.59116,
+    "rev_growth": 0.201,
+    "debt_to_equity": 12.524
+  },
+  "market_stats": {
+    "ticker": "QTRX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1076,
+    "short_ratio": 8.85,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 989556.0,
+    "beta": 1.066
+  },
+  "momentum": {
+    "ticker": "QTRX",
+    "asof": "2026-08-12",
+    "ret_1m": -31.902011162542166,
+    "ret_3m": -1.443637501109729,
+    "ret_6m": -53.90646401412216,
+    "ret_12m": -51.688058748376434,
+    "rsi14": 30.874833583022678,
+    "pct_vs_200dma": -44.35103985578689,
+    "score": 20.1,
+    "components_json": "{\"trend\": 12.719746046079855, \"rsi\": 30.874833583022678, \"vs_200dma\": 0.0, \"short_squeeze\": 53.8, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

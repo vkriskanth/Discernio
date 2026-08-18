@@ -1,0 +1,55 @@
+{
+  "ticker": "HALO",
+  "stock": {
+    "ticker": "HALO",
+    "name": "Halozyme Therapeutics, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 1.37,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HALO",
+    "asof": "2026-08-12",
+    "market_cap": 11488267264.0,
+    "pe": 29.683285,
+    "forward_pe": 9.739192,
+    "ev_ebitda": 12.939,
+    "fcf_yield": 0.029361141436620393,
+    "roe": 1.73674,
+    "gross_margin": 0.76271003,
+    "op_margin": 0.59803003,
+    "rev_growth": 0.477,
+    "debt_to_equity": 1517.687
+  },
+  "market_stats": {
+    "ticker": "HALO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1619,
+    "short_ratio": 7.87,
+    "putcall_oi_ratio": 0.39332096474953615,
+    "avg_volume": 1993562.0,
+    "beta": 0.848
+  },
+  "momentum": {
+    "ticker": "HALO",
+    "asof": "2026-08-12",
+    "ret_1m": 34.823442297280224,
+    "ret_3m": 42.65472595974351,
+    "ret_6m": 26.134375490984162,
+    "ret_12m": 60.89203138909329,
+    "rsi14": 86.9707257667378,
+    "pct_vs_200dma": 42.68927681298007,
+    "score": 91.5,
+    "components_json": "{\"trend\": 94.99354299085562, \"rsi\": 86.9707257667378, \"vs_200dma\": 100.0, \"short_squeeze\": 80.94999999999999, \"options_skew\": 73.81549165120595}",
+    "thesis": null
+  }
+}

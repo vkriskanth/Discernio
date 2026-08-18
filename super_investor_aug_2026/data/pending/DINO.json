@@ -1,0 +1,63 @@
+{
+  "ticker": "DINO",
+  "stock": {
+    "ticker": "DINO",
+    "name": "HF Sinclair Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas Refining & Marketing"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 30.99,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "add",
+      "share_change_pct": 0.6,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DINO",
+    "asof": "2026-08-12",
+    "market_cap": 15358747648.0,
+    "pe": 8.235462,
+    "forward_pe": 9.417323,
+    "ev_ebitda": 5.1,
+    "fcf_yield": 0.13253847297016283,
+    "roe": 0.19504999,
+    "gross_margin": 0.12892,
+    "op_margin": 0.11694,
+    "rev_growth": 0.532,
+    "debt_to_equity": 32.261
+  },
+  "market_stats": {
+    "ticker": "DINO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0559,
+    "short_ratio": 3.07,
+    "putcall_oi_ratio": 0.3052439024390244,
+    "avg_volume": 2576733.0,
+    "beta": 0.685
+  },
+  "momentum": {
+    "ticker": "DINO",
+    "asof": "2026-08-12",
+    "ret_1m": 5.704736204524452,
+    "ret_3m": 23.14439435575173,
+    "ret_6m": 54.96922321715727,
+    "ret_12m": 110.76813195192146,
+    "rsi14": 47.55769580614003,
+    "pct_vs_200dma": 43.11689980933438,
+    "score": 82.9,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 47.55769580614003, \"vs_200dma\": 100.0, \"short_squeeze\": 27.95, \"options_skew\": 79.69023170731708}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "NWE",
+  "stock": {
+    "ticker": "NWE",
+    "name": "NorthWestern Energy Group, Inc.",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Electric"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 5.29,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NWE",
+    "asof": "2026-08-12",
+    "market_cap": 4377610240.0,
+    "pe": 25.689531,
+    "forward_pe": 17.947672,
+    "ev_ebitda": 13.382,
+    "fcf_yield": -0.05550645641764581,
+    "roe": 0.05935,
+    "gross_margin": 0.55587,
+    "op_margin": 0.17343001,
+    "rev_growth": 0.146,
+    "debt_to_equity": 124.221
+  },
+  "market_stats": {
+    "ticker": "NWE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0309,
+    "short_ratio": 3.91,
+    "putcall_oi_ratio": 0.22608695652173913,
+    "avg_volume": 483719.0,
+    "beta": 0.36
+  },
+  "momentum": {
+    "ticker": "NWE",
+    "asof": "2026-08-12",
+    "ret_1m": -2.948842981606159,
+    "ret_3m": -0.09283363744662099,
+    "ret_6m": 5.563223796554406,
+    "ret_12m": 33.852797721343755,
+    "rsi14": 41.826483254705316,
+    "pct_vs_200dma": 4.622435351245824,
+    "score": 57.2,
+    "components_json": "{\"trend\": 65.18223613626984, \"rsi\": 41.826483254705316, \"vs_200dma\": 59.244870702491646, \"short_squeeze\": 15.45, \"options_skew\": 84.97}",
+    "thesis": null
+  }
+}

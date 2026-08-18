@@ -1,0 +1,55 @@
+{
+  "ticker": "SOLS",
+  "stock": {
+    "ticker": "SOLS",
+    "name": "Solstice Advanced Materials Inc",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SOLS",
+    "asof": "2026-08-12",
+    "market_cap": 9777040384.0,
+    "pe": 46.62871,
+    "forward_pe": 18.30954,
+    "ev_ebitda": 12.764,
+    "fcf_yield": -0.002799927066354235,
+    "roe": 0.112629995,
+    "gross_margin": 0.30622998,
+    "op_margin": 0.19338,
+    "rev_growth": 0.111,
+    "debt_to_equity": 152.771
+  },
+  "market_stats": {
+    "ticker": "SOLS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1024,
+    "short_ratio": 2.65,
+    "putcall_oi_ratio": 1.4929697486152536,
+    "avg_volume": 2999670.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "SOLS",
+    "asof": "2026-08-12",
+    "ret_1m": 0.8809150444505587,
+    "ret_3m": -20.901157729805007,
+    "ret_6m": -4.377222091731181,
+    "ret_12m": null,
+    "rsi14": 54.705877673067405,
+    "pct_vs_200dma": -7.214963953130383,
+    "score": 39.2,
+    "components_json": "{\"trend\": 42.416486053539145, \"rsi\": 54.705877673067405, \"vs_200dma\": 35.570072093739235, \"short_squeeze\": 51.2, \"options_skew\": 0.46891776736258783}",
+    "thesis": null
+  }
+}

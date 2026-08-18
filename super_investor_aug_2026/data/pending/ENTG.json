@@ -1,0 +1,79 @@
+{
+  "ticker": "ENTG",
+  "stock": {
+    "ticker": "ENTG",
+    "name": "Entegris, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment & Materials"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.17,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "add",
+      "share_change_pct": 1.99,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 0.33,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ENTG",
+    "asof": "2026-08-12",
+    "market_cap": 23926951936.0,
+    "pe": 78.295,
+    "forward_pe": 31.220465,
+    "ev_ebitda": 28.598,
+    "fcf_yield": 0.01996858978435656,
+    "roe": 0.07671,
+    "gross_margin": 0.45555001,
+    "op_margin": 0.19271,
+    "rev_growth": 0.115,
+    "debt_to_equity": 85.655
+  },
+  "market_stats": {
+    "ticker": "ENTG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0736,
+    "short_ratio": 2.74,
+    "putcall_oi_ratio": 0.6865319865319865,
+    "avg_volume": 3224100.0,
+    "beta": 1.35
+  },
+  "momentum": {
+    "ticker": "ENTG",
+    "asof": "2026-08-12",
+    "ret_1m": 17.226967556883398,
+    "ret_3m": 7.103728172275181,
+    "ret_6m": 30.61170491886591,
+    "ret_12m": 118.98163771670602,
+    "rsi14": 60.64483471026108,
+    "pct_vs_200dma": 31.85601104752134,
+    "score": 83.2,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 60.64483471026108, \"vs_200dma\": 100.0, \"short_squeeze\": 36.8, \"options_skew\": 54.258316498316496}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "XOM",
+  "stock": {
+    "ticker": "XOM",
+    "name": "ExxonMobil Holdings Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas Integrated"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MUHL",
+      "manager_name": "Muhlenkamp",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 19.36,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 0.48,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "XOM",
+    "asof": "2026-08-12",
+    "market_cap": 653999603712.0,
+    "pe": 20.469755,
+    "forward_pe": 14.918276,
+    "ev_ebitda": 10.239,
+    "fcf_yield": 0.031607053672012365,
+    "roe": 0.12584,
+    "gross_margin": 0.29767,
+    "op_margin": 0.15859,
+    "rev_growth": 0.441,
+    "debt_to_equity": 15.921
+  },
+  "market_stats": {
+    "ticker": "XOM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0115,
+    "short_ratio": 2.81,
+    "putcall_oi_ratio": 0.5622028866120922,
+    "avg_volume": 16445174.0,
+    "beta": 0.173
+  },
+  "momentum": {
+    "ticker": "XOM",
+    "asof": "2026-08-12",
+    "ret_1m": 9.855953830514586,
+    "ret_3m": 6.533790046359367,
+    "ret_6m": 6.564721100885618,
+    "ret_12m": 55.41033659400296,
+    "rsi14": 54.92125511229016,
+    "pct_vs_200dma": 13.96891766129469,
+    "score": 65.0,
+    "components_json": "{\"trend\": 76.09368798177468, \"rsi\": 54.92125511229016, \"vs_200dma\": 77.93783532258938, \"short_squeeze\": 5.75, \"options_skew\": 62.55106746297346}",
+    "thesis": null
+  }
+}

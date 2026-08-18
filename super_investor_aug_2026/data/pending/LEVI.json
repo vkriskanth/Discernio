@@ -1,0 +1,55 @@
+{
+  "ticker": "LEVI",
+  "stock": {
+    "ticker": "LEVI",
+    "name": "Levi Strauss & Co",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Manufacturing"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 73.34,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LEVI",
+    "asof": "2026-08-12",
+    "market_cap": 8605258752.0,
+    "pe": 15.971429,
+    "forward_pe": 13.080689,
+    "ev_ebitda": 10.343,
+    "fcf_yield": 0.06858451756175617,
+    "roe": 0.25403,
+    "gross_margin": 0.61717,
+    "op_margin": 0.0904,
+    "rev_growth": 0.08,
+    "debt_to_equity": 101.021
+  },
+  "market_stats": {
+    "ticker": "LEVI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.070700005,
+    "short_ratio": 2.23,
+    "putcall_oi_ratio": 0.9281437125748503,
+    "avg_volume": 2675788.0,
+    "beta": 1.333
+  },
+  "momentum": {
+    "ticker": "LEVI",
+    "asof": "2026-08-12",
+    "ret_1m": -5.453016899076779,
+    "ret_3m": -0.9230728987809078,
+    "ret_6m": 14.529448507089127,
+    "ret_12m": 12.756975789807745,
+    "rsi14": 37.362656172765114,
+    "pct_vs_200dma": 3.935436453598684,
+    "score": 51.1,
+    "components_json": "{\"trend\": 59.18470299841556, \"rsi\": 37.362656172765114, \"vs_200dma\": 57.870872907197366, \"short_squeeze\": 35.3500025, \"options_skew\": 38.14281437125749}",
+    "thesis": null
+  }
+}

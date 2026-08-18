@@ -1,0 +1,55 @@
+{
+  "ticker": "EVH",
+  "stock": {
+    "ticker": "EVH",
+    "name": "Evolent Health, Inc",
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 1.29,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EVH",
+    "asof": "2026-08-12",
+    "market_cap": 462977952.0,
+    "pe": null,
+    "forward_pe": 10.618161,
+    "ev_ebitda": 21.598,
+    "fcf_yield": 0.3980643294218901,
+    "roe": -0.66973996,
+    "gross_margin": 0.17245,
+    "op_margin": -0.013359999,
+    "rev_growth": 0.469,
+    "debt_to_equity": 253.23
+  },
+  "market_stats": {
+    "ticker": "EVH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1419,
+    "short_ratio": 4.72,
+    "putcall_oi_ratio": 0.9756453969800293,
+    "avg_volume": 3039814.0,
+    "beta": 0.783
+  },
+  "momentum": {
+    "ticker": "EVH",
+    "asof": "2026-08-12",
+    "ret_1m": -29.321486921527786,
+    "ret_3m": 5.168273088318487,
+    "ret_6m": 60.256409136758826,
+    "ret_12m": -52.548808315708804,
+    "rsi14": 45.57596269748738,
+    "pct_vs_200dma": 10.18971546618661,
+    "score": 54.5,
+    "components_json": "{\"trend\": 48.60788134123967, \"rsi\": 45.57596269748738, \"vs_200dma\": 70.37943093237323, \"short_squeeze\": 70.95, \"options_skew\": 34.97445202143205}",
+    "thesis": null
+  }
+}

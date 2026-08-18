@@ -1,0 +1,79 @@
+{
+  "ticker": "REZI",
+  "stock": {
+    "ticker": "REZI",
+    "name": "Resideo Technologies Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.66,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.61,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 15.1,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 22.49,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "REZI",
+    "asof": "2026-08-12",
+    "market_cap": 3553974016.0,
+    "pe": null,
+    "forward_pe": 8.163478,
+    "ev_ebitda": 8.425,
+    "fcf_yield": 0.035945676424439,
+    "roe": -0.15792,
+    "gross_margin": 0.29367,
+    "op_margin": 0.07897,
+    "rev_growth": 0.08,
+    "debt_to_equity": 120.329
+  },
+  "market_stats": {
+    "ticker": "REZI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0614,
+    "short_ratio": 3.5,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 2287555.0,
+    "beta": 1.629
+  },
+  "momentum": {
+    "ticker": "REZI",
+    "asof": "2026-08-12",
+    "ret_1m": -6.435161411071433,
+    "ret_3m": -5.9760088072170365,
+    "ret_6m": -4.066757744035088,
+    "ret_12m": 25.54786766685271,
+    "rsi14": 51.87328208624479,
+    "pct_vs_200dma": -1.5965925318261687,
+    "score": 50.4,
+    "components_json": "{\"trend\": 57.20631710136545, \"rsi\": 51.87328208624479, \"vs_200dma\": 46.80681493634766, \"short_squeeze\": 30.700000000000003, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

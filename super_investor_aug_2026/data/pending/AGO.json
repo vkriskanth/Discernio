@@ -1,0 +1,55 @@
+{
+  "ticker": "AGO",
+  "stock": {
+    "ticker": "AGO",
+    "name": "Assured Guaranty Ltd.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Specialty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "ca",
+      "manager_name": "Francis Chou - Chou Associates",
+      "action": "add",
+      "share_change_pct": 54.6,
+      "pct_of_portfolio": 0.24,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AGO",
+    "asof": "2026-08-12",
+    "market_cap": 3292283648.0,
+    "pe": 9.954787,
+    "forward_pe": 10.4519205,
+    "ev_ebitda": null,
+    "fcf_yield": 0.004442205339410658,
+    "roe": 0.06666,
+    "gross_margin": 0.94342005,
+    "op_margin": 0.4264,
+    "rev_growth": -0.005,
+    "debt_to_equity": 30.563
+  },
+  "market_stats": {
+    "ticker": "AGO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0644,
+    "short_ratio": 6.01,
+    "putcall_oi_ratio": 86.0,
+    "avg_volume": 380720.0,
+    "beta": 0.74
+  },
+  "momentum": {
+    "ticker": "AGO",
+    "asof": "2026-08-12",
+    "ret_1m": -8.787878787878789,
+    "ret_3m": -8.252467643802019,
+    "ret_6m": -13.44528243140285,
+    "ret_12m": -11.848178748077775,
+    "rsi14": 13.400576052064551,
+    "pct_vs_200dma": -9.358436251175517,
+    "score": 28.6,
+    "components_json": "{\"trend\": 38.75140347820743, \"rsi\": 13.400576052064551, \"vs_200dma\": 31.283127497648966, \"short_squeeze\": 32.199999999999996, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

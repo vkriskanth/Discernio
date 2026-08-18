@@ -1,0 +1,55 @@
+{
+  "ticker": "ENS",
+  "stock": {
+    "ticker": "ENS",
+    "name": "EnerSys",
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ENS",
+    "asof": "2026-08-12",
+    "market_cap": 6831878144.0,
+    "pe": 24.306095,
+    "forward_pe": 14.051483,
+    "ev_ebitda": 13.126,
+    "fcf_yield": 0.05620218743761013,
+    "roe": 0.15336001,
+    "gross_margin": 0.29318002,
+    "op_margin": 0.13423,
+    "rev_growth": 0.013,
+    "debt_to_equity": 65.99
+  },
+  "market_stats": {
+    "ticker": "ENS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.067,
+    "short_ratio": 4.58,
+    "putcall_oi_ratio": 0.7284726587052168,
+    "avg_volume": 526948.0,
+    "beta": 1.225
+  },
+  "momentum": {
+    "ticker": "ENS",
+    "asof": "2026-08-12",
+    "ret_1m": -6.37826950632967,
+    "ret_3m": -18.924998307470187,
+    "ret_6m": 8.764494372797538,
+    "ret_12m": 98.88643359130604,
+    "rsi14": 40.137090238763854,
+    "pct_vs_200dma": 4.252980533995543,
+    "score": 63.7,
+    "components_json": "{\"trend\": 86.50642225612063, \"rsi\": 40.137090238763854, \"vs_200dma\": 58.50596106799109, \"short_squeeze\": 33.5, \"options_skew\": 51.46087366436204}",
+    "thesis": null
+  }
+}

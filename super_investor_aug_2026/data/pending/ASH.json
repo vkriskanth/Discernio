@@ -1,0 +1,63 @@
+{
+  "ticker": "ASH",
+  "stock": {
+    "ticker": "ASH",
+    "name": "Ashland Inc.",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AIM",
+      "manager_name": "Alex Roepers - Atlantic Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 17.47,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "oa",
+      "manager_name": "Leon Cooperman",
+      "action": "add",
+      "share_change_pct": 11.47,
+      "pct_of_portfolio": 0.36,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ASH",
+    "asof": "2026-08-15",
+    "market_cap": 3375429120.0,
+    "pe": 46.949043,
+    "forward_pe": 17.103397,
+    "ev_ebitda": 12.074,
+    "fcf_yield": 0.07973060089023584,
+    "roe": 0.0399,
+    "gross_margin": 0.33388,
+    "op_margin": 0.11469,
+    "rev_growth": 0.073,
+    "debt_to_equity": 78.93
+  },
+  "market_stats": {
+    "ticker": "ASH",
+    "asof": "2026-08-15",
+    "short_pct_float": 0.1102,
+    "short_ratio": 6.16,
+    "putcall_oi_ratio": 6.704663212435233,
+    "avg_volume": 961746.0,
+    "beta": 0.39
+  },
+  "momentum": {
+    "ticker": "ASH",
+    "asof": "2026-08-15",
+    "ret_1m": 7.121060455940875,
+    "ret_3m": 32.23257195684304,
+    "ret_6m": 22.475407793216682,
+    "ret_12m": 38.291238146918126,
+    "rsi14": 71.27104947373547,
+    "pct_vs_200dma": 25.074975851521607,
+    "score": 73.9,
+    "components_json": "{\"trend\": 81.72888918378517, \"rsi\": 71.27104947373547, \"vs_200dma\": 100.0, \"short_squeeze\": 55.10000000000001, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

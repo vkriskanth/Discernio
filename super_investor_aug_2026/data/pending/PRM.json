@@ -1,0 +1,55 @@
+{
+  "ticker": "PRM",
+  "stock": {
+    "ticker": "PRM",
+    "name": "Perimeter Solutions SA",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AC",
+      "manager_name": "Chuck Akre - Akre Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.1,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PRM",
+    "asof": "2026-08-12",
+    "market_cap": 5789606400.0,
+    "pe": null,
+    "forward_pe": 19.553644,
+    "ev_ebitda": -25.041,
+    "fcf_yield": 0.01034765955765145,
+    "roe": -0.30868,
+    "gross_margin": 0.54705,
+    "op_margin": -0.94953,
+    "rev_growth": 0.315,
+    "debt_to_equity": 134.983
+  },
+  "market_stats": {
+    "ticker": "PRM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.040799998,
+    "short_ratio": 3.2,
+    "putcall_oi_ratio": 0.1360544217687075,
+    "avg_volume": 1684233.0,
+    "beta": 1.91
+  },
+  "momentum": {
+    "ticker": "PRM",
+    "asof": "2026-08-12",
+    "ret_1m": 0.15674068092508264,
+    "ret_3m": 19.70367754479021,
+    "ret_6m": 34.34633280871524,
+    "ret_12m": 122.15550654695622,
+    "rsi14": 51.04373163375488,
+    "pct_vs_200dma": 22.755959606209885,
+    "score": 82.7,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 51.04373163375488, \"vs_200dma\": 95.51191921241977, \"short_squeeze\": 20.399998999999998, \"options_skew\": 90.97517006802723}",
+    "thesis": null
+  }
+}

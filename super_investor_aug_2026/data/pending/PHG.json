@@ -1,0 +1,63 @@
+{
+  "ticker": "PHG",
+  "stock": {
+    "ticker": "PHG",
+    "name": "Koninklijke Philips N.V. NY Reg",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 11.72,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 15.85,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PHG",
+    "asof": "2026-08-12",
+    "market_cap": 26137485312.0,
+    "pe": 20.258408,
+    "forward_pe": 14.047277,
+    "ev_ebitda": 13.305,
+    "fcf_yield": 0.05844097141581973,
+    "roe": 0.10154,
+    "gross_margin": 0.45938,
+    "op_margin": 0.13991,
+    "rev_growth": 0.005,
+    "debt_to_equity": 65.049
+  },
+  "market_stats": {
+    "ticker": "PHG",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 2.2,
+    "putcall_oi_ratio": 1.2439446366782008,
+    "avg_volume": 1197317.0,
+    "beta": 0.91
+  },
+  "momentum": {
+    "ticker": "PHG",
+    "asof": "2026-08-12",
+    "ret_1m": -1.7608200227664406,
+    "ret_3m": 2.442970611521167,
+    "ret_6m": -3.6581994396291395,
+    "ret_12m": 6.1965998470634664,
+    "rsi14": 50.28572092899901,
+    "pct_vs_200dma": -1.093251680713192,
+    "score": 42.0,
+    "components_json": "{\"trend\": 52.11407129039299, \"rsi\": 50.28572092899901, \"vs_200dma\": 47.81349663857362, \"short_squeeze\": 0.0, \"options_skew\": 17.07889273356401}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "MBB",
+  "stock": {
+    "ticker": "MBB",
+    "name": "iShares MBS ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MBB",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "MBB",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.6602150537634408,
+    "avg_volume": 2173632.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "MBB",
+    "asof": "2026-08-12",
+    "ret_1m": -0.0870552753992726,
+    "ret_3m": 0.03655459292581931,
+    "ret_6m": -0.6218347210066089,
+    "ret_12m": 3.9967294380949037,
+    "rsi14": 59.59073663259594,
+    "pct_vs_200dma": -0.010209107376191184,
+    "score": 47.6,
+    "components_json": "{\"trend\": 51.423107736813726, \"rsi\": 59.59073663259594, \"vs_200dma\": 49.97958178524762, \"short_squeeze\": 0.0, \"options_skew\": 56.0136559139785}",
+    "thesis": null
+  }
+}

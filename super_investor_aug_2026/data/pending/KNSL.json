@@ -1,0 +1,55 @@
+{
+  "ticker": "KNSL",
+  "stock": {
+    "ticker": "KNSL",
+    "name": "Kinsale Capital Group, Inc.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Property & Casualty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GC",
+      "manager_name": "Francois Rochon - Giverny Capital",
+      "action": "add",
+      "share_change_pct": 2.18,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KNSL",
+    "asof": "2026-08-12",
+    "market_cap": 8388496896.0,
+    "pe": 14.939757,
+    "forward_pe": 17.012518,
+    "ev_ebitda": 11.672,
+    "fcf_yield": 0.11707731816272225,
+    "roe": 0.30268,
+    "gross_margin": 0.31142,
+    "op_margin": 0.40678,
+    "rev_growth": 0.168,
+    "debt_to_equity": 11.033
+  },
+  "market_stats": {
+    "ticker": "KNSL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1165,
+    "short_ratio": 7.7,
+    "putcall_oi_ratio": 1.0188679245283019,
+    "avg_volume": 320040.0,
+    "beta": 0.889
+  },
+  "momentum": {
+    "ticker": "KNSL",
+    "asof": "2026-08-12",
+    "ret_1m": 10.636526010997693,
+    "ret_3m": 23.12573569669627,
+    "ret_6m": -6.141911697343961,
+    "ret_12m": -14.48733915649042,
+    "rsi14": 70.14644266178675,
+    "pct_vs_200dma": 3.795926333886812,
+    "score": 53.7,
+    "components_json": "{\"trend\": 49.30021153720953, \"rsi\": 70.14644266178675, \"vs_200dma\": 57.59185266777362, \"short_squeeze\": 58.25, \"options_skew\": 32.091509433962266}",
+    "thesis": null
+  }
+}

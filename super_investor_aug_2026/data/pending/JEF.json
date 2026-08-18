@@ -1,0 +1,71 @@
+{
+  "ticker": "JEF",
+  "stock": {
+    "ticker": "JEF",
+    "name": "Jefferies Financial Group Inc.",
+    "sector": "Financial Services",
+    "industry": "Capital Markets"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "ca",
+      "manager_name": "Francis Chou - Chou Associates",
+      "action": "add",
+      "share_change_pct": 1258.31,
+      "pct_of_portfolio": 2.74,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CHE",
+      "manager_name": "Steven Check - Check Capital Management",
+      "action": "add",
+      "share_change_pct": 0.84,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 0.24,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "JEF",
+    "asof": "2026-08-12",
+    "market_cap": 11223171072.0,
+    "pe": 15.413408,
+    "forward_pe": 12.150278,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": 0.02625,
+    "op_margin": 0.16941,
+    "rev_growth": 0.35,
+    "debt_to_equity": 364.763
+  },
+  "market_stats": {
+    "ticker": "JEF",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0309,
+    "short_ratio": 2.72,
+    "putcall_oi_ratio": 3.5524913093858634,
+    "avg_volume": 2128250.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "JEF",
+    "asof": "2026-08-12",
+    "ret_1m": 4.536792050420901,
+    "ret_3m": 7.390656848503485,
+    "ret_6m": -1.4726490555827199,
+    "ret_12m": -2.2897976683274313,
+    "rsi14": 47.73333116319334,
+    "pct_vs_200dma": 3.2405511818610844,
+    "score": 43.2,
+    "components_json": "{\"trend\": 50.859483270545255, \"rsi\": 47.73333116319334, \"vs_200dma\": 56.48110236372217, \"short_squeeze\": 15.45, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

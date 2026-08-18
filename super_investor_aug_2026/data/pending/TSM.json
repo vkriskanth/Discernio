@@ -1,0 +1,87 @@
+{
+  "ticker": "TSM",
+  "stock": {
+    "ticker": "TSM",
+    "name": "Taiwan Semiconductor S.A.",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TGM",
+      "manager_name": "Chase Coleman - Tiger Global Management",
+      "action": "add",
+      "share_change_pct": 49.38,
+      "pct_of_portfolio": 2.72,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 186.92,
+      "pct_of_portfolio": 1.34,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "AM",
+      "manager_name": "David Tepper - Appaloosa Management",
+      "action": "add",
+      "share_change_pct": 17.48,
+      "pct_of_portfolio": 1.12,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "WIM",
+      "manager_name": "Wallace Weitz - Weitz Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.47,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 58.35,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TSM",
+    "asof": "2026-08-12",
+    "market_cap": 2226293833728.0,
+    "pe": 32.396225,
+    "forward_pe": 19.723898,
+    "ev_ebitda": 4.73,
+    "fcf_yield": 0.33196785639136583,
+    "roe": 0.39969003,
+    "gross_margin": 0.6423,
+    "op_margin": 0.60344005,
+    "rev_growth": 0.36,
+    "debt_to_equity": 15.174
+  },
+  "market_stats": {
+    "ticker": "TSM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0069,
+    "short_ratio": 2.16,
+    "putcall_oi_ratio": 1.1151351495869315,
+    "avg_volume": 13947233.0,
+    "beta": 1.258
+  },
+  "momentum": {
+    "ticker": "TSM",
+    "asof": "2026-08-12",
+    "ret_1m": 2.0910046503389346,
+    "ret_3m": 8.282687807561274,
+    "ret_6m": 19.200253599833527,
+    "ret_12m": 79.24196719807112,
+    "rsi14": 56.48253202442793,
+    "pct_vs_200dma": 18.89360209474491,
+    "score": 69.3,
+    "components_json": "{\"trend\": 89.9416693014469, \"rsi\": 56.48253202442793, \"vs_200dma\": 87.78720418948981, \"short_squeeze\": 3.4499999999999997, \"options_skew\": 25.67048552255167}",
+    "thesis": null
+  }
+}

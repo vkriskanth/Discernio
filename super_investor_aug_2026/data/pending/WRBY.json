@@ -1,0 +1,63 @@
+{
+  "ticker": "WRBY",
+  "stock": {
+    "ticker": "WRBY",
+    "name": "Warby Parker Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 113.19,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 23.08,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WRBY",
+    "asof": "2026-08-12",
+    "market_cap": 3133464320.0,
+    "pe": 422.50003,
+    "forward_pe": 42.84773,
+    "ev_ebitda": 57.322,
+    "fcf_yield": 0.005393630906255221,
+    "roe": 0.020550001,
+    "gross_margin": 0.54412997,
+    "op_margin": 0.014140001,
+    "rev_growth": 0.098,
+    "debt_to_equity": 64.028
+  },
+  "market_stats": {
+    "ticker": "WRBY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2001,
+    "short_ratio": 7.25,
+    "putcall_oi_ratio": 0.8346225660176047,
+    "avg_volume": 3249603.0,
+    "beta": 1.93
+  },
+  "momentum": {
+    "ticker": "WRBY",
+    "asof": "2026-08-12",
+    "ret_1m": -13.540243365197934,
+    "ret_3m": -6.8014717999213765,
+    "ret_6m": 6.467874632799342,
+    "ret_12m": 4.3209924994886295,
+    "rsi14": 53.42342433677109,
+    "pct_vs_200dma": 4.731078213933926,
+    "score": 58.0,
+    "components_json": "{\"trend\": 51.62831784965884, \"rsi\": 53.42342433677109, \"vs_200dma\": 59.46215642786785, \"short_squeeze\": 100.0, \"options_skew\": 44.38067484662577}",
+    "thesis": null
+  }
+}

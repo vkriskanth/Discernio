@@ -1,0 +1,55 @@
+{
+  "ticker": "TME",
+  "stock": {
+    "ticker": "TME",
+    "name": "Tencent Music Entertainment Gro",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HC",
+      "manager_name": "Li Lu - Himalaya Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.91,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TME",
+    "asof": "2026-08-12",
+    "market_cap": 13679422464.0,
+    "pe": 9.829411,
+    "forward_pe": 7.997361,
+    "ev_ebitda": 0.3,
+    "fcf_yield": 0.40022704864976383,
+    "roe": 0.10974,
+    "gross_margin": 0.44321,
+    "op_margin": 0.31412,
+    "rev_growth": 0.058,
+    "debt_to_equity": 20.826
+  },
+  "market_stats": {
+    "ticker": "TME",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0456,
+    "short_ratio": 4.31,
+    "putcall_oi_ratio": 4.0858186244674375,
+    "avg_volume": 9776798.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "TME",
+    "asof": "2026-08-12",
+    "ret_1m": -4.441906623116266,
+    "ret_3m": -7.497236762747694,
+    "ret_6m": -48.963366505156536,
+    "ret_12m": -62.04853013624053,
+    "rsi14": 44.6685899555291,
+    "pct_vs_200dma": -35.524388399200255,
+    "score": 12.3,
+    "components_json": "{\"trend\": 8.242406965132517, \"rsi\": 44.6685899555291, \"vs_200dma\": 0.0, \"short_squeeze\": 22.800000000000004, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

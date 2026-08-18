@@ -1,0 +1,63 @@
+{
+  "ticker": "CRMT",
+  "stock": {
+    "ticker": "CRMT",
+    "name": "America's Car-Mart, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto & Truck Dealerships"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 25.81,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 5.13,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CRMT",
+    "asof": "2026-08-12",
+    "market_cap": 26355996.0,
+    "pe": null,
+    "forward_pe": -1.4004425,
+    "ev_ebitda": -76.846,
+    "fcf_yield": 5.726600353103711,
+    "roe": -0.27385,
+    "gross_margin": 0.15082,
+    "op_margin": -0.033970002,
+    "rev_growth": -0.183,
+    "debt_to_equity": 173.117
+  },
+  "market_stats": {
+    "ticker": "CRMT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2615,
+    "short_ratio": 2.41,
+    "putcall_oi_ratio": null,
+    "avg_volume": 1710651.0,
+    "beta": 1.303
+  },
+  "momentum": {
+    "ticker": "CRMT",
+    "asof": "2026-08-12",
+    "ret_1m": -3.7037075192730917,
+    "ret_3m": -75.90733643619929,
+    "ret_6m": -87.23926466992884,
+    "ret_12m": -92.45465537922152,
+    "rsi14": 34.765623399289595,
+    "pct_vs_200dma": -80.00941933302931,
+    "score": 20.2,
+    "components_json": "{\"trend\": 0.0, \"rsi\": 34.765623399289595, \"vs_200dma\": 0.0, \"short_squeeze\": 100.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

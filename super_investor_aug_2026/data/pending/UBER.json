@@ -1,0 +1,79 @@
+{
+  "ticker": "UBER",
+  "stock": {
+    "ticker": "UBER",
+    "name": "Uber Technologies, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DA",
+      "manager_name": "Pat Dorsey - Dorsey Asset Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 6.24,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AM",
+      "manager_name": "David Tepper - Appaloosa Management",
+      "action": "add",
+      "share_change_pct": 242.31,
+      "pct_of_portfolio": 5.44,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 1.74,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 0.55,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "UBER",
+    "asof": "2026-08-12",
+    "market_cap": 154157334528.0,
+    "pe": 16.55101,
+    "forward_pe": 17.151499,
+    "ev_ebitda": 22.859,
+    "fcf_yield": 0.04699581661931315,
+    "roe": 0.3716,
+    "gross_margin": 0.40752,
+    "op_margin": 0.13317999,
+    "rev_growth": 0.122,
+    "debt_to_equity": 51.872
+  },
+  "market_stats": {
+    "ticker": "UBER",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0241,
+    "short_ratio": 2.89,
+    "putcall_oi_ratio": 0.6908646698421417,
+    "avg_volume": 20709709.0,
+    "beta": 1.154
+  },
+  "momentum": {
+    "ticker": "UBER",
+    "asof": "2026-08-12",
+    "ret_1m": 4.037175303540441,
+    "ret_3m": -1.794136636500121,
+    "ret_6m": 2.027207977917733,
+    "ret_12m": -17.21130895577023,
+    "rsi14": 60.69668582964324,
+    "pct_vs_200dma": -3.5923730746466487,
+    "score": 43.7,
+    "components_json": "{\"trend\": 43.18539782011719, \"rsi\": 60.69668582964324, \"vs_200dma\": 42.8152538507067, \"short_squeeze\": 12.05, \"options_skew\": 53.969326521529155}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "FLOC",
+  "stock": {
+    "ticker": "FLOC",
+    "name": "Flowco Holdings Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 36.86,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FLOC",
+    "asof": "2026-08-12",
+    "market_cap": 2507275776.0,
+    "pe": 17.810606,
+    "forward_pe": 13.801403,
+    "ev_ebitda": 7.113,
+    "fcf_yield": 0.020232667058639506,
+    "roe": 0.10146,
+    "gross_margin": 0.55056,
+    "op_margin": 0.17554002,
+    "rev_growth": 0.221,
+    "debt_to_equity": 25.174
+  },
+  "market_stats": {
+    "ticker": "FLOC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.092,
+    "short_ratio": 6.13,
+    "putcall_oi_ratio": null,
+    "avg_volume": 699850.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "FLOC",
+    "asof": "2026-08-12",
+    "ret_1m": 14.65307356127985,
+    "ret_3m": -3.46354392314564,
+    "ret_6m": 11.932285120152875,
+    "ret_12m": 50.48748388784807,
+    "rsi14": 76.47058823529412,
+    "pct_vs_200dma": 12.575144579723197,
+    "score": 69.0,
+    "components_json": "{\"trend\": 72.73561591424141, \"rsi\": 76.47058823529412, \"vs_200dma\": 75.1502891594464, \"short_squeeze\": 46.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "NTGR",
+  "stock": {
+    "ticker": "NTGR",
+    "name": "NETGEAR, Inc.",
+    "sector": "Technology",
+    "industry": "Communication Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 111.54,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NTGR",
+    "asof": "2026-08-12",
+    "market_cap": 652261120.0,
+    "pe": null,
+    "forward_pe": 44.717793,
+    "ev_ebitda": -31.227,
+    "fcf_yield": -0.014072393277097368,
+    "roe": -0.05258,
+    "gross_margin": 0.4003,
+    "op_margin": -0.044,
+    "rev_growth": -0.012,
+    "debt_to_equity": 10.037
+  },
+  "market_stats": {
+    "ticker": "NTGR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.094399996,
+    "short_ratio": 6.1,
+    "putcall_oi_ratio": 0.3207806487080814,
+    "avg_volume": 379617.0,
+    "beta": 1.195
+  },
+  "momentum": {
+    "ticker": "NTGR",
+    "asof": "2026-08-12",
+    "ret_1m": 4.3043468309485355,
+    "ret_3m": -6.54460576619651,
+    "ret_6m": 16.399801361815424,
+    "ret_12m": -4.877079998907929,
+    "rsi14": 42.73972702956993,
+    "pct_vs_200dma": -0.7976718700434038,
+    "score": 51.5,
+    "components_json": "{\"trend\": 51.0057266791225, \"rsi\": 42.73972702956993, \"vs_200dma\": 48.404656259913196, \"short_squeeze\": 47.199998, \"options_skew\": 78.65393073117097}",
+    "thesis": null
+  }
+}

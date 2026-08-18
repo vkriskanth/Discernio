@@ -1,0 +1,55 @@
+{
+  "ticker": "ARCO",
+  "stock": {
+    "ticker": "ARCO",
+    "name": "Arcos Dorados Holdings Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 0.59,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ARCO",
+    "asof": "2026-08-12",
+    "market_cap": 1676877952.0,
+    "pe": 7.171171,
+    "forward_pe": 9.337134,
+    "ev_ebitda": 5.982,
+    "fcf_yield": 0.10881568559141029,
+    "roe": 0.36284,
+    "gross_margin": 0.12206,
+    "op_margin": 0.051620003,
+    "rev_growth": 0.129,
+    "debt_to_equity": 278.651
+  },
+  "market_stats": {
+    "ticker": "ARCO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.028499998,
+    "short_ratio": 2.29,
+    "putcall_oi_ratio": 0.1702127659574468,
+    "avg_volume": 1301288.0,
+    "beta": 0.502
+  },
+  "momentum": {
+    "ticker": "ARCO",
+    "asof": "2026-08-12",
+    "ret_1m": -3.2926827708147255,
+    "ret_3m": -7.459960042397085,
+    "ret_6m": -6.106870185909408,
+    "ret_12m": 21.35824878360182,
+    "rsi14": 37.410074163622404,
+    "pct_vs_200dma": -0.9326643559550041,
+    "score": 49.7,
+    "components_json": "{\"trend\": 54.47325044494878, \"rsi\": 37.410074163622404, \"vs_200dma\": 48.13467128808999, \"short_squeeze\": 14.249998999999999, \"options_skew\": 88.6968085106383}",
+    "thesis": null
+  }
+}

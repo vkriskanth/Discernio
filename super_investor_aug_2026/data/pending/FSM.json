@@ -1,0 +1,55 @@
+{
+  "ticker": "FSM",
+  "stock": {
+    "ticker": "FSM",
+    "name": "Fortuna Mining Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 44.86,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FSM",
+    "asof": "2026-08-12",
+    "market_cap": 3259970560.0,
+    "pe": 9.179167,
+    "forward_pe": 6.261725,
+    "ev_ebitda": 3.834,
+    "fcf_yield": 0.11174303610889051,
+    "roe": 0.24149999,
+    "gross_margin": 0.57238,
+    "op_margin": 0.51069,
+    "rev_growth": 0.382,
+    "debt_to_equity": 12.874
+  },
+  "market_stats": {
+    "ticker": "FSM",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 3.19,
+    "putcall_oi_ratio": 0.5721649484536082,
+    "avg_volume": 5291267.0,
+    "beta": 2.12
+  },
+  "momentum": {
+    "ticker": "FSM",
+    "asof": "2026-08-12",
+    "ret_1m": 27.570420785263437,
+    "ret_3m": 1.0130130453071429,
+    "ret_6m": 4.710985694058523,
+    "ret_12m": 74.74277815917085,
+    "rsi14": 87.9708518216404,
+    "pct_vs_200dma": 11.371894797489567,
+    "score": 70.2,
+    "components_json": "{\"trend\": 81.61431088547803, \"rsi\": 87.9708518216404, \"vs_200dma\": 72.74378959497913, \"short_squeeze\": 0.0, \"options_skew\": 61.886597938144334}",
+    "thesis": null
+  }
+}

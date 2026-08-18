@@ -1,0 +1,55 @@
+{
+  "ticker": "SLDE",
+  "stock": {
+    "ticker": "SLDE",
+    "name": "Slide Insurance Holdings, Inc.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Property & Casualty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "add",
+      "share_change_pct": 46.68,
+      "pct_of_portfolio": 0.3,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SLDE",
+    "asof": "2026-08-12",
+    "market_cap": 2470567936.0,
+    "pe": 5.121065,
+    "forward_pe": 5.7248807,
+    "ev_ebitda": 1.623,
+    "fcf_yield": 0.370594340944284,
+    "roe": 0.53882,
+    "gross_margin": 0.67939,
+    "op_margin": 0.46375,
+    "rev_growth": 0.479,
+    "debt_to_equity": 3.235
+  },
+  "market_stats": {
+    "ticker": "SLDE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.103599995,
+    "short_ratio": 5.1,
+    "putcall_oi_ratio": 0.10759493670886076,
+    "avg_volume": 1215835.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "SLDE",
+    "asof": "2026-08-12",
+    "ret_1m": 0.7183981413215745,
+    "ret_3m": 12.882456435817403,
+    "ret_6m": 21.771859462757213,
+    "ret_12m": 20.30893156393645,
+    "rsi14": 59.3220453135393,
+    "pct_vs_200dma": 16.245490409930262,
+    "score": 71.4,
+    "components_json": "{\"trend\": 68.51986739514696, \"rsi\": 59.3220453135393, \"vs_200dma\": 82.49098081986052, \"short_squeeze\": 51.7999975, \"options_skew\": 92.873417721519}",
+    "thesis": null
+  }
+}

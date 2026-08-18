@@ -1,0 +1,55 @@
+{
+  "ticker": "STVN",
+  "stock": {
+    "ticker": "STVN",
+    "name": "Stevanato Group S.p.A.",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 288.12,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "STVN",
+    "asof": "2026-08-12",
+    "market_cap": 5809038848.0,
+    "pe": 37.313507,
+    "forward_pe": 25.443768,
+    "ev_ebitda": 20.465,
+    "fcf_yield": -0.018023850543889493,
+    "roe": 0.09132,
+    "gross_margin": 0.29399002,
+    "op_margin": 0.17219,
+    "rev_growth": 0.078,
+    "debt_to_equity": 28.732
+  },
+  "market_stats": {
+    "ticker": "STVN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0184,
+    "short_ratio": 3.01,
+    "putcall_oi_ratio": 0.09523809523809523,
+    "avg_volume": 356496.0,
+    "beta": 0.737
+  },
+  "momentum": {
+    "ticker": "STVN",
+    "asof": "2026-08-12",
+    "ret_1m": 6.912214229706359,
+    "ret_3m": 16.592313636330715,
+    "ret_6m": 39.63517663851486,
+    "ret_12m": -2.670773950264571,
+    "rsi14": 68.53002315670423,
+    "pct_vs_200dma": 14.458394162137589,
+    "score": 66.6,
+    "components_json": "{\"trend\": 65.79993750234784, \"rsi\": 68.53002315670423, \"vs_200dma\": 78.91678832427517, \"short_squeeze\": 9.2, \"options_skew\": 93.69761904761904}",
+    "thesis": null
+  }
+}

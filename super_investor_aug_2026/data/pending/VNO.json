@@ -1,0 +1,55 @@
+{
+  "ticker": "VNO",
+  "stock": {
+    "ticker": "VNO",
+    "name": "Vornado Realty Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Office"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 0.24,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VNO",
+    "asof": "2026-08-12",
+    "market_cap": 7741728768.0,
+    "pe": 1303.0,
+    "forward_pe": 126.09677,
+    "ev_ebitda": 21.795,
+    "fcf_yield": 0.05757682054717007,
+    "roe": 0.00603,
+    "gross_margin": 0.49595,
+    "op_margin": 0.097959995,
+    "rev_growth": 0.05,
+    "debt_to_equity": 122.317
+  },
+  "market_stats": {
+    "ticker": "VNO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0001,
+    "short_ratio": 0.01,
+    "putcall_oi_ratio": 0.24085625177204423,
+    "avg_volume": 1735158.0,
+    "beta": 1.551
+  },
+  "momentum": {
+    "ticker": "VNO",
+    "asof": "2026-08-12",
+    "ret_1m": 2.756627022458047,
+    "ret_3m": 22.15979485406403,
+    "ret_6m": 28.49639056489832,
+    "ret_12m": 5.89100147200472,
+    "rsi14": 46.296286702876415,
+    "pct_vs_200dma": 18.144658102315002,
+    "score": 63.9,
+    "components_json": "{\"trend\": 67.55325621449059, \"rsi\": 46.296286702876415, \"vs_200dma\": 86.28931620463001, \"short_squeeze\": 0.05, \"options_skew\": 83.98488800680465}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "JELD",
+  "stock": {
+    "ticker": "JELD",
+    "name": "JELD-WEN Holding, Inc.",
+    "sector": "Industrials",
+    "industry": "Building Products & Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "add",
+      "share_change_pct": 60.12,
+      "pct_of_portfolio": 0.8,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "JELD",
+    "asof": "2026-08-12",
+    "market_cap": 162681344.0,
+    "pe": null,
+    "forward_pe": -7.9073887,
+    "ev_ebitda": 44.973,
+    "fcf_yield": -0.49291375414257704,
+    "roe": -2.28656,
+    "gross_margin": 0.15333,
+    "op_margin": -0.0018099999,
+    "rev_growth": -0.007,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "JELD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1576,
+    "short_ratio": 8.78,
+    "putcall_oi_ratio": 0.026385224274406333,
+    "avg_volume": 1735248.0,
+    "beta": 2.102
+  },
+  "momentum": {
+    "ticker": "JELD",
+    "asof": "2026-08-12",
+    "ret_1m": 53.658533039580966,
+    "ret_3m": 20.382160672097392,
+    "ret_6m": -33.68420880917361,
+    "ret_12m": -63.93129640745045,
+    "rsi14": 91.57895370863939,
+    "pct_vs_200dma": -5.896411968220294,
+    "score": 49.2,
+    "components_json": "{\"trend\": 20.436866995896953, \"rsi\": 91.57895370863939, \"vs_200dma\": 38.207176063559416, \"short_squeeze\": 78.8, \"options_skew\": 98.2901055408971}",
+    "thesis": null
+  }
+}

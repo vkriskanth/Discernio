@@ -1,0 +1,63 @@
+{
+  "ticker": "BAC",
+  "stock": {
+    "ticker": "BAC",
+    "name": "Bank of America Corp.",
+    "sector": "Financial Services",
+    "industry": "Banks - Diversified"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "add",
+      "share_change_pct": 30.91,
+      "pct_of_portfolio": 0.8,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 0.81,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BAC",
+    "asof": "2026-08-12",
+    "market_cap": 448305102848.0,
+    "pe": 14.8060055,
+    "forward_pe": 12.104929,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.111990005,
+    "gross_margin": 0.0,
+    "op_margin": 0.38305,
+    "rev_growth": 0.168,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "BAC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0,
+    "short_ratio": 0.0,
+    "putcall_oi_ratio": 0.9230400875632782,
+    "avg_volume": 35470474.0,
+    "beta": 1.168
+  },
+  "momentum": {
+    "ticker": "BAC",
+    "asof": "2026-08-12",
+    "ret_1m": 6.491259390671633,
+    "ret_3m": 27.787348130483846,
+    "ret_6m": 17.814128779213334,
+    "ret_12m": 42.89695315063575,
+    "rsi14": 73.81819291548295,
+    "pct_vs_200dma": 20.284580563259414,
+    "score": 69.9,
+    "components_json": "{\"trend\": 80.83922433316346, \"rsi\": 73.81819291548295, \"vs_200dma\": 90.56916112651882, \"short_squeeze\": 0.0, \"options_skew\": 38.48322615952935}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "DORM",
+  "stock": {
+    "ticker": "DORM",
+    "name": "Dorman Products, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 73.68,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DORM",
+    "asof": "2026-08-12",
+    "market_cap": 3909020928.0,
+    "pe": 18.269766,
+    "forward_pe": 14.183042,
+    "ev_ebitda": 10.33,
+    "fcf_yield": 0.03683499133213134,
+    "roe": 0.15048,
+    "gross_margin": 0.42314997,
+    "op_margin": 0.23629,
+    "rev_growth": 0.007,
+    "debt_to_equity": 34.867
+  },
+  "market_stats": {
+    "ticker": "DORM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.086899996,
+    "short_ratio": 6.84,
+    "putcall_oi_ratio": 0.35294117647058826,
+    "avg_volume": 313238.0,
+    "beta": 0.993
+  },
+  "momentum": {
+    "ticker": "DORM",
+    "asof": "2026-08-12",
+    "ret_1m": -1.6082884921916674,
+    "ret_3m": 7.842119564967653,
+    "ret_6m": 4.4044540195794735,
+    "ret_12m": -4.823157454398297,
+    "rsi14": 47.724984873501455,
+    "pct_vs_200dma": 7.722494855755535,
+    "score": 56.2,
+    "components_json": "{\"trend\": 51.74470909360482, \"rsi\": 47.724984873501455, \"vs_200dma\": 65.44498971151107, \"short_squeeze\": 43.449998, \"options_skew\": 76.50882352941176}",
+    "thesis": null
+  }
+}

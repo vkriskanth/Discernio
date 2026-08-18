@@ -1,0 +1,55 @@
+{
+  "ticker": "USMV",
+  "stock": {
+    "ticker": "USMV",
+    "name": "iShares MSCI USA Min Vol Factor",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "USMV",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 24.657898,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "USMV",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 2.3620689655172415,
+    "avg_volume": 2269182.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "USMV",
+    "asof": "2026-08-12",
+    "ret_1m": 3.222340493473319,
+    "ret_3m": 7.1920389457767575,
+    "ret_6m": 6.896216470187477,
+    "ret_12m": 9.896361677264863,
+    "rsi14": 81.75025535970053,
+    "pct_vs_200dma": 6.434422172690413,
+    "score": 51.3,
+    "components_json": "{\"trend\": 58.185021295695215, \"rsi\": 81.75025535970053, \"vs_200dma\": 62.86884434538082, \"short_squeeze\": 0.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

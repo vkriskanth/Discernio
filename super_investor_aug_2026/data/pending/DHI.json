@@ -1,0 +1,55 @@
+{
+  "ticker": "DHI",
+  "stock": {
+    "ticker": "DHI",
+    "name": "D.R. Horton, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Residential Construction"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GA",
+      "manager_name": "Greenhaven Associates",
+      "action": "add",
+      "share_change_pct": 1.12,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DHI",
+    "asof": "2026-08-12",
+    "market_cap": 40685350912.0,
+    "pe": 13.866541,
+    "forward_pe": 12.361827,
+    "ev_ebitda": 11.599,
+    "fcf_yield": 0.05933093798849425,
+    "roe": 0.12632,
+    "gross_margin": 0.21298,
+    "op_margin": 0.1299,
+    "rev_growth": 0.0,
+    "debt_to_equity": 29.451
+  },
+  "market_stats": {
+    "ticker": "DHI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0495,
+    "short_ratio": 4.03,
+    "putcall_oi_ratio": 0.8160136286201022,
+    "avg_volume": 2441851.0,
+    "beta": 1.375
+  },
+  "momentum": {
+    "ticker": "DHI",
+    "asof": "2026-08-12",
+    "ret_1m": -1.8380566586176483,
+    "ret_3m": 0.5694250684587177,
+    "ret_6m": -6.883332365812834,
+    "ret_12m": -3.6041842971179405,
+    "rsi14": 52.16893296565528,
+    "pct_vs_200dma": -1.8783336047109689,
+    "score": 45.1,
+    "components_json": "{\"trend\": 46.664154091946585, \"rsi\": 52.16893296565528, \"vs_200dma\": 46.243332790578066, \"short_squeeze\": 24.75, \"options_skew\": 45.621890971039186}",
+    "thesis": null
+  }
+}

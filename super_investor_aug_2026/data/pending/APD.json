@@ -1,0 +1,71 @@
+{
+  "ticker": "APD",
+  "stock": {
+    "ticker": "APD",
+    "name": "Air Products and Chemicals, Inc",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AKO",
+      "manager_name": "AKO Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.33,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 17.22,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 164.71,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "APD",
+    "asof": "2026-08-12",
+    "market_cap": 68282507264.0,
+    "pe": null,
+    "forward_pe": 21.237638,
+    "ev_ebitda": 86.367,
+    "fcf_yield": -0.05509555437756223,
+    "roe": 0.00023,
+    "gross_margin": 0.32056,
+    "op_margin": 0.25536,
+    "rev_growth": 0.046,
+    "debt_to_equity": 110.091
+  },
+  "market_stats": {
+    "ticker": "APD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0179,
+    "short_ratio": 2.91,
+    "putcall_oi_ratio": 0.48154093097913325,
+    "avg_volume": 1306725.0,
+    "beta": 0.75
+  },
+  "momentum": {
+    "ticker": "APD",
+    "asof": "2026-08-12",
+    "ret_1m": 3.6842973370331933,
+    "ret_3m": 4.632544691354523,
+    "ret_6m": 9.555828209090267,
+    "ret_12m": 8.951697563064155,
+    "rsi14": 61.2394388347198,
+    "pct_vs_200dma": 11.704353777968834,
+    "score": 58.4,
+    "components_json": "{\"trend\": 57.8371908953591, \"rsi\": 61.2394388347198, \"vs_200dma\": 73.40870755593767, \"short_squeeze\": 8.95, \"options_skew\": 67.93121990369181}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "AMAT",
+  "stock": {
+    "ticker": "AMAT",
+    "name": "Applied Materials, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment & Materials"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 3.64,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "TGM",
+      "manager_name": "Chase Coleman - Tiger Global Management",
+      "action": "add",
+      "share_change_pct": 85.09,
+      "pct_of_portfolio": 1.14,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AMAT",
+    "asof": "2026-08-08",
+    "market_cap": 428055298048.0,
+    "pe": 50.76648,
+    "forward_pe": 31.619184,
+    "ev_ebitda": 46.047,
+    "fcf_yield": 0.007102762315674148,
+    "roe": 0.39692003,
+    "gross_margin": 0.48956,
+    "op_margin": 0.31896,
+    "rev_growth": 0.114,
+    "debt_to_equity": 30.399
+  },
+  "market_stats": {
+    "ticker": "AMAT",
+    "asof": "2026-08-08",
+    "short_pct_float": 0.0211,
+    "short_ratio": 1.34,
+    "putcall_oi_ratio": 1.211730489578284,
+    "avg_volume": 9679554.0,
+    "beta": 1.618
+  },
+  "momentum": {
+    "ticker": "AMAT",
+    "asof": "2026-08-08",
+    "ret_1m": -8.412319633619003,
+    "ret_3m": 31.455832941753357,
+    "ret_6m": 77.79648791718274,
+    "ret_12m": 204.86976862375766,
+    "rsi14": 52.06337551333495,
+    "pct_vs_200dma": 41.62491915068913,
+    "score": 75.8,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 52.06337551333495, \"vs_200dma\": 100.0, \"short_squeeze\": 10.549999999999999, \"options_skew\": 19.22757634512845}",
+    "thesis": null
+  }
+}

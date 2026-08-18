@@ -1,0 +1,71 @@
+{
+  "ticker": "PINS",
+  "stock": {
+    "ticker": "PINS",
+    "name": "Pinterest, Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.29,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 5.07,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.41,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PINS",
+    "asof": "2026-08-12",
+    "market_cap": 12968567808.0,
+    "pe": 67.352936,
+    "forward_pe": 9.548868,
+    "ev_ebitda": 42.241,
+    "fcf_yield": 0.09225698455784333,
+    "roe": 0.06461,
+    "gross_margin": 0.79473,
+    "op_margin": -0.03464,
+    "rev_growth": 0.182,
+    "debt_to_equity": 41.35
+  },
+  "market_stats": {
+    "ticker": "PINS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1361,
+    "short_ratio": 4.83,
+    "putcall_oi_ratio": 0.8645502044525216,
+    "avg_volume": 16164730.0,
+    "beta": 0.908
+  },
+  "momentum": {
+    "ticker": "PINS",
+    "asof": "2026-08-12",
+    "ret_1m": 1.8650091818677161,
+    "ret_3m": 7.851434134240387,
+    "ret_6m": 17.04081677337925,
+    "ret_12m": -41.43476740766134,
+    "rsi14": 55.663435148414116,
+    "pct_vs_200dma": 1.3228526526438689,
+    "score": 48.9,
+    "components_json": "{\"trend\": 40.89376830922136, \"rsi\": 55.663435148414116, \"vs_200dma\": 52.645705305287734, \"short_squeeze\": 68.05, \"options_skew\": 42.38450136301681}",
+    "thesis": null
+  }
+}

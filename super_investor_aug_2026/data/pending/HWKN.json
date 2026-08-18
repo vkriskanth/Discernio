@@ -1,0 +1,55 @@
+{
+  "ticker": "HWKN",
+  "stock": {
+    "ticker": "HWKN",
+    "name": "Hawkins, Inc.",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 106.47,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HWKN",
+    "asof": "2026-08-12",
+    "market_cap": 2694142464.0,
+    "pe": 33.435234,
+    "forward_pe": 25.355598,
+    "ev_ebitda": 8.752,
+    "fcf_yield": 0.030202376113099266,
+    "roe": 0.15614,
+    "gross_margin": 0.22304001,
+    "op_margin": 0.09476,
+    "rev_growth": -0.016,
+    "debt_to_equity": 42.303
+  },
+  "market_stats": {
+    "ticker": "HWKN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.062,
+    "short_ratio": 5.41,
+    "putcall_oi_ratio": 0.49019607843137253,
+    "avg_volume": 168364.0,
+    "beta": 0.784
+  },
+  "momentum": {
+    "ticker": "HWKN",
+    "asof": "2026-08-12",
+    "ret_1m": -3.1501295809781005,
+    "ret_3m": -22.775227914369466,
+    "ret_6m": -0.63605837302666,
+    "ret_12m": -24.09072447930065,
+    "rsi14": 28.380159958978723,
+    "pct_vs_200dma": -12.227121961260623,
+    "score": 33.8,
+    "components_json": "{\"trend\": 33.3403243220609, \"rsi\": 28.380159958978723, \"vs_200dma\": 25.545756077478753, \"short_squeeze\": 31.0, \"options_skew\": 67.35392156862746}",
+    "thesis": null
+  }
+}

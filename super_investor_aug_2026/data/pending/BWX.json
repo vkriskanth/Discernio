@@ -1,0 +1,55 @@
+{
+  "ticker": "BWX",
+  "stock": {
+    "ticker": "BWX",
+    "name": "State Street SPDR Bloomberg Int",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "add",
+      "share_change_pct": 66.41,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BWX",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "BWX",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 504461.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "BWX",
+    "asof": "2026-08-12",
+    "ret_1m": 1.460783165471935,
+    "ret_3m": -0.6568421475993902,
+    "ret_6m": -3.520376835804251,
+    "ret_12m": -2.3344006646853876,
+    "rsi14": 73.78636568246611,
+    "pct_vs_200dma": -0.7643240077789715,
+    "score": 47.3,
+    "components_json": "{\"trend\": 47.813074039104755, \"rsi\": 73.78636568246611, \"vs_200dma\": 48.47135198444206, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

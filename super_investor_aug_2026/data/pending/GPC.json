@@ -1,0 +1,63 @@
+{
+  "ticker": "GPC",
+  "stock": {
+    "ticker": "GPC",
+    "name": "Genuine Parts Company",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 3.11,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "add",
+      "share_change_pct": 0.29,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GPC",
+    "asof": "2026-08-12",
+    "market_cap": 18198865920.0,
+    "pe": 507.73077,
+    "forward_pe": 15.895646,
+    "ev_ebitda": 12.051,
+    "fcf_yield": 0.05040105180356205,
+    "roe": 0.0070700003,
+    "gross_margin": 0.37564,
+    "op_margin": 0.06562,
+    "rev_growth": 0.06,
+    "debt_to_equity": 146.415
+  },
+  "market_stats": {
+    "ticker": "GPC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.072399996,
+    "short_ratio": 4.28,
+    "putcall_oi_ratio": 0.6189759036144579,
+    "avg_volume": 1797008.0,
+    "beta": 0.646
+  },
+  "momentum": {
+    "ticker": "GPC",
+    "asof": "2026-08-12",
+    "ret_1m": 7.4314062035997885,
+    "ret_3m": 28.227600523410622,
+    "ret_6m": -6.849195477045011,
+    "ret_12m": 3.626188927751106,
+    "rsi14": 66.37182375562531,
+    "pct_vs_200dma": 13.521016615038594,
+    "score": 61.9,
+    "components_json": "{\"trend\": 57.863997085010126, \"rsi\": 66.37182375562531, \"vs_200dma\": 77.04203323007718, \"short_squeeze\": 36.199997999999994, \"options_skew\": 58.76430722891566}",
+    "thesis": null
+  }
+}

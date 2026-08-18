@@ -1,0 +1,55 @@
+{
+  "ticker": "PAAS",
+  "stock": {
+    "ticker": "PAAS",
+    "name": "Pan American Silver Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PAAS",
+    "asof": "2026-08-12",
+    "market_cap": 22213572608.0,
+    "pe": 16.630915,
+    "forward_pe": 11.058508,
+    "ev_ebitda": 10.819,
+    "fcf_yield": 0.05852840868702825,
+    "roe": 0.20796,
+    "gross_margin": 0.55724996,
+    "op_margin": 0.48094,
+    "rev_growth": 0.493,
+    "debt_to_equity": 11.489
+  },
+  "market_stats": {
+    "ticker": "PAAS",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 1.51,
+    "putcall_oi_ratio": 0.5455653351387949,
+    "avg_volume": 4525283.0,
+    "beta": 1.549
+  },
+  "momentum": {
+    "ticker": "PAAS",
+    "asof": "2026-08-12",
+    "ret_1m": 20.202255239290956,
+    "ret_3m": -17.731056211533936,
+    "ret_6m": -11.268392297652285,
+    "ret_12m": 66.74793371668774,
+    "rsi14": 79.32031647364246,
+    "pct_vs_200dma": 2.8274947839657782,
+    "score": 59.4,
+    "components_json": "{\"trend\": 67.99933893391923, \"rsi\": 79.32031647364246, \"vs_200dma\": 55.65498956793156, \"short_squeeze\": 0.0, \"options_skew\": 63.660792146242386}",
+    "thesis": null
+  }
+}

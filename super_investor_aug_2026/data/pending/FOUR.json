@@ -1,0 +1,55 @@
+{
+  "ticker": "FOUR",
+  "stock": {
+    "ticker": "FOUR",
+    "name": "Shift4 Payments, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.34,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FOUR",
+    "asof": "2026-08-12",
+    "market_cap": 3295795456.0,
+    "pe": 68.42623,
+    "forward_pe": 6.623736,
+    "ev_ebitda": 9.438,
+    "fcf_yield": 0.10726545282305286,
+    "roe": 0.064899996,
+    "gross_margin": 0.35904998,
+    "op_margin": 0.0749,
+    "rev_growth": 0.341,
+    "debt_to_equity": 262.321
+  },
+  "market_stats": {
+    "ticker": "FOUR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.19549999,
+    "short_ratio": 13.96,
+    "putcall_oi_ratio": 0.7779354380986165,
+    "avg_volume": 1579538.0,
+    "beta": 1.408
+  },
+  "momentum": {
+    "ticker": "FOUR",
+    "asof": "2026-08-12",
+    "ret_1m": -14.6682885127696,
+    "ret_3m": -10.22411367521382,
+    "ret_6m": -27.582644546677628,
+    "ret_12m": -48.83211321799149,
+    "rsi14": 38.3619578417984,
+    "pct_vs_200dma": -22.30678057744271,
+    "score": 29.3,
+    "components_json": "{\"trend\": 19.12512724623597, \"rsi\": 38.3619578417984, \"vs_200dma\": 5.386438845114583, \"short_squeeze\": 97.749995, \"options_skew\": 48.16170627882228}",
+    "thesis": null
+  }
+}

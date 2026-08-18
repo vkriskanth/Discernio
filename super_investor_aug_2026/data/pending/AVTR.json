@@ -1,0 +1,87 @@
+{
+  "ticker": "AVTR",
+  "stock": {
+    "ticker": "AVTR",
+    "name": "Avantor, Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.5,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 103.82,
+      "pct_of_portfolio": 0.46,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "GA",
+      "manager_name": "Greenhaven Associates",
+      "action": "add",
+      "share_change_pct": 9.04,
+      "pct_of_portfolio": 0.23,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 2.21,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.53,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AVTR",
+    "asof": "2026-08-12",
+    "market_cap": 9205243904.0,
+    "pe": null,
+    "forward_pe": 15.434163,
+    "ev_ebitda": 13.209,
+    "fcf_yield": 0.0501507606766831,
+    "roe": -0.09701,
+    "gross_margin": 0.31825,
+    "op_margin": 0.07162,
+    "rev_growth": 0.005,
+    "debt_to_equity": 65.678
+  },
+  "market_stats": {
+    "ticker": "AVTR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0955,
+    "short_ratio": 4.34,
+    "putcall_oi_ratio": 0.013836415291830733,
+    "avg_volume": 10577095.0,
+    "beta": 0.888
+  },
+  "momentum": {
+    "ticker": "AVTR",
+    "asof": "2026-08-12",
+    "ret_1m": 32.14628574155978,
+    "ret_3m": 65.22260949379866,
+    "ret_6m": 21.93605029437706,
+    "ret_12m": 20.650258384561205,
+    "rsi14": 76.14502760922662,
+    "pct_vs_200dma": 34.45163717592696,
+    "score": 84.9,
+    "components_json": "{\"trend\": 84.4077012902772, \"rsi\": 76.14502760922662, \"vs_200dma\": 100.0, \"short_squeeze\": 47.75, \"options_skew\": 99.1271111000349}",
+    "thesis": null
+  }
+}

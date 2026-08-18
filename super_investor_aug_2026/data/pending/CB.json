@@ -1,0 +1,71 @@
+{
+  "ticker": "CB",
+  "stock": {
+    "ticker": "CB",
+    "name": "Chubb Limited",
+    "sector": "Financial Services",
+    "industry": "Insurance - Property & Casualty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 27.73,
+      "pct_of_portfolio": 0.26,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 0.74,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 4.5,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CB",
+    "asof": "2026-08-12",
+    "market_cap": 133926576128.0,
+    "pe": 12.301206,
+    "forward_pe": 11.927046,
+    "ev_ebitda": 10.51,
+    "fcf_yield": 0.07831157052783996,
+    "roe": 0.14822,
+    "gross_margin": 0.31129998,
+    "op_margin": 0.23527001,
+    "rev_growth": 0.061,
+    "debt_to_equity": 30.941
+  },
+  "market_stats": {
+    "ticker": "CB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0109,
+    "short_ratio": 2.07,
+    "putcall_oi_ratio": 0.8135229407029783,
+    "avg_volume": 1798900.0,
+    "beta": 0.389
+  },
+  "momentum": {
+    "ticker": "CB",
+    "asof": "2026-08-12",
+    "ret_1m": -0.0924288958149333,
+    "ret_3m": 7.744141894928647,
+    "ret_6m": 6.667748923859906,
+    "ret_12m": 28.414591549876622,
+    "rsi14": 41.28939204227762,
+    "pct_vs_200dma": 7.97959767911216,
+    "score": 54.1,
+    "components_json": "{\"trend\": 65.68940386558721, \"rsi\": 41.28939204227762, \"vs_200dma\": 65.95919535822432, \"short_squeeze\": 5.45, \"options_skew\": 45.78801985511135}",
+    "thesis": null
+  }
+}

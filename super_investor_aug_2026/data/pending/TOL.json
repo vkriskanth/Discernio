@@ -1,0 +1,63 @@
+{
+  "ticker": "TOL",
+  "stock": {
+    "ticker": "TOL",
+    "name": "Toll Brothers, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Residential Construction"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "WP",
+      "manager_name": "David Rolfe - Wedgewood Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.49,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 131.57,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TOL",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 11.33713,
+    "forward_pe": 10.578026,
+    "ev_ebitda": 8.914,
+    "fcf_yield": null,
+    "roe": 0.15657,
+    "gross_margin": 0.25203,
+    "op_margin": 0.15077,
+    "rev_growth": -0.076,
+    "debt_to_equity": 34.45
+  },
+  "market_stats": {
+    "ticker": "TOL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0582,
+    "short_ratio": 4.54,
+    "putcall_oi_ratio": 1.084952024338872,
+    "avg_volume": 1065185.0,
+    "beta": 1.34
+  },
+  "momentum": {
+    "ticker": "TOL",
+    "asof": "2026-08-12",
+    "ret_1m": 0.8243251491237391,
+    "ret_3m": 9.039430348681954,
+    "ret_6m": -0.5578928765141322,
+    "ret_12m": 19.431525264156324,
+    "rsi14": 53.015872375124125,
+    "pct_vs_200dma": 4.416602480375942,
+    "score": 52.5,
+    "components_json": "{\"trend\": 60.317071347312876, \"rsi\": 53.015872375124125, \"vs_200dma\": 58.833204960751885, \"short_squeeze\": 29.1, \"options_skew\": 27.683699976597243}",
+    "thesis": null
+  }
+}

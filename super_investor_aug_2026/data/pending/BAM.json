@@ -1,0 +1,55 @@
+{
+  "ticker": "BAM",
+  "stock": {
+    "ticker": "BAM",
+    "name": "Brookfield Asset Management Inc",
+    "sector": "Financial Services",
+    "industry": "Asset Management"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 49.59,
+      "pct_of_portfolio": 0.14,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BAM",
+    "asof": "2026-08-12",
+    "market_cap": 87097966592.0,
+    "pe": 31.339022,
+    "forward_pe": 25.116947,
+    "ev_ebitda": 24.899,
+    "fcf_yield": 0.030705365654835424,
+    "roe": 0.26771,
+    "gross_margin": 0.74377,
+    "op_margin": 0.68738997,
+    "rev_growth": 0.608,
+    "debt_to_equity": 34.454
+  },
+  "market_stats": {
+    "ticker": "BAM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0517,
+    "short_ratio": 9.04,
+    "putcall_oi_ratio": 1.0605022831050228,
+    "avg_volume": 2767308.0,
+    "beta": 1.254
+  },
+  "momentum": {
+    "ticker": "BAM",
+    "asof": "2026-08-12",
+    "ret_1m": 14.877945342420862,
+    "ret_3m": 13.161547641678473,
+    "ret_6m": 5.347901274611422,
+    "ret_12m": -7.771342880692345,
+    "rsi14": 83.68741818152348,
+    "pct_vs_200dma": 12.299215587510236,
+    "score": 57.7,
+    "components_json": "{\"trend\": 52.44429752261003, \"rsi\": 83.68741818152348, \"vs_200dma\": 74.59843117502047, \"short_squeeze\": 25.85, \"options_skew\": 29.31449771689498}",
+    "thesis": null
+  }
+}

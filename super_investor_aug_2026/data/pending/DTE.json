@@ -1,0 +1,55 @@
+{
+  "ticker": "DTE",
+  "stock": {
+    "ticker": "DTE",
+    "name": "DTE Energy Co.",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Electric"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.58,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DTE",
+    "asof": "2026-08-08",
+    "market_cap": 29105276928.0,
+    "pe": 22.131329,
+    "forward_pe": 16.726439,
+    "ev_ebitda": 15.734,
+    "fcf_yield": -0.08921491805157787,
+    "roe": 0.1103,
+    "gross_margin": 0.29347,
+    "op_margin": 0.13623999,
+    "rev_growth": -0.015,
+    "debt_to_equity": 229.06
+  },
+  "market_stats": {
+    "ticker": "DTE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0294,
+    "short_ratio": 4.16,
+    "putcall_oi_ratio": 0.04466666666666667,
+    "avg_volume": 1405408.0,
+    "beta": 0.396
+  },
+  "momentum": {
+    "ticker": "DTE",
+    "asof": "2026-08-12",
+    "ret_1m": -7.486417866631623,
+    "ret_3m": -2.505622765052018,
+    "ret_6m": 1.6386433471624384,
+    "ret_12m": 1.8457856251838267,
+    "rsi14": 18.26087780652621,
+    "pct_vs_200dma": -1.4100221408462343,
+    "score": 45.9,
+    "components_json": "{\"trend\": 50.478220424706656, \"rsi\": 18.26087780652621, \"vs_200dma\": 47.17995571830753, \"short_squeeze\": 14.7, \"options_skew\": 97.07073333333334}",
+    "thesis": null
+  }
+}

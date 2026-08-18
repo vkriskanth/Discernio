@@ -1,0 +1,55 @@
+{
+  "ticker": "EVTC",
+  "stock": {
+    "ticker": "EVTC",
+    "name": "Evertec, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.19,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EVTC",
+    "asof": "2026-08-12",
+    "market_cap": 1747164416.0,
+    "pe": 18.987013,
+    "forward_pe": 6.6783304,
+    "ev_ebitda": 10.576,
+    "fcf_yield": 0.08678239930454261,
+    "roe": 0.14845,
+    "gross_margin": 0.51118,
+    "op_margin": 0.19387,
+    "rev_growth": 0.197,
+    "debt_to_equity": 184.286
+  },
+  "market_stats": {
+    "ticker": "EVTC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.059,
+    "short_ratio": 5.8,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 584179.0,
+    "beta": 0.699
+  },
+  "momentum": {
+    "ticker": "EVTC",
+    "asof": "2026-08-12",
+    "ret_1m": 4.075324048336704,
+    "ret_3m": 26.21901336942296,
+    "ret_6m": 13.07324207809577,
+    "ret_12m": -14.590913180018095,
+    "rsi14": 55.76696280564245,
+    "pct_vs_200dma": 7.310540339713434,
+    "score": 54.9,
+    "components_json": "{\"trend\": 55.95131136224838, \"rsi\": 55.76696280564245, \"vs_200dma\": 64.62108067942687, \"short_squeeze\": 29.499999999999996, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

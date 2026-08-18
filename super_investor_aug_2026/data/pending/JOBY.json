@@ -1,0 +1,55 @@
+{
+  "ticker": "JOBY",
+  "stock": {
+    "ticker": "JOBY",
+    "name": "Joby Aviation, Inc.",
+    "sector": "Industrials",
+    "industry": "Airports & Air Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 12.69,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "JOBY",
+    "asof": "2026-08-12",
+    "market_cap": 8011807744.0,
+    "pe": null,
+    "forward_pe": -12.557985,
+    "ev_ebitda": -8.122,
+    "fcf_yield": -0.054475376088105994,
+    "roe": -0.65902,
+    "gross_margin": 0.34289002,
+    "op_margin": -6.75181,
+    "rev_growth": 2574.933,
+    "debt_to_equity": 42.322
+  },
+  "market_stats": {
+    "ticker": "JOBY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.16430001,
+    "short_ratio": 2.19,
+    "putcall_oi_ratio": 0.49487908657444035,
+    "avg_volume": 40701937.0,
+    "beta": 2.698
+  },
+  "momentum": {
+    "ticker": "JOBY",
+    "asof": "2026-08-12",
+    "ret_1m": 3.1052010968584343,
+    "ret_3m": -22.449948461584203,
+    "ret_6m": -20.478977586508428,
+    "ret_12m": -52.343290132873044,
+    "rsi14": 55.8048817341282,
+    "pct_vs_200dma": -26.452803718271788,
+    "score": 29.8,
+    "components_json": "{\"trend\": 16.184006132422994, \"rsi\": 55.8048817341282, \"vs_200dma\": 0.0, \"short_squeeze\": 82.15000500000001, \"options_skew\": 67.04156492548483}",
+    "thesis": null
+  }
+}

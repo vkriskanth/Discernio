@@ -1,0 +1,55 @@
+{
+  "ticker": "CNDT",
+  "stock": {
+    "ticker": "CNDT",
+    "name": "Conduent Incorporated",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "add",
+      "share_change_pct": 79.53,
+      "pct_of_portfolio": 1.48,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CNDT",
+    "asof": "2026-08-12",
+    "market_cap": 239502032.0,
+    "pe": null,
+    "forward_pe": -7.7,
+    "ev_ebitda": 13.299,
+    "fcf_yield": 0.40083167227574923,
+    "roe": -0.20542,
+    "gross_margin": 0.18611999,
+    "op_margin": -0.03955,
+    "rev_growth": -0.119,
+    "debt_to_equity": 127.395
+  },
+  "market_stats": {
+    "ticker": "CNDT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0308,
+    "short_ratio": 4.35,
+    "putcall_oi_ratio": 0.011627906976744186,
+    "avg_volume": 1227459.0,
+    "beta": 1.435
+  },
+  "momentum": {
+    "ticker": "CNDT",
+    "asof": "2026-08-12",
+    "ret_1m": 0.0,
+    "ret_3m": 3.355701476259032,
+    "ret_6m": 7.6923089748175855,
+    "ret_12m": -39.37007933143675,
+    "rsi14": 55.12820042566887,
+    "pct_vs_200dma": -7.394881827542033,
+    "score": 43.6,
+    "components_json": "{\"trend\": 37.56637140274829, \"rsi\": 55.12820042566887, \"vs_200dma\": 35.210236344915934, \"short_squeeze\": 15.4, \"options_skew\": 99.27441860465116}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "RHI",
+  "stock": {
+    "ticker": "RHI",
+    "name": "Robert Half Inc.",
+    "sector": "Industrials",
+    "industry": "Staffing & Employment Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TA",
+      "manager_name": "Third Avenue Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 3.73,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 4.28,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RHI",
+    "asof": "2026-08-12",
+    "market_cap": 4260299008.0,
+    "pe": 36.191303,
+    "forward_pe": 21.154501,
+    "ev_ebitda": 67.916,
+    "fcf_yield": 0.026660539973066603,
+    "roe": 0.09111,
+    "gross_margin": 0.36795,
+    "op_margin": -0.04662,
+    "rev_growth": -0.024,
+    "debt_to_equity": 19.94
+  },
+  "market_stats": {
+    "ticker": "RHI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2778,
+    "short_ratio": 8.93,
+    "putcall_oi_ratio": 0.9812054439403759,
+    "avg_volume": 2330622.0,
+    "beta": 0.767
+  },
+  "momentum": {
+    "ticker": "RHI",
+    "asof": "2026-08-12",
+    "ret_1m": 27.438650654922704,
+    "ret_3m": 54.988430770124054,
+    "ret_6m": 38.35998003387229,
+    "ret_12m": 30.46728174814244,
+    "rsi14": 49.362265497361555,
+    "pct_vs_200dma": 48.78349373796718,
+    "score": 81.9,
+    "components_json": "{\"trend\": 90.19143594045588, \"rsi\": 49.362265497361555, \"vs_200dma\": 100.0, \"short_squeeze\": 100.0, \"options_skew\": 34.60359688917693}",
+    "thesis": null
+  }
+}

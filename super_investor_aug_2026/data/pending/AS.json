@@ -1,0 +1,55 @@
+{
+  "ticker": "AS",
+  "stock": {
+    "ticker": "AS",
+    "name": "Amer Sports, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Leisure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 51.02,
+      "pct_of_portfolio": 0.23,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AS",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 42.03125,
+    "forward_pe": 21.455189,
+    "ev_ebitda": 18.551,
+    "fcf_yield": null,
+    "roe": 0.07882,
+    "gross_margin": 0.58225,
+    "op_margin": 0.16525,
+    "rev_growth": 0.321,
+    "debt_to_equity": 14.817
+  },
+  "market_stats": {
+    "ticker": "AS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0868,
+    "short_ratio": 3.36,
+    "putcall_oi_ratio": 0.46741218148448505,
+    "avg_volume": 4379880.0,
+    "beta": 2.045
+  },
+  "momentum": {
+    "ticker": "AS",
+    "asof": "2026-08-12",
+    "ret_1m": -1.1366942240165545,
+    "ret_3m": -8.235135461472243,
+    "ret_6m": -6.283232467526223,
+    "ret_12m": -14.096970231953755,
+    "rsi14": 37.225951959047734,
+    "pct_vs_200dma": -5.532157392135783,
+    "score": 42.5,
+    "components_json": "{\"trend\": 40.005701528518955, \"rsi\": 37.225951959047734, \"vs_200dma\": 38.935685215728434, \"short_squeeze\": 43.4, \"options_skew\": 68.87360749498484}",
+    "thesis": null
+  }
+}

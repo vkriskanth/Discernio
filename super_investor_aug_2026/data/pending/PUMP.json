@@ -1,0 +1,55 @@
+{
+  "ticker": "PUMP",
+  "stock": {
+    "ticker": "PUMP",
+    "name": "ProPetro Holding Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 49.82,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PUMP",
+    "asof": "2026-08-12",
+    "market_cap": 1430898560.0,
+    "pe": null,
+    "forward_pe": 30.254238,
+    "ev_ebitda": 9.874,
+    "fcf_yield": -0.033593226902122256,
+    "roe": -0.01502,
+    "gross_margin": 0.22693,
+    "op_margin": -0.0152,
+    "rev_growth": -0.062,
+    "debt_to_equity": 89.604
+  },
+  "market_stats": {
+    "ticker": "PUMP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.15640001,
+    "short_ratio": 3.32,
+    "putcall_oi_ratio": 0.8158779995514689,
+    "avg_volume": 4839261.0,
+    "beta": 0.779
+  },
+  "momentum": {
+    "ticker": "PUMP",
+    "asof": "2026-08-12",
+    "ret_1m": -9.257815640303257,
+    "ret_3m": -25.305468626047258,
+    "ret_6m": 8.046509498773613,
+    "ret_12m": 142.99161634521892,
+    "rsi14": 37.26462013895479,
+    "pct_vs_200dma": -6.99834637278407,
+    "score": 67.0,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 37.26462013895479, \"vs_200dma\": 36.00330725443186, \"short_squeeze\": 78.200005, \"options_skew\": 45.630937429917026}",
+    "thesis": null
+  }
+}

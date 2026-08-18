@@ -1,0 +1,55 @@
+{
+  "ticker": "ALGM",
+  "stock": {
+    "ticker": "ALGM",
+    "name": "Allegro MicroSystems, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ALGM",
+    "asof": "2026-08-12",
+    "market_cap": 8149497856.0,
+    "pe": 624.5715,
+    "forward_pe": 29.161055,
+    "ev_ebitda": 59.828,
+    "fcf_yield": 0.012700030582105106,
+    "roe": 0.015269999,
+    "gross_margin": 0.47375,
+    "op_margin": 0.09824,
+    "rev_growth": 0.275,
+    "debt_to_equity": 31.472
+  },
+  "market_stats": {
+    "ticker": "ALGM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.112399995,
+    "short_ratio": 3.75,
+    "putcall_oi_ratio": 1.6595646132468735,
+    "avg_volume": 2860067.0,
+    "beta": 1.936
+  },
+  "momentum": {
+    "ticker": "ALGM",
+    "asof": "2026-08-12",
+    "ret_1m": -18.291283927073366,
+    "ret_3m": -6.801829092077916,
+    "ret_6m": 2.7397245203712783,
+    "ret_12m": 43.408254833554885,
+    "rsi14": 27.379482210261017,
+    "pct_vs_200dma": 10.867260642092912,
+    "score": 54.1,
+    "components_json": "{\"trend\": 66.14467056190996, \"rsi\": 27.379482210261017, \"vs_200dma\": 71.73452128418583, \"short_squeeze\": 56.199997499999995, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

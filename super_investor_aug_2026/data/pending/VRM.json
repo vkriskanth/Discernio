@@ -1,0 +1,55 @@
+{
+  "ticker": "VRM",
+  "stock": {
+    "ticker": "VRM",
+    "name": "Vroom, Inc.",
+    "sector": "Financial Services",
+    "industry": "Credit Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.2,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VRM",
+    "asof": "2026-08-12",
+    "market_cap": 52333092.0,
+    "pe": null,
+    "forward_pe": -0.057858795,
+    "ev_ebitda": 71.458,
+    "fcf_yield": 0.07873364333221511,
+    "roe": -0.42803,
+    "gross_margin": 0.65903,
+    "op_margin": 0.30895,
+    "rev_growth": -0.042,
+    "debt_to_equity": 643.42
+  },
+  "market_stats": {
+    "ticker": "VRM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.028900001,
+    "short_ratio": 3.02,
+    "putcall_oi_ratio": null,
+    "avg_volume": 26185.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VRM",
+    "asof": "2026-08-12",
+    "ret_1m": 35.27777818250068,
+    "ret_3m": -21.767068912966756,
+    "ret_6m": -43.47069048236328,
+    "ret_12m": -64.46552416877245,
+    "rsi14": 77.76621828966012,
+    "pct_vs_200dma": -37.06077176619924,
+    "score": 20.0,
+    "components_json": "{\"trend\": 4.642462513892006, \"rsi\": 77.76621828966012, \"vs_200dma\": 0.0, \"short_squeeze\": 14.4500005, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "TECK",
+  "stock": {
+    "ticker": "TECK",
+    "name": "Teck Resources Ltd",
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TECK",
+    "asof": "2026-08-12",
+    "market_cap": 32872650752.0,
+    "pe": 18.357533,
+    "forward_pe": 18.704493,
+    "ev_ebitda": 5.672,
+    "fcf_yield": 0.05284408017793672,
+    "roe": 0.08717,
+    "gross_margin": 0.35987,
+    "op_margin": 0.44105,
+    "rev_growth": 0.782,
+    "debt_to_equity": 34.254
+  },
+  "market_stats": {
+    "ticker": "TECK",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 4.03,
+    "putcall_oi_ratio": 0.5500998003992016,
+    "avg_volume": 3285520.0,
+    "beta": 1.587
+  },
+  "momentum": {
+    "ticker": "TECK",
+    "asof": "2026-08-12",
+    "ret_1m": 12.510551924161529,
+    "ret_3m": 9.828174338674334,
+    "ret_6m": 25.00031126152795,
+    "ret_12m": 106.89964903769908,
+    "rsi14": 75.72033103804998,
+    "pct_vs_200dma": 23.11135396460484,
+    "score": 81.7,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 75.72033103804998, \"vs_200dma\": 96.22270792920969, \"short_squeeze\": 0.0, \"options_skew\": 63.358343313373254}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "BSM",
+  "stock": {
+    "ticker": "BSM",
+    "name": "Black Stone Minerals, L.P.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 7.97,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BSM",
+    "asof": "2026-08-12",
+    "market_cap": 3041761280.0,
+    "pe": 11.916666,
+    "forward_pe": 12.118645,
+    "ev_ebitda": 10.415,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": 0.89589,
+    "op_margin": 0.9536,
+    "rev_growth": 0.132,
+    "debt_to_equity": 17.417
+  },
+  "market_stats": {
+    "ticker": "BSM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0228,
+    "short_ratio": 13.09,
+    "putcall_oi_ratio": 0.20588235294117646,
+    "avg_volume": 363327.0,
+    "beta": 0.024
+  },
+  "momentum": {
+    "ticker": "BSM",
+    "asof": "2026-08-12",
+    "ret_1m": 2.8195876541207143,
+    "ret_3m": 8.979638378972243,
+    "ret_6m": 1.4831401087758378,
+    "ret_12m": 30.41797419274317,
+    "rsi14": 54.087753595174796,
+    "pct_vs_200dma": 6.108989774711149,
+    "score": 59.6,
+    "components_json": "{\"trend\": 65.30602322342169, \"rsi\": 54.087753595174796, \"vs_200dma\": 62.217979549422296, \"short_squeeze\": 11.400000000000002, \"options_skew\": 86.31764705882354}",
+    "thesis": null
+  }
+}

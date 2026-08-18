@@ -1,0 +1,55 @@
+{
+  "ticker": "WSC",
+  "stock": {
+    "ticker": "WSC",
+    "name": "WillScot Mobile Mini Hldgs Corp.",
+    "sector": "Industrials",
+    "industry": "Rental & Leasing Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WSC",
+    "asof": "2026-08-12",
+    "market_cap": 4040558336.0,
+    "pe": null,
+    "forward_pe": 16.80989,
+    "ev_ebitda": 13.495,
+    "fcf_yield": 0.06157589404990588,
+    "roe": -0.07083,
+    "gross_margin": 0.52324003,
+    "op_margin": 0.20124,
+    "rev_growth": 0.039,
+    "debt_to_equity": 416.655
+  },
+  "market_stats": {
+    "ticker": "WSC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1512,
+    "short_ratio": 8.42,
+    "putcall_oi_ratio": 0.009929873772791024,
+    "avg_volume": 2176656.0,
+    "beta": 1.334
+  },
+  "momentum": {
+    "ticker": "WSC",
+    "asof": "2026-08-12",
+    "ret_1m": -16.356182431784216,
+    "ret_3m": -16.68504579918435,
+    "ret_6m": 3.374109121070301,
+    "ret_12m": -5.080804086933055,
+    "rsi14": 28.390247696713274,
+    "pct_vs_200dma": 1.548910259108549,
+    "score": 52.6,
+    "components_json": "{\"trend\": 43.97439736179256, \"rsi\": 28.390247696713274, \"vs_200dma\": 53.0978205182171, \"short_squeeze\": 75.60000000000001, \"options_skew\": 99.38767741935484}",
+    "thesis": null
+  }
+}

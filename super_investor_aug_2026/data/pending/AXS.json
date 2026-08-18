@@ -1,0 +1,63 @@
+{
+  "ticker": "AXS",
+  "stock": {
+    "ticker": "AXS",
+    "name": "Axis Capital Holdings Limited",
+    "sector": "Financial Services",
+    "industry": "Insurance - Specialty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 13.11,
+      "pct_of_portfolio": 0.12,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 67.44,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AXS",
+    "asof": "2026-08-12",
+    "market_cap": 7363031552.0,
+    "pe": 7.264939,
+    "forward_pe": 7.355364,
+    "ev_ebitda": 6.017,
+    "fcf_yield": 0.31901166135326103,
+    "roe": 0.17422001,
+    "gross_margin": 0.30674,
+    "op_margin": 0.19181,
+    "rev_growth": 0.074,
+    "debt_to_equity": 22.865
+  },
+  "market_stats": {
+    "ticker": "AXS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0274,
+    "short_ratio": 2.52,
+    "putcall_oi_ratio": 0.27766990291262134,
+    "avg_volume": 720137.0,
+    "beta": 0.506
+  },
+  "momentum": {
+    "ticker": "AXS",
+    "asof": "2026-08-12",
+    "ret_1m": -10.434082830984547,
+    "ret_3m": 1.8011378774277054,
+    "ret_6m": -4.735540798633608,
+    "ret_12m": 6.572611900459213,
+    "rsi14": 23.12592114722399,
+    "pct_vs_200dma": -1.0705302412434725,
+    "score": 45.7,
+    "components_json": "{\"trend\": 51.74872388382192, \"rsi\": 23.12592114722399, \"vs_200dma\": 47.85893951751306, \"short_squeeze\": 13.700000000000001, \"options_skew\": 81.52941747572817}",
+    "thesis": null
+  }
+}

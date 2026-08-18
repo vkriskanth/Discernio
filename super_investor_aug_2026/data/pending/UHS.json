@@ -1,0 +1,55 @@
+{
+  "ticker": "UHS",
+  "stock": {
+    "ticker": "UHS",
+    "name": "Universal Health Services, Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 2.99,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "UHS",
+    "asof": "2026-08-12",
+    "market_cap": 9980899328.0,
+    "pe": 6.9122453,
+    "forward_pe": 7.0186305,
+    "ev_ebitda": 5.634,
+    "fcf_yield": 0.049927063245898316,
+    "roe": 0.20948,
+    "gross_margin": 0.44607,
+    "op_margin": 0.1114,
+    "rev_growth": 0.083,
+    "debt_to_equity": 68.74
+  },
+  "market_stats": {
+    "ticker": "UHS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0726,
+    "short_ratio": 2.92,
+    "putcall_oi_ratio": 0.6946107784431138,
+    "avg_volume": 1038930.0,
+    "beta": 1.063
+  },
+  "momentum": {
+    "ticker": "UHS",
+    "asof": "2026-08-12",
+    "ret_1m": 17.90196775225219,
+    "ret_3m": 0.3859008593029678,
+    "ret_6m": -19.893782537049788,
+    "ret_12m": -0.5137233323073254,
+    "rsi14": 71.15817565690489,
+    "pct_vs_200dma": -10.49118954836813,
+    "score": 44.5,
+    "components_json": "{\"trend\": 43.94214616375302, \"rsi\": 71.15817565690489, \"vs_200dma\": 29.01762090326374, \"short_squeeze\": 36.3, \"options_skew\": 53.71946107784431}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "SSPPF",
+  "stock": {
+    "ticker": "SSPPF",
+    "name": "SSP GROUP PLC",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 6.06,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SSPPF",
+    "asof": "2026-08-12",
+    "market_cap": 1900616832.0,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": 10.428,
+    "fcf_yield": 0.1757258393047842,
+    "roe": 0.044299997,
+    "gross_margin": 0.30488002,
+    "op_margin": 0.04117,
+    "rev_growth": 0.062,
+    "debt_to_equity": 1168.734
+  },
+  "market_stats": {
+    "ticker": "SSPPF",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": null,
+    "avg_volume": 4.0,
+    "beta": 0.913
+  },
+  "momentum": {
+    "ticker": "SSPPF",
+    "asof": "2026-08-12",
+    "ret_1m": 18.07229408169515,
+    "ret_3m": 18.07229408169515,
+    "ret_6m": 1.5139484842989992,
+    "ret_12m": 8.42554045435886,
+    "rsi14": null,
+    "pct_vs_200dma": 10.459877439195232,
+    "score": 53.9,
+    "components_json": "{\"trend\": 59.24608895154179, \"rsi\": 50.0, \"vs_200dma\": 70.91975487839046, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

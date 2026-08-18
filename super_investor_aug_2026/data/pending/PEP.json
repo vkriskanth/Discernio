@@ -1,0 +1,71 @@
+{
+  "ticker": "PEP",
+  "stock": {
+    "ticker": "PEP",
+    "name": "Pepsico, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Non-Alcoholic"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 11.1,
+      "pct_of_portfolio": 0.29,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 7.58,
+      "pct_of_portfolio": 0.21,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 2.21,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PEP",
+    "asof": "2026-08-12",
+    "market_cap": 188262793216.0,
+    "pe": 18.062975,
+    "forward_pe": 15.35016,
+    "ev_ebitda": 12.265,
+    "fcf_yield": 0.04160075890839586,
+    "roe": 0.51508,
+    "gross_margin": 0.54171,
+    "op_margin": 0.16836001,
+    "rev_growth": 0.064,
+    "debt_to_equity": 238.949
+  },
+  "market_stats": {
+    "ticker": "PEP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.024,
+    "short_ratio": 3.15,
+    "putcall_oi_ratio": 0.6746599031588656,
+    "avg_volume": 8787525.0,
+    "beta": 0.361
+  },
+  "momentum": {
+    "ticker": "PEP",
+    "asof": "2026-08-12",
+    "ret_1m": 2.179184938442691,
+    "ret_3m": -7.897376429600644,
+    "ret_6m": -15.489404839216114,
+    "ret_12m": -0.6824221359551186,
+    "rsi14": 60.58264399789293,
+    "pct_vs_200dma": -5.968190205659063,
+    "score": 42.4,
+    "components_json": "{\"trend\": 42.710996764972926, \"rsi\": 60.58264399789293, \"vs_200dma\": 38.063619588681874, \"short_squeeze\": 12.0, \"options_skew\": 55.050184459303665}",
+    "thesis": null
+  }
+}

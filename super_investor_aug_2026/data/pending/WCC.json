@@ -1,0 +1,71 @@
+{
+  "ticker": "WCC",
+  "stock": {
+    "ticker": "WCC",
+    "name": "WESCO International, Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "add",
+      "share_change_pct": 1.27,
+      "pct_of_portfolio": 0.1,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 4.53,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WCC",
+    "asof": "2026-08-12",
+    "market_cap": 17996556288.0,
+    "pe": 25.538729,
+    "forward_pe": 18.42873,
+    "ev_ebitda": 14.951,
+    "fcf_yield": 0.009837993289752657,
+    "roe": 0.14308,
+    "gross_margin": 0.21395001,
+    "op_margin": 0.06082,
+    "rev_growth": 0.13,
+    "debt_to_equity": 128.65
+  },
+  "market_stats": {
+    "ticker": "WCC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0396,
+    "short_ratio": 2.08,
+    "putcall_oi_ratio": 0.18054162487462388,
+    "avg_volume": 641769.0,
+    "beta": 1.541
+  },
+  "momentum": {
+    "ticker": "WCC",
+    "asof": "2026-08-12",
+    "ret_1m": 7.756241236536976,
+    "ret_3m": 1.3321030809940737,
+    "ret_6m": 28.680510577933216,
+    "ret_12m": 81.34696468487816,
+    "rsi14": 65.60821388051451,
+    "pct_vs_200dma": 21.778160820343228,
+    "score": 80.6,
+    "components_json": "{\"trend\": 91.54256997162945, \"rsi\": 65.60821388051451, \"vs_200dma\": 93.55632164068646, \"short_squeeze\": 19.8, \"options_skew\": 88.0078736208626}",
+    "thesis": null
+  }
+}

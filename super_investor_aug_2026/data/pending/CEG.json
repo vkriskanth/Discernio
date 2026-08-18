@@ -1,0 +1,63 @@
+{
+  "ticker": "CEG",
+  "stock": {
+    "ticker": "CEG",
+    "name": "Constellation Energy Corporatio",
+    "sector": "Utilities",
+    "industry": "Utilities - Independent Power Producers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SP",
+      "manager_name": "Dennis Hong - ShawSpring Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.42,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 17.08,
+      "pct_of_portfolio": 0.58,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CEG",
+    "asof": "2026-08-12",
+    "market_cap": 100102463488.0,
+    "pe": 27.59082,
+    "forward_pe": 21.207935,
+    "ev_ebitda": 15.464,
+    "fcf_yield": -0.06618343478424187,
+    "roe": 0.15055001,
+    "gross_margin": 0.22107,
+    "op_margin": 0.086619996,
+    "rev_growth": 0.23,
+    "debt_to_equity": 76.419
+  },
+  "market_stats": {
+    "ticker": "CEG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.032899998,
+    "short_ratio": 3.28,
+    "putcall_oi_ratio": 0.8840161569532602,
+    "avg_volume": 3637638.0,
+    "beta": 1.118
+  },
+  "momentum": {
+    "ticker": "CEG",
+    "asof": "2026-08-12",
+    "ret_1m": 9.03560975296267,
+    "ret_3m": -4.620435590683547,
+    "ret_6m": 3.418782193733616,
+    "ret_12m": -15.210153015234894,
+    "rsi14": 53.02389084167484,
+    "pct_vs_200dma": -7.76860514731319,
+    "score": 39.7,
+    "components_json": "{\"trend\": 43.55544277482106, \"rsi\": 53.02389084167484, \"vs_200dma\": 34.46278970537362, \"short_squeeze\": 16.449999, \"options_skew\": 41.086122331217545}",
+    "thesis": null
+  }
+}

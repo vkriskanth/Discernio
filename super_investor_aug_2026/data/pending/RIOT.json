@@ -1,0 +1,55 @@
+{
+  "ticker": "RIOT",
+  "stock": {
+    "ticker": "RIOT",
+    "name": "Riot Platforms, Inc.",
+    "sector": "Financial Services",
+    "industry": "Capital Markets"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.7,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RIOT",
+    "asof": "2026-08-12",
+    "market_cap": 7668416512.0,
+    "pe": null,
+    "forward_pe": -21.85351,
+    "ev_ebitda": -8.901,
+    "fcf_yield": -0.09575337161863333,
+    "roe": -0.48243,
+    "gross_margin": 0.28257,
+    "op_margin": -1.22334,
+    "rev_growth": 0.139,
+    "debt_to_equity": 40.034
+  },
+  "market_stats": {
+    "ticker": "RIOT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.148,
+    "short_ratio": 2.9,
+    "putcall_oi_ratio": 0.4655325561107146,
+    "avg_volume": 17719622.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "RIOT",
+    "asof": "2026-08-12",
+    "ret_1m": 2.57552519395865,
+    "ret_3m": -15.503880493364397,
+    "ret_6m": 39.649353951562084,
+    "ret_12m": 86.40863838394172,
+    "rsi14": 40.34334377482857,
+    "pct_vs_200dma": 11.730180858489359,
+    "score": 75.4,
+    "components_json": "{\"trend\": 91.807097391036, \"rsi\": 40.34334377482857, \"vs_200dma\": 73.46036171697872, \"short_squeeze\": 74.0, \"options_skew\": 68.99897850741533}",
+    "thesis": null
+  }
+}

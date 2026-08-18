@@ -1,0 +1,79 @@
+{
+  "ticker": "KVUE",
+  "stock": {
+    "ticker": "KVUE",
+    "name": "Kenvue Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 78.33,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 1.49,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.95,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KVUE",
+    "asof": "2026-08-12",
+    "market_cap": 36225789952.0,
+    "pe": 22.188236,
+    "forward_pe": 15.260753,
+    "ev_ebitda": 12.667,
+    "fcf_yield": 0.052655857457559414,
+    "roe": 0.15581,
+    "gross_margin": 0.58437,
+    "op_margin": 0.19418,
+    "rev_growth": 0.03,
+    "debt_to_equity": 81.617
+  },
+  "market_stats": {
+    "ticker": "KVUE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0382,
+    "short_ratio": 3.41,
+    "putcall_oi_ratio": 0.5621912887292322,
+    "avg_volume": 20959461.0,
+    "beta": 0.431
+  },
+  "momentum": {
+    "ticker": "KVUE",
+    "asof": "2026-08-12",
+    "ret_1m": -0.9620357272295044,
+    "ret_3m": 12.256749582848325,
+    "ret_6m": 7.23782402178208,
+    "ret_12m": -6.603933478114222,
+    "rsi14": 52.342497242199585,
+    "pct_vs_200dma": 9.246971175340924,
+    "score": 54.4,
+    "components_json": "{\"trend\": 53.20679869014343, \"rsi\": 52.342497242199585, \"vs_200dma\": 68.49394235068185, \"short_squeeze\": 19.099999999999998, \"options_skew\": 62.55184104176021}",
+    "thesis": null
+  }
+}

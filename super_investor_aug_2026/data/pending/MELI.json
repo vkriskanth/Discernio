@@ -1,0 +1,103 @@
+{
+  "ticker": "MELI",
+  "stock": {
+    "ticker": "MELI",
+    "name": "Mercadolibre Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Internet Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TGM",
+      "manager_name": "Chase Coleman - Tiger Global Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "add",
+      "share_change_pct": 13.94,
+      "pct_of_portfolio": 0.76,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "WIM",
+      "manager_name": "Wallace Weitz - Weitz Investment Management",
+      "action": "add",
+      "share_change_pct": 116.22,
+      "pct_of_portfolio": 0.52,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 340.37,
+      "pct_of_portfolio": 0.24,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 2.85,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 42.74,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MELI",
+    "asof": "2026-08-12",
+    "market_cap": 96102121472.0,
+    "pe": 51.694168,
+    "forward_pe": 33.419342,
+    "ev_ebitda": 27.188,
+    "fcf_yield": 0.0036770781184363157,
+    "roe": 0.27504,
+    "gross_margin": 0.47749,
+    "op_margin": 0.06716,
+    "rev_growth": 0.498,
+    "debt_to_equity": 168.586
+  },
+  "market_stats": {
+    "ticker": "MELI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.016,
+    "short_ratio": 2.25,
+    "putcall_oi_ratio": 0.9215605749486653,
+    "avg_volume": 487304.0,
+    "beta": 1.312
+  },
+  "momentum": {
+    "ticker": "MELI",
+    "asof": "2026-08-12",
+    "ret_1m": 4.0957969358415,
+    "ret_3m": 0.634488060085947,
+    "ret_6m": -7.513662988847281,
+    "ret_12m": -18.787382130623797,
+    "rsi14": 55.405087734699435,
+    "pct_vs_200dma": -0.33060326973622933,
+    "score": 41.5,
+    "components_json": "{\"trend\": 40.42129466912208, \"rsi\": 55.405087734699435, \"vs_200dma\": 49.33879346052754, \"short_squeeze\": 8.0, \"options_skew\": 38.581909650924025}",
+    "thesis": null
+  }
+}

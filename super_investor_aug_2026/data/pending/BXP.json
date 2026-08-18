@@ -1,0 +1,63 @@
+{
+  "ticker": "BXP",
+  "stock": {
+    "ticker": "BXP",
+    "name": "BXP, Inc.",
+    "sector": "Real Estate",
+    "industry": "REIT - Office"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 39.96,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.4,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BXP",
+    "asof": "2026-08-12",
+    "market_cap": 12149535744.0,
+    "pe": 36.112904,
+    "forward_pe": 32.108643,
+    "ev_ebitda": 18.065,
+    "fcf_yield": 0.07248316993798705,
+    "roe": 0.05308,
+    "gross_margin": 0.56452,
+    "op_margin": 0.28755,
+    "rev_growth": 0.037,
+    "debt_to_equity": 211.631
+  },
+  "market_stats": {
+    "ticker": "BXP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0884,
+    "short_ratio": 7.2,
+    "putcall_oi_ratio": 0.004575163398692811,
+    "avg_volume": 1451091.0,
+    "beta": 1.039
+  },
+  "momentum": {
+    "ticker": "BXP",
+    "asof": "2026-08-12",
+    "ret_1m": 1.0234536911256864,
+    "ret_3m": 14.91444530556192,
+    "ret_6m": 9.646611711596243,
+    "ret_12m": 6.977883626496184,
+    "rsi14": 48.91344436623405,
+    "pct_vs_200dma": 7.885474563429629,
+    "score": 62.2,
+    "components_json": "{\"trend\": 60.159470555745926, \"rsi\": 48.91344436623405, \"vs_200dma\": 65.77094912685925, \"short_squeeze\": 44.2, \"options_skew\": 99.7448366013072}",
+    "thesis": null
+  }
+}

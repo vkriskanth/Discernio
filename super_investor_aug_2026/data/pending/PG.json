@@ -1,0 +1,79 @@
+{
+  "ticker": "PG",
+  "stock": {
+    "ticker": "PG",
+    "name": "Procter & Gamble Company (The)",
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 187.78,
+      "pct_of_portfolio": 1.14,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 1.68,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 12.55,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.67,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PG",
+    "asof": "2026-08-12",
+    "market_cap": 335671394304.0,
+    "pe": 21.8142,
+    "forward_pe": 19.514286,
+    "ev_ebitda": 14.69,
+    "fcf_yield": 0.03956510659342097,
+    "roe": 0.30290002,
+    "gross_margin": 0.50873,
+    "op_margin": 0.22084999,
+    "rev_growth": 0.015,
+    "debt_to_equity": 64.49
+  },
+  "market_stats": {
+    "ticker": "PG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0117,
+    "short_ratio": 3.1,
+    "putcall_oi_ratio": 0.585053360741137,
+    "avg_volume": 8871601.0,
+    "beta": 0.377
+  },
+  "momentum": {
+    "ticker": "PG",
+    "asof": "2026-08-12",
+    "ret_1m": -0.11557935638830674,
+    "ret_3m": 1.3905607952141352,
+    "ret_6m": -7.587462337689144,
+    "ret_12m": -3.8011384442275697,
+    "rsi14": 46.86998992987265,
+    "pct_vs_200dma": -0.7020707418756267,
+    "score": 44.5,
+    "components_json": "{\"trend\": 46.62047415956647, \"rsi\": 46.86998992987265, \"vs_200dma\": 48.59585851624875, \"short_squeeze\": 5.85, \"options_skew\": 61.02694083856616}",
+    "thesis": null
+  }
+}

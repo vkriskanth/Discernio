@@ -1,0 +1,55 @@
+{
+  "ticker": "DOC",
+  "stock": {
+    "ticker": "DOC",
+    "name": "Healthpeak Properties, Inc.",
+    "sector": "Real Estate",
+    "industry": "REIT - Healthcare Facilities"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 48.0,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DOC",
+    "asof": "2026-08-12",
+    "market_cap": 14671663104.0,
+    "pe": 59.12857,
+    "forward_pe": -137.96666,
+    "ev_ebitda": 15.582,
+    "fcf_yield": 0.11212860303147812,
+    "roe": 0.03039,
+    "gross_margin": 0.57648,
+    "op_margin": 0.1599,
+    "rev_growth": 0.111,
+    "debt_to_equity": 108.653
+  },
+  "market_stats": {
+    "ticker": "DOC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.046,
+    "short_ratio": 3.91,
+    "putcall_oi_ratio": 0.36,
+    "avg_volume": 7653080.0,
+    "beta": 0.997
+  },
+  "momentum": {
+    "ticker": "DOC",
+    "asof": "2026-08-12",
+    "ret_1m": -3.9275446675783865,
+    "ret_3m": 6.284881279486609,
+    "ret_6m": 25.92844847237654,
+    "ret_12m": 32.185189783136295,
+    "rsi14": 33.807825155563236,
+    "pct_vs_200dma": 15.520264936221363,
+    "score": 64.3,
+    "components_json": "{\"trend\": 72.53807483881346, \"rsi\": 33.807825155563236, \"vs_200dma\": 81.04052987244273, \"short_squeeze\": 23.0, \"options_skew\": 76.03800000000001}",
+    "thesis": null
+  }
+}

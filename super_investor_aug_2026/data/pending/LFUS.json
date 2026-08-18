@@ -1,0 +1,55 @@
+{
+  "ticker": "LFUS",
+  "stock": {
+    "ticker": "LFUS",
+    "name": "Littelfuse Inc.",
+    "sector": "Technology",
+    "industry": "Electronic Components"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 41.48,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LFUS",
+    "asof": "2026-08-12",
+    "market_cap": 11798734848.0,
+    "pe": null,
+    "forward_pe": 23.12007,
+    "ev_ebitda": 20.334,
+    "fcf_yield": 0.030915783827605174,
+    "roe": -0.0030899998,
+    "gross_margin": 0.39343,
+    "op_margin": 0.18799,
+    "rev_growth": 0.204,
+    "debt_to_equity": 27.093
+  },
+  "market_stats": {
+    "ticker": "LFUS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0687,
+    "short_ratio": 3.51,
+    "putcall_oi_ratio": 1.0814940577249577,
+    "avg_volume": 370333.0,
+    "beta": 1.485
+  },
+  "momentum": {
+    "ticker": "LFUS",
+    "asof": "2026-08-12",
+    "ret_1m": 13.052902537160227,
+    "ret_3m": 5.290154120785195,
+    "ret_6m": 40.39488402602147,
+    "ret_12m": 88.1428539442568,
+    "rsi14": 73.33481910501854,
+    "pct_vs_200dma": 31.417862683376985,
+    "score": 81.8,
+    "components_json": "{\"trend\": 98.96265302174473, \"rsi\": 73.33481910501854, \"vs_200dma\": 100.0, \"short_squeeze\": 34.35, \"options_skew\": 27.914346349745326}",
+    "thesis": null
+  }
+}

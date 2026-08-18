@@ -1,0 +1,55 @@
+{
+  "ticker": "ZIM",
+  "stock": {
+    "ticker": "ZIM",
+    "name": "ZIM Integrated Shipping Service",
+    "sector": "Industrials",
+    "industry": "Marine Shipping"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.29,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ZIM",
+    "asof": "2026-08-12",
+    "market_cap": 3035287552.0,
+    "pe": 30.713415,
+    "forward_pe": -11.2443075,
+    "ev_ebitda": 14.48,
+    "fcf_yield": 0.21009540515520816,
+    "roe": 0.02544,
+    "gross_margin": 0.31207,
+    "op_margin": -0.00981,
+    "rev_growth": -0.304,
+    "debt_to_equity": 143.108
+  },
+  "market_stats": {
+    "ticker": "ZIM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0272,
+    "short_ratio": 3.14,
+    "putcall_oi_ratio": 0.9730746717953006,
+    "avg_volume": 1146856.0,
+    "beta": 1.107
+  },
+  "momentum": {
+    "ticker": "ZIM",
+    "asof": "2026-08-12",
+    "ret_1m": 5.52774635333948,
+    "ret_3m": -4.941753114977643,
+    "ret_6m": 26.443479227571398,
+    "ret_12m": 64.14633506343499,
+    "rsi14": 51.86474385190704,
+    "pct_vs_200dma": 9.52410957554397,
+    "score": 62.8,
+    "components_json": "{\"trend\": 82.10905185915212, \"rsi\": 51.86474385190704, \"vs_200dma\": 69.04821915108795, \"short_squeeze\": 13.599999999999998, \"options_skew\": 35.14591939125345}",
+    "thesis": null
+  }
+}

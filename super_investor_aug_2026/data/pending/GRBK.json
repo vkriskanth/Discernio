@@ -1,0 +1,55 @@
+{
+  "ticker": "GRBK",
+  "stock": {
+    "ticker": "GRBK",
+    "name": "Green Brick Partners, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Residential Construction"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 15.61,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GRBK",
+    "asof": "2026-08-12",
+    "market_cap": 3013544448.0,
+    "pe": 10.551958,
+    "forward_pe": 10.79584,
+    "ev_ebitda": 8.914,
+    "fcf_yield": 0.002308991992674269,
+    "roe": 0.16383,
+    "gross_margin": 0.30501,
+    "op_margin": 0.19545001,
+    "rev_growth": -0.087,
+    "debt_to_equity": 14.244
+  },
+  "market_stats": {
+    "ticker": "GRBK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.00029999999,
+    "short_ratio": 0.03,
+    "putcall_oi_ratio": 23.307692307692307,
+    "avg_volume": 252485.0,
+    "beta": 1.802
+  },
+  "momentum": {
+    "ticker": "GRBK",
+    "asof": "2026-08-12",
+    "ret_1m": -3.7077442721821785,
+    "ret_3m": 7.617306591243667,
+    "ret_6m": -5.7379275576083355,
+    "ret_12m": 8.061796575864388,
+    "rsi14": 50.39954119171706,
+    "pct_vs_200dma": 2.4239406399924057,
+    "score": 42.8,
+    "components_json": "{\"trend\": 53.788532340436355, \"rsi\": 50.39954119171706, \"vs_200dma\": 54.84788127998481, \"short_squeeze\": 0.14999999500000002, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

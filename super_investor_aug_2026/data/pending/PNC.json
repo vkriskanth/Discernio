@@ -1,0 +1,63 @@
+{
+  "ticker": "PNC",
+  "stock": {
+    "ticker": "PNC",
+    "name": "PNC Financial Services Group, I",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 40.35,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 2.23,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PNC",
+    "asof": "2026-08-12",
+    "market_cap": 101577416704.0,
+    "pe": 14.026446,
+    "forward_pe": 11.91729,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.12623,
+    "gross_margin": 0.0,
+    "op_margin": 0.38689,
+    "rev_growth": 0.236,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "PNC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.018099999,
+    "short_ratio": 3.64,
+    "putcall_oi_ratio": 0.5379735984913424,
+    "avg_volume": 2030809.0,
+    "beta": 0.898
+  },
+  "momentum": {
+    "ticker": "PNC",
+    "asof": "2026-08-12",
+    "ret_1m": 1.9777861691320897,
+    "ret_3m": 19.353955744838625,
+    "ret_6m": 7.699762100838559,
+    "ret_12m": 39.614620907542665,
+    "rsi14": 62.828193659209944,
+    "pct_vs_200dma": 17.71141400049656,
+    "score": 67.7,
+    "components_json": "{\"trend\": 73.96196371672022, \"rsi\": 62.828193659209944, \"vs_200dma\": 85.42282800099312, \"short_squeeze\": 9.049999499999998, \"options_skew\": 64.16716098062746}",
+    "thesis": null
+  }
+}

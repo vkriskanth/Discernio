@@ -1,0 +1,55 @@
+{
+  "ticker": "IPI",
+  "stock": {
+    "ticker": "IPI",
+    "name": "Intrepid Potash, Inc",
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 113.92,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IPI",
+    "asof": "2026-08-12",
+    "market_cap": 494415680.0,
+    "pe": 31.136696,
+    "forward_pe": 43.713623,
+    "ev_ebitda": 4.801,
+    "fcf_yield": 0.07489446936634372,
+    "roe": 0.03134,
+    "gross_margin": 0.27831,
+    "op_margin": 0.02523,
+    "rev_growth": -0.015,
+    "debt_to_equity": 0.629
+  },
+  "market_stats": {
+    "ticker": "IPI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.023599999,
+    "short_ratio": 1.68,
+    "putcall_oi_ratio": 0.4581545064377682,
+    "avg_volume": 209130.0,
+    "beta": 1.252
+  },
+  "momentum": {
+    "ticker": "IPI",
+    "asof": "2026-08-12",
+    "ret_1m": 7.629350132126134,
+    "ret_3m": -4.636106934034689,
+    "ret_6m": 16.18806902591665,
+    "ret_12m": 18.65935829859835,
+    "rsi14": 64.18651912458702,
+    "pct_vs_200dma": 8.141446950694121,
+    "score": 58.7,
+    "components_json": "{\"trend\": 60.92933194700393, \"rsi\": 64.18651912458702, \"vs_200dma\": 66.28289390138823, \"short_squeeze\": 11.7999995, \"options_skew\": 69.49109442060087}",
+    "thesis": null
+  }
+}

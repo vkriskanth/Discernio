@@ -1,0 +1,55 @@
+{
+  "ticker": "IWM",
+  "stock": {
+    "ticker": "IWM",
+    "name": "iShares Russell 2000 Index Fund",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "add",
+      "share_change_pct": 961.85,
+      "pct_of_portfolio": 2.37,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IWM",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 18.674,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "IWM",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.5650074664011946,
+    "avg_volume": 24975840.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "IWM",
+    "asof": "2026-08-12",
+    "ret_1m": 2.6145059366847523,
+    "ret_3m": 7.204821069216538,
+    "ret_6m": 14.016952606618705,
+    "ret_12m": 38.62480753781246,
+    "rsi14": 64.70080771720146,
+    "pct_vs_200dma": 13.124592656515354,
+    "score": 63.7,
+    "components_json": "{\"trend\": 71.81645511787556, \"rsi\": 64.70080771720146, \"vs_200dma\": 76.24918531303071, \"short_squeeze\": 0.0, \"options_skew\": 62.364001991040325}",
+    "thesis": null
+  }
+}

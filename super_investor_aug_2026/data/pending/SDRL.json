@@ -1,0 +1,63 @@
+{
+  "ticker": "SDRL",
+  "stock": {
+    "ticker": "SDRL",
+    "name": "Seadrill Limited",
+    "sector": "Energy",
+    "industry": "Oil & Gas Drilling"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 4.81,
+      "pct_of_portfolio": 0.17,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 280.44,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SDRL",
+    "asof": "2026-08-12",
+    "market_cap": 2907239168.0,
+    "pe": 1549.5,
+    "forward_pe": 13.149966,
+    "ev_ebitda": 8.082,
+    "fcf_yield": 0.011909924845921724,
+    "roe": 0.00035,
+    "gross_margin": 0.35298002,
+    "op_margin": 0.16744,
+    "rev_growth": 0.191,
+    "debt_to_equity": 26.327
+  },
+  "market_stats": {
+    "ticker": "SDRL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.074099995,
+    "short_ratio": 5.89,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 832496.0,
+    "beta": 1.379
+  },
+  "momentum": {
+    "ticker": "SDRL",
+    "asof": "2026-08-12",
+    "ret_1m": 17.62706833808123,
+    "ret_3m": -2.022637122418125,
+    "ret_6m": 22.883800754074567,
+    "ret_12m": 57.70917643206879,
+    "rsi14": 62.62236230195481,
+    "pct_vs_200dma": 15.594640956484351,
+    "score": 70.1,
+    "components_json": "{\"trend\": 79.34201966232445, \"rsi\": 62.62236230195481, \"vs_200dma\": 81.18928191296871, \"short_squeeze\": 37.0499975, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

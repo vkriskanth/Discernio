@@ -1,0 +1,55 @@
+{
+  "ticker": "VPU",
+  "stock": {
+    "ticker": "VPU",
+    "name": "Vanguard Utilities ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VPU",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VPU",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.48205128205128206,
+    "avg_volume": 240841.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VPU",
+    "asof": "2026-08-12",
+    "ret_1m": -2.8311521907870674,
+    "ret_3m": -2.4180602403606644,
+    "ret_6m": 2.598868469144433,
+    "ret_12m": 5.094916206290656,
+    "rsi14": 39.652432936274955,
+    "pct_vs_200dma": -1.291271596075172,
+    "score": 45.4,
+    "components_json": "{\"trend\": 52.09220895115139, \"rsi\": 39.652432936274955, \"vs_200dma\": 47.41745680784965, \"short_squeeze\": 0.0, \"options_skew\": 67.89717948717949}",
+    "thesis": null
+  }
+}

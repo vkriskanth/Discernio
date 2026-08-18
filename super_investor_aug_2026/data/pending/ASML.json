@@ -1,0 +1,87 @@
+{
+  "ticker": "ASML",
+  "stock": {
+    "ticker": "ASML",
+    "name": "ASML Holding NV",
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment & Materials"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VFC",
+      "manager_name": "Valley Forge Capital Management",
+      "action": "add",
+      "share_change_pct": 35.52,
+      "pct_of_portfolio": 1.75,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TFP",
+      "manager_name": "Triple Frond Partners",
+      "action": "add",
+      "share_change_pct": 11.37,
+      "pct_of_portfolio": 1.66,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "tp",
+      "manager_name": "Daniel Loeb - Third Point",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.76,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "add",
+      "share_change_pct": 8.29,
+      "pct_of_portfolio": 0.53,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "WIM",
+      "manager_name": "Wallace Weitz - Weitz Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.51,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ASML",
+    "asof": "2026-08-12",
+    "market_cap": 702100275200.0,
+    "pe": 62.322197,
+    "forward_pe": 30.78619,
+    "ev_ebitda": 2846.236,
+    "fcf_yield": 0.01201776342502707,
+    "roe": 0.53942,
+    "gross_margin": 0.52733004,
+    "op_margin": 0.37057,
+    "rev_growth": 0.213,
+    "debt_to_equity": 9.092
+  },
+  "market_stats": {
+    "ticker": "ASML",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0028,
+    "short_ratio": 0.51,
+    "putcall_oi_ratio": 1.00270628814009,
+    "avg_volume": 1928688.0,
+    "beta": 1.365
+  },
+  "momentum": {
+    "ticker": "ASML",
+    "asof": "2026-08-12",
+    "ret_1m": 2.6093849113270284,
+    "ret_3m": 19.792586411144764,
+    "ret_6m": 29.168582792810295,
+    "ret_12m": 153.92759764141766,
+    "rsi14": 51.466286158407534,
+    "pct_vs_200dma": 28.46348289333338,
+    "score": 76.2,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 51.466286158407534, \"vs_200dma\": 100.0, \"short_squeeze\": 1.4, \"options_skew\": 33.16949058105599}",
+    "thesis": null
+  }
+}

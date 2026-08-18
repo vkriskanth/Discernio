@@ -1,0 +1,55 @@
+{
+  "ticker": "MINN",
+  "stock": {
+    "ticker": "MINN",
+    "name": "Mairs & Power Minnesota Municip",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 26.52,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MINN",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "MINN",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": null,
+    "avg_volume": 9240.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "MINN",
+    "asof": "2026-08-12",
+    "ret_1m": -0.934132318916614,
+    "ret_3m": -0.5641726034222638,
+    "ret_6m": -0.891460169771352,
+    "ret_12m": 4.825842067056629,
+    "rsi14": 44.15318106838555,
+    "pct_vs_200dma": -0.3519877890873824,
+    "score": 44.5,
+    "components_json": "{\"trend\": 51.49364699486457, \"rsi\": 44.15318106838555, \"vs_200dma\": 49.29602442182524, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

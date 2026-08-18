@@ -1,0 +1,55 @@
+{
+  "ticker": "SBUX",
+  "stock": {
+    "ticker": "SBUX",
+    "name": "Starbucks Corporation",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "add",
+      "share_change_pct": 4.07,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SBUX",
+    "asof": "2026-08-12",
+    "market_cap": 122470203392.0,
+    "pe": 62.098267,
+    "forward_pe": 34.545628,
+    "ev_ebitda": 24.891,
+    "fcf_yield": 0.02503088466496535,
+    "roe": null,
+    "gross_margin": 0.22341,
+    "op_margin": 0.12919,
+    "rev_growth": -0.014,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "SBUX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0383,
+    "short_ratio": 5.12,
+    "putcall_oi_ratio": 0.7028899307256316,
+    "avg_volume": 7791045.0,
+    "beta": 0.966
+  },
+  "momentum": {
+    "ticker": "SBUX",
+    "asof": "2026-08-12",
+    "ret_1m": 1.6671416624161273,
+    "ret_3m": 1.8696377341079318,
+    "ret_6m": 12.040234636581282,
+    "ret_12m": 20.763546526818622,
+    "rsi14": 66.50385649278775,
+    "pct_vs_200dma": 13.499959115332416,
+    "score": 61.4,
+    "components_json": "{\"trend\": 62.47838032193421, \"rsi\": 66.50385649278775, \"vs_200dma\": 76.99991823066483, \"short_squeeze\": 19.15, \"options_skew\": 53.16724162060038}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "TOST",
+  "stock": {
+    "ticker": "TOST",
+    "name": "Toast, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VA",
+      "manager_name": "ValueAct Capital",
+      "action": "add",
+      "share_change_pct": 60.89,
+      "pct_of_portfolio": 2.26,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TOST",
+    "asof": "2026-08-12",
+    "market_cap": 19415019520.0,
+    "pe": 42.518986,
+    "forward_pe": 19.31903,
+    "ev_ebitda": 37.88,
+    "fcf_yield": 0.024748880602722154,
+    "roe": 0.25162,
+    "gross_margin": 0.26793,
+    "op_margin": 0.07966,
+    "rev_growth": 0.231,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "TOST",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.067600004,
+    "short_ratio": 2.72,
+    "putcall_oi_ratio": 0.6933886201336098,
+    "avg_volume": 12201151.0,
+    "beta": 1.725
+  },
+  "momentum": {
+    "ticker": "TOST",
+    "asof": "2026-08-12",
+    "ret_1m": 10.966669718424482,
+    "ret_3m": 43.12124070485306,
+    "ret_6m": 12.962340316179777,
+    "ret_12m": -23.04668930383007,
+    "rsi14": 71.27939356564048,
+    "pct_vs_200dma": 10.018857530796366,
+    "score": 60.0,
+    "components_json": "{\"trend\": 57.60639858477782, \"rsi\": 71.27939356564048, \"vs_200dma\": 70.03771506159273, \"short_squeeze\": 33.800002000000006, \"options_skew\": 53.800979037088226}",
+    "thesis": null
+  }
+}

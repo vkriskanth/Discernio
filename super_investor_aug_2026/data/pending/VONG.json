@@ -1,0 +1,55 @@
+{
+  "ticker": "VONG",
+  "stock": {
+    "ticker": "VONG",
+    "name": "Vanguard Russell 1000 Growth ET",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 91.62,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VONG",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 34.151775,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VONG",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": null,
+    "avg_volume": 1304220.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VONG",
+    "asof": "2026-08-12",
+    "ret_1m": 1.0911542841727906,
+    "ret_3m": 1.7163899637997693,
+    "ret_6m": 12.03740490295846,
+    "ret_12m": 13.144131266401304,
+    "rsi14": 63.30595841341953,
+    "pct_vs_200dma": 5.785348811862945,
+    "score": 53.6,
+    "components_json": "{\"trend\": 59.383790966587995, \"rsi\": 63.30595841341953, \"vs_200dma\": 61.57069762372589, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

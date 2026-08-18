@@ -1,0 +1,55 @@
+{
+  "ticker": "SOLV",
+  "stock": {
+    "ticker": "SOLV",
+    "name": "Solventum Corporation",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.77,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SOLV",
+    "asof": "2026-08-12",
+    "market_cap": 14269855744.0,
+    "pe": 10.248166,
+    "forward_pe": 11.609163,
+    "ev_ebitda": 16.864,
+    "fcf_yield": 0.03426804088090437,
+    "roe": 0.33960998,
+    "gross_margin": 0.54777,
+    "op_margin": 0.09778,
+    "rev_growth": 0.022,
+    "debt_to_equity": 110.313
+  },
+  "market_stats": {
+    "ticker": "SOLV",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.024300002,
+    "short_ratio": 3.26,
+    "putcall_oi_ratio": 0.07766990291262135,
+    "avg_volume": 1629072.0,
+    "beta": 0.671
+  },
+  "momentum": {
+    "ticker": "SOLV",
+    "asof": "2026-08-12",
+    "ret_1m": 10.874147229839725,
+    "ret_3m": 17.54361399459863,
+    "ret_6m": 9.405037085020362,
+    "ret_12m": 16.053467789541422,
+    "rsi14": 59.98392586525682,
+    "pct_vs_200dma": 11.296195225405924,
+    "score": 63.7,
+    "components_json": "{\"trend\": 64.50598243970227, \"rsi\": 59.98392586525682, \"vs_200dma\": 72.59239045081185, \"short_squeeze\": 12.150001000000001, \"options_skew\": 94.86941747572816}",
+    "thesis": null
+  }
+}

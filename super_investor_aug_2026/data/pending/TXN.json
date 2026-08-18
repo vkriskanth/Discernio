@@ -1,0 +1,55 @@
+{
+  "ticker": "TXN",
+  "stock": {
+    "ticker": "TXN",
+    "name": "Texas Instruments",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.49,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TXN",
+    "asof": "2026-08-12",
+    "market_cap": 253056368640.0,
+    "pe": 42.111702,
+    "forward_pe": 26.63133,
+    "ev_ebitda": 27.72,
+    "fcf_yield": 0.01400972465958168,
+    "roe": 0.35176,
+    "gross_margin": 0.58325,
+    "op_margin": 0.42576998,
+    "rev_growth": 0.228,
+    "debt_to_equity": 78.036
+  },
+  "market_stats": {
+    "ticker": "TXN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.020399999,
+    "short_ratio": 2.02,
+    "putcall_oi_ratio": 0.6275569842197545,
+    "avg_volume": 8666361.0,
+    "beta": 1.325
+  },
+  "momentum": {
+    "ticker": "TXN",
+    "asof": "2026-08-12",
+    "ret_1m": -8.392783643836221,
+    "ret_3m": -5.171310278720642,
+    "ret_6m": 27.343868019021688,
+    "ret_12m": 55.51239001613795,
+    "rsi14": 46.24772596998869,
+    "pct_vs_200dma": 21.858481631349402,
+    "score": 68.7,
+    "components_json": "{\"trend\": 78.85672332854548, \"rsi\": 46.24772596998869, \"vs_200dma\": 93.71696326269881, \"short_squeeze\": 10.199999499999999, \"options_skew\": 58.19194915254238}",
+    "thesis": null
+  }
+}

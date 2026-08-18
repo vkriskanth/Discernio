@@ -1,0 +1,55 @@
+{
+  "ticker": "FSV",
+  "stock": {
+    "ticker": "FSV",
+    "name": "FirstService Corporation",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TA",
+      "manager_name": "Third Avenue Management",
+      "action": "add",
+      "share_change_pct": 169.59,
+      "pct_of_portfolio": 0.72,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FSV",
+    "asof": "2026-08-12",
+    "market_cap": 6215039488.0,
+    "pe": 40.198864,
+    "forward_pe": 21.194565,
+    "ev_ebitda": 15.179,
+    "fcf_yield": 0.0514521255444033,
+    "roe": 0.1197,
+    "gross_margin": 0.33369,
+    "op_margin": 0.0715,
+    "rev_growth": 0.024,
+    "debt_to_equity": 90.367
+  },
+  "market_stats": {
+    "ticker": "FSV",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 6.89,
+    "putcall_oi_ratio": 2.2666666666666666,
+    "avg_volume": 218858.0,
+    "beta": 0.908
+  },
+  "momentum": {
+    "ticker": "FSV",
+    "asof": "2026-08-12",
+    "ret_1m": -2.3978999790693845,
+    "ret_3m": 8.25550873266636,
+    "ret_6m": -12.339030319411236,
+    "ret_12m": -27.295649067598994,
+    "rsi14": 65.02083219868199,
+    "pct_vs_200dma": -3.8040407465350534,
+    "score": 35.5,
+    "components_json": "{\"trend\": 37.85668389693694, \"rsi\": 65.02083219868199, \"vs_200dma\": 42.39191850692989, \"short_squeeze\": 0.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

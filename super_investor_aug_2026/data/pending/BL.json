@@ -1,0 +1,55 @@
+{
+  "ticker": "BL",
+  "stock": {
+    "ticker": "BL",
+    "name": "BlackLine, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "ENG",
+      "manager_name": "Glenn Welling - Engaged Capital",
+      "action": "add",
+      "share_change_pct": 26.21,
+      "pct_of_portfolio": 3.46,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BL",
+    "asof": "2026-08-12",
+    "market_cap": 1623438848.0,
+    "pe": 49.875,
+    "forward_pe": 10.045389,
+    "ev_ebitda": 28.257,
+    "fcf_yield": 0.0853874158369284,
+    "roe": 0.070300005,
+    "gross_margin": 0.75563,
+    "op_margin": 0.06446,
+    "rev_growth": 0.092,
+    "debt_to_equity": 202.88
+  },
+  "market_stats": {
+    "ticker": "BL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1446,
+    "short_ratio": 6.08,
+    "putcall_oi_ratio": 0.6103448275862069,
+    "avg_volume": 1305220.0,
+    "beta": 0.645
+  },
+  "momentum": {
+    "ticker": "BL",
+    "asof": "2026-08-12",
+    "ret_1m": -2.4373467385090386,
+    "ret_3m": -7.215145755875185,
+    "ret_6m": -35.18813896181423,
+    "ret_12m": -43.7227721261506,
+    "rsi14": 51.83946270679746,
+    "pct_vs_200dma": -29.641274392364092,
+    "score": 28.9,
+    "components_json": "{\"trend\": 19.789905734232935, \"rsi\": 51.83946270679746, \"vs_200dma\": 0.0, \"short_squeeze\": 72.30000000000001, \"options_skew\": 59.34}",
+    "thesis": null
+  }
+}

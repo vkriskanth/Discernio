@@ -52,6 +52,8 @@ CREATE TABLE IF NOT EXISTS stocks (
 CREATE TABLE IF NOT EXISTS fundamentals (
     ticker TEXT NOT NULL,
     asof TEXT NOT NULL,
+    price REAL,
+    shares_outstanding REAL,
     market_cap REAL,
     pe REAL,
     forward_pe REAL,
@@ -121,11 +123,27 @@ CREATE TABLE IF NOT EXISTS runs (
 """
 
 
+def _migrate(conn: sqlite3.Connection) -> None:
+    """Add columns introduced after initial release to existing DBs in place."""
+    migrations = [
+        ("fundamentals", "price", "REAL"),
+        ("fundamentals", "shares_outstanding", "REAL"),
+    ]
+    for table, col, coltype in migrations:
+        try:
+            conn.execute(f"ALTER TABLE {table} ADD COLUMN {col} {coltype}")
+        except sqlite3.OperationalError as exc:
+            if "duplicate column" not in str(exc).lower():
+                raise
+    conn.commit()
+
+
 def connect(db_path: Path = DB_PATH) -> sqlite3.Connection:
     db_path.parent.mkdir(parents=True, exist_ok=True)
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
     conn.executescript(SCHEMA)
+    _migrate(conn)
     return conn
 
 

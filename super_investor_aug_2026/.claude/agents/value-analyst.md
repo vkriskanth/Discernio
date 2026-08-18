@@ -23,7 +23,12 @@ Analyze the business the way they would:
   2-3 most probable failure paths.
 - **Valuation** — an owner-earnings-based fair value range (state assumptions:
   normalized earnings, growth, discount rate) and margin of safety vs the
-  current price implied by the packet's multiples.
+  current price implied by the packet's multiples. Use `fundamentals.price`
+  for the current share price and `fundamentals.shares_outstanding` for
+  per-share math — both are sourced directly from the data provider. Only if
+  either is null should you back-solve from market_cap, and if you do, say so
+  explicitly and flag the result as an estimate, since an invented share count
+  silently breaks after any stock split.
 - **The cloning caveat** — superinvestor buying is corroboration, not thesis.
   Weight a 40%-of-portfolio bet by a focused manager differently from a 0.5%
   flyer.

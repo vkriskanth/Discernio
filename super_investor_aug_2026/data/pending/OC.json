@@ -1,0 +1,71 @@
+{
+  "ticker": "OC",
+  "stock": {
+    "ticker": "OC",
+    "name": "Owens Corning Inc",
+    "sector": "Industrials",
+    "industry": "Building Products & Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.15,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 226.31,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 2.66,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "OC",
+    "asof": "2026-08-12",
+    "market_cap": 12213020672.0,
+    "pe": null,
+    "forward_pe": 12.814324,
+    "ev_ebitda": 9.219,
+    "fcf_yield": 0.07247387978547098,
+    "roe": -0.094510004,
+    "gross_margin": 0.26485002,
+    "op_margin": 0.17816,
+    "rev_growth": 0.003,
+    "debt_to_equity": 150.328
+  },
+  "market_stats": {
+    "ticker": "OC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0394,
+    "short_ratio": 2.62,
+    "putcall_oi_ratio": 0.08244531688166012,
+    "avg_volume": 1148993.0,
+    "beta": 1.325
+  },
+  "momentum": {
+    "ticker": "OC",
+    "asof": "2026-08-12",
+    "ret_1m": 11.01151776288205,
+    "ret_3m": 27.825920198309184,
+    "ret_6m": 18.606725541588574,
+    "ret_12m": 7.486377326991489,
+    "rsi14": 64.2985448578247,
+    "pct_vs_200dma": 28.18406620812459,
+    "score": 72.8,
+    "components_json": "{\"trend\": 66.92434465276592, \"rsi\": 64.2985448578247, \"vs_200dma\": 100.0, \"short_squeeze\": 19.7, \"options_skew\": 94.55089736399327}",
+    "thesis": null
+  }
+}

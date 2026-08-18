@@ -1,0 +1,55 @@
+{
+  "ticker": "FUL",
+  "stock": {
+    "ticker": "FUL",
+    "name": "H. B. Fuller Company",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 48.45,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FUL",
+    "asof": "2026-08-12",
+    "market_cap": 3288562432.0,
+    "pe": 18.142433,
+    "forward_pe": 11.482919,
+    "ev_ebitda": 8.97,
+    "fcf_yield": 0.06671855333047848,
+    "roe": 0.09388,
+    "gross_margin": 0.32394,
+    "op_margin": 0.13299,
+    "rev_growth": 0.058,
+    "debt_to_equity": 106.252
+  },
+  "market_stats": {
+    "ticker": "FUL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0706,
+    "short_ratio": 3.56,
+    "putcall_oi_ratio": 1.75,
+    "avg_volume": 793280.0,
+    "beta": 0.974
+  },
+  "momentum": {
+    "ticker": "FUL",
+    "asof": "2026-08-12",
+    "ret_1m": 11.342219197173641,
+    "ret_3m": 1.1200932451101986,
+    "ret_6m": -5.793272506348989,
+    "ret_12m": 11.030491273724707,
+    "rsi14": 74.25535649412409,
+    "pct_vs_200dma": 2.291109688985493,
+    "score": 49.5,
+    "components_json": "{\"trend\": 53.01024273111825, \"rsi\": 74.25535649412409, \"vs_200dma\": 54.582219377970986, \"short_squeeze\": 35.3, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "IT",
+  "stock": {
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 225.29,
+      "pct_of_portfolio": 0.46,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IT",
+    "asof": "2026-08-12",
+    "market_cap": 11413545984.0,
+    "pe": 16.253597,
+    "forward_pe": 10.930951,
+    "ev_ebitda": 9.875,
+    "fcf_yield": 0.0922196331863484,
+    "roe": 1.13581,
+    "gross_margin": 0.69629997,
+    "op_margin": 0.22623,
+    "rev_growth": -0.006,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "IT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2164,
+    "short_ratio": 7.4,
+    "putcall_oi_ratio": 0.5,
+    "avg_volume": 1594975.0,
+    "beta": 0.913
+  },
+  "momentum": {
+    "ticker": "IT",
+    "asof": "2026-08-12",
+    "ret_1m": 36.55889186395724,
+    "ret_3m": 14.843451863442647,
+    "ret_6m": 19.187001514938927,
+    "ret_12m": -25.649340627615747,
+    "rsi14": 68.20573680216181,
+    "pct_vs_200dma": -1.1476867978043703,
+    "score": 58.8,
+    "components_json": "{\"trend\": 49.949399762468175, \"rsi\": 68.20573680216181, \"vs_200dma\": 47.70462640439126, \"short_squeeze\": 100.0, \"options_skew\": 66.7}",
+    "thesis": null
+  }
+}

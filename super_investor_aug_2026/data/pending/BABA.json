@@ -1,0 +1,55 @@
+{
+  "ticker": "BABA",
+  "stock": {
+    "ticker": "BABA",
+    "name": "Alibaba Group Holdings",
+    "sector": "Consumer Cyclical",
+    "industry": "Internet Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 40.17,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BABA",
+    "asof": "2026-08-12",
+    "market_cap": 299021959168.0,
+    "pe": 19.134203,
+    "forward_pe": 13.763521,
+    "ev_ebitda": 2.985,
+    "fcf_yield": -0.1473946942312611,
+    "roe": 0.092159994,
+    "gross_margin": 0.39811,
+    "op_margin": 0.0101499995,
+    "rev_growth": 0.029,
+    "debt_to_equity": 25.014
+  },
+  "market_stats": {
+    "ticker": "BABA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0178,
+    "short_ratio": 3.45,
+    "putcall_oi_ratio": 0.5278186926761644,
+    "avg_volume": 12444256.0,
+    "beta": 0.51
+  },
+  "momentum": {
+    "ticker": "BABA",
+    "asof": "2026-08-12",
+    "ret_1m": 10.861820674314316,
+    "ret_3m": -6.763924699050872,
+    "ret_6m": -24.530906608396563,
+    "ret_12m": 5.920077970685456,
+    "rsi14": 65.12433052581648,
+    "pct_vs_200dma": -10.05550822849034,
+    "score": 41.8,
+    "components_json": "{\"trend\": 42.97958179603995, \"rsi\": 65.12433052581648, \"vs_200dma\": 29.88898354301932, \"short_squeeze\": 8.9, \"options_skew\": 64.84449319849983}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "BYRN",
+  "stock": {
+    "ticker": "BYRN",
+    "name": "Byrna Technologies, Inc.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 57.32,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BYRN",
+    "asof": "2026-08-12",
+    "market_cap": 98484584.0,
+    "pe": null,
+    "forward_pe": -19.636364,
+    "ev_ebitda": -37.277,
+    "fcf_yield": -0.04559850707192915,
+    "roe": -0.063,
+    "gross_margin": 0.52513003,
+    "op_margin": -0.78391,
+    "rev_growth": -0.425,
+    "debt_to_equity": 3.592
+  },
+  "market_stats": {
+    "ticker": "BYRN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.123100005,
+    "short_ratio": 1.51,
+    "putcall_oi_ratio": 0.07643495817709836,
+    "avg_volume": 756911.0,
+    "beta": 1.785
+  },
+  "momentum": {
+    "ticker": "BYRN",
+    "asof": "2026-08-12",
+    "ret_1m": 22.34745857914917,
+    "ret_3m": -14.573967645236173,
+    "ret_6m": -70.41598438892504,
+    "ret_12m": -79.7517526385436,
+    "rsi14": 64.05569381775499,
+    "pct_vs_200dma": -60.145411365304405,
+    "score": 25.3,
+    "components_json": "{\"trend\": 0.0, \"rsi\": 64.05569381775499, \"vs_200dma\": 0.0, \"short_squeeze\": 61.5500025, \"options_skew\": 94.95178828958754}",
+    "thesis": null
+  }
+}

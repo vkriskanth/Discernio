@@ -1,0 +1,55 @@
+{
+  "ticker": "NTB",
+  "stock": {
+    "ticker": "NTB",
+    "name": "Bank of N.T. Butterfield & Son ",
+    "sector": "Financial Services",
+    "industry": "Banks - Diversified"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.84,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NTB",
+    "asof": "2026-08-12",
+    "market_cap": 2485446656.0,
+    "pe": 11.126761,
+    "forward_pe": 8.761557,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.21136999,
+    "gross_margin": 0.0,
+    "op_margin": 0.32122,
+    "rev_growth": 0.082,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "NTB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0162,
+    "short_ratio": 4.0,
+    "putcall_oi_ratio": 0.041666666666666664,
+    "avg_volume": 200030.0,
+    "beta": 0.5
+  },
+  "momentum": {
+    "ticker": "NTB",
+    "asof": "2026-08-12",
+    "ret_1m": 4.671505333145598,
+    "ret_3m": 15.606201661664088,
+    "ret_6m": 22.375458460239116,
+    "ret_12m": 43.852466712827386,
+    "rsi14": 73.06546064731768,
+    "pct_vs_200dma": 19.515609570233195,
+    "score": 75.3,
+    "components_json": "{\"trend\": 78.93548472170193, \"rsi\": 73.06546064731768, \"vs_200dma\": 89.03121914046639, \"short_squeeze\": 8.1, \"options_skew\": 97.27083333333333}",
+    "thesis": null
+  }
+}

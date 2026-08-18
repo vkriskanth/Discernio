@@ -1,0 +1,55 @@
+{
+  "ticker": "YPF",
+  "stock": {
+    "ticker": "YPF",
+    "name": "YPF Sociedad Anonima",
+    "sector": "Energy",
+    "industry": "Oil & Gas Integrated"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oc",
+      "manager_name": "Howard Marks - Oaktree Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.95,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "YPF",
+    "asof": "2026-08-12",
+    "market_cap": 19015641088.0,
+    "pe": 1.25,
+    "forward_pe": 8.444726,
+    "ev_ebitda": 1.683,
+    "fcf_yield": 0.061356782797940025,
+    "roe": 0.07645,
+    "gross_margin": 0.36588,
+    "op_margin": 0.27578,
+    "rev_growth": 0.799,
+    "debt_to_equity": 84.736
+  },
+  "market_stats": {
+    "ticker": "YPF",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 3.91,
+    "putcall_oi_ratio": 0.657744874715262,
+    "avg_volume": 1692558.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "YPF",
+    "asof": "2026-08-12",
+    "ret_1m": -1.7971897017573069,
+    "ret_3m": 8.798660621199051,
+    "ret_6m": 25.076728101831925,
+    "ret_12m": 42.5801745396422,
+    "rsi14": 39.11945630045766,
+    "pct_vs_200dma": 16.55973899692633,
+    "score": 63.1,
+    "components_json": "{\"trend\": 77.19468643276618, \"rsi\": 39.11945630045766, \"vs_200dma\": 83.11947799385266, \"short_squeeze\": 0.0, \"options_skew\": 56.17841685649203}",
+    "thesis": null
+  }
+}

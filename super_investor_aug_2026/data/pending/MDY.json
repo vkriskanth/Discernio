@@ -1,0 +1,55 @@
+{
+  "ticker": "MDY",
+  "stock": {
+    "ticker": "MDY",
+    "name": "State Street SPDR S&P MIDCAP 40",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MDY",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 22.374016,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "MDY",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 1.5931660437800321,
+    "avg_volume": 708062.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "MDY",
+    "asof": "2026-08-12",
+    "ret_1m": 3.121099422040907,
+    "ret_3m": 5.6097952830994835,
+    "ret_6m": 9.088194699373652,
+    "ret_12m": 25.93911141655536,
+    "rsi14": 65.73716648802109,
+    "pct_vs_200dma": 10.734843360371071,
+    "score": 53.6,
+    "components_json": "{\"trend\": 64.78504156136408, \"rsi\": 65.73716648802109, \"vs_200dma\": 71.46968672074215, \"short_squeeze\": 0.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

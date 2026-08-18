@@ -1,0 +1,55 @@
+{
+  "ticker": "URI",
+  "stock": {
+    "ticker": "URI",
+    "name": "United Rentals, Inc.",
+    "sector": "Industrials",
+    "industry": "Rental & Leasing Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 6833.33,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "URI",
+    "asof": "2026-08-12",
+    "market_cap": 70273015808.0,
+    "pe": 27.120346,
+    "forward_pe": 19.774221,
+    "ev_ebitda": 18.43,
+    "fcf_yield": 0.02428030111389865,
+    "roe": 0.28895,
+    "gross_margin": 0.3848,
+    "op_margin": 0.25986,
+    "rev_growth": 0.118,
+    "debt_to_equity": 166.793
+  },
+  "market_stats": {
+    "ticker": "URI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0257,
+    "short_ratio": 2.94,
+    "putcall_oi_ratio": 1.3053658536585366,
+    "avg_volume": 500419.0,
+    "beta": 1.799
+  },
+  "momentum": {
+    "ticker": "URI",
+    "asof": "2026-08-12",
+    "ret_1m": 3.3868813668932907,
+    "ret_3m": 21.130679728318857,
+    "ret_6m": 26.45778015979099,
+    "ret_12m": 33.647775755097875,
+    "rsi14": 64.22398916020788,
+    "pct_vs_200dma": 24.928227304819362,
+    "score": 68.3,
+    "components_json": "{\"trend\": 77.7356482684721, \"rsi\": 64.22398916020788, \"vs_200dma\": 99.85645460963872, \"short_squeeze\": 12.850000000000001, \"options_skew\": 12.982097560975607}",
+    "thesis": null
+  }
+}

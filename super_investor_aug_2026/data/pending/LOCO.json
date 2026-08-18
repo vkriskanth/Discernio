@@ -1,0 +1,63 @@
+{
+  "ticker": "LOCO",
+  "stock": {
+    "ticker": "LOCO",
+    "name": "El Pollo Loco Holdings, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 73.09,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 253.48,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LOCO",
+    "asof": "2026-08-12",
+    "market_cap": 459875008.0,
+    "pe": 12.905984,
+    "forward_pe": 13.644537,
+    "ev_ebitda": 9.966,
+    "fcf_yield": 0.05831285356563669,
+    "roe": 0.11793,
+    "gross_margin": 0.23096001,
+    "op_margin": 0.09939,
+    "rev_growth": 0.03,
+    "debt_to_equity": 69.203
+  },
+  "market_stats": {
+    "ticker": "LOCO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0644,
+    "short_ratio": 7.85,
+    "putcall_oi_ratio": 0.36649214659685864,
+    "avg_volume": 305977.0,
+    "beta": 0.692
+  },
+  "momentum": {
+    "ticker": "LOCO",
+    "asof": "2026-08-12",
+    "ret_1m": -7.789849334426291,
+    "ret_3m": 12.776960862516006,
+    "ret_6m": 42.31128713152885,
+    "ret_12m": 50.295282353307805,
+    "rsi14": 48.081274556299384,
+    "pct_vs_200dma": 18.593194712599015,
+    "score": 74.4,
+    "components_json": "{\"trend\": 86.64458733953657, \"rsi\": 48.081274556299384, \"vs_200dma\": 87.18638942519803, \"short_squeeze\": 32.199999999999996, \"options_skew\": 75.60497382198953}",
+    "thesis": null
+  }
+}

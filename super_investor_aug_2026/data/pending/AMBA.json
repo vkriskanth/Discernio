@@ -1,0 +1,55 @@
+{
+  "ticker": "AMBA",
+  "stock": {
+    "ticker": "AMBA",
+    "name": "Ambarella, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment & Materials"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AMBA",
+    "asof": "2026-08-12",
+    "market_cap": 3663870464.0,
+    "pe": null,
+    "forward_pe": 72.79763,
+    "ev_ebitda": -53.712,
+    "fcf_yield": 0.012940652914960696,
+    "roe": -0.11816,
+    "gross_margin": 0.58817,
+    "op_margin": -0.19347,
+    "rev_growth": 0.169,
+    "debt_to_equity": 2.191
+  },
+  "market_stats": {
+    "ticker": "AMBA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1423,
+    "short_ratio": 2.2,
+    "putcall_oi_ratio": 0.5198712931559266,
+    "avg_volume": 1862277.0,
+    "beta": 2.119
+  },
+  "momentum": {
+    "ticker": "AMBA",
+    "asof": "2026-08-12",
+    "ret_1m": 13.539087668857919,
+    "ret_3m": 5.857518939320028,
+    "ret_6m": 24.91698456769049,
+    "ret_12m": 28.60471699522298,
+    "rsi14": 67.4246613725013,
+    "pct_vs_200dma": 17.419656320512612,
+    "score": 73.2,
+    "components_json": "{\"trend\": 70.67423785019236, \"rsi\": 67.4246613725013, \"vs_200dma\": 84.83931264102523, \"short_squeeze\": 71.15, \"options_skew\": 65.37458474649969}",
+    "thesis": null
+  }
+}

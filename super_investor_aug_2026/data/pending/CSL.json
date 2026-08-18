@@ -1,0 +1,71 @@
+{
+  "ticker": "CSL",
+  "stock": {
+    "ticker": "CSL",
+    "name": "Carlisle Companies Incorporated",
+    "sector": "Industrials",
+    "industry": "Building Products & Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AKO",
+      "manager_name": "AKO Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.32,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 55.65,
+      "pct_of_portfolio": 0.27,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CSL",
+    "asof": "2026-08-12",
+    "market_cap": 15191053312.0,
+    "pe": 21.69654,
+    "forward_pe": 15.881862,
+    "ev_ebitda": 14.556,
+    "fcf_yield": 0.044087625673128836,
+    "roe": 0.39183,
+    "gross_margin": 0.35264,
+    "op_margin": 0.22849001,
+    "rev_growth": 0.083,
+    "debt_to_equity": 178.698
+  },
+  "market_stats": {
+    "ticker": "CSL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0699,
+    "short_ratio": 3.47,
+    "putcall_oi_ratio": 1.0760095011876485,
+    "avg_volume": 466435.0,
+    "beta": 0.843
+  },
+  "momentum": {
+    "ticker": "CSL",
+    "asof": "2026-08-12",
+    "ret_1m": 17.487876198508513,
+    "ret_3m": 7.918619665741877,
+    "ret_6m": -2.7325052230299685,
+    "ret_12m": 10.629388946414252,
+    "rsi14": 79.33748317960404,
+    "pct_vs_200dma": 11.67126193490704,
+    "score": 58.9,
+    "components_json": "{\"trend\": 55.807589911379274, \"rsi\": 79.33748317960404, \"vs_200dma\": 73.34252386981407, \"short_squeeze\": 34.95, \"options_skew\": 28.280166270783848}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "KMB",
+  "stock": {
+    "ticker": "KMB",
+    "name": "Kimberly-Clark Corporation",
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KMB",
+    "asof": "2026-08-12",
+    "market_cap": 36019974144.0,
+    "pe": 21.40415,
+    "forward_pe": 14.494878,
+    "ev_ebitda": 12.012,
+    "fcf_yield": 0.026127864174404665,
+    "roe": 1.04913,
+    "gross_margin": 0.37612998,
+    "op_margin": 0.19002001,
+    "rev_growth": 0.006,
+    "debt_to_equity": 348.933
+  },
+  "market_stats": {
+    "ticker": "KMB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1509,
+    "short_ratio": 12.04,
+    "putcall_oi_ratio": 0.45771010798846334,
+    "avg_volume": 4391340.0,
+    "beta": 0.276
+  },
+  "momentum": {
+    "ticker": "KMB",
+    "asof": "2026-08-12",
+    "ret_1m": 2.4433632445310938,
+    "ret_3m": 13.964522692816184,
+    "ret_6m": 6.066559401214455,
+    "ret_12m": -14.433263004143926,
+    "rsi14": 54.38742085217392,
+    "pct_vs_200dma": 7.916040116989298,
+    "score": 59.2,
+    "components_json": "{\"trend\": 50.23601942655162, \"rsi\": 54.38742085217392, \"vs_200dma\": 65.8320802339786, \"short_squeeze\": 75.45, \"options_skew\": 69.5207357971695}",
+    "thesis": null
+  }
+}

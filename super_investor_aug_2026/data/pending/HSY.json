@@ -1,0 +1,63 @@
+{
+  "ticker": "HSY",
+  "stock": {
+    "ticker": "HSY",
+    "name": "The Hershey Company",
+    "sector": "Consumer Defensive",
+    "industry": "Confectioners"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CHE",
+      "manager_name": "Steven Check - Check Capital Management",
+      "action": "add",
+      "share_change_pct": 6.74,
+      "pct_of_portfolio": 0.13,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 122.07,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HSY",
+    "asof": "2026-08-12",
+    "market_cap": 36340420608.0,
+    "pe": 24.708334,
+    "forward_pe": 18.32322,
+    "ev_ebitda": 15.321,
+    "fcf_yield": 0.047980632112335955,
+    "roe": 0.32808998,
+    "gross_margin": 0.38377,
+    "op_margin": 0.23119,
+    "rev_growth": 0.066,
+    "debt_to_equity": 129.821
+  },
+  "market_stats": {
+    "ticker": "HSY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.066599995,
+    "short_ratio": 4.27,
+    "putcall_oi_ratio": 0.691894045010954,
+    "avg_volume": 2004719.0,
+    "beta": 0.097
+  },
+  "momentum": {
+    "ticker": "HSY",
+    "asof": "2026-08-12",
+    "ret_1m": 6.6114784144797545,
+    "ret_3m": -1.419071014377793,
+    "ret_6m": -17.275899211896274,
+    "ret_12m": -0.05897464123759688,
+    "rsi14": 70.51409846456974,
+    "pct_vs_200dma": -3.7789703961931487,
+    "score": 47.7,
+    "components_json": "{\"trend\": 44.36791907562274, \"rsi\": 70.51409846456974, \"vs_200dma\": 42.4420592076137, \"short_squeeze\": 33.299997499999996, \"options_skew\": 53.90066719776937}",
+    "thesis": null
+  }
+}

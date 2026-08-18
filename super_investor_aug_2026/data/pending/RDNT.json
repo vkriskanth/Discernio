@@ -1,0 +1,63 @@
+{
+  "ticker": "RDNT",
+  "stock": {
+    "ticker": "RDNT",
+    "name": "RadNet, Inc.",
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 39.17,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 107.19,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RDNT",
+    "asof": "2026-08-12",
+    "market_cap": 6014044160.0,
+    "pe": null,
+    "forward_pe": 86.187645,
+    "ev_ebitda": 28.114,
+    "fcf_yield": 0.02622814927916991,
+    "roe": 0.01498,
+    "gross_margin": 0.17284,
+    "op_margin": 0.07893,
+    "rev_growth": 0.25,
+    "debt_to_equity": 156.668
+  },
+  "market_stats": {
+    "ticker": "RDNT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1568,
+    "short_ratio": 13.94,
+    "putcall_oi_ratio": 0.2581818181818182,
+    "avg_volume": 842987.0,
+    "beta": 1.384
+  },
+  "momentum": {
+    "ticker": "RDNT",
+    "asof": "2026-08-12",
+    "ret_1m": 21.615163999173625,
+    "ret_3m": 36.33928298950195,
+    "ret_6m": 8.96246440223798,
+    "ret_12m": 23.14515882922756,
+    "rsi14": 83.34054070693165,
+    "pct_vs_200dma": 15.188642748983971,
+    "score": 77.9,
+    "components_json": "{\"trend\": 72.84858774921301, \"rsi\": 83.34054070693165, \"vs_200dma\": 80.37728549796795, \"short_squeeze\": 78.4, \"options_skew\": 82.82927272727272}",
+    "thesis": null
+  }
+}

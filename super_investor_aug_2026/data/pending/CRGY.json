@@ -1,0 +1,63 @@
+{
+  "ticker": "CRGY",
+  "stock": {
+    "ticker": "CRGY",
+    "name": "Crescent Energy Company",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 7.06,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 4.15,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CRGY",
+    "asof": "2026-08-12",
+    "market_cap": 4799517696.0,
+    "pe": 152.5,
+    "forward_pe": 5.3735023,
+    "ev_ebitda": 4.46,
+    "fcf_yield": 0.12534335450026018,
+    "roe": 0.01517,
+    "gross_margin": 0.62158,
+    "op_margin": 0.53849,
+    "rev_growth": 0.553,
+    "debt_to_equity": 100.234
+  },
+  "market_stats": {
+    "ticker": "CRGY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1273,
+    "short_ratio": 6.24,
+    "putcall_oi_ratio": 0.2541403191809696,
+    "avg_volume": 6362166.0,
+    "beta": 0.892
+  },
+  "momentum": {
+    "ticker": "CRGY",
+    "asof": "2026-08-12",
+    "ret_1m": 21.22122056186788,
+    "ret_3m": -2.141899564987937,
+    "ret_6m": 19.880856040503026,
+    "ret_12m": 37.26989943868355,
+    "rsi14": 58.450691928427005,
+    "pct_vs_200dma": 14.964250953045743,
+    "score": 71.5,
+    "components_json": "{\"trend\": 70.22964671812795, \"rsi\": 58.450691928427005, \"vs_200dma\": 79.92850190609148, \"short_squeeze\": 63.650000000000006, \"options_skew\": 83.09884071062933}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "KDP",
+  "stock": {
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Non-Alcoholic"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 7.9,
+      "pct_of_portfolio": 0.24,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 17.64,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KDP",
+    "asof": "2026-08-12",
+    "market_cap": 39640858624.0,
+    "pe": 29.424242,
+    "forward_pe": 11.488405,
+    "ev_ebitda": 16.71,
+    "fcf_yield": 0.11622477615080228,
+    "roe": 0.051,
+    "gross_margin": 0.50956,
+    "op_margin": 0.12888,
+    "rev_growth": 0.756,
+    "debt_to_equity": 99.649
+  },
+  "market_stats": {
+    "ticker": "KDP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0523,
+    "short_ratio": 4.82,
+    "putcall_oi_ratio": 0.43490792634107284,
+    "avg_volume": 13896370.0,
+    "beta": 0.411
+  },
+  "momentum": {
+    "ticker": "KDP",
+    "asof": "2026-08-12",
+    "ret_1m": -5.840002441406245,
+    "ret_3m": 3.220452500192361,
+    "ret_6m": 4.86264351752661,
+    "ret_12m": -11.63410620398676,
+    "rsi14": 47.50762066456464,
+    "pct_vs_200dma": 3.7303181224141557,
+    "score": 50.3,
+    "components_json": "{\"trend\": 47.771286323720986, \"rsi\": 47.50762066456464, \"vs_200dma\": 57.46063624482831, \"short_squeeze\": 26.15, \"options_skew\": 71.04164131305045}",
+    "thesis": null
+  }
+}

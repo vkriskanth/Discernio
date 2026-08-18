@@ -1,0 +1,135 @@
+{
+  "ticker": "NFLX",
+  "stock": {
+    "ticker": "NFLX",
+    "name": "Netflix, Inc.",
+    "sector": "Communication Services",
+    "industry": "Entertainment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLC",
+      "manager_name": "Josh Tarasoff - Greenlea Lane Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 7.8,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "psc",
+      "manager_name": "Bill Ackman - Pershing Square Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 4.8,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FS",
+      "manager_name": "Terry Smith - Fundsmith",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 3.66,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 30200.47,
+      "pct_of_portfolio": 1.27,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "WIM",
+      "manager_name": "Wallace Weitz - Weitz Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.73,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 12.11,
+      "pct_of_portfolio": 0.69,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 11.72,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 1.77,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "RC",
+      "manager_name": "Ruane Cunniff LP",
+      "action": "add",
+      "share_change_pct": 55.0,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NFLX",
+    "asof": "2026-08-15",
+    "market_cap": 325453545472.0,
+    "pe": 24.656153,
+    "forward_pe": 20.478533,
+    "ev_ebitda": 22.61,
+    "fcf_yield": 0.07800668673368066,
+    "roe": 0.49541,
+    "gross_margin": 0.49118,
+    "op_margin": 0.33381,
+    "rev_growth": 0.134,
+    "debt_to_equity": 55.236
+  },
+  "market_stats": {
+    "ticker": "NFLX",
+    "asof": "2026-08-14",
+    "short_pct_float": 0.0223,
+    "short_ratio": 1.88,
+    "putcall_oi_ratio": 0.4942098497896353,
+    "avg_volume": 42979491.0,
+    "beta": 1.514
+  },
+  "momentum": {
+    "ticker": "NFLX",
+    "asof": "2026-08-14",
+    "ret_1m": 5.151313933634838,
+    "ret_3m": -10.075916597925483,
+    "ret_6m": 3.0582647985210265,
+    "ret_12m": -35.09016626257472,
+    "rsi14": 72.99056334928954,
+    "pct_vs_200dma": -12.35837139860897,
+    "score": 38.6,
+    "components_json": "{\"trend\": 33.85863795514878, \"rsi\": 72.99056334928954, \"vs_200dma\": 25.28325720278206, \"short_squeeze\": 11.15, \"options_skew\": 67.08620301903133}",
+    "thesis": null
+  }
+}

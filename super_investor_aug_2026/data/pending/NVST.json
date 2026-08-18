@@ -1,0 +1,63 @@
+{
+  "ticker": "NVST",
+  "stock": {
+    "ticker": "NVST",
+    "name": "Envista Holdings Corp.",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 40.83,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NVST",
+    "asof": "2026-08-12",
+    "market_cap": 4571983360.0,
+    "pe": 49.077587,
+    "forward_pe": 17.136234,
+    "ev_ebitda": 12.042,
+    "fcf_yield": 0.060315726083482506,
+    "roe": 0.030569999,
+    "gross_margin": 0.55862,
+    "op_margin": 0.121149994,
+    "rev_growth": 0.071,
+    "debt_to_equity": 51.62
+  },
+  "market_stats": {
+    "ticker": "NVST",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.083100006,
+    "short_ratio": 4.43,
+    "putcall_oi_ratio": 0.3050847457627119,
+    "avg_volume": 3094779.0,
+    "beta": 0.861
+  },
+  "momentum": {
+    "ticker": "NVST",
+    "asof": "2026-08-12",
+    "ret_1m": 11.762424921286696,
+    "ret_3m": 18.526141747172108,
+    "ret_6m": 16.511541813931064,
+    "ret_12m": 46.067997223844735,
+    "rsi14": 64.67464004180462,
+    "pct_vs_200dma": 17.225517331145745,
+    "score": 74.5,
+    "components_json": "{\"trend\": 78.93850395786885, \"rsi\": 64.67464004180462, \"vs_200dma\": 84.45103466229149, \"short_squeeze\": 41.550003000000004, \"options_skew\": 79.70084745762712}",
+    "thesis": null
+  }
+}

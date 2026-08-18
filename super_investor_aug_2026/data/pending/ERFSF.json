@@ -1,0 +1,55 @@
+{
+  "ticker": "ERFSF",
+  "stock": {
+    "ticker": "ERFSF",
+    "name": "Eurofins Scientific Nante",
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.63,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ERFSF",
+    "asof": "2026-08-12",
+    "market_cap": 14163418112.0,
+    "pe": 24.642643,
+    "forward_pe": null,
+    "ev_ebitda": 11.796,
+    "fcf_yield": 0.02397461497746117,
+    "roe": 0.11328,
+    "gross_margin": 0.23128,
+    "op_margin": 0.16167,
+    "rev_growth": 0.025,
+    "debt_to_equity": 96.122
+  },
+  "market_stats": {
+    "ticker": "ERFSF",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": null,
+    "avg_volume": 3329.0,
+    "beta": 0.841
+  },
+  "momentum": {
+    "ticker": "ERFSF",
+    "asof": "2026-08-12",
+    "ret_1m": 7.3381305876959235,
+    "ret_3m": 17.766930538458105,
+    "ret_6m": 0.4898284087023308,
+    "ret_12m": 6.571425400771114,
+    "rsi14": 53.155439023152844,
+    "pct_vs_200dma": 9.466238648783754,
+    "score": 53.4,
+    "components_json": "{\"trend\": 58.105597844456575, \"rsi\": 53.155439023152844, \"vs_200dma\": 68.93247729756752, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

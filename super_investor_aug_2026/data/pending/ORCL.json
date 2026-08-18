@@ -1,0 +1,87 @@
+{
+  "ticker": "ORCL",
+  "stock": {
+    "ticker": "ORCL",
+    "name": "Oracle Corp.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.65,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 7.34,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 3.6,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.26,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ORCL",
+    "asof": "2026-08-12",
+    "market_cap": 430241579008.0,
+    "pe": 26.577404,
+    "forward_pe": 13.700195,
+    "ev_ebitda": 18.367,
+    "fcf_yield": -0.057030169275070826,
+    "roe": 0.53376,
+    "gross_margin": 0.65822,
+    "op_margin": 0.36202,
+    "rev_growth": 0.206,
+    "debt_to_equity": 388.87
+  },
+  "market_stats": {
+    "ticker": "ORCL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0292,
+    "short_ratio": 1.28,
+    "putcall_oi_ratio": 0.5589879295189265,
+    "avg_volume": 31560100.0,
+    "beta": 1.718
+  },
+  "momentum": {
+    "ticker": "ORCL",
+    "asof": "2026-08-12",
+    "ret_1m": 18.93856125150215,
+    "ret_3m": -18.26827077863783,
+    "ret_6m": -4.1636655586712035,
+    "ret_12m": -39.09118915249732,
+    "rsi14": 75.76582382800134,
+    "pct_vs_200dma": -13.709814924439955,
+    "score": 35.8,
+    "components_json": "{\"trend\": 27.633943437808362, \"rsi\": 75.76582382800134, \"vs_200dma\": 22.58037015112009, \"short_squeeze\": 14.6, \"options_skew\": 62.765505101087605}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "CRS",
+  "stock": {
+    "ticker": "CRS",
+    "name": "Carpenter Technology Corporatio",
+    "sector": "Industrials",
+    "industry": "Metal Fabrication"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "add",
+      "share_change_pct": 38.46,
+      "pct_of_portfolio": 1.59,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CRS",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 51.5185,
+    "forward_pe": 34.193497,
+    "ev_ebitda": 31.942,
+    "fcf_yield": null,
+    "roe": 0.25752002,
+    "gross_margin": 0.30584,
+    "op_margin": 0.24313,
+    "rev_growth": 0.126,
+    "debt_to_equity": 31.006
+  },
+  "market_stats": {
+    "ticker": "CRS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0505,
+    "short_ratio": 3.44,
+    "putcall_oi_ratio": 2.051059730250482,
+    "avg_volume": 743156.0,
+    "beta": 1.283
+  },
+  "momentum": {
+    "ticker": "CRS",
+    "asof": "2026-08-12",
+    "ret_1m": -9.867329562678472,
+    "ret_3m": 19.654487881408023,
+    "ret_6m": 52.84060308794902,
+    "ret_12m": 110.39565408801089,
+    "rsi14": 45.979558392704575,
+    "pct_vs_200dma": 29.029192889822596,
+    "score": 74.4,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 45.979558392704575, \"vs_200dma\": 100.0, \"short_squeeze\": 25.250000000000004, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

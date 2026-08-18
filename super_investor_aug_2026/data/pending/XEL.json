@@ -1,0 +1,55 @@
+{
+  "ticker": "XEL",
+  "stock": {
+    "ticker": "XEL",
+    "name": "Xcel Energy Inc.",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Electric"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 1.51,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "XEL",
+    "asof": "2026-08-12",
+    "market_cap": 48890126336.0,
+    "pe": 21.443834,
+    "forward_pe": 17.247608,
+    "ev_ebitda": 14.395,
+    "fcf_yield": -0.16175044608499986,
+    "roe": 0.0992,
+    "gross_margin": 0.46825,
+    "op_margin": 0.22700001,
+    "rev_growth": -0.051,
+    "debt_to_equity": 173.135
+  },
+  "market_stats": {
+    "ticker": "XEL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0769,
+    "short_ratio": 8.31,
+    "putcall_oi_ratio": 1.388327721661055,
+    "avg_volume": 5532641.0,
+    "beta": 0.405
+  },
+  "momentum": {
+    "ticker": "XEL",
+    "asof": "2026-08-12",
+    "ret_1m": -2.7398132940867015,
+    "ret_3m": -2.152170228804584,
+    "ret_6m": 3.949081099274543,
+    "ret_12m": 10.034809042543259,
+    "rsi14": 36.763934489926754,
+    "pct_vs_200dma": 0.30610627120737366,
+    "score": 44.6,
+    "components_json": "{\"trend\": 54.55299687815829, \"rsi\": 36.763934489926754, \"vs_200dma\": 50.612212542414746, \"short_squeeze\": 38.449999999999996, \"options_skew\": 7.4485409652076315}",
+    "thesis": null
+  }
+}

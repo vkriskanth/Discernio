@@ -1,0 +1,55 @@
+{
+  "ticker": "ASPI",
+  "stock": {
+    "ticker": "ASPI",
+    "name": "ASP Isotopes Inc.",
+    "sector": "Basic Materials",
+    "industry": "Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 21.62,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ASPI",
+    "asof": "2026-08-12",
+    "market_cap": 550198080.0,
+    "pe": null,
+    "forward_pe": -3.7780871,
+    "ev_ebitda": -7.513,
+    "fcf_yield": -0.07238949288954262,
+    "roe": -1.03316,
+    "gross_margin": 0.17618,
+    "op_margin": -5.9540696,
+    "rev_growth": 2.793,
+    "debt_to_equity": 87.566
+  },
+  "market_stats": {
+    "ticker": "ASPI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2359,
+    "short_ratio": 6.52,
+    "putcall_oi_ratio": 0.13350763612217795,
+    "avg_volume": 4951348.0,
+    "beta": 3.619
+  },
+  "momentum": {
+    "ticker": "ASPI",
+    "asof": "2026-08-12",
+    "ret_1m": -7.446806783749471,
+    "ret_3m": -27.135677428676697,
+    "ret_6m": -20.475318620073313,
+    "ret_12m": -56.14919484700545,
+    "rsi14": 56.3786000962701,
+    "pct_vs_200dma": -27.16678963699698,
+    "score": 32.9,
+    "components_json": "{\"trend\": 13.257023246572814, \"rsi\": 56.3786000962701, \"vs_200dma\": 0.0, \"short_squeeze\": 100.0, \"options_skew\": 91.14504067065074}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "AMRZ.SW",
+  "stock": {
+    "ticker": "AMRZ.SW",
+    "name": "AMRIZE Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Building Materials"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oa",
+      "manager_name": "Leon Cooperman",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.62,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AMRZ.SW",
+    "asof": "2026-08-12",
+    "market_cap": 20980068352.0,
+    "pe": 21.311111,
+    "forward_pe": 15.472902,
+    "ev_ebitda": 9.335,
+    "fcf_yield": 0.05953269145955545,
+    "roe": 0.09719,
+    "gross_margin": 0.25092,
+    "op_margin": 0.20321,
+    "rev_growth": 0.085,
+    "debt_to_equity": 51.587
+  },
+  "market_stats": {
+    "ticker": "AMRZ.SW",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": null,
+    "avg_volume": 1220325.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "AMRZ.SW",
+    "asof": "2026-08-12",
+    "ret_1m": -5.825714375307278,
+    "ret_3m": -4.624996185302733,
+    "ret_6m": -14.867087002589797,
+    "ret_12m": 0.4461766239928222,
+    "rsi14": 43.886094423123865,
+    "pct_vs_200dma": -10.077231716746182,
+    "score": 36.8,
+    "components_json": "{\"trend\": 44.33084569322937, \"rsi\": 43.886094423123865, \"vs_200dma\": 29.845536566507636, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

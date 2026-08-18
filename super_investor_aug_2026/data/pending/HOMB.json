@@ -1,0 +1,55 @@
+{
+  "ticker": "HOMB",
+  "stock": {
+    "ticker": "HOMB",
+    "name": "Home BancShares, Inc.",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "fairx",
+      "manager_name": "Bruce Berkowitz - Fairholme Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HOMB",
+    "asof": "2026-08-12",
+    "market_cap": 6169530880.0,
+    "pe": 12.639344,
+    "forward_pe": 11.870944,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.11106,
+    "gross_margin": 0.0,
+    "op_margin": 0.57611,
+    "rev_growth": 0.086,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "HOMB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0621,
+    "short_ratio": 4.52,
+    "putcall_oi_ratio": 0.13402061855670103,
+    "avg_volume": 1810198.0,
+    "beta": 0.676
+  },
+  "momentum": {
+    "ticker": "HOMB",
+    "asof": "2026-08-12",
+    "ret_1m": 6.896551724137923,
+    "ret_3m": 18.91061793190012,
+    "ret_6m": 4.409326974740968,
+    "ret_12m": 15.283660914019848,
+    "rsi14": 55.60166960287575,
+    "pct_vs_200dma": 11.362545544441538,
+    "score": 64.0,
+    "components_json": "{\"trend\": 63.109447837600264, \"rsi\": 55.60166960287575, \"vs_200dma\": 72.72509108888308, \"short_squeeze\": 31.05, \"options_skew\": 91.11082474226805}",
+    "thesis": null
+  }
+}

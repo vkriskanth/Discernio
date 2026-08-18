@@ -1,0 +1,55 @@
+{
+  "ticker": "LAUR",
+  "stock": {
+    "ticker": "LAUR",
+    "name": "Laureate Education, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Education & Training Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 38.22,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LAUR",
+    "asof": "2026-08-12",
+    "market_cap": 5054023680.0,
+    "pe": 16.830275,
+    "forward_pe": 15.097709,
+    "ev_ebitda": 10.55,
+    "fcf_yield": 0.06801299039421992,
+    "roe": 0.29318002,
+    "gross_margin": 0.36800998,
+    "op_margin": 0.36278,
+    "rev_growth": 0.175,
+    "debt_to_equity": 64.3
+  },
+  "market_stats": {
+    "ticker": "LAUR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0286,
+    "short_ratio": 2.66,
+    "putcall_oi_ratio": 0.10112359550561797,
+    "avg_volume": 1205522.0,
+    "beta": 0.445
+  },
+  "momentum": {
+    "ticker": "LAUR",
+    "asof": "2026-08-12",
+    "ret_1m": -7.682654362584518,
+    "ret_3m": 12.172061705465321,
+    "ret_6m": 4.37127713748926,
+    "ret_12m": 43.520684048751605,
+    "rsi14": 51.30170072537722,
+    "pct_vs_200dma": 8.294212860406214,
+    "score": 64.1,
+    "components_json": "{\"trend\": 72.37127527238701, \"rsi\": 51.30170072537722, \"vs_200dma\": 66.58842572081242, \"short_squeeze\": 14.299999999999999, \"options_skew\": 93.30505617977528}",
+    "thesis": null
+  }
+}

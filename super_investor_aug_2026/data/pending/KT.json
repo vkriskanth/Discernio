@@ -1,0 +1,63 @@
+{
+  "ticker": "KT",
+  "stock": {
+    "ticker": "KT",
+    "name": "KT Corporation",
+    "sector": "Communication Services",
+    "industry": "Telecom Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 33.32,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 1.55,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KT",
+    "asof": "2026-08-12",
+    "market_cap": 8858503168.0,
+    "pe": 8.266666,
+    "forward_pe": 4.672193,
+    "ev_ebitda": 1.58,
+    "fcf_yield": 145.2286266302095,
+    "roe": 0.08652,
+    "gross_margin": 1.0,
+    "op_margin": 0.070489995,
+    "rev_growth": -0.01,
+    "debt_to_equity": 63.276
+  },
+  "market_stats": {
+    "ticker": "KT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0108,
+    "short_ratio": 3.75,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 1768472.0,
+    "beta": 0.085
+  },
+  "momentum": {
+    "ticker": "KT",
+    "asof": "2026-08-12",
+    "ret_1m": -1.5524674025138574,
+    "ret_3m": -12.261449461264984,
+    "ret_6m": -12.511898243769314,
+    "ret_12m": -8.824990976264624,
+    "rsi14": 58.47748969604573,
+    "pct_vs_200dma": -7.175362762204552,
+    "score": 38.8,
+    "components_json": "{\"trend\": 39.03799929798386, \"rsi\": 58.47748969604573, \"vs_200dma\": 35.6492744755909, \"short_squeeze\": 5.4, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

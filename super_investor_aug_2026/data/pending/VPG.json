@@ -1,0 +1,55 @@
+{
+  "ticker": "VPG",
+  "stock": {
+    "ticker": "VPG",
+    "name": "Vishay Precision Group, Inc.",
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 34.95,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VPG",
+    "asof": "2026-08-12",
+    "market_cap": 917436480.0,
+    "pe": 229.91666,
+    "forward_pe": 38.53352,
+    "ev_ebitda": 36.399,
+    "fcf_yield": 0.007070789249627397,
+    "roe": 0.01205,
+    "gross_margin": 0.38749,
+    "op_margin": 0.00518,
+    "rev_growth": 0.117,
+    "debt_to_equity": 11.802
+  },
+  "market_stats": {
+    "ticker": "VPG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1065,
+    "short_ratio": 2.33,
+    "putcall_oi_ratio": 0.2947678703021371,
+    "avg_volume": 655980.0,
+    "beta": 1.47
+  },
+  "momentum": {
+    "ticker": "VPG",
+    "asof": "2026-08-12",
+    "ret_1m": -38.85536332910772,
+    "ret_3m": 2.4836493923205305,
+    "ret_6m": 23.097542382288694,
+    "ret_12m": 153.34559459277898,
+    "rsi14": 26.386627913235728,
+    "pct_vs_200dma": 5.787865374561485,
+    "score": 72.7,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 26.386627913235728, \"vs_200dma\": 61.57573074912297, \"short_squeeze\": 53.25, \"options_skew\": 80.38898305084746}",
+    "thesis": null
+  }
+}

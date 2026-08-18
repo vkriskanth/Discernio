@@ -1,0 +1,55 @@
+{
+  "ticker": "LTH",
+  "stock": {
+    "ticker": "LTH",
+    "name": "Life Time Group Holdings, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Leisure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 89.48,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LTH",
+    "asof": "2026-08-12",
+    "market_cap": 9817800704.0,
+    "pe": 24.008198,
+    "forward_pe": 21.68056,
+    "ev_ebitda": 16.313,
+    "fcf_yield": -0.03515688232084121,
+    "roe": 0.13445,
+    "gross_margin": 0.48022997,
+    "op_margin": 0.17052001,
+    "rev_growth": 0.137,
+    "debt_to_equity": 129.478
+  },
+  "market_stats": {
+    "ticker": "LTH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0554,
+    "short_ratio": 3.47,
+    "putcall_oi_ratio": 0.3738191632928475,
+    "avg_volume": 2923288.0,
+    "beta": 1.498
+  },
+  "momentum": {
+    "ticker": "LTH",
+    "asof": "2026-08-12",
+    "ret_1m": 5.855537673684541,
+    "ret_3m": 37.03014132393348,
+    "ret_6m": 53.372740818182265,
+    "ret_12m": 63.430903980789985,
+    "rsi14": 56.56814755911287,
+    "pct_vs_200dma": 44.32885270421843,
+    "score": 83.8,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 56.56814755911287, \"vs_200dma\": 100.0, \"short_squeeze\": 27.7, \"options_skew\": 75.11626180836708}",
+    "thesis": null
+  }
+}

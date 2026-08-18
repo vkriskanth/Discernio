@@ -1,0 +1,55 @@
+{
+  "ticker": "HLT",
+  "stock": {
+    "ticker": "HLT",
+    "name": "Hilton Worldwide Holdings Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Lodging"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "add",
+      "share_change_pct": 54.36,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HLT",
+    "asof": "2026-08-12",
+    "market_cap": 72050032640.0,
+    "pe": 47.07794,
+    "forward_pe": 30.592937,
+    "ev_ebitda": 27.159,
+    "fcf_yield": 0.019345930777915604,
+    "roe": null,
+    "gross_margin": 0.79036003,
+    "op_margin": 0.62987,
+    "rev_growth": 0.025,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "HLT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0234,
+    "short_ratio": 2.23,
+    "putcall_oi_ratio": 1.1802002224694104,
+    "avg_volume": 2063393.0,
+    "beta": 1.063
+  },
+  "momentum": {
+    "ticker": "HLT",
+    "asof": "2026-08-12",
+    "ret_1m": -1.006566908102624,
+    "ret_3m": 2.9211841889131174,
+    "ret_6m": -0.25259814765762334,
+    "ret_12m": 23.823473286578523,
+    "rsi14": 51.77304612765175,
+    "pct_vs_200dma": 4.809403661856759,
+    "score": 50.1,
+    "components_json": "{\"trend\": 60.32996512700806, \"rsi\": 51.77304612765175, \"vs_200dma\": 59.61880732371352, \"short_squeeze\": 11.7, \"options_skew\": 21.33064516129033}",
+    "thesis": null
+  }
+}

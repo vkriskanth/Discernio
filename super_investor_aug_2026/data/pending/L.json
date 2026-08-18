@@ -1,0 +1,55 @@
+{
+  "ticker": "L",
+  "stock": {
+    "ticker": "L",
+    "name": "Loews Corporation",
+    "sector": "Financial Services",
+    "industry": "Insurance - Property & Casualty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 2.34,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "L",
+    "asof": "2026-08-12",
+    "market_cap": 23139682304.0,
+    "pe": 13.888651,
+    "forward_pe": 39.031895,
+    "ev_ebitda": 8.213,
+    "fcf_yield": 0.05453834600753558,
+    "roe": 0.09313,
+    "gross_margin": 0.36290002,
+    "op_margin": 0.14533,
+    "rev_growth": 0.039,
+    "debt_to_equity": 44.609
+  },
+  "market_stats": {
+    "ticker": "L",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.026300002,
+    "short_ratio": 5.5,
+    "putcall_oi_ratio": 0.48259860788863107,
+    "avg_volume": 864338.0,
+    "beta": 0.518
+  },
+  "momentum": {
+    "ticker": "L",
+    "asof": "2026-08-12",
+    "ret_1m": -1.0133691357902874,
+    "ret_3m": 8.60760130530065,
+    "ret_6m": 3.165555169878864,
+    "ret_12m": 21.24429678801272,
+    "rsi14": 39.58708153927389,
+    "pct_vs_200dma": 4.9437640636830205,
+    "score": 53.8,
+    "components_json": "{\"trend\": 62.02966565775894, \"rsi\": 39.58708153927389, \"vs_200dma\": 59.88752812736604, \"short_squeeze\": 13.150001, \"options_skew\": 67.8606728538283}",
+    "thesis": null
+  }
+}

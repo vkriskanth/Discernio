@@ -1,0 +1,55 @@
+{
+  "ticker": "BHF",
+  "stock": {
+    "ticker": "BHF",
+    "name": "Brighthouse Financial, Inc.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Life"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "add",
+      "share_change_pct": 1.79,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BHF",
+    "asof": "2026-08-12",
+    "market_cap": 3393757184.0,
+    "pe": 4.6796193,
+    "forward_pe": 2.92999,
+    "ev_ebitda": null,
+    "fcf_yield": 5.857556658950412,
+    "roe": 0.13535,
+    "gross_margin": 0.35439998,
+    "op_margin": 0.77778,
+    "rev_growth": 0.867,
+    "debt_to_equity": 178.382
+  },
+  "market_stats": {
+    "ticker": "BHF",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.122700006,
+    "short_ratio": 11.18,
+    "putcall_oi_ratio": 5.82597568777991,
+    "avg_volume": 573780.0,
+    "beta": 0.862
+  },
+  "momentum": {
+    "ticker": "BHF",
+    "asof": "2026-08-12",
+    "ret_1m": -9.678406081002978,
+    "ret_3m": -3.923479201798108,
+    "ret_6m": -7.391785017760489,
+    "ret_12m": 24.810444172009415,
+    "rsi14": 26.78714888391059,
+    "pct_vs_200dma": -4.826722381443204,
+    "score": 42.9,
+    "components_json": "{\"trend\": 56.52959840293619, \"rsi\": 26.78714888391059, \"vs_200dma\": 40.34655523711359, \"short_squeeze\": 61.350003, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "BCS",
+  "stock": {
+    "ticker": "BCS",
+    "name": "Barclays PLC",
+    "sector": "Financial Services",
+    "industry": "Banks - Diversified"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 8.62,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 14.74,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BCS",
+    "asof": "2026-08-12",
+    "market_cap": 94344740864.0,
+    "pe": 10.737548,
+    "forward_pe": 8.241193,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.10092,
+    "gross_margin": 0.0,
+    "op_margin": 0.42951,
+    "rev_growth": 0.156,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "BCS",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 1.33,
+    "putcall_oi_ratio": 0.8624866879659212,
+    "avg_volume": 5037680.0,
+    "beta": 0.878
+  },
+  "momentum": {
+    "ticker": "BCS",
+    "asof": "2026-08-12",
+    "ret_1m": 3.0516210230379315,
+    "ret_3m": 24.81351881562375,
+    "ret_6m": 9.748819067369707,
+    "ret_12m": 43.19347868963983,
+    "rsi14": 55.09168315637666,
+    "pct_vs_200dma": 16.59240822265604,
+    "score": 64.4,
+    "components_json": "{\"trend\": 77.64609284075397, \"rsi\": 55.09168315637666, \"vs_200dma\": 83.18481644531208, \"short_squeeze\": 0.0, \"options_skew\": 42.52213791267306}",
+    "thesis": null
+  }
+}

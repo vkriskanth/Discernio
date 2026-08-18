@@ -1,0 +1,63 @@
+{
+  "ticker": "UAL",
+  "stock": {
+    "ticker": "UAL",
+    "name": "United Airlines Holdings, Inc.",
+    "sector": "Industrials",
+    "industry": "Airlines"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 11.91,
+      "pct_of_portfolio": 0.27,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "UAL",
+    "asof": "2026-08-12",
+    "market_cap": 40577708032.0,
+    "pe": 11.469725,
+    "forward_pe": 8.084636,
+    "ev_ebitda": 8.183,
+    "fcf_yield": 0.02242918676634634,
+    "roe": 0.23252001,
+    "gross_margin": 0.31816,
+    "op_margin": 0.05534,
+    "rev_growth": 0.16,
+    "debt_to_equity": 201.641
+  },
+  "market_stats": {
+    "ticker": "UAL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.073,
+    "short_ratio": 5.18,
+    "putcall_oi_ratio": 0.821028293753429,
+    "avg_volume": 5103041.0,
+    "beta": 1.292
+  },
+  "momentum": {
+    "ticker": "UAL",
+    "asof": "2026-08-12",
+    "ret_1m": 3.7266312149692116,
+    "ret_3m": 30.25355160110619,
+    "ret_6m": 7.283429382662909,
+    "ret_12m": 39.74588215118005,
+    "rsi14": 60.66330052506045,
+    "pct_vs_200dma": 16.99392049574364,
+    "score": 69.1,
+    "components_json": "{\"trend\": 77.15944715560275, \"rsi\": 60.66330052506045, \"vs_200dma\": 83.98784099148727, \"short_squeeze\": 36.5, \"options_skew\": 45.28741280664629}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "WSO",
+  "stock": {
+    "ticker": "WSO",
+    "name": "Watsco, Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 2.68,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WSO",
+    "asof": "2026-08-12",
+    "market_cap": 12750227456.0,
+    "pe": 26.485003,
+    "forward_pe": 23.082241,
+    "ev_ebitda": 18.337,
+    "fcf_yield": 0.03793373456819373,
+    "roe": 0.16744,
+    "gross_margin": 0.27512,
+    "op_margin": 0.1094,
+    "rev_growth": 0.021,
+    "debt_to_equity": 15.411
+  },
+  "market_stats": {
+    "ticker": "WSO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0,
+    "short_ratio": 0.0,
+    "putcall_oi_ratio": 0.7639751552795031,
+    "avg_volume": 417472.0,
+    "beta": 1.042
+  },
+  "momentum": {
+    "ticker": "WSO",
+    "asof": "2026-08-12",
+    "ret_1m": -17.228078472761275,
+    "ret_3m": -27.160936025619208,
+    "ret_6m": -22.364244552333112,
+    "ret_12m": -23.374275562578784,
+    "rsi14": 28.73933651717526,
+    "pct_vs_200dma": -16.92647160771322,
+    "score": 23.6,
+    "components_json": "{\"trend\": 25.79273560158279, \"rsi\": 28.73933651717526, \"vs_200dma\": 16.147056784573557, \"short_squeeze\": 0.0, \"options_skew\": 49.09285714285714}",
+    "thesis": null
+  }
+}

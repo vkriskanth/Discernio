@@ -1,0 +1,63 @@
+{
+  "ticker": "BRBR",
+  "stock": {
+    "ticker": "BRBR",
+    "name": "BellRing Brands, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 251.34,
+      "pct_of_portfolio": 0.6,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.32,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BRBR",
+    "asof": "2026-08-12",
+    "market_cap": 1312780800.0,
+    "pe": 7.9507046,
+    "forward_pe": 8.544098,
+    "ev_ebitda": 9.379,
+    "fcf_yield": 0.12035520324489815,
+    "roe": null,
+    "gross_margin": 0.28591,
+    "op_margin": 0.114659995,
+    "rev_growth": 0.042,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "BRBR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.14109999,
+    "short_ratio": 3.44,
+    "putcall_oi_ratio": 0.17098445595854922,
+    "avg_volume": 5327195.0,
+    "beta": 0.517
+  },
+  "momentum": {
+    "ticker": "BRBR",
+    "asof": "2026-08-12",
+    "ret_1m": -8.595040736078918,
+    "ret_3m": 16.6666767265228,
+    "ret_6m": -39.096913477161706,
+    "ret_12m": -71.51686866321147,
+    "rsi14": 30.912866395535545,
+    "pct_vs_200dma": -41.257075056109336,
+    "score": 26.4,
+    "components_json": "{\"trend\": 14.664181509523743, \"rsi\": 30.912866395535545, \"vs_200dma\": 0.0, \"short_squeeze\": 70.549995, \"options_skew\": 88.64533678756477}",
+    "thesis": null
+  }
+}

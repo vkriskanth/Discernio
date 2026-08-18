@@ -1,0 +1,55 @@
+{
+  "ticker": "TAK",
+  "stock": {
+    "ticker": "TAK",
+    "name": "Takeda Pharmaceutical Company L",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 33.36,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TAK",
+    "asof": "2026-08-12",
+    "market_cap": 55710658560.0,
+    "pe": null,
+    "forward_pe": 32.915096,
+    "ev_ebitda": 4.108,
+    "fcf_yield": 9.71885626562588,
+    "roe": -0.02262,
+    "gross_margin": 0.64468,
+    "op_margin": 0.16445999,
+    "rev_growth": 0.102,
+    "debt_to_equity": 73.245
+  },
+  "market_stats": {
+    "ticker": "TAK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.00090000004,
+    "short_ratio": 0.76,
+    "putcall_oi_ratio": 0.6031746031746031,
+    "avg_volume": 3454340.0,
+    "beta": 0.096
+  },
+  "momentum": {
+    "ticker": "TAK",
+    "asof": "2026-08-12",
+    "ret_1m": 6.162295707708987,
+    "ret_3m": 5.968328487715313,
+    "ret_6m": -3.8674074485440024,
+    "ret_12m": 20.58211538837742,
+    "rsi14": 58.89570372676004,
+    "pct_vs_200dma": 6.099823088591849,
+    "score": 54.0,
+    "components_json": "{\"trend\": 58.86312246710236, \"rsi\": 58.89570372676004, \"vs_200dma\": 62.199646177183695, \"short_squeeze\": 0.45000002000000006, \"options_skew\": 59.81825396825397}",
+    "thesis": null
+  }
+}

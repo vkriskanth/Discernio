@@ -1,0 +1,55 @@
+{
+  "ticker": "SCCO",
+  "stock": {
+    "ticker": "SCCO",
+    "name": "Southern Copper Corporation",
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SCCO",
+    "asof": "2026-08-12",
+    "market_cap": 163287629824.0,
+    "pe": 28.994003,
+    "forward_pe": 27.098566,
+    "ev_ebitda": 16.715,
+    "fcf_yield": 0.030651435123374947,
+    "roe": 0.49897,
+    "gross_margin": 0.64502,
+    "op_margin": 0.61162996,
+    "rev_growth": 0.406,
+    "debt_to_equity": 67.863
+  },
+  "market_stats": {
+    "ticker": "SCCO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.123,
+    "short_ratio": 10.42,
+    "putcall_oi_ratio": 1.5655310621242484,
+    "avg_volume": 1297337.0,
+    "beta": 1.137
+  },
+  "momentum": {
+    "ticker": "SCCO",
+    "asof": "2026-08-12",
+    "ret_1m": 9.66427279934081,
+    "ret_3m": 5.650395849505707,
+    "ret_6m": -0.886690698265391,
+    "ret_12m": 110.04239716205375,
+    "rsi14": 53.443184534953666,
+    "pct_vs_200dma": 13.726121159149486,
+    "score": 71.7,
+    "components_json": "{\"trend\": 95.4460704101936, \"rsi\": 53.443184534953666, \"vs_200dma\": 77.45224231829897, \"short_squeeze\": 61.5, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

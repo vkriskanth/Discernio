@@ -1,0 +1,55 @@
+{
+  "ticker": "ALLY",
+  "stock": {
+    "ticker": "ALLY",
+    "name": "Ally Financial Inc.",
+    "sector": "Financial Services",
+    "industry": "Credit Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 41.11,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ALLY",
+    "asof": "2026-08-12",
+    "market_cap": 13305694208.0,
+    "pe": 10.291765,
+    "forward_pe": 6.7987986,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.09681,
+    "gross_margin": 0.0,
+    "op_margin": 0.25270998,
+    "rev_growth": 0.11,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "ALLY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0434,
+    "short_ratio": 4.12,
+    "putcall_oi_ratio": 0.3603787969985153,
+    "avg_volume": 3178296.0,
+    "beta": 1.08
+  },
+  "momentum": {
+    "ticker": "ALLY",
+    "asof": "2026-08-12",
+    "ret_1m": -2.296392328669139,
+    "ret_3m": 0.6487760351197469,
+    "ret_6m": 5.326340610927205,
+    "ret_12m": 20.998815430887152,
+    "rsi14": 41.96207675444871,
+    "pct_vs_200dma": 4.464807644143698,
+    "score": 54.9,
+    "components_json": "{\"trend\": 60.19206116616895, \"rsi\": 41.96207675444871, \"vs_200dma\": 58.929615288287394, \"short_squeeze\": 21.7, \"options_skew\": 76.01273424019904}",
+    "thesis": null
+  }
+}

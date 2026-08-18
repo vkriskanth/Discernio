@@ -1,0 +1,55 @@
+{
+  "ticker": "ADI",
+  "stock": {
+    "ticker": "ADI",
+    "name": "Analog Devices",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ADI",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 58.353733,
+    "forward_pe": 25.956738,
+    "ev_ebitda": 31.376,
+    "fcf_yield": null,
+    "roe": 0.09639,
+    "gross_margin": 0.64491,
+    "op_margin": 0.38076,
+    "rev_growth": 0.372,
+    "debt_to_equity": 25.81
+  },
+  "market_stats": {
+    "ticker": "ADI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0224,
+    "short_ratio": 2.31,
+    "putcall_oi_ratio": 1.2759219926626761,
+    "avg_volume": 4784672.0,
+    "beta": 1.212
+  },
+  "momentum": {
+    "ticker": "ADI",
+    "asof": "2026-08-12",
+    "ret_1m": -2.1285767922501586,
+    "ret_3m": -8.151337861416842,
+    "ret_6m": 18.910621415707297,
+    "ret_12m": 73.85189005407193,
+    "rsi14": 52.36056313231519,
+    "pct_vs_200dma": 14.537218821603215,
+    "score": 63.3,
+    "components_json": "{\"trend\": 82.7685410879159, \"rsi\": 52.36056313231519, \"vs_200dma\": 79.07443764320644, \"short_squeeze\": 11.2, \"options_skew\": 14.946003089399502}",
+    "thesis": null
+  }
+}

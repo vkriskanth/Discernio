@@ -1,0 +1,55 @@
+{
+  "ticker": "DOCN",
+  "stock": {
+    "ticker": "DOCN",
+    "name": "DigitalOcean Holdings, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 5.35,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DOCN",
+    "asof": "2026-08-12",
+    "market_cap": 15842434048.0,
+    "pe": 61.24455,
+    "forward_pe": 72.76292,
+    "ev_ebitda": 49.967,
+    "fcf_yield": -0.001504353682508068,
+    "roe": 0.62273,
+    "gross_margin": 0.57222,
+    "op_margin": 0.104449995,
+    "rev_growth": 0.286,
+    "debt_to_equity": 212.506
+  },
+  "market_stats": {
+    "ticker": "DOCN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0915,
+    "short_ratio": 2.42,
+    "putcall_oi_ratio": 0.49512792204675277,
+    "avg_volume": 3477019.0,
+    "beta": 1.586
+  },
+  "momentum": {
+    "ticker": "DOCN",
+    "asof": "2026-08-12",
+    "ret_1m": 5.328579227968122,
+    "ret_3m": -14.571026370111273,
+    "ret_6m": 107.59986731902274,
+    "ret_12m": 350.03383350046295,
+    "rsi14": 51.07823203131851,
+    "pct_vs_200dma": 46.35447659427368,
+    "score": 83.9,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 51.07823203131851, \"vs_200dma\": 100.0, \"short_squeeze\": 45.75, \"options_skew\": 67.02496759948158}",
+    "thesis": null
+  }
+}

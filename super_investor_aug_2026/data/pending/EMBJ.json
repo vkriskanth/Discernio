@@ -1,0 +1,71 @@
+{
+  "ticker": "EMBJ",
+  "stock": {
+    "ticker": "EMBJ",
+    "name": "Embraer S.A.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oc",
+      "manager_name": "Howard Marks - Oaktree Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.62,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "add",
+      "share_change_pct": 13.75,
+      "pct_of_portfolio": 0.25,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 60.88,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EMBJ",
+    "asof": "2026-08-12",
+    "market_cap": 12971375616.0,
+    "pe": 29.630081,
+    "forward_pe": 18.693531,
+    "ev_ebitda": 3.506,
+    "fcf_yield": 0.16338831953842944,
+    "roe": 0.12189999,
+    "gross_margin": 0.1785,
+    "op_margin": 0.12979001,
+    "rev_growth": 0.104,
+    "debt_to_equity": 67.505
+  },
+  "market_stats": {
+    "ticker": "EMBJ",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0148,
+    "short_ratio": 2.41,
+    "putcall_oi_ratio": 0.6823045267489712,
+    "avg_volume": 1312966.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "EMBJ",
+    "asof": "2026-08-12",
+    "ret_1m": 14.88213755617731,
+    "ret_3m": 24.816869901918782,
+    "ret_6m": 3.556385877482704,
+    "ret_12m": 29.54854024865825,
+    "rsi14": 72.30391616044017,
+    "pct_vs_200dma": 14.990507416486798,
+    "score": 65.2,
+    "components_json": "{\"trend\": 70.33139283328374, \"rsi\": 72.30391616044017, \"vs_200dma\": 79.9810148329736, \"short_squeeze\": 7.4, \"options_skew\": 54.54028806584362}",
+    "thesis": null
+  }
+}

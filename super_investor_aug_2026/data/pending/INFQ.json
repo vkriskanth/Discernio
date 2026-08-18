@@ -1,0 +1,55 @@
+{
+  "ticker": "INFQ",
+  "stock": {
+    "ticker": "INFQ",
+    "name": "Infleqtion, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.28,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "INFQ",
+    "asof": "2026-08-12",
+    "market_cap": 2624450304.0,
+    "pe": null,
+    "forward_pe": -46.222042,
+    "ev_ebitda": -36.922,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": 0.31012,
+    "op_margin": -3.54878,
+    "rev_growth": 0.139,
+    "debt_to_equity": 0.836
+  },
+  "market_stats": {
+    "ticker": "INFQ",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 2.69,
+    "putcall_oi_ratio": 0.21033666220529187,
+    "avg_volume": 16387485.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "INFQ",
+    "asof": "2026-08-12",
+    "ret_1m": 16.02871025174355,
+    "ret_3m": -7.442750786854091,
+    "ret_6m": null,
+    "ret_12m": null,
+    "rsi14": 65.82196762811182,
+    "pct_vs_200dma": null,
+    "score": 50.1,
+    "components_json": "{\"trend\": 47.76717476394377, \"rsi\": 65.82196762811182, \"vs_200dma\": 50, \"short_squeeze\": 0.0, \"options_skew\": 86.02054463090704}",
+    "thesis": null
+  }
+}

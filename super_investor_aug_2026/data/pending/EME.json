@@ -1,0 +1,55 @@
+{
+  "ticker": "EME",
+  "stock": {
+    "ticker": "EME",
+    "name": "EMCOR Group, Inc.",
+    "sector": "Industrials",
+    "industry": "Engineering & Construction"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.74,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EME",
+    "asof": "2026-08-12",
+    "market_cap": 36666793984.0,
+    "pe": 25.895952,
+    "forward_pe": 22.622404,
+    "ev_ebitda": 17.913,
+    "fcf_yield": 0.02668031463091333,
+    "roe": 0.40348998,
+    "gross_margin": 0.19426,
+    "op_margin": 0.10618,
+    "rev_growth": 0.198,
+    "debt_to_equity": 13.432
+  },
+  "market_stats": {
+    "ticker": "EME",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0227,
+    "short_ratio": 2.05,
+    "putcall_oi_ratio": 1.3190661478599222,
+    "avg_volume": 440288.0,
+    "beta": 1.147
+  },
+  "momentum": {
+    "ticker": "EME",
+    "asof": "2026-08-12",
+    "ret_1m": 7.015852348028595,
+    "ret_3m": -9.272896306643775,
+    "ret_6m": 16.875264120148326,
+    "ret_12m": 34.92574263507382,
+    "rsi14": 64.24216270574072,
+    "pct_vs_200dma": 11.958699303847853,
+    "score": 57.0,
+    "components_json": "{\"trend\": 66.2510073980809, \"rsi\": 64.24216270574072, \"vs_200dma\": 73.9173986076957, \"short_squeeze\": 11.35, \"options_skew\": 12.068287937743193}",
+    "thesis": null
+  }
+}

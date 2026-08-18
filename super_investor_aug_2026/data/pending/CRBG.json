@@ -1,0 +1,63 @@
+{
+  "ticker": "CRBG",
+  "stock": {
+    "ticker": "CRBG",
+    "name": "Corebridge Financial Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 24.94,
+      "pct_of_portfolio": 0.57,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 2.44,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CRBG",
+    "asof": "2026-08-12",
+    "market_cap": 14830722048.0,
+    "pe": 21.326923,
+    "forward_pe": 5.787678,
+    "ev_ebitda": 9.472,
+    "fcf_yield": 0.043305375282561565,
+    "roe": 0.07139,
+    "gross_margin": 0.21102,
+    "op_margin": 0.111140005,
+    "rev_growth": 0.259,
+    "debt_to_equity": 127.231
+  },
+  "market_stats": {
+    "ticker": "CRBG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0744,
+    "short_ratio": 5.05,
+    "putcall_oi_ratio": 20.466257668711656,
+    "avg_volume": 5056508.0,
+    "beta": 1.01
+  },
+  "momentum": {
+    "ticker": "CRBG",
+    "asof": "2026-08-12",
+    "ret_1m": 10.7095677016247,
+    "ret_3m": 23.24990432442391,
+    "ret_6m": 14.781467539386362,
+    "ret_12m": 1.3964698343997384,
+    "rsi14": 63.74477242044469,
+    "pct_vs_200dma": 18.123446986591674,
+    "score": 59.6,
+    "components_json": "{\"trend\": 61.967999492902976, \"rsi\": 63.74477242044469, \"vs_200dma\": 86.24689397318335, \"short_squeeze\": 37.199999999999996, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

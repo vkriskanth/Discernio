@@ -1,0 +1,55 @@
+{
+  "ticker": "BEKE",
+  "stock": {
+    "ticker": "BEKE",
+    "name": "KE Holdings Inc",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.38,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BEKE",
+    "asof": "2026-08-12",
+    "market_cap": 18988730368.0,
+    "pe": 40.964287,
+    "forward_pe": 15.254968,
+    "ev_ebitda": -2.426,
+    "fcf_yield": -0.014476593362094971,
+    "roe": 0.05084,
+    "gross_margin": 0.22132999,
+    "op_margin": 0.06737,
+    "rev_growth": -0.19,
+    "debt_to_equity": 25.254
+  },
+  "market_stats": {
+    "ticker": "BEKE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0544,
+    "short_ratio": 6.56,
+    "putcall_oi_ratio": 1.2462686567164178,
+    "avg_volume": 4286972.0,
+    "beta": -0.257
+  },
+  "momentum": {
+    "ticker": "BEKE",
+    "asof": "2026-08-12",
+    "ret_1m": 7.608697841272338,
+    "ret_3m": -6.452481993990822,
+    "ret_6m": -4.515044313465322,
+    "ret_12m": -0.41975193327294935,
+    "rsi14": 66.023168013511,
+    "pct_vs_200dma": 4.608989715230205,
+    "score": 47.7,
+    "components_json": "{\"trend\": 46.54184133445398, \"rsi\": 66.023168013511, \"vs_200dma\": 59.21797943046041, \"short_squeeze\": 27.199999999999996, \"options_skew\": 16.923880597014932}",
+    "thesis": null
+  }
+}

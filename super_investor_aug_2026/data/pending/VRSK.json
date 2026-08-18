@@ -1,0 +1,63 @@
+{
+  "ticker": "VRSK",
+  "stock": {
+    "ticker": "VRSK",
+    "name": "Verisk Analytics, Inc.",
+    "sector": "Industrials",
+    "industry": "Consulting Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 43.42,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "LT",
+      "manager_name": "Lindsell Train",
+      "action": "add",
+      "share_change_pct": 13.1,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VRSK",
+    "asof": "2026-08-12",
+    "market_cap": 23575160832.0,
+    "pe": 27.866154,
+    "forward_pe": 20.824734,
+    "ev_ebitda": 18.221,
+    "fcf_yield": 0.044773820357875894,
+    "roe": null,
+    "gross_margin": 0.70179003,
+    "op_margin": 0.45106998,
+    "rev_growth": 0.044,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VRSK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0383,
+    "short_ratio": 2.25,
+    "putcall_oi_ratio": 0.8695438940657185,
+    "avg_volume": 2323548.0,
+    "beta": 0.664
+  },
+  "momentum": {
+    "ticker": "VRSK",
+    "asof": "2026-08-12",
+    "ret_1m": -3.478369211465482,
+    "ret_3m": 3.610665881895425,
+    "ret_6m": -1.7459359129964769,
+    "ret_12m": -31.26084728212173,
+    "rsi14": 34.206479554416006,
+    "pct_vs_200dma": -8.405962406323898,
+    "score": 34.8,
+    "components_json": "{\"trend\": 38.05508007782099, \"rsi\": 34.206479554416006, \"vs_200dma\": 33.188075187352204, \"short_squeeze\": 19.15, \"options_skew\": 42.051422265816576}",
+    "thesis": null
+  }
+}

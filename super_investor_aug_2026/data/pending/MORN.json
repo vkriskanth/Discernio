@@ -1,0 +1,55 @@
+{
+  "ticker": "MORN",
+  "stock": {
+    "ticker": "MORN",
+    "name": "Morningstar, Inc.",
+    "sector": "Financial Services",
+    "industry": "Financial Data & Stock Exchanges"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "RVC",
+      "manager_name": "Robert Vinall - RV Capital GmbH",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.17,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MORN",
+    "asof": "2026-08-12",
+    "market_cap": 7311582720.0,
+    "pe": 18.54472,
+    "forward_pe": 13.983734,
+    "ev_ebitda": 12.808,
+    "fcf_yield": 0.06808375410132815,
+    "roe": 0.3196,
+    "gross_margin": 0.62240005,
+    "op_margin": 0.24215999,
+    "rev_growth": 0.096,
+    "debt_to_equity": 186.052
+  },
+  "market_stats": {
+    "ticker": "MORN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.065,
+    "short_ratio": 3.3,
+    "putcall_oi_ratio": 0.4392523364485981,
+    "avg_volume": 461640.0,
+    "beta": 0.98
+  },
+  "momentum": {
+    "ticker": "MORN",
+    "asof": "2026-08-12",
+    "ret_1m": 18.333834563666596,
+    "ret_3m": 10.112784464538759,
+    "ret_6m": 16.082113185863633,
+    "ret_12m": -24.100733374200868,
+    "rsi14": 69.05032340692988,
+    "pct_vs_200dma": 4.053750768967568,
+    "score": 54.5,
+    "components_json": "{\"trend\": 48.21817594544037, \"rsi\": 69.05032340692988, \"vs_200dma\": 58.107501537935136, \"short_squeeze\": 32.5, \"options_skew\": 70.7518691588785}",
+    "thesis": null
+  }
+}

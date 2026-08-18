@@ -1,0 +1,55 @@
+{
+  "ticker": "CIEN",
+  "stock": {
+    "ticker": "CIEN",
+    "name": "Ciena Corporation",
+    "sector": "Technology",
+    "industry": "Communication Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.51,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CIEN",
+    "asof": "2026-08-12",
+    "market_cap": 60626411520.0,
+    "pe": 143.72316,
+    "forward_pe": 44.437428,
+    "ev_ebitda": 70.295,
+    "fcf_yield": 0.011561427675276004,
+    "roe": 0.15464,
+    "gross_margin": 0.43047002,
+    "op_margin": 0.15195,
+    "rev_growth": 0.395,
+    "debt_to_equity": 54.649
+  },
+  "market_stats": {
+    "ticker": "CIEN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.041300002,
+    "short_ratio": 1.83,
+    "putcall_oi_ratio": 1.2692508483424694,
+    "avg_volume": 2700766.0,
+    "beta": 1.315
+  },
+  "momentum": {
+    "ticker": "CIEN",
+    "asof": "2026-08-12",
+    "ret_1m": -1.9063363733238137,
+    "ret_3m": -24.038813979572392,
+    "ret_6m": 46.77267684818307,
+    "ret_12m": 369.49027260338926,
+    "rsi14": 56.184410929902235,
+    "pct_vs_200dma": 21.549747183652347,
+    "score": 75.3,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 56.184410929902235, \"vs_200dma\": 93.09949436730469, \"short_squeeze\": 20.650001000000003, \"options_skew\": 15.390968415557294}",
+    "thesis": null
+  }
+}

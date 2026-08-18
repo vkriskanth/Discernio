@@ -1,0 +1,55 @@
+{
+  "ticker": "EVLV",
+  "stock": {
+    "ticker": "EVLV",
+    "name": "Evolv Technologies Holdings, In",
+    "sector": "Industrials",
+    "industry": "Security & Protection Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 11.13,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EVLV",
+    "asof": "2026-08-12",
+    "market_cap": 1039656768.0,
+    "pe": null,
+    "forward_pe": -192.66667,
+    "ev_ebitda": -229.194,
+    "fcf_yield": 0.010315784333931254,
+    "roe": -0.30164,
+    "gross_margin": 0.49773997,
+    "op_margin": -0.18287,
+    "rev_growth": 0.447,
+    "debt_to_equity": 34.78
+  },
+  "market_stats": {
+    "ticker": "EVLV",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0554,
+    "short_ratio": 4.98,
+    "putcall_oi_ratio": 1.5934579439252337,
+    "avg_volume": 2560169.0,
+    "beta": 1.811
+  },
+  "momentum": {
+    "ticker": "EVLV",
+    "asof": "2026-08-12",
+    "ret_1m": -7.37977041754565,
+    "ret_3m": -21.669004929813983,
+    "ret_6m": 5.776511670814766,
+    "ret_12m": -21.5589869674777,
+    "rsi14": 49.89898760262112,
+    "pct_vs_200dma": -10.4817311558972,
+    "score": 32.2,
+    "components_json": "{\"trend\": 36.60865723530915, \"rsi\": 49.89898760262112, \"vs_200dma\": 29.0365376882056, \"short_squeeze\": 27.7, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

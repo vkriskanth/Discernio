@@ -1,0 +1,55 @@
+{
+  "ticker": "RDDT",
+  "stock": {
+    "ticker": "RDDT",
+    "name": "Reddit, Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.96,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RDDT",
+    "asof": "2026-08-12",
+    "market_cap": 29382795264.0,
+    "pe": 35.516277,
+    "forward_pe": 15.859038,
+    "ev_ebitda": 34.042,
+    "fcf_yield": 0.02307706703557828,
+    "roe": 0.30712,
+    "gross_margin": 0.91442,
+    "op_margin": 0.28788,
+    "rev_growth": 0.611,
+    "debt_to_equity": 0.635
+  },
+  "market_stats": {
+    "ticker": "RDDT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1325,
+    "short_ratio": 3.44,
+    "putcall_oi_ratio": 0.7772557494890648,
+    "avg_volume": 5145646.0,
+    "beta": 2.034
+  },
+  "momentum": {
+    "ticker": "RDDT",
+    "asof": "2026-08-12",
+    "ret_1m": -24.09111044001566,
+    "ret_3m": 1.2799454349330608,
+    "ret_6m": 2.8803890167237167,
+    "ret_12m": -30.10192387236339,
+    "rsi14": 42.44574364242205,
+    "pct_vs_200dma": -13.485519733718654,
+    "score": 39.3,
+    "components_json": "{\"trend\": 39.20733078655168, \"rsi\": 42.44574364242205, \"vs_200dma\": 23.028960532562692, \"short_squeeze\": 66.25, \"options_skew\": 48.207041509079374}",
+    "thesis": null
+  }
+}

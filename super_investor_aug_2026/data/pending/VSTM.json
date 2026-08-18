@@ -1,0 +1,55 @@
+{
+  "ticker": "VSTM",
+  "stock": {
+    "ticker": "VSTM",
+    "name": "Verastem, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 59.71,
+      "pct_of_portfolio": 0.1,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VSTM",
+    "asof": "2026-08-12",
+    "market_cap": 633038400.0,
+    "pe": null,
+    "forward_pe": -9.32,
+    "ev_ebitda": -3.697,
+    "fcf_yield": -0.16338601892081112,
+    "roe": -4.7116103,
+    "gross_margin": 0.87644994,
+    "op_margin": -0.81615996,
+    "rev_growth": 17.754,
+    "debt_to_equity": 168.707
+  },
+  "market_stats": {
+    "ticker": "VSTM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2204,
+    "short_ratio": 7.73,
+    "putcall_oi_ratio": 0.09406908537910058,
+    "avg_volume": 2552187.0,
+    "beta": 0.292
+  },
+  "momentum": {
+    "ticker": "VSTM",
+    "asof": "2026-08-12",
+    "ret_1m": 28.148147297821268,
+    "ret_3m": 22.261488742935896,
+    "ret_6m": 10.191080336048696,
+    "ret_12m": 20.979026750315466,
+    "rsi14": 69.83051746065203,
+    "pct_vs_200dma": 8.395141992781818,
+    "score": 73.8,
+    "components_json": "{\"trend\": 68.12738142382156, \"rsi\": 69.83051746065203, \"vs_200dma\": 66.79028398556363, \"short_squeeze\": 100.0, \"options_skew\": 93.775592005214}",
+    "thesis": null
+  }
+}

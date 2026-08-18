@@ -1,0 +1,63 @@
+{
+  "ticker": "HAFN",
+  "stock": {
+    "ticker": "HAFN",
+    "name": "Hafnia Limited",
+    "sector": "Industrials",
+    "industry": "Marine Shipping"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 9.94,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HAFN",
+    "asof": "2026-08-12",
+    "market_cap": 3733366272.0,
+    "pe": 8.3,
+    "forward_pe": 10.985293,
+    "ev_ebitda": 8.006,
+    "fcf_yield": 0.03420294680371506,
+    "roe": 0.18931,
+    "gross_margin": 0.29339,
+    "op_margin": 0.22343999,
+    "rev_growth": 0.225,
+    "debt_to_equity": 40.353
+  },
+  "market_stats": {
+    "ticker": "HAFN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0172,
+    "short_ratio": 0.58,
+    "putcall_oi_ratio": 0.5072992700729927,
+    "avg_volume": 1632424.0,
+    "beta": -0.155
+  },
+  "momentum": {
+    "ticker": "HAFN",
+    "asof": "2026-08-12",
+    "ret_1m": 6.481480412283469,
+    "ret_3m": -12.194981648908554,
+    "ret_6m": 33.28764917285567,
+    "ret_12m": 46.32215586870796,
+    "rsi14": 54.01661823007105,
+    "pct_vs_200dma": 12.017420472365913,
+    "score": 64.0,
+    "components_json": "{\"trend\": 74.85666260466732, \"rsi\": 54.01661823007105, \"vs_200dma\": 74.03484094473183, \"short_squeeze\": 8.6, \"options_skew\": 66.21313868613139}",
+    "thesis": null
+  }
+}

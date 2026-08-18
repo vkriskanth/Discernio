@@ -1,0 +1,55 @@
+{
+  "ticker": "TFII",
+  "stock": {
+    "ticker": "TFII",
+    "name": "TFI International Inc.",
+    "sector": "Industrials",
+    "industry": "Trucking"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TFII",
+    "asof": "2026-08-12",
+    "market_cap": 11913058304.0,
+    "pe": 35.611794,
+    "forward_pe": 18.357687,
+    "ev_ebitda": 14.591,
+    "fcf_yield": 0.052512304400453645,
+    "roe": 0.124069996,
+    "gross_margin": 0.19867,
+    "op_margin": 0.09304,
+    "rev_growth": 0.124,
+    "debt_to_equity": 111.462
+  },
+  "market_stats": {
+    "ticker": "TFII",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 3.15,
+    "putcall_oi_ratio": 0.14705882352941177,
+    "avg_volume": 386891.0,
+    "beta": 1.487
+  },
+  "momentum": {
+    "ticker": "TFII",
+    "asof": "2026-08-12",
+    "ret_1m": -2.572861867933418,
+    "ret_3m": 7.935088012788771,
+    "ret_6m": 18.187867636047315,
+    "ret_12m": 73.56524079934876,
+    "rsi14": 42.492742776407866,
+    "pct_vs_200dma": 20.128279567218456,
+    "score": 72.9,
+    "components_json": "{\"trend\": 87.26298301439033, \"rsi\": 42.492742776407866, \"vs_200dma\": 90.25655913443691, \"short_squeeze\": 0.0, \"options_skew\": 90.24117647058824}",
+    "thesis": null
+  }
+}

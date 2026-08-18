@@ -1,0 +1,63 @@
+{
+  "ticker": "BLK",
+  "stock": {
+    "ticker": "BLK",
+    "name": "BlackRock, Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "add",
+      "share_change_pct": 4.2,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 0.27,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BLK",
+    "asof": "2026-08-12",
+    "market_cap": 186278952960.0,
+    "pe": 27.494005,
+    "forward_pe": 17.872206,
+    "ev_ebitda": 16.73,
+    "fcf_yield": 0.04068159434859645,
+    "roe": 0.122779995,
+    "gross_margin": 0.47152,
+    "op_margin": 0.35079,
+    "rev_growth": 0.306,
+    "debt_to_equity": 23.192
+  },
+  "market_stats": {
+    "ticker": "BLK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0143,
+    "short_ratio": 2.73,
+    "putcall_oi_ratio": 0.7808851479771926,
+    "avg_volume": 782270.0,
+    "beta": 1.425
+  },
+  "momentum": {
+    "ticker": "BLK",
+    "asof": "2026-08-12",
+    "ret_1m": 13.209046309515315,
+    "ret_3m": 8.722633661963929,
+    "ret_6m": 10.669096020892855,
+    "ret_12m": 5.177646761404331,
+    "rsi14": 76.4650119093037,
+    "pct_vs_200dma": 10.341184140452441,
+    "score": 57.8,
+    "components_json": "{\"trend\": 57.88857760941877, \"rsi\": 76.4650119093037, \"vs_200dma\": 70.68236828090488, \"short_squeeze\": 7.1499999999999995, \"options_skew\": 47.96496062992126}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "FLS",
+  "stock": {
+    "ticker": "FLS",
+    "name": "Flowserve Corporation",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.72,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 58.74,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FLS",
+    "asof": "2026-08-12",
+    "market_cap": 10119448576.0,
+    "pe": 27.738678,
+    "forward_pe": 17.083946,
+    "ev_ebitda": 16.646,
+    "fcf_yield": 0.04232802338813921,
+    "roe": 0.16936001,
+    "gross_margin": 0.35146,
+    "op_margin": 0.13919,
+    "rev_growth": -0.016,
+    "debt_to_equity": 99.608
+  },
+  "market_stats": {
+    "ticker": "FLS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0639,
+    "short_ratio": 4.09,
+    "putcall_oi_ratio": 0.10266159695817491,
+    "avg_volume": 2031895.0,
+    "beta": 1.262
+  },
+  "momentum": {
+    "ticker": "FLS",
+    "asof": "2026-08-12",
+    "ret_1m": 15.612884128358907,
+    "ret_3m": 16.220265073596217,
+    "ret_6m": -6.52952390001722,
+    "ret_12m": 56.17874289817115,
+    "rsi14": 72.7554969154738,
+    "pct_vs_200dma": 7.954780200739964,
+    "score": 70.1,
+    "components_json": "{\"trend\": 75.37871951134215, \"rsi\": 72.7554969154738, \"vs_200dma\": 65.90956040147992, \"short_squeeze\": 31.95, \"options_skew\": 93.20247148288973}",
+    "thesis": null
+  }
+}

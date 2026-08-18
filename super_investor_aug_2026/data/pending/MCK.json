@@ -1,0 +1,55 @@
+{
+  "ticker": "MCK",
+  "stock": {
+    "ticker": "MCK",
+    "name": "McKesson Corporation",
+    "sector": "Healthcare",
+    "industry": "Medical Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.71,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MCK",
+    "asof": "2026-08-12",
+    "market_cap": 104136179712.0,
+    "pe": 23.984425,
+    "forward_pe": 17.675095,
+    "ev_ebitda": 16.222,
+    "fcf_yield": 0.06531111291781205,
+    "roe": null,
+    "gross_margin": 0.03633,
+    "op_margin": 0.01348,
+    "rev_growth": 0.077,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "MCK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.031,
+    "short_ratio": 3.71,
+    "putcall_oi_ratio": 0.5198541329011345,
+    "avg_volume": 1135011.0,
+    "beta": 0.307
+  },
+  "momentum": {
+    "ticker": "MCK",
+    "asof": "2026-08-12",
+    "ret_1m": 10.862369167236352,
+    "ret_3m": 21.360001849654676,
+    "ret_6m": -4.581769503088607,
+    "ret_12m": 32.92209806866144,
+    "rsi14": 64.47786852088265,
+    "pct_vs_200dma": 6.278679072904847,
+    "score": 60.7,
+    "components_json": "{\"trend\": 68.2023089314344, \"rsi\": 64.47786852088265, \"vs_200dma\": 62.557358145809694, \"short_squeeze\": 15.5, \"options_skew\": 65.37572933549433}",
+    "thesis": null
+  }
+}

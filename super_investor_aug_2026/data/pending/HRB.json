@@ -1,0 +1,55 @@
+{
+  "ticker": "HRB",
+  "stock": {
+    "ticker": "HRB",
+    "name": "H&R Block, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Personal Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HC",
+      "manager_name": "Li Lu - Himalaya Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.61,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HRB",
+    "asof": "2026-08-12",
+    "market_cap": 6843758080.0,
+    "pe": 9.488541,
+    "forward_pe": 9.216422,
+    "ev_ebitda": 6.921,
+    "fcf_yield": 0.09590253663671292,
+    "roe": null,
+    "gross_margin": 0.44298,
+    "op_margin": 0.43235,
+    "rev_growth": 0.053,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "HRB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.21959999,
+    "short_ratio": 9.23,
+    "putcall_oi_ratio": 0.31824417009602196,
+    "avg_volume": 2244677.0,
+    "beta": 0.355
+  },
+  "momentum": {
+    "ticker": "HRB",
+    "asof": "2026-08-12",
+    "ret_1m": 30.312653306529192,
+    "ret_3m": 47.0880516440072,
+    "ret_6m": 67.53313330930712,
+    "ret_12m": 2.235358739447979,
+    "rsi14": 82.52427472123537,
+    "pct_vs_200dma": 41.015566094595066,
+    "score": 89.4,
+    "components_json": "{\"trend\": 85.28049898177349, \"rsi\": 82.52427472123537, \"vs_200dma\": 100.0, \"short_squeeze\": 100.0, \"options_skew\": 78.82311385459535}",
+    "thesis": null
+  }
+}

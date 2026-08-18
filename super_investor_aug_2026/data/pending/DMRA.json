@@ -1,0 +1,55 @@
+{
+  "ticker": "DMRA",
+  "stock": {
+    "ticker": "DMRA",
+    "name": "Damora Therapeutics, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.17,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DMRA",
+    "asof": "2026-08-12",
+    "market_cap": 1852683008.0,
+    "pe": null,
+    "forward_pe": -14.105758,
+    "ev_ebitda": -15.196,
+    "fcf_yield": -0.0185702982385209,
+    "roe": -0.99741995,
+    "gross_margin": 0.0,
+    "op_margin": 0.0,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "DMRA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0925,
+    "short_ratio": 9.72,
+    "putcall_oi_ratio": null,
+    "avg_volume": 580572.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "DMRA",
+    "asof": "2026-08-12",
+    "ret_1m": 0.806711848487951,
+    "ret_3m": 35.29666333768662,
+    "ret_6m": 45.16728209384333,
+    "ret_12m": 824.260316964088,
+    "rsi14": 61.56424311937359,
+    "pct_vs_200dma": 27.113686077604626,
+    "score": 83.9,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 61.56424311937359, \"vs_200dma\": 100.0, \"short_squeeze\": 46.25, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

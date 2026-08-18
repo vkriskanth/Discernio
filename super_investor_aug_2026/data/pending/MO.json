@@ -1,0 +1,63 @@
+{
+  "ticker": "MO",
+  "stock": {
+    "ticker": "MO",
+    "name": "Altria Group, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Tobacco"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 239.25,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 0.04,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MO",
+    "asof": "2026-08-12",
+    "market_cap": 108491603968.0,
+    "pe": 13.678947,
+    "forward_pe": 11.080264,
+    "ev_ebitda": 8.298,
+    "fcf_yield": 0.08328063493894865,
+    "roe": null,
+    "gross_margin": 0.8717,
+    "op_margin": 0.61464,
+    "rev_growth": 0.012,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "MO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0304,
+    "short_ratio": 6.54,
+    "putcall_oi_ratio": 0.5592729995575372,
+    "avg_volume": 8402143.0,
+    "beta": 0.495
+  },
+  "momentum": {
+    "ticker": "MO",
+    "asof": "2026-08-12",
+    "ret_1m": -7.368879031475817,
+    "ret_3m": -5.620385025114549,
+    "ret_6m": 4.141594647075175,
+    "ret_12m": 5.677316914815034,
+    "rsi14": 27.405970963555404,
+    "pct_vs_200dma": 1.2700035380878605,
+    "score": 45.8,
+    "components_json": "{\"trend\": 51.8272896525142, \"rsi\": 27.405970963555404, \"vs_200dma\": 52.54000707617572, \"short_squeeze\": 15.2, \"options_skew\": 62.74649092951228}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "ticker": "PDD",
+  "stock": {
+    "ticker": "PDD",
+    "name": "PDD Holdings Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Internet Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HC",
+      "manager_name": "Li Lu - Himalaya Capital Management",
+      "action": "add",
+      "share_change_pct": 133.53,
+      "pct_of_portfolio": 12.68,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HH",
+      "manager_name": "Duan Yongping - H&H International Investment",
+      "action": "add",
+      "share_change_pct": 71.18,
+      "pct_of_portfolio": 4.2,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HH",
+      "manager_name": "Duan Yongping - H&H International Investment",
+      "action": "add",
+      "share_change_pct": 26.71,
+      "pct_of_portfolio": 2.11,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "oc",
+      "manager_name": "Howard Marks - Oaktree Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 2.2,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 0.27,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PDD",
+    "asof": "2026-08-15",
+    "market_cap": 120689786880.0,
+    "pe": 8.804777,
+    "forward_pe": 6.9273605,
+    "ev_ebitda": -3.21,
+    "fcf_yield": 0.5936115319453947,
+    "roe": 0.254,
+    "gross_margin": 0.55979,
+    "op_margin": 0.18419,
+    "rev_growth": 0.11,
+    "debt_to_equity": 1.21
+  },
+  "market_stats": {
+    "ticker": "PDD",
+    "asof": "2026-08-14",
+    "short_pct_float": 0.04,
+    "short_ratio": 5.1,
+    "putcall_oi_ratio": null,
+    "avg_volume": 8701156.0,
+    "beta": -0.005
+  },
+  "momentum": {
+    "ticker": "PDD",
+    "asof": "2026-08-14",
+    "ret_1m": -2.7976500267882565,
+    "ret_3m": -11.84871768223501,
+    "ret_6m": -15.929957865523514,
+    "ret_12m": -27.758724824158577,
+    "rsi14": 48.449305977532944,
+    "pct_vs_200dma": -17.201897369969675,
+    "score": 30.4,
+    "components_json": "{\"trend\": 30.56290740600901, \"rsi\": 48.449305977532944, \"vs_200dma\": 15.59620526006065, \"short_squeeze\": 20.0, \"options_skew\": 50.0}",
+    "thesis": "PDD is a broken trend dressed up as a value-buyer's darling: -2.8% 1m, -11.85% 3m,\n-15.93% 6m, and -27.76% 12m, with price still 17.2% below the 200DMA \u2014 every\nwindow is negative and the stock has not printed a technical bottom. RSI14 at\n48.4 sits dead in neutral territory, so there's no oversold spring loaded here;\nthis is a name drifting lower on trend, not one coiled for a mean-reversion\nbounce. Short interest is thin (4% of float, 5.1 days to cover), which cuts\nboth ways \u2014 it confirms the decline isn't short-driven manipulation, but it\nalso means there's no squeeze mechanism to force a violent reversal if\nsentiment turns. What actually moves the needle is the buy-side conviction\nstacked into the weakness: Li Lu added 133.5% to a position that now sits at\n12.68% of Himalaya Capital's portfolio, and Duan Yongping (H&H) added in back-\nto-back quarters (Q1 and Q2 2026), both signature value investors doubling\ndown as the tape worsens. That's a classic value-vs-momentum standoff \u2014 cheap,\nquality-backed accumulation running directly against a still-intact downtrend\n\u2014 and until price reclaims the 200DMA, the trend, not the buyers, is in\ncontrol."
+  }
+}

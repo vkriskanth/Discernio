@@ -1,0 +1,55 @@
+{
+  "ticker": "AMPX",
+  "stock": {
+    "ticker": "AMPX",
+    "name": "Amprius Technologies, Inc.",
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 10.29,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AMPX",
+    "asof": "2026-08-12",
+    "market_cap": 1789487616.0,
+    "pe": null,
+    "forward_pe": 120.09804,
+    "ev_ebitda": -115.362,
+    "fcf_yield": -0.020060142176474276,
+    "roe": -0.3607,
+    "gross_margin": 0.22252001,
+    "op_margin": -0.12629,
+    "rev_growth": 1.259,
+    "debt_to_equity": 5.076
+  },
+  "market_stats": {
+    "ticker": "AMPX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.16620001,
+    "short_ratio": 3.85,
+    "putcall_oi_ratio": 0.3842480100544617,
+    "avg_volume": 7560359.0,
+    "beta": 2.346
+  },
+  "momentum": {
+    "ticker": "AMPX",
+    "asof": "2026-08-12",
+    "ret_1m": 8.63309395707521,
+    "ret_3m": -35.847052720919436,
+    "ret_6m": 4.588742201029095,
+    "ret_12m": 57.087123976854116,
+    "rsi14": 65.09039874449283,
+    "pct_vs_200dma": -12.172602021677525,
+    "score": 57.3,
+    "components_json": "{\"trend\": 63.457356434774546, \"rsi\": 65.09039874449283, \"vs_200dma\": 25.65479595664495, \"short_squeeze\": 83.10000500000001, \"options_skew\": 74.4206577293674}",
+    "thesis": null
+  }
+}

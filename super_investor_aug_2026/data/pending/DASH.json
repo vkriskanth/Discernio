@@ -1,0 +1,63 @@
+{
+  "ticker": "DASH",
+  "stock": {
+    "ticker": "DASH",
+    "name": "DoorDash, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Internet Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "add",
+      "share_change_pct": 19.48,
+      "pct_of_portfolio": 1.08,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 7.6,
+      "pct_of_portfolio": 0.13,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DASH",
+    "asof": "2026-08-12",
+    "market_cap": 93074882560.0,
+    "pe": 111.838905,
+    "forward_pe": 26.91382,
+    "ev_ebitda": 62.554,
+    "fcf_yield": 0.055304931797058185,
+    "roe": 0.088870004,
+    "gross_margin": 0.52225,
+    "op_margin": 0.03862,
+    "rev_growth": 0.356,
+    "debt_to_equity": 33.276
+  },
+  "market_stats": {
+    "ticker": "DASH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.044499997,
+    "short_ratio": 4.82,
+    "putcall_oi_ratio": 1.229430953243929,
+    "avg_volume": 4706006.0,
+    "beta": 1.77
+  },
+  "momentum": {
+    "ticker": "DASH",
+    "asof": "2026-08-12",
+    "ret_1m": 12.86063044223682,
+    "ret_3m": 35.9879888803746,
+    "ret_6m": 14.878597017309936,
+    "ret_12m": -17.454414375464054,
+    "rsi14": 84.67816116183542,
+    "pct_vs_200dma": 13.06996084927623,
+    "score": 59.1,
+    "components_json": "{\"trend\": 58.27821001911974, \"rsi\": 84.67816116183542, \"vs_200dma\": 76.13992169855246, \"short_squeeze\": 22.2499985, \"options_skew\": 18.046955418629942}",
+    "thesis": null
+  }
+}

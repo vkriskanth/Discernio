@@ -1,0 +1,55 @@
+{
+  "ticker": "CRWV",
+  "stock": {
+    "ticker": "CRWV",
+    "name": "CoreWeave, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.3,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CRWV",
+    "asof": "2026-08-12",
+    "market_cap": 58059595776.0,
+    "pe": null,
+    "forward_pe": -55.918995,
+    "ev_ebitda": 27.168,
+    "fcf_yield": -0.14744035079104992,
+    "roe": -0.40673,
+    "gross_margin": 0.69375,
+    "op_margin": -0.069299996,
+    "rev_growth": 1.116,
+    "debt_to_equity": 738.538
+  },
+  "market_stats": {
+    "ticker": "CRWV",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2041,
+    "short_ratio": 2.28,
+    "putcall_oi_ratio": 0.6973667142301206,
+    "avg_volume": 28433670.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "CRWV",
+    "asof": "2026-08-12",
+    "ret_1m": 35.86439491287181,
+    "ret_3m": 0.7981444179596897,
+    "ret_6m": 14.194090961377515,
+    "ret_12m": -22.299326399451914,
+    "rsi14": 65.21066130896382,
+    "pct_vs_200dma": 16.4910575673491,
+    "score": 64.1,
+    "components_json": "{\"trend\": 45.577940054020395, \"rsi\": 65.21066130896382, \"vs_200dma\": 82.9821151346982, \"short_squeeze\": 100.0, \"options_skew\": 53.53564016085095}",
+    "thesis": null
+  }
+}

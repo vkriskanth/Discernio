@@ -1,0 +1,55 @@
+{
+  "ticker": "INTT",
+  "stock": {
+    "ticker": "INTT",
+    "name": "inTest Corporation",
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment & Materials"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 44.45,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "INTT",
+    "asof": "2026-08-12",
+    "market_cap": 175456752.0,
+    "pe": 195.42857,
+    "forward_pe": 19.267607,
+    "ev_ebitda": 25.954,
+    "fcf_yield": 0.04306118125337234,
+    "roe": 0.00915,
+    "gross_margin": 0.42763,
+    "op_margin": 0.01113,
+    "rev_growth": 0.255,
+    "debt_to_equity": 13.729
+  },
+  "market_stats": {
+    "ticker": "INTT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.038599998,
+    "short_ratio": 2.51,
+    "putcall_oi_ratio": 0.24140302613480055,
+    "avg_volume": 281533.0,
+    "beta": 1.537
+  },
+  "momentum": {
+    "ticker": "INTT",
+    "asof": "2026-08-12",
+    "ret_1m": -6.546429381628538,
+    "ret_3m": -15.773634816127469,
+    "ret_6m": 49.30629607241899,
+    "ret_12m": 101.87590357375353,
+    "rsi14": 52.53164327750113,
+    "pct_vs_200dma": 12.231552962538107,
+    "score": 76.8,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 52.53164327750113, \"vs_200dma\": 74.4631059250762, \"short_squeeze\": 19.299999, \"options_skew\": 83.9484181568088}",
+    "thesis": null
+  }
+}

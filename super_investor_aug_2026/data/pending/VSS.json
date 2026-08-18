@@ -1,0 +1,55 @@
+{
+  "ticker": "VSS",
+  "stock": {
+    "ticker": "VSS",
+    "name": "Vanguard FTSE All-Wld ex-US SmC",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 42.03,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VSS",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 17.030224,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VSS",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.5,
+    "avg_volume": 229517.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VSS",
+    "asof": "2026-08-12",
+    "ret_1m": 4.255944154507296,
+    "ret_3m": 0.030183447649800854,
+    "ret_6m": 2.118123377679604,
+    "ret_12m": 20.675955871756855,
+    "rsi14": 76.55300633404265,
+    "pct_vs_200dma": 6.467323382871304,
+    "score": 57.5,
+    "components_json": "{\"trend\": 58.91487439630156, \"rsi\": 76.55300633404265, \"vs_200dma\": 62.934646765742606, \"short_squeeze\": 0.0, \"options_skew\": 66.7}",
+    "thesis": null
+  }
+}

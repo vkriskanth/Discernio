@@ -1,0 +1,55 @@
+{
+  "ticker": "DLTR",
+  "stock": {
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Discount Stores"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "add",
+      "share_change_pct": 0.16,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DLTR",
+    "asof": "2026-08-12",
+    "market_cap": 24642529280.0,
+    "pe": 20.615742,
+    "forward_pe": 16.68398,
+    "ev_ebitda": 12.97,
+    "fcf_yield": 0.058582661852476854,
+    "roe": 0.33976,
+    "gross_margin": 0.36991,
+    "op_margin": 0.09088001,
+    "rev_growth": 0.072,
+    "debt_to_equity": 216.518
+  },
+  "market_stats": {
+    "ticker": "DLTR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0643,
+    "short_ratio": 3.41,
+    "putcall_oi_ratio": 0.898674797701419,
+    "avg_volume": 3403654.0,
+    "beta": 0.665
+  },
+  "momentum": {
+    "ticker": "DLTR",
+    "asof": "2026-08-12",
+    "ret_1m": 3.2875732987846407,
+    "ret_3m": 44.47500771506967,
+    "ret_6m": 5.5241147568086735,
+    "ret_12m": 12.568901696296964,
+    "rsi14": 72.86514159154842,
+    "pct_vs_200dma": 12.118501055859255,
+    "score": 64.7,
+    "components_json": "{\"trend\": 70.02729742008229, \"rsi\": 72.86514159154842, \"vs_200dma\": 74.23700211171851, \"short_squeeze\": 32.15, \"options_skew\": 40.10839099331535}",
+    "thesis": null
+  }
+}

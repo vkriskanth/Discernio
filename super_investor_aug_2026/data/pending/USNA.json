@@ -1,0 +1,55 @@
+{
+  "ticker": "USNA",
+  "stock": {
+    "ticker": "USNA",
+    "name": "USANA Health Sciences, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 8.72,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "USNA",
+    "asof": "2026-08-12",
+    "market_cap": 259959200.0,
+    "pe": 28.16,
+    "forward_pe": 7.9548025,
+    "ev_ebitda": 1.751,
+    "fcf_yield": null,
+    "roe": -0.050580002,
+    "gross_margin": 0.77446,
+    "op_margin": 0.040939998,
+    "rev_growth": -0.053,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "USNA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.063200004,
+    "short_ratio": 7.68,
+    "putcall_oi_ratio": 2.282051282051282,
+    "avg_volume": 136329.0,
+    "beta": 0.725
+  },
+  "momentum": {
+    "ticker": "USNA",
+    "asof": "2026-08-12",
+    "ret_1m": -36.45029703296042,
+    "ret_3m": -28.05755057218502,
+    "ret_6m": -32.724649883281444,
+    "ret_12m": -51.79063512868429,
+    "rsi14": 23.782770353894165,
+    "pct_vs_200dma": -28.606942849802465,
+    "score": 11.1,
+    "components_json": "{\"trend\": 11.049085811886343, \"rsi\": 23.782770353894165, \"vs_200dma\": 0.0, \"short_squeeze\": 31.600002000000003, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

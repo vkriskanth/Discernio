@@ -1,0 +1,79 @@
+{
+  "ticker": "BLDR",
+  "stock": {
+    "ticker": "BLDR",
+    "name": "Builders FirstSource, Inc.",
+    "sector": "Industrials",
+    "industry": "Building Products & Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.24,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.41,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.13,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "GC",
+      "manager_name": "Francois Rochon - Giverny Capital",
+      "action": "add",
+      "share_change_pct": 2.03,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BLDR",
+    "asof": "2026-08-12",
+    "market_cap": 7707133952.0,
+    "pe": 77.85869,
+    "forward_pe": 16.038889,
+    "ev_ebitda": 12.961,
+    "fcf_yield": 0.06027884332793286,
+    "roe": 0.02506,
+    "gross_margin": 0.29188,
+    "op_margin": 0.033269998,
+    "rev_growth": -0.088,
+    "debt_to_equity": 130.786
+  },
+  "market_stats": {
+    "ticker": "BLDR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0889,
+    "short_ratio": 3.45,
+    "putcall_oi_ratio": 0.606607574536664,
+    "avg_volume": 2515754.0,
+    "beta": 1.418
+  },
+  "momentum": {
+    "ticker": "BLDR",
+    "asof": "2026-08-12",
+    "ret_1m": -3.7521520355131233,
+    "ret_3m": -5.878556798524748,
+    "ret_6m": -41.448320570459444,
+    "ret_12m": -44.49946554711526,
+    "rsi14": 54.398870460832825,
+    "pct_vs_200dma": -22.750569518156695,
+    "score": 26.9,
+    "components_json": "{\"trend\": 18.00215057045864, \"rsi\": 54.398870460832825, \"vs_200dma\": 4.49886096368661, \"short_squeeze\": 44.45, \"options_skew\": 59.58927477840451}",
+    "thesis": null
+  }
+}

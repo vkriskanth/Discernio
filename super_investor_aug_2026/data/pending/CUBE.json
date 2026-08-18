@@ -1,0 +1,55 @@
+{
+  "ticker": "CUBE",
+  "stock": {
+    "ticker": "CUBE",
+    "name": "CubeSmart",
+    "sector": "Real Estate",
+    "industry": "REIT - Industrial"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.47,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CUBE",
+    "asof": "2026-08-12",
+    "market_cap": 9253472256.0,
+    "pe": 27.809525,
+    "forward_pe": 26.955387,
+    "ev_ebitda": 18.123,
+    "fcf_yield": 0.05252468809044647,
+    "roe": 0.12028,
+    "gross_margin": 0.70712,
+    "op_margin": 0.41088,
+    "rev_growth": 0.015,
+    "debt_to_equity": 134.3
+  },
+  "market_stats": {
+    "ticker": "CUBE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0641,
+    "short_ratio": 4.45,
+    "putcall_oi_ratio": 2.2279411764705883,
+    "avg_volume": 2092103.0,
+    "beta": 1.062
+  },
+  "momentum": {
+    "ticker": "CUBE",
+    "asof": "2026-08-12",
+    "ret_1m": 3.8200563528273612,
+    "ret_3m": 4.019774687213129,
+    "ret_6m": 10.746360940984733,
+    "ret_12m": 10.568957185292561,
+    "rsi14": 47.59358070594283,
+    "pct_vs_200dma": 8.579139863264217,
+    "score": 50.6,
+    "components_json": "{\"trend\": 58.65742356257638, \"rsi\": 47.59358070594283, \"vs_200dma\": 67.15827972652843, \"short_squeeze\": 32.05, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "NWL",
+  "stock": {
+    "ticker": "NWL",
+    "name": "Newell Brands Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 0.39,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NWL",
+    "asof": "2026-08-12",
+    "market_cap": 2597989888.0,
+    "pe": null,
+    "forward_pe": 8.894332,
+    "ev_ebitda": 8.933,
+    "fcf_yield": 0.15728505868610987,
+    "roe": -0.085939996,
+    "gross_margin": 0.35467997,
+    "op_margin": 0.14744,
+    "rev_growth": 0.03,
+    "debt_to_equity": 232.966
+  },
+  "market_stats": {
+    "ticker": "NWL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.19459999,
+    "short_ratio": 5.19,
+    "putcall_oi_ratio": 0.08549458231387627,
+    "avg_volume": 11618858.0,
+    "beta": 0.872
+  },
+  "momentum": {
+    "ticker": "NWL",
+    "asof": "2026-08-12",
+    "ret_1m": 22.01195265481939,
+    "ret_3m": 54.259251086310044,
+    "ret_6m": 39.42010606084616,
+    "ret_12m": 35.567529960873976,
+    "rsi14": 72.95596365162388,
+    "pct_vs_200dma": 45.995320427110606,
+    "score": 92.0,
+    "components_json": "{\"trend\": 92.33081912849644, \"rsi\": 72.95596365162388, \"vs_200dma\": 100.0, \"short_squeeze\": 97.299995, \"options_skew\": 94.34751135966447}",
+    "thesis": null
+  }
+}

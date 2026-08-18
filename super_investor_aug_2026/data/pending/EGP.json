@@ -1,0 +1,55 @@
+{
+  "ticker": "EGP",
+  "stock": {
+    "ticker": "EGP",
+    "name": "EastGroup Properties, Inc.",
+    "sector": "Real Estate",
+    "industry": "REIT - Industrial"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.43,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EGP",
+    "asof": "2026-08-12",
+    "market_cap": 10893935616.0,
+    "pe": 35.60457,
+    "forward_pe": 36.481274,
+    "ev_ebitda": 25.285,
+    "fcf_yield": 0.03482377841877637,
+    "roe": 0.08732,
+    "gross_margin": 0.73607004,
+    "op_margin": 0.40761003,
+    "rev_growth": 0.091,
+    "debt_to_equity": 46.09
+  },
+  "market_stats": {
+    "ticker": "EGP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0574,
+    "short_ratio": 4.61,
+    "putcall_oi_ratio": 1.3636363636363635,
+    "avg_volume": 418291.0,
+    "beta": 1.039
+  },
+  "momentum": {
+    "ticker": "EGP",
+    "asof": "2026-08-12",
+    "ret_1m": -4.151481312407546,
+    "ret_3m": 0.0037153608542395133,
+    "ret_6m": 7.075511967768566,
+    "ret_12m": 31.339853215066316,
+    "rsi14": 20.738503050211165,
+    "pct_vs_200dma": 6.3750221376994265,
+    "score": 48.4,
+    "components_json": "{\"trend\": 64.65970948461337, \"rsi\": 20.738503050211165, \"vs_200dma\": 62.75004427539885, \"short_squeeze\": 28.700000000000003, \"options_skew\": 9.095454545454553}",
+    "thesis": null
+  }
+}

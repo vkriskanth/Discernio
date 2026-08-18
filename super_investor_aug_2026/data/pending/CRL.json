@@ -1,0 +1,71 @@
+{
+  "ticker": "CRL",
+  "stock": {
+    "ticker": "CRL",
+    "name": "Charles River Labs",
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 28.36,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 1.15,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CRL",
+    "asof": "2026-08-12",
+    "market_cap": 13732619264.0,
+    "pe": null,
+    "forward_pe": 22.473204,
+    "ev_ebitda": 19.259,
+    "fcf_yield": 0.03414177521320379,
+    "roe": -0.07516,
+    "gross_margin": 0.34585,
+    "op_margin": 0.15113,
+    "rev_growth": -0.027,
+    "debt_to_equity": 105.047
+  },
+  "market_stats": {
+    "ticker": "CRL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0828,
+    "short_ratio": 4.03,
+    "putcall_oi_ratio": 0.6981351981351981,
+    "avg_volume": 913159.0,
+    "beta": 1.376
+  },
+  "momentum": {
+    "ticker": "CRL",
+    "asof": "2026-08-12",
+    "ret_1m": 23.85709389800905,
+    "ret_3m": 69.76109489159377,
+    "ret_6m": 58.005951466376814,
+    "ret_12m": 92.28497226922681,
+    "rsi14": 83.11674216092342,
+    "pct_vs_200dma": 50.31926228661205,
+    "score": 87.0,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 83.11674216092342, \"vs_200dma\": 100.0, \"short_squeeze\": 41.4, \"options_skew\": 53.48438228438229}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "DAR",
+  "stock": {
+    "ticker": "DAR",
+    "name": "Darling Ingredients Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 1.04,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.95,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DAR",
+    "asof": "2026-08-12",
+    "market_cap": 9903710208.0,
+    "pe": 16.870968,
+    "forward_pe": 10.905489,
+    "ev_ebitda": 12.342,
+    "fcf_yield": 0.022177850864676673,
+    "roe": 0.12126,
+    "gross_margin": 0.26333,
+    "op_margin": 0.12892,
+    "rev_growth": 0.164,
+    "debt_to_equity": 78.609
+  },
+  "market_stats": {
+    "ticker": "DAR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0431,
+    "short_ratio": 2.87,
+    "putcall_oi_ratio": 0.5106117353308365,
+    "avg_volume": 2276403.0,
+    "beta": 1.019
+  },
+  "momentum": {
+    "ticker": "DAR",
+    "asof": "2026-08-12",
+    "ret_1m": 1.520295324068477,
+    "ret_3m": -1.087296937698523,
+    "ret_6m": 28.94412502928807,
+    "ret_12m": 111.06254519451078,
+    "rsi14": 48.39694490513058,
+    "pct_vs_200dma": 23.5712636180438,
+    "score": 80.3,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 48.39694490513058, \"vs_200dma\": 97.1425272360876, \"short_squeeze\": 21.549999999999997, \"options_skew\": 65.9921972534332}",
+    "thesis": null
+  }
+}

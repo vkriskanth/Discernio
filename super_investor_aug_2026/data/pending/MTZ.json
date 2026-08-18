@@ -1,0 +1,55 @@
+{
+  "ticker": "MTZ",
+  "stock": {
+    "ticker": "MTZ",
+    "name": "MasTec, Inc.",
+    "sector": "Industrials",
+    "industry": "Engineering & Construction"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 3.93,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MTZ",
+    "asof": "2026-08-12",
+    "market_cap": 22720274432.0,
+    "pe": 45.123604,
+    "forward_pe": 22.422974,
+    "ev_ebitda": 18.845,
+    "fcf_yield": -0.0025483352401084237,
+    "roe": 0.16176,
+    "gross_margin": 0.12913999,
+    "op_margin": 0.05424,
+    "rev_growth": 0.234,
+    "debt_to_equity": 89.874
+  },
+  "market_stats": {
+    "ticker": "MTZ",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0698,
+    "short_ratio": 3.24,
+    "putcall_oi_ratio": 1.7841796875,
+    "avg_volume": 1310703.0,
+    "beta": 1.837
+  },
+  "momentum": {
+    "ticker": "MTZ",
+    "asof": "2026-08-12",
+    "ret_1m": -22.769105311721884,
+    "ret_3m": -32.912203328543555,
+    "ret_6m": 7.8732872026290535,
+    "ret_12m": 57.47235846377925,
+    "rsi14": 33.06014298018138,
+    "pct_vs_200dma": -5.902979643434037,
+    "score": 44.2,
+    "components_json": "{\"trend\": 65.47726854773735, \"rsi\": 33.06014298018138, \"vs_200dma\": 38.194040713131926, \"short_squeeze\": 34.900000000000006, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

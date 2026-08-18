@@ -1,0 +1,95 @@
+{
+  "ticker": "ACN",
+  "stock": {
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GA",
+      "manager_name": "Greenhaven Associates",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 4.86,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 3.1,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 113.75,
+      "pct_of_portfolio": 1.0,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.77,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "WIM",
+      "manager_name": "Wallace Weitz - Weitz Investment Management",
+      "action": "add",
+      "share_change_pct": 6.09,
+      "pct_of_portfolio": 0.14,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 3.8,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ACN",
+    "asof": "2026-08-08",
+    "market_cap": 107530461184.0,
+    "pe": 14.046363,
+    "forward_pe": 11.967272,
+    "ev_ebitda": 8.295,
+    "fcf_yield": 0.11242749943491212,
+    "roe": 0.24406,
+    "gross_margin": 0.32013,
+    "op_margin": 0.16964,
+    "rev_growth": 0.056,
+    "debt_to_equity": 25.035
+  },
+  "market_stats": {
+    "ticker": "ACN",
+    "asof": "2026-08-08",
+    "short_pct_float": 0.0612,
+    "short_ratio": 2.55,
+    "putcall_oi_ratio": 1.237473579510133,
+    "avg_volume": 8660545.0,
+    "beta": 1.074
+  },
+  "momentum": {
+    "ticker": "ACN",
+    "asof": "2026-08-08",
+    "ret_1m": 26.362724223882196,
+    "ret_3m": -1.3081231672006588,
+    "ret_6m": -23.220750744091568,
+    "ret_12m": -27.55070308806381,
+    "rsi14": 74.57573671148305,
+    "pct_vs_200dma": -14.63381559989061,
+    "score": 33.8,
+    "components_json": "{\"trend\": 31.621056591386807, \"rsi\": 74.57573671148305, \"vs_200dma\": 20.73236880021878, \"short_squeeze\": 30.6, \"options_skew\": 17.51051224667413}",
+    "thesis": null
+  }
+}

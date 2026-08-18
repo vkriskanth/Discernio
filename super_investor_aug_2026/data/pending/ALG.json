@@ -1,0 +1,55 @@
+{
+  "ticker": "ALG",
+  "stock": {
+    "ticker": "ALG",
+    "name": "Alamo Group, Inc.",
+    "sector": "Industrials",
+    "industry": "Farm & Heavy Construction Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TA",
+      "manager_name": "Third Avenue Management",
+      "action": "add",
+      "share_change_pct": 43.0,
+      "pct_of_portfolio": 0.28,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ALG",
+    "asof": "2026-08-12",
+    "market_cap": 2043504896.0,
+    "pe": 20.011917,
+    "forward_pe": 13.789422,
+    "ev_ebitda": 10.482,
+    "fcf_yield": 0.04470004068930795,
+    "roe": 0.08771,
+    "gross_margin": 0.24215001,
+    "op_margin": 0.10153,
+    "rev_growth": 0.076,
+    "debt_to_equity": 23.471
+  },
+  "market_stats": {
+    "ticker": "ALG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0585,
+    "short_ratio": 3.86,
+    "putcall_oi_ratio": 0.42857142857142855,
+    "avg_volume": 164569.0,
+    "beta": 1.091
+  },
+  "momentum": {
+    "ticker": "ALG",
+    "asof": "2026-08-12",
+    "ret_1m": 1.9892292478098206,
+    "ret_3m": -0.49607491761678446,
+    "ret_6m": -18.251671847393737,
+    "ret_12m": -26.030981015331157,
+    "rsi14": 56.23415297366296,
+    "pct_vs_200dma": -4.0490365025389385,
+    "score": 42.6,
+    "components_json": "{\"trend\": 33.96328356436438, \"rsi\": 56.23415297366296, \"vs_200dma\": 41.90192699492212, \"short_squeeze\": 29.250000000000004, \"options_skew\": 71.46428571428571}",
+    "thesis": null
+  }
+}

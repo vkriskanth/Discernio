@@ -1,0 +1,55 @@
+{
+  "ticker": "TPB",
+  "stock": {
+    "ticker": "TPB",
+    "name": "Turning Point Brands, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Tobacco"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 79.16,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TPB",
+    "asof": "2026-08-12",
+    "market_cap": 1753077760.0,
+    "pe": 38.017395,
+    "forward_pe": 36.132233,
+    "ev_ebitda": 20.948,
+    "fcf_yield": -0.00027836757224049204,
+    "roe": 0.17572,
+    "gross_margin": 0.59161,
+    "op_margin": 0.12776,
+    "rev_growth": 0.226,
+    "debt_to_equity": 68.426
+  },
+  "market_stats": {
+    "ticker": "TPB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1355,
+    "short_ratio": 7.73,
+    "putcall_oi_ratio": 17.914893617021278,
+    "avg_volume": 418333.0,
+    "beta": 0.933
+  },
+  "momentum": {
+    "ticker": "TPB",
+    "asof": "2026-08-12",
+    "ret_1m": -0.68711338553612,
+    "ret_3m": -2.9782556709844976,
+    "ret_6m": -30.047868446727744,
+    "ret_12m": -5.330319521986127,
+    "rsi14": 59.718067558454024,
+    "pct_vs_200dma": -8.685330256233048,
+    "score": 39.1,
+    "components_json": "{\"trend\": 37.96003495589188, \"rsi\": 59.718067558454024, \"vs_200dma\": 32.629339487533905, \"short_squeeze\": 67.75, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

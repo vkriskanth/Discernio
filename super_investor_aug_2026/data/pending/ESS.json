@@ -1,0 +1,63 @@
+{
+  "ticker": "ESS",
+  "stock": {
+    "ticker": "ESS",
+    "name": "Essex Property Trust, Inc.",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 70.04,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.51,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ESS",
+    "asof": "2026-08-12",
+    "market_cap": 19312238592.0,
+    "pe": 43.70671,
+    "forward_pe": 45.32915,
+    "ev_ebitda": 20.336,
+    "fcf_yield": 0.05405518966778101,
+    "roe": 0.0771,
+    "gross_margin": 0.68771005,
+    "op_margin": 0.33975,
+    "rev_growth": 0.031,
+    "debt_to_equity": 122.409
+  },
+  "market_stats": {
+    "ticker": "ESS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.055,
+    "short_ratio": 4.45,
+    "putcall_oi_ratio": 5.794117647058823,
+    "avg_volume": 487743.0,
+    "beta": 0.708
+  },
+  "momentum": {
+    "ticker": "ESS",
+    "asof": "2026-08-12",
+    "ret_1m": -3.393791236783783,
+    "ret_3m": 6.116297745109622,
+    "ret_6m": 14.034247376258978,
+    "ret_12m": 14.903535136316592,
+    "rsi14": 35.58507846725912,
+    "pct_vs_200dma": 8.112289130137839,
+    "score": 49.4,
+    "components_json": "{\"trend\": 62.00657759093722, \"rsi\": 35.58507846725912, \"vs_200dma\": 66.22457826027568, \"short_squeeze\": 27.5, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

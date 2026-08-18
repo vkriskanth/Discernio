@@ -1,0 +1,63 @@
+{
+  "ticker": "LEGH",
+  "stock": {
+    "ticker": "LEGH",
+    "name": "Legacy Housing Corporation",
+    "sector": "Consumer Cyclical",
+    "industry": "Residential Construction"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 301.69,
+      "pct_of_portfolio": 0.14,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 6.85,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LEGH",
+    "asof": "2026-08-12",
+    "market_cap": 682175168.0,
+    "pe": 13.34186,
+    "forward_pe": 12.863229,
+    "ev_ebitda": 10.791,
+    "fcf_yield": 0.02398614134251219,
+    "roe": 0.095340006,
+    "gross_margin": 0.49159,
+    "op_margin": 0.39878,
+    "rev_growth": 0.323,
+    "debt_to_equity": 0.197
+  },
+  "market_stats": {
+    "ticker": "LEGH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0794,
+    "short_ratio": 8.18,
+    "putcall_oi_ratio": null,
+    "avg_volume": 106603.0,
+    "beta": 0.768
+  },
+  "momentum": {
+    "ticker": "LEGH",
+    "asof": "2026-08-12",
+    "ret_1m": 9.266997877431727,
+    "ret_3m": 33.37969802877241,
+    "ret_6m": 35.83569425508042,
+    "ret_12m": 21.5462626321556,
+    "rsi14": 69.27998701172667,
+    "pct_vs_200dma": 29.198707332147535,
+    "score": 76.1,
+    "components_json": "{\"trend\": 79.38312273801809, \"rsi\": 69.27998701172667, \"vs_200dma\": 100.0, \"short_squeeze\": 39.699999999999996, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

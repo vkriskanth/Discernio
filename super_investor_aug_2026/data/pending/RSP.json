@@ -1,0 +1,71 @@
+{
+  "ticker": "RSP",
+  "stock": {
+    "ticker": "RSP",
+    "name": "Invesco S&P 500 Equal Weight ET",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GC",
+      "manager_name": "Francois Rochon - Giverny Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RSP",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 22.479403,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "RSP",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 1.8142667499609557,
+    "avg_volume": 9648398.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "RSP",
+    "asof": "2026-08-12",
+    "ret_1m": 3.002798631337189,
+    "ret_3m": 8.569255741541614,
+    "ret_6m": 10.025969193830853,
+    "ret_12m": 22.788521542267315,
+    "rsi14": 72.68851895391016,
+    "pct_vs_200dma": 10.690348054468334,
+    "score": 54.6,
+    "components_json": "{\"trend\": 64.69397609751867, \"rsi\": 72.68851895391016, \"vs_200dma\": 71.38069610893666, \"short_squeeze\": 0.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

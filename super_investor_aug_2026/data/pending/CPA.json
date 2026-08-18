@@ -1,0 +1,63 @@
+{
+  "ticker": "CPA",
+  "stock": {
+    "ticker": "CPA",
+    "name": "Copa Holdings SA",
+    "sector": "Industrials",
+    "industry": "Airlines"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 51.9,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CPA",
+    "asof": "2026-08-12",
+    "market_cap": 5551582720.0,
+    "pe": 9.083446,
+    "forward_pe": 7.018288,
+    "ev_ebitda": 6.16,
+    "fcf_yield": -0.005640125632497105,
+    "roe": 0.23066999,
+    "gross_margin": 0.37655997,
+    "op_margin": 0.08653,
+    "rev_growth": 0.257,
+    "debt_to_equity": 89.274
+  },
+  "market_stats": {
+    "ticker": "CPA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0436,
+    "short_ratio": 4.47,
+    "putcall_oi_ratio": 1.093201754385965,
+    "avg_volume": 354200.0,
+    "beta": 0.991
+  },
+  "momentum": {
+    "ticker": "CPA",
+    "asof": "2026-08-12",
+    "ret_1m": -9.346850733127354,
+    "ret_3m": 11.907534673931774,
+    "ret_6m": -6.984620398340457,
+    "ret_12m": 27.47320388324499,
+    "rsi14": 46.3705080125243,
+    "pct_vs_200dma": 5.909854053314367,
+    "score": 52.3,
+    "components_json": "{\"trend\": 62.46615583597539, \"rsi\": 46.3705080125243, \"vs_200dma\": 61.81970810662874, \"short_squeeze\": 21.8, \"options_skew\": 27.133442982456142}",
+    "thesis": null
+  }
+}

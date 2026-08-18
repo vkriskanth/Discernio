@@ -1,0 +1,55 @@
+{
+  "ticker": "HOFT",
+  "stock": {
+    "ticker": "HOFT",
+    "name": "Hooker Furnishings Corporation",
+    "sector": "Consumer Cyclical",
+    "industry": "Furnishings, Fixtures & Appliances"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 11.89,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HOFT",
+    "asof": "2026-08-12",
+    "market_cap": 158439344.0,
+    "pe": null,
+    "forward_pe": 11.0074625,
+    "ev_ebitda": 26.774,
+    "fcf_yield": 0.21363064972043813,
+    "roe": -0.060310002,
+    "gross_margin": 0.27551,
+    "op_margin": 0.022720002,
+    "rev_growth": -0.024,
+    "debt_to_equity": 13.937
+  },
+  "market_stats": {
+    "ticker": "HOFT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0117,
+    "short_ratio": 1.63,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 67225.0,
+    "beta": 1.162
+  },
+  "momentum": {
+    "ticker": "HOFT",
+    "asof": "2026-08-12",
+    "ret_1m": -4.964077126399347,
+    "ret_3m": 14.004056740566995,
+    "ret_6m": -5.488404368992395,
+    "ret_12m": 63.473661043957755,
+    "rsi14": 58.03572295272004,
+    "pct_vs_200dma": 14.830220927048043,
+    "score": 65.4,
+    "components_json": "{\"trend\": 77.94416012905549, \"rsi\": 58.03572295272004, \"vs_200dma\": 79.66044185409609, \"short_squeeze\": 5.85, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

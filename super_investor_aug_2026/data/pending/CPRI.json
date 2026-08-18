@@ -1,0 +1,55 @@
+{
+  "ticker": "CPRI",
+  "stock": {
+    "ticker": "CPRI",
+    "name": "Capri Holdings Limited",
+    "sector": "Consumer Cyclical",
+    "industry": "Luxury Goods"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "add",
+      "share_change_pct": 3.4,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CPRI",
+    "asof": "2026-08-12",
+    "market_cap": 1739160960.0,
+    "pe": 19.423077,
+    "forward_pe": 5.9898944,
+    "ev_ebitda": 15.187,
+    "fcf_yield": 0.11075742638565209,
+    "roe": 1.4461501,
+    "gross_margin": 0.6271,
+    "op_margin": 0.026010001,
+    "rev_growth": -0.035,
+    "debt_to_equity": 973.427
+  },
+  "market_stats": {
+    "ticker": "CPRI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0713,
+    "short_ratio": 2.48,
+    "putcall_oi_ratio": 2.2399049881235156,
+    "avg_volume": 3553525.0,
+    "beta": 1.406
+  },
+  "momentum": {
+    "ticker": "CPRI",
+    "asof": "2026-08-12",
+    "ret_1m": -14.656523749497186,
+    "ret_3m": -17.441947565160852,
+    "ret_6m": -21.55515820472629,
+    "ret_12m": -25.959211477918775,
+    "rsi14": 44.84939925006926,
+    "pct_vs_200dma": -25.10805366856852,
+    "score": 21.5,
+    "components_json": "{\"trend\": 27.917183677866348, \"rsi\": 44.84939925006926, \"vs_200dma\": 0.0, \"short_squeeze\": 35.65, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

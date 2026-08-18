@@ -1,0 +1,151 @@
+{
+  "ticker": "UNH",
+  "stock": {
+    "ticker": "UNH",
+    "name": "UnitedHealth Group Incorporated",
+    "sector": "Healthcare",
+    "industry": "Healthcare Plans"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HH",
+      "manager_name": "Duan Yongping - H&H International Investment",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.81,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 18.69,
+      "pct_of_portfolio": 0.69,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.24,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 10.58,
+      "pct_of_portfolio": 0.17,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 21.68,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 2.18,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 3.2,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 1.96,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 11.51,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 0.14,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.54,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CCM",
+      "manager_name": "Glenn Greenberg - Brave Warrior Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "UNH",
+    "asof": "2026-08-15",
+    "market_cap": 360590770176.0,
+    "pe": 25.834726,
+    "forward_pe": 17.906046,
+    "ev_ebitda": 15.365,
+    "fcf_yield": 0.06731245746571109,
+    "roe": 0.14152999,
+    "gross_margin": 0.19723,
+    "op_margin": 0.071329996,
+    "rev_growth": 0.004,
+    "debt_to_equity": 69.211
+  },
+  "market_stats": {
+    "ticker": "UNH",
+    "asof": "2026-08-14",
+    "short_pct_float": 0.0188,
+    "short_ratio": 2.72,
+    "putcall_oi_ratio": 1.1894237066142763,
+    "avg_volume": 6081383.0,
+    "beta": 0.632
+  },
+  "momentum": {
+    "ticker": "UNH",
+    "asof": "2026-08-14",
+    "ret_1m": -4.936462198366998,
+    "ret_3m": 1.4254354764558608,
+    "ret_6m": 43.448897642574245,
+    "ret_12m": 52.039736907209466,
+    "rsi14": 39.86088291182516,
+    "pct_vs_200dma": 16.968907707353043,
+    "score": 63.7,
+    "components_json": "{\"trend\": 84.27819469859281, \"rsi\": 39.86088291182516, \"vs_200dma\": 83.93781541470608, \"short_squeeze\": 9.4, \"options_skew\": 20.71543876882777}",
+    "thesis": null
+  }
+}

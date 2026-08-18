@@ -1,0 +1,55 @@
+{
+  "ticker": "AMN",
+  "stock": {
+    "ticker": "AMN",
+    "name": "AMN Healthcare Services Inc",
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 33.39,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AMN",
+    "asof": "2026-08-12",
+    "market_cap": 1266083328.0,
+    "pe": 13.452674,
+    "forward_pe": 34.616035,
+    "ev_ebitda": 5.52,
+    "fcf_yield": 0.3520863233419025,
+    "roe": 0.15556,
+    "gross_margin": 0.27786,
+    "op_margin": 0.03997,
+    "rev_growth": 0.023,
+    "debt_to_equity": 104.658
+  },
+  "market_stats": {
+    "ticker": "AMN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1041,
+    "short_ratio": 4.42,
+    "putcall_oi_ratio": 0.10714285714285714,
+    "avg_volume": 973296.0,
+    "beta": 0.386
+  },
+  "momentum": {
+    "ticker": "AMN",
+    "asof": "2026-08-12",
+    "ret_1m": 2.47304615299766,
+    "ret_3m": 43.96435900429098,
+    "ret_6m": 55.01198610791569,
+    "ret_12m": 87.68873974204713,
+    "rsi14": 45.80908346661462,
+    "pct_vs_200dma": 42.633331503144525,
+    "score": 86.4,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 45.80908346661462, \"vs_200dma\": 100.0, \"short_squeeze\": 52.05, \"options_skew\": 92.90357142857142}",
+    "thesis": null
+  }
+}

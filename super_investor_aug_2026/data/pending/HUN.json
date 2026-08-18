@@ -1,0 +1,55 @@
+{
+  "ticker": "HUN",
+  "stock": {
+    "ticker": "HUN",
+    "name": "Huntsman Corporation",
+    "sector": "Basic Materials",
+    "industry": "Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 42.06,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HUN",
+    "asof": "2026-08-12",
+    "market_cap": 1789738880.0,
+    "pe": null,
+    "forward_pe": 48.66012,
+    "ev_ebitda": 15.028,
+    "fcf_yield": 0.08653497430865445,
+    "roe": -0.038399998,
+    "gross_margin": 0.13496,
+    "op_margin": 0.017439999,
+    "rev_growth": 0.141,
+    "debt_to_equity": 85.388
+  },
+  "market_stats": {
+    "ticker": "HUN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0987,
+    "short_ratio": 3.66,
+    "putcall_oi_ratio": 3.7484848484848485,
+    "avg_volume": 5583846.0,
+    "beta": 0.713
+  },
+  "momentum": {
+    "ticker": "HUN",
+    "asof": "2026-08-12",
+    "ret_1m": -14.441648102980809,
+    "ret_3m": -28.739285622107346,
+    "ret_6m": -24.13067941206293,
+    "ret_12m": 17.535992065844862,
+    "rsi14": 27.721078119237205,
+    "pct_vs_200dma": -13.284098067081995,
+    "score": 31.4,
+    "components_json": "{\"trend\": 41.15340731608686, \"rsi\": 27.721078119237205, \"vs_200dma\": 23.43180386583601, \"short_squeeze\": 49.349999999999994, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

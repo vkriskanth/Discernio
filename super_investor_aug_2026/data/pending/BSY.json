@@ -1,0 +1,55 @@
+{
+  "ticker": "BSY",
+  "stock": {
+    "ticker": "BSY",
+    "name": "Bentley Systems, Incorporated",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 184.58,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BSY",
+    "asof": "2026-08-12",
+    "market_cap": 10712213504.0,
+    "pe": 39.4,
+    "forward_pe": 22.575346,
+    "ev_ebitda": 26.441,
+    "fcf_yield": 0.03715194958085854,
+    "roe": 0.24517,
+    "gross_margin": 0.81845003,
+    "op_margin": 0.25,
+    "rev_growth": 0.128,
+    "debt_to_equity": 105.442
+  },
+  "market_stats": {
+    "ticker": "BSY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.093,
+    "short_ratio": 6.79,
+    "putcall_oi_ratio": 0.59375,
+    "avg_volume": 3102414.0,
+    "beta": 0.978
+  },
+  "momentum": {
+    "ticker": "BSY",
+    "asof": "2026-08-12",
+    "ret_1m": 15.698238705878321,
+    "ret_3m": 10.534849176903126,
+    "ret_6m": 4.010053482058518,
+    "ret_12m": -31.427719947936083,
+    "rsi14": 75.56130468533946,
+    "pct_vs_200dma": -0.87490411209733,
+    "score": 50.8,
+    "components_json": "{\"trend\": 41.79238281851406, \"rsi\": 75.56130468533946, \"vs_200dma\": 48.25019177580534, \"short_squeeze\": 46.5, \"options_skew\": 60.446875000000006}",
+    "thesis": null
+  }
+}

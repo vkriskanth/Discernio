@@ -1,0 +1,63 @@
+{
+  "ticker": "VIST",
+  "stock": {
+    "ticker": "VIST",
+    "name": "Vista Energy S.A.B. de C.V.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.21,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 163.94,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VIST",
+    "asof": "2026-08-12",
+    "market_cap": 7299509760.0,
+    "pe": 8.663157,
+    "forward_pe": 6.308792,
+    "ev_ebitda": 4.985,
+    "fcf_yield": 0.01687361645503163,
+    "roe": 0.29795,
+    "gross_margin": 0.82515,
+    "op_margin": 0.44244,
+    "rev_growth": 1.023,
+    "debt_to_equity": 106.502
+  },
+  "market_stats": {
+    "ticker": "VIST",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0295,
+    "short_ratio": 2.7,
+    "putcall_oi_ratio": 0.3843612334801762,
+    "avg_volume": 908069.0,
+    "beta": -0.459
+  },
+  "momentum": {
+    "ticker": "VIST",
+    "asof": "2026-08-12",
+    "ret_1m": 1.1334171293769124,
+    "ret_3m": -4.04878804070361,
+    "ret_6m": 18.981563889352614,
+    "ret_12m": 54.700946208242506,
+    "rsi14": 44.993221762589975,
+    "pct_vs_200dma": 9.221020491490052,
+    "score": 63.3,
+    "components_json": "{\"trend\": 76.3602112378917, \"rsi\": 44.993221762589975, \"vs_200dma\": 68.4420409829801, \"short_squeeze\": 14.749999999999998, \"options_skew\": 74.41310572687225}",
+    "thesis": null
+  }
+}

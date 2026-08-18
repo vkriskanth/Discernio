@@ -1,0 +1,79 @@
+{
+  "ticker": "WBD",
+  "stock": {
+    "ticker": "WBD",
+    "name": "Warner Bros. Discovery, Inc. - ",
+    "sector": "Communication Services",
+    "industry": "Entertainment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "tp",
+      "manager_name": "Daniel Loeb - Third Point",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 11.68,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.53,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FFH",
+      "manager_name": "Prem Watsa - Fairfax Financial Holdings",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FFH",
+      "manager_name": "Prem Watsa - Fairfax Financial Holdings",
+      "action": "add",
+      "share_change_pct": 41.45,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WBD",
+    "asof": "2026-08-15",
+    "market_cap": 70174760960.0,
+    "pe": null,
+    "forward_pe": 273.82117,
+    "ev_ebitda": 12.76,
+    "fcf_yield": 0.2303873162776499,
+    "roe": -0.08786,
+    "gross_margin": 0.47811002,
+    "op_margin": 0.05105,
+    "rev_growth": -0.112,
+    "debt_to_equity": 94.199
+  },
+  "market_stats": {
+    "ticker": "WBD",
+    "asof": "2026-08-14",
+    "short_pct_float": 0.028800001,
+    "short_ratio": 3.16,
+    "putcall_oi_ratio": 0.4344705517943272,
+    "avg_volume": 22583524.0,
+    "beta": 1.565
+  },
+  "momentum": {
+    "ticker": "WBD",
+    "asof": "2026-08-14",
+    "ret_1m": 2.0886759827842383,
+    "ret_3m": 2.7286126409245437,
+    "ret_6m": -0.8893631966266691,
+    "ret_12m": 131.2033209076035,
+    "rsi14": 82.74114304497328,
+    "pct_vs_200dma": 3.832796338008637,
+    "score": 75.4,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 82.74114304497328, \"vs_200dma\": 57.665592676017276, \"short_squeeze\": 14.400000499999999, \"options_skew\": 71.07081419531838}",
+    "thesis": null
+  }
+}

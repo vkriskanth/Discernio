@@ -1,0 +1,55 @@
+{
+  "ticker": "GWRE",
+  "stock": {
+    "ticker": "GWRE",
+    "name": "Guidewire Software Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "OCL",
+      "manager_name": "Bryan Lawrence - Oakcliff Capital",
+      "action": "add",
+      "share_change_pct": 73.33,
+      "pct_of_portfolio": 4.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GWRE",
+    "asof": "2026-08-12",
+    "market_cap": 14411677696.0,
+    "pe": 93.567566,
+    "forward_pe": 42.44707,
+    "ev_ebitda": 111.919,
+    "fcf_yield": 0.019647555681778135,
+    "roe": 0.1193,
+    "gross_margin": 0.64011,
+    "op_margin": 0.08224,
+    "rev_growth": 0.269,
+    "debt_to_equity": 53.467
+  },
+  "market_stats": {
+    "ticker": "GWRE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0682,
+    "short_ratio": 3.9,
+    "putcall_oi_ratio": 0.84,
+    "avg_volume": 1681677.0,
+    "beta": 0.925
+  },
+  "momentum": {
+    "ticker": "GWRE",
+    "asof": "2026-08-12",
+    "ret_1m": 27.05868664794917,
+    "ret_3m": 24.929577573448004,
+    "ret_6m": 34.92861615081906,
+    "ret_12m": -20.450258858350878,
+    "rsi14": 74.29747169293245,
+    "pct_vs_200dma": 7.079625642414156,
+    "score": 58.9,
+    "components_json": "{\"trend\": 59.77735457393977, \"rsi\": 74.29747169293245, \"vs_200dma\": 64.15925128482831, \"short_squeeze\": 34.099999999999994, \"options_skew\": 44.022000000000006}",
+    "thesis": null
+  }
+}

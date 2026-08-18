@@ -1,0 +1,71 @@
+{
+  "ticker": "BKNG",
+  "stock": {
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc. Common St",
+    "sector": "Consumer Cyclical",
+    "industry": "Travel Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 36.26,
+      "pct_of_portfolio": 0.61,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AKO",
+      "manager_name": "AKO Capital",
+      "action": "add",
+      "share_change_pct": 16.64,
+      "pct_of_portfolio": 0.59,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DA",
+      "manager_name": "Pat Dorsey - Dorsey Asset Management",
+      "action": "add",
+      "share_change_pct": 0.78,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BKNG",
+    "asof": "2026-08-12",
+    "market_cap": 157789896704.0,
+    "pe": 23.333334,
+    "forward_pe": 16.96779,
+    "ev_ebitda": 15.717,
+    "fcf_yield": 0.048963053791036215,
+    "roe": null,
+    "gross_margin": 0.87227994,
+    "op_margin": 0.34412,
+    "rev_growth": 0.081,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "BKNG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.031600002,
+    "short_ratio": 3.84,
+    "putcall_oi_ratio": 0.7697791688402017,
+    "avg_volume": 7370811.0,
+    "beta": 1.068
+  },
+  "momentum": {
+    "ticker": "BKNG",
+    "asof": "2026-08-12",
+    "ret_1m": 21.120955897432324,
+    "ret_3m": 32.23243281249732,
+    "ret_6m": 24.264056376817166,
+    "ret_12m": -0.46562208457301413,
+    "rsi14": 81.71307955021226,
+    "pct_vs_200dma": 14.562028170450091,
+    "score": 65.2,
+    "components_json": "{\"trend\": 66.76269792296515, \"rsi\": 81.71307955021226, \"vs_200dma\": 79.12405634090018, \"short_squeeze\": 15.800001000000002, \"options_skew\": 48.705729438358546}",
+    "thesis": null
+  }
+}

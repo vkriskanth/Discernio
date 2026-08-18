@@ -1,0 +1,63 @@
+{
+  "ticker": "CCC",
+  "stock": {
+    "ticker": "CCC",
+    "name": "CCC Intelligent Solutions Holdi",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AC",
+      "manager_name": "Chuck Akre - Akre Capital Management",
+      "action": "add",
+      "share_change_pct": 26.88,
+      "pct_of_portfolio": 0.65,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TFP",
+      "manager_name": "Triple Frond Partners",
+      "action": "add",
+      "share_change_pct": 12.65,
+      "pct_of_portfolio": 0.38,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CCC",
+    "asof": "2026-08-12",
+    "market_cap": 3937429504.0,
+    "pe": 95.5,
+    "forward_pe": 12.759094,
+    "ev_ebitda": 16.721,
+    "fcf_yield": 0.07367442939747931,
+    "roe": 0.02167,
+    "gross_margin": 0.75095004,
+    "op_margin": 0.16659,
+    "rev_growth": 0.098,
+    "debt_to_equity": 77.826
+  },
+  "market_stats": {
+    "ticker": "CCC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0937,
+    "short_ratio": 4.89,
+    "putcall_oi_ratio": 0.19783325482807348,
+    "avg_volume": 10371496.0,
+    "beta": 0.454
+  },
+  "momentum": {
+    "ticker": "CCC",
+    "asof": "2026-08-12",
+    "ret_1m": 15.52533439010757,
+    "ret_3m": 33.31578423909154,
+    "ret_6m": 18.323523110390518,
+    "ret_12m": -29.56642783558262,
+    "rsi14": 86.70330762785281,
+    "pct_vs_200dma": 8.579623976464902,
+    "score": 64.6,
+    "components_json": "{\"trend\": 53.665221070611565, \"rsi\": 86.70330762785281, \"vs_200dma\": 67.1592479529298, \"short_squeeze\": 46.85000000000001, \"options_skew\": 86.8545219029675}",
+    "thesis": null
+  }
+}

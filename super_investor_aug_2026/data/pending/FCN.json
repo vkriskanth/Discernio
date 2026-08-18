@@ -1,0 +1,55 @@
+{
+  "ticker": "FCN",
+  "stock": {
+    "ticker": "FCN",
+    "name": "FTI Consulting, Inc.",
+    "sector": "Industrials",
+    "industry": "Consulting Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 4.38,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FCN",
+    "asof": "2026-08-12",
+    "market_cap": 4125997568.0,
+    "pe": 18.112726,
+    "forward_pe": 13.667382,
+    "ev_ebitda": 11.894,
+    "fcf_yield": 0.07022328908944234,
+    "roe": 0.15634,
+    "gross_margin": 0.31824,
+    "op_margin": 0.092250004,
+    "rev_growth": 0.053,
+    "debt_to_equity": 95.02
+  },
+  "market_stats": {
+    "ticker": "FCN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1388,
+    "short_ratio": 6.41,
+    "putcall_oi_ratio": 3.1724137931034484,
+    "avg_volume": 504914.0,
+    "beta": -0.049
+  },
+  "momentum": {
+    "ticker": "FCN",
+    "asof": "2026-08-12",
+    "ret_1m": -2.6553822475551714,
+    "ret_3m": -6.9076351640171225,
+    "ret_6m": -15.067641852984748,
+    "ret_12m": -10.326155018649374,
+    "rsi14": 37.882122631511386,
+    "pct_vs_200dma": -9.098396559611043,
+    "score": 36.3,
+    "components_json": "{\"trend\": 39.276954887439686, \"rsi\": 37.882122631511386, \"vs_200dma\": 31.803206880777914, \"short_squeeze\": 69.4, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

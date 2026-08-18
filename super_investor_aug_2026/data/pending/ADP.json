@@ -1,0 +1,79 @@
+{
+  "ticker": "ADP",
+  "stock": {
+    "ticker": "ADP",
+    "name": "Automatic Data Processing, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GC",
+      "manager_name": "Francois Rochon - Giverny Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 3.12,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 81.56,
+      "pct_of_portfolio": 0.87,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 312.04,
+      "pct_of_portfolio": 0.77,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 12.33,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ADP",
+    "asof": "2026-08-12",
+    "market_cap": 106081075200.0,
+    "pe": 24.633764,
+    "forward_pe": 19.929932,
+    "ev_ebitda": 16.998,
+    "fcf_yield": 0.04942493252557078,
+    "roe": 0.72239,
+    "gross_margin": 0.48653,
+    "op_margin": 0.23459,
+    "rev_growth": 0.068,
+    "debt_to_equity": 91.436
+  },
+  "market_stats": {
+    "ticker": "ADP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.037,
+    "short_ratio": 5.32,
+    "putcall_oi_ratio": 1.8132105056840455,
+    "avg_volume": 2703980.0,
+    "beta": 0.823
+  },
+  "momentum": {
+    "ticker": "ADP",
+    "asof": "2026-08-12",
+    "ret_1m": 11.028442516744018,
+    "ret_3m": 27.060028188130868,
+    "ret_6m": 17.94345605669121,
+    "ret_12m": -9.036749050653746,
+    "rsi14": 71.31963785658454,
+    "pct_vs_200dma": 15.219988187375066,
+    "score": 56.6,
+    "components_json": "{\"trend\": 59.886345653185124, \"rsi\": 71.31963785658454, \"vs_200dma\": 80.43997637475013, \"short_squeeze\": 18.5, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

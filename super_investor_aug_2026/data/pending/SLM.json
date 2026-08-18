@@ -1,0 +1,71 @@
+{
+  "ticker": "SLM",
+  "stock": {
+    "ticker": "SLM",
+    "name": "SLM Corporation",
+    "sector": "Financial Services",
+    "industry": "Credit Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SAM",
+      "manager_name": "Michael Burry - Scion Asset Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 24.16,
+      "quarter": "Q3 2025"
+    },
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.41,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CCM",
+      "manager_name": "Glenn Greenberg - Brave Warrior Advisors",
+      "action": "add",
+      "share_change_pct": 5.86,
+      "pct_of_portfolio": 0.4,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SLM",
+    "asof": "2026-08-12",
+    "market_cap": 5204780032.0,
+    "pe": 7.711699,
+    "forward_pe": 8.233677,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.30333,
+    "gross_margin": 1.0,
+    "op_margin": 0.29211,
+    "rev_growth": 0.081,
+    "debt_to_equity": 236.158
+  },
+  "market_stats": {
+    "ticker": "SLM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.124,
+    "short_ratio": 6.36,
+    "putcall_oi_ratio": 0.06350869838608258,
+    "avg_volume": 2775956.0,
+    "beta": 0.972
+  },
+  "momentum": {
+    "ticker": "SLM",
+    "asof": "2026-08-12",
+    "ret_1m": 11.96927232758702,
+    "ret_3m": 22.93692146536561,
+    "ret_6m": 4.24955117328305,
+    "ret_12m": -11.168716435562088,
+    "rsi14": 68.09816291915593,
+    "pct_vs_200dma": 13.529849568717633,
+    "score": 66.7,
+    "components_json": "{\"trend\": 53.688455217369764, \"rsi\": 68.09816291915593, \"vs_200dma\": 77.05969913743527, \"short_squeeze\": 62.0, \"options_skew\": 95.81396981764829}",
+    "thesis": null
+  }
+}

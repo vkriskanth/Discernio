@@ -1,0 +1,71 @@
+{
+  "ticker": "GEHC",
+  "stock": {
+    "ticker": "GEHC",
+    "name": "GE HealthCare Technologies Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "add",
+      "share_change_pct": 17.18,
+      "pct_of_portfolio": 0.42,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 347.27,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 0.32,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GEHC",
+    "asof": "2026-08-12",
+    "market_cap": 32401713152.0,
+    "pe": 16.528801,
+    "forward_pe": 13.259165,
+    "ev_ebitda": 11.568,
+    "fcf_yield": 0.048550673373975554,
+    "roe": 0.19376,
+    "gross_margin": 0.39528,
+    "op_margin": 0.14976,
+    "rev_growth": 0.058,
+    "debt_to_equity": 93.965
+  },
+  "market_stats": {
+    "ticker": "GEHC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.048699997,
+    "short_ratio": 3.27,
+    "putcall_oi_ratio": 0.3920743856541953,
+    "avg_volume": 5126545.0,
+    "beta": 0.817
+  },
+  "momentum": {
+    "ticker": "GEHC",
+    "asof": "2026-08-12",
+    "ret_1m": 17.768407801780196,
+    "ret_3m": 16.577296315564038,
+    "ret_6m": -8.29168922205249,
+    "ret_12m": -0.3929810012062718,
+    "rsi14": 74.24653716451604,
+    "pct_vs_200dma": -0.4198993884224733,
+    "score": 54.2,
+    "components_json": "{\"trend\": 52.328489727570954, \"rsi\": 74.24653716451604, \"vs_200dma\": 49.160201223155056, \"short_squeeze\": 24.3499985, \"options_skew\": 73.89863847686517}",
+    "thesis": null
+  }
+}

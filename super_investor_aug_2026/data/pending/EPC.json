@@ -1,0 +1,55 @@
+{
+  "ticker": "EPC",
+  "stock": {
+    "ticker": "EPC",
+    "name": "Edgewell Personal Care Company",
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EPC",
+    "asof": "2026-08-12",
+    "market_cap": 1301781504.0,
+    "pe": null,
+    "forward_pe": 14.034643,
+    "ev_ebitda": 8.358,
+    "fcf_yield": 0.18579346476872358,
+    "roe": -0.012949999,
+    "gross_margin": 0.40952998,
+    "op_margin": 0.08805,
+    "rev_growth": 0.017,
+    "debt_to_equity": 87.622
+  },
+  "market_stats": {
+    "ticker": "EPC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.103999995,
+    "short_ratio": 6.72,
+    "putcall_oi_ratio": 15.666666666666666,
+    "avg_volume": 917732.0,
+    "beta": 0.395
+  },
+  "momentum": {
+    "ticker": "EPC",
+    "asof": "2026-08-12",
+    "ret_1m": 4.225864536143242,
+    "ret_3m": 49.55125292051008,
+    "ret_6m": 41.58471756313007,
+    "ret_12m": 33.668302839190936,
+    "rsi14": 63.67521704246243,
+    "pct_vs_200dma": 36.69995754808093,
+    "score": 76.1,
+    "components_json": "{\"trend\": 90.80811228076843, \"rsi\": 63.67521704246243, \"vs_200dma\": 100.0, \"short_squeeze\": 51.9999975, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

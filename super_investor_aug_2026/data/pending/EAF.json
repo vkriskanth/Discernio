@@ -1,0 +1,63 @@
+{
+  "ticker": "EAF",
+  "stock": {
+    "ticker": "EAF",
+    "name": "GrafTech International Ltd.",
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 6.9,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 7.67,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EAF",
+    "asof": "2026-08-12",
+    "market_cap": 196474000.0,
+    "pe": null,
+    "forward_pe": -1.7511628,
+    "ev_ebitda": -52.764,
+    "fcf_yield": -0.22137280250821992,
+    "roe": null,
+    "gross_margin": -0.0574,
+    "op_margin": -0.11445,
+    "rev_growth": -0.034,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "EAF",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0496,
+    "short_ratio": 2.97,
+    "putcall_oi_ratio": 0.4296875,
+    "avg_volume": 333422.0,
+    "beta": 1.848
+  },
+  "momentum": {
+    "ticker": "EAF",
+    "asof": "2026-08-12",
+    "ret_1m": 15.70996948386194,
+    "ret_3m": -16.557738640887397,
+    "ret_6m": 5.947438827167906,
+    "ret_12m": -35.08474810511786,
+    "rsi14": 56.51162623069711,
+    "pct_vs_200dma": -25.615903664211757,
+    "score": 31.2,
+    "components_json": "{\"trend\": 32.78301081383701, \"rsi\": 56.51162623069711, \"vs_200dma\": 0.0, \"short_squeeze\": 24.8, \"options_skew\": 71.38984375}",
+    "thesis": null
+  }
+}

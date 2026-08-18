@@ -1,0 +1,79 @@
+{
+  "ticker": "PYPL",
+  "stock": {
+    "ticker": "PYPL",
+    "name": "PayPal Holdings Inc.",
+    "sector": "Financial Services",
+    "industry": "Credit Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "ca",
+      "manager_name": "Francis Chou - Chou Associates",
+      "action": "add",
+      "share_change_pct": 308.29,
+      "pct_of_portfolio": 2.75,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.38,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.9,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 1.16,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PYPL",
+    "asof": "2026-08-12",
+    "market_cap": 49997410304.0,
+    "pe": 11.048204,
+    "forward_pe": 10.089318,
+    "ev_ebitda": 8.277,
+    "fcf_yield": 0.08846708189696241,
+    "roe": 0.24497,
+    "gross_margin": 0.40477002,
+    "op_margin": 0.16966,
+    "rev_growth": 0.048,
+    "debt_to_equity": 71.751
+  },
+  "market_stats": {
+    "ticker": "PYPL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0523,
+    "short_ratio": 2.12,
+    "putcall_oi_ratio": 0.5444672953451043,
+    "avg_volume": 16253337.0,
+    "beta": 1.298
+  },
+  "momentum": {
+    "ticker": "PYPL",
+    "asof": "2026-08-12",
+    "ret_1m": 23.348114044069625,
+    "ret_3m": 29.01102581168238,
+    "ret_6m": 41.721132242470496,
+    "ret_12m": -12.140680234461708,
+    "rsi14": 63.82252589350269,
+    "pct_vs_200dma": 13.407232612419184,
+    "score": 64.3,
+    "components_json": "{\"trend\": 66.36337532246118, \"rsi\": 63.82252589350269, \"vs_200dma\": 76.81446522483837, \"short_squeeze\": 26.15, \"options_skew\": 63.73403140048155}",
+    "thesis": null
+  }
+}

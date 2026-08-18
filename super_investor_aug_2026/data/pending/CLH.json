@@ -1,0 +1,63 @@
+{
+  "ticker": "CLH",
+  "stock": {
+    "ticker": "CLH",
+    "name": "Clean Harbors, Inc.",
+    "sector": "Industrials",
+    "industry": "Waste Management"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "add",
+      "share_change_pct": 27.34,
+      "pct_of_portfolio": 0.86,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "add",
+      "share_change_pct": 25.9,
+      "pct_of_portfolio": 0.64,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CLH",
+    "asof": "2026-08-12",
+    "market_cap": 16697134080.0,
+    "pe": 38.294186,
+    "forward_pe": 31.829039,
+    "ev_ebitda": 16.025,
+    "fcf_yield": 0.02298346615421082,
+    "roe": 0.15562001,
+    "gross_margin": 0.32257,
+    "op_margin": 0.15498,
+    "rev_growth": 0.119,
+    "debt_to_equity": 110.951
+  },
+  "market_stats": {
+    "ticker": "CLH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.026199998,
+    "short_ratio": 2.71,
+    "putcall_oi_ratio": 0.3314285714285714,
+    "avg_volume": 488867.0,
+    "beta": 0.856
+  },
+  "momentum": {
+    "ticker": "CLH",
+    "asof": "2026-08-12",
+    "ret_1m": 4.1243632295789645,
+    "ret_3m": 7.205335854996675,
+    "ret_6m": 18.56190695691464,
+    "ret_12m": 33.48985937656857,
+    "rsi14": 59.70122997929467,
+    "pct_vs_200dma": 15.972843607756172,
+    "score": 67.0,
+    "components_json": "{\"trend\": 71.12611659420082, \"rsi\": 59.70122997929467, \"vs_200dma\": 81.94568721551235, \"short_squeeze\": 13.099999, \"options_skew\": 77.9437142857143}",
+    "thesis": null
+  }
+}

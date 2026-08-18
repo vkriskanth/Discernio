@@ -1,0 +1,79 @@
+{
+  "ticker": "NOW",
+  "stock": {
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AC",
+      "manager_name": "Chuck Akre - Akre Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.87,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VVP",
+      "manager_name": "Vulcan Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.48,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.25,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VVP",
+      "manager_name": "Vulcan Value Partners",
+      "action": "add",
+      "share_change_pct": 7.68,
+      "pct_of_portfolio": 0.12,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NOW",
+    "asof": "2026-08-12",
+    "market_cap": 127599247360.0,
+    "pe": 77.62264,
+    "forward_pe": 24.653479,
+    "ev_ebitda": 46.824,
+    "fcf_yield": 0.04035584129639807,
+    "roe": 0.14244,
+    "gross_margin": 0.74768996,
+    "op_margin": 0.04063,
+    "rev_growth": 0.24,
+    "debt_to_equity": 67.538
+  },
+  "market_stats": {
+    "ticker": "NOW",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0356,
+    "short_ratio": 1.53,
+    "putcall_oi_ratio": 0.9231970654401124,
+    "avg_volume": 27579990.0,
+    "beta": 0.93
+  },
+  "momentum": {
+    "ticker": "NOW",
+    "asof": "2026-08-12",
+    "ret_1m": 18.23557751534084,
+    "ret_3m": 39.29213620303722,
+    "ret_6m": 16.425617310642803,
+    "ret_12m": -27.618903208511515,
+    "rsi14": 80.56881003287964,
+    "pct_vs_200dma": 1.2617086430614766,
+    "score": 53.1,
+    "components_json": "{\"trend\": 55.6677647706994, \"rsi\": 80.56881003287964, \"vs_200dma\": 52.52341728612295, \"short_squeeze\": 17.8, \"options_skew\": 38.4727557351445}",
+    "thesis": null
+  }
+}

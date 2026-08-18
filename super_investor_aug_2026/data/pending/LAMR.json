@@ -1,0 +1,55 @@
+{
+  "ticker": "LAMR",
+  "stock": {
+    "ticker": "LAMR",
+    "name": "Lamar Advertising Company",
+    "sector": "Real Estate",
+    "industry": "REIT - Specialty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "add",
+      "share_change_pct": 0.17,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LAMR",
+    "asof": "2026-08-12",
+    "market_cap": 15645759488.0,
+    "pe": 28.166365,
+    "forward_pe": 23.776236,
+    "ev_ebitda": 19.405,
+    "fcf_yield": 0.03609114306231626,
+    "roe": 0.59433,
+    "gross_margin": 0.67430997,
+    "op_margin": 0.33283,
+    "rev_growth": 0.065,
+    "debt_to_equity": 500.114
+  },
+  "market_stats": {
+    "ticker": "LAMR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0854,
+    "short_ratio": 6.12,
+    "putcall_oi_ratio": 0.543026706231454,
+    "avg_volume": 651843.0,
+    "beta": 1.212
+  },
+  "momentum": {
+    "ticker": "LAMR",
+    "asof": "2026-08-12",
+    "ret_1m": -4.801228527662749,
+    "ret_3m": 3.2252265150597426,
+    "ret_6m": 20.461117289250573,
+    "ret_12m": 30.24454052786869,
+    "rsi14": 38.558753866157346,
+    "pct_vs_200dma": 13.883804575006087,
+    "score": 63.6,
+    "components_json": "{\"trend\": 69.20371935244057, \"rsi\": 38.558753866157346, \"vs_200dma\": 77.76760915001218, \"short_squeeze\": 42.7, \"options_skew\": 63.83011869436202}",
+    "thesis": null
+  }
+}

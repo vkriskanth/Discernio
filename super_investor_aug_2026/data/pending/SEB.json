@@ -1,0 +1,55 @@
+{
+  "ticker": "SEB",
+  "stock": {
+    "ticker": "SEB",
+    "name": "Seaboard Corporation",
+    "sector": "Industrials",
+    "industry": "Conglomerates"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 6.93,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SEB",
+    "asof": "2026-08-12",
+    "market_cap": 4061606400.0,
+    "pe": 6.4205494,
+    "forward_pe": null,
+    "ev_ebitda": 7.126,
+    "fcf_yield": -0.06755332274441955,
+    "roe": 0.12331,
+    "gross_margin": 0.08051,
+    "op_margin": 0.03422,
+    "rev_growth": 0.178,
+    "debt_to_equity": 35.796
+  },
+  "market_stats": {
+    "ticker": "SEB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0735,
+    "short_ratio": 3.78,
+    "putcall_oi_ratio": null,
+    "avg_volume": 8995.0,
+    "beta": 0.237
+  },
+  "momentum": {
+    "ticker": "SEB",
+    "asof": "2026-08-12",
+    "ret_1m": -8.508847972609379,
+    "ret_3m": -8.351520183429152,
+    "ret_6m": -22.14721775542291,
+    "ret_12m": 22.428746499128827,
+    "rsi14": 26.741362994916187,
+    "pct_vs_200dma": -11.340288396442144,
+    "score": 39.4,
+    "components_json": "{\"trend\": 49.82187721799591, \"rsi\": 26.741362994916187, \"vs_200dma\": 27.31942320711571, \"short_squeeze\": 36.75, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

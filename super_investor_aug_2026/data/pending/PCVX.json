@@ -1,0 +1,63 @@
+{
+  "ticker": "PCVX",
+  "stock": {
+    "ticker": "PCVX",
+    "name": "Vaxcyte, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.91,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 1.74,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PCVX",
+    "asof": "2026-08-12",
+    "market_cap": 8918644736.0,
+    "pe": null,
+    "forward_pe": -8.304536,
+    "ev_ebitda": -6.477,
+    "fcf_yield": -0.05446514334619192,
+    "roe": -0.36514,
+    "gross_margin": 0.0,
+    "op_margin": 0.0,
+    "rev_growth": null,
+    "debt_to_equity": 4.186
+  },
+  "market_stats": {
+    "ticker": "PCVX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1004,
+    "short_ratio": 12.81,
+    "putcall_oi_ratio": 1.1368078175895766,
+    "avg_volume": 1454625.0,
+    "beta": 1.21
+  },
+  "momentum": {
+    "ticker": "PCVX",
+    "asof": "2026-08-12",
+    "ret_1m": -0.20892528192288928,
+    "ret_3m": 15.977083065181908,
+    "ret_6m": 10.749400853357184,
+    "ret_12m": 80.924247972893,
+    "rsi14": 61.87518044668905,
+    "pct_vs_200dma": 13.876787781091027,
+    "score": 72.3,
+    "components_json": "{\"trend\": 90.38764436471894, \"rsi\": 61.87518044668905, \"vs_200dma\": 77.75357556218205, \"short_squeeze\": 50.2, \"options_skew\": 24.22491856677524}",
+    "thesis": null
+  }
+}

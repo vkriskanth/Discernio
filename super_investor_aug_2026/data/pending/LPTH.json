@@ -1,0 +1,55 @@
+{
+  "ticker": "LPTH",
+  "stock": {
+    "ticker": "LPTH",
+    "name": "LightPath Technologies, Inc.",
+    "sector": "Technology",
+    "industry": "Electronic Components"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 297.79,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LPTH",
+    "asof": "2026-08-12",
+    "market_cap": 884074880.0,
+    "pe": null,
+    "forward_pe": 108.30769,
+    "ev_ebitda": -1417.176,
+    "fcf_yield": 0.0036584435019802845,
+    "roe": -0.28785,
+    "gross_margin": 0.32101002,
+    "op_margin": -0.04486,
+    "rev_growth": 1.089,
+    "debt_to_equity": 10.031
+  },
+  "market_stats": {
+    "ticker": "LPTH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1698,
+    "short_ratio": 3.7,
+    "putcall_oi_ratio": 0.3005985783763562,
+    "avg_volume": 3473000.0,
+    "beta": 1.413
+  },
+  "momentum": {
+    "ticker": "LPTH",
+    "asof": "2026-08-12",
+    "ret_1m": 20.48610731683411,
+    "ret_3m": 13.677314259430506,
+    "ret_6m": 26.067210044468414,
+    "ret_12m": 280.27396580228503,
+    "rsi14": 57.84008339252121,
+    "pct_vs_200dma": 20.73292302461789,
+    "score": 88.0,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 57.84008339252121, \"vs_200dma\": 91.46584604923578, \"short_squeeze\": 84.9, \"options_skew\": 80.00007482229705}",
+    "thesis": null
+  }
+}

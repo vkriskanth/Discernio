@@ -1,0 +1,71 @@
+{
+  "ticker": "APH",
+  "stock": {
+    "ticker": "APH",
+    "name": "Amphenol Corp.",
+    "sector": "Technology",
+    "industry": "Electronic Components"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "add",
+      "share_change_pct": 69.49,
+      "pct_of_portfolio": 3.4,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "JIM",
+      "manager_name": "Jensen Investment Management",
+      "action": "add",
+      "share_change_pct": 172.74,
+      "pct_of_portfolio": 1.67,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "WIM",
+      "manager_name": "Wallace Weitz - Weitz Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "APH",
+    "asof": "2026-08-12",
+    "market_cap": 208059777024.0,
+    "pe": 42.18625,
+    "forward_pe": 26.170454,
+    "ev_ebitda": 23.217,
+    "fcf_yield": 0.018352297434018422,
+    "roe": 0.38115,
+    "gross_margin": 0.38952,
+    "op_margin": 0.29779,
+    "rev_growth": 0.55,
+    "debt_to_equity": 120.415
+  },
+  "market_stats": {
+    "ticker": "APH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.014099999,
+    "short_ratio": 2.09,
+    "putcall_oi_ratio": 0.7097630583394172,
+    "avg_volume": 8800845.0,
+    "beta": 1.251
+  },
+  "momentum": {
+    "ticker": "APH",
+    "asof": "2026-08-12",
+    "ret_1m": 8.271772752043184,
+    "ret_3m": 34.29943238483817,
+    "ret_6m": 19.375676951585817,
+    "ret_12m": 57.215926721924795,
+    "rsi14": 63.705591771097914,
+    "pct_vs_200dma": 19.53437457179461,
+    "score": 73.4,
+    "components_json": "{\"trend\": 88.98890348969712, \"rsi\": 63.705591771097914, \"vs_200dma\": 89.06874914358923, \"short_squeeze\": 7.0499995, \"options_skew\": 52.70880400876087}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "WU",
+  "stock": {
+    "ticker": "WU",
+    "name": "Western Union Company (The)",
+    "sector": "Financial Services",
+    "industry": "Credit Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 57.08,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WU",
+    "asof": "2026-08-12",
+    "market_cap": 2167558912.0,
+    "pe": 5.6048384,
+    "forward_pe": 4.551527,
+    "ev_ebitda": 4.776,
+    "fcf_yield": 0.16482828033972255,
+    "roe": 0.43975,
+    "gross_margin": 0.35094002,
+    "op_margin": 0.13038,
+    "rev_growth": -0.013,
+    "debt_to_equity": 294.873
+  },
+  "market_stats": {
+    "ticker": "WU",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1873,
+    "short_ratio": 4.88,
+    "putcall_oi_ratio": 0.6157941437444543,
+    "avg_volume": 9859153.0,
+    "beta": 0.519
+  },
+  "momentum": {
+    "ticker": "WU",
+    "asof": "2026-08-12",
+    "ret_1m": -11.054636571920074,
+    "ret_3m": -19.434339327692374,
+    "ret_6m": -25.749106312451666,
+    "ret_12m": -2.7872457157539277,
+    "rsi14": 30.90378566964057,
+    "pct_vs_200dma": -16.74083869540176,
+    "score": 38.2,
+    "components_json": "{\"trend\": 35.33006802165522, \"rsi\": 30.90378566964057, \"vs_200dma\": 16.51832260919648, \"short_squeeze\": 93.65, \"options_skew\": 58.9765306122449}",
+    "thesis": null
+  }
+}

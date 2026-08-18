@@ -1,0 +1,55 @@
+{
+  "ticker": "CLW",
+  "stock": {
+    "ticker": "CLW",
+    "name": "Clearwater Paper Corporation",
+    "sector": "Basic Materials",
+    "industry": "Paper & Paper Products"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SE",
+      "manager_name": "Mason Hawkins - Southeastern Asset Management",
+      "action": "add",
+      "share_change_pct": 10.47,
+      "pct_of_portfolio": 0.1,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CLW",
+    "asof": "2026-08-12",
+    "market_cap": 364326176.0,
+    "pe": null,
+    "forward_pe": -25.767963,
+    "ev_ebitda": 25.327,
+    "fcf_yield": -0.026967592907735514,
+    "roe": -0.10424,
+    "gross_margin": 0.01033,
+    "op_margin": -0.103520006,
+    "rev_growth": -0.043,
+    "debt_to_equity": 46.984
+  },
+  "market_stats": {
+    "ticker": "CLW",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0395,
+    "short_ratio": 2.98,
+    "putcall_oi_ratio": 0.07272727272727272,
+    "avg_volume": 212029.0,
+    "beta": 0.225
+  },
+  "momentum": {
+    "ticker": "CLW",
+    "asof": "2026-08-12",
+    "ret_1m": 45.873945822748574,
+    "ret_3m": 64.34847008576368,
+    "ret_6m": 29.171472077040207,
+    "ret_12m": 1.0351100661228463,
+    "rsi14": 84.10372363015503,
+    "pct_vs_200dma": 34.821074088859994,
+    "score": 80.5,
+    "components_json": "{\"trend\": 78.47002667529031, \"rsi\": 84.10372363015503, \"vs_200dma\": 100.0, \"short_squeeze\": 19.75, \"options_skew\": 95.19909090909091}",
+    "thesis": null
+  }
+}

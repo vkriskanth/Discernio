@@ -1,0 +1,55 @@
+{
+  "ticker": "VTOL",
+  "stock": {
+    "ticker": "VTOL",
+    "name": "Bristow Group, Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 49.09,
+      "pct_of_portfolio": 0.33,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VTOL",
+    "asof": "2026-08-12",
+    "market_cap": 1364124800.0,
+    "pe": 13.224138,
+    "forward_pe": 8.749049,
+    "ev_ebitda": 8.618,
+    "fcf_yield": -0.025072576937242106,
+    "roe": 0.10082,
+    "gross_margin": 0.27201,
+    "op_margin": 0.08455,
+    "rev_growth": 0.094,
+    "debt_to_equity": 89.036
+  },
+  "market_stats": {
+    "ticker": "VTOL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.040900003,
+    "short_ratio": 5.58,
+    "putcall_oi_ratio": 3.0,
+    "avg_volume": 227675.0,
+    "beta": 1.198
+  },
+  "momentum": {
+    "ticker": "VTOL",
+    "asof": "2026-08-12",
+    "ret_1m": 6.791841322739667,
+    "ret_3m": 8.591106264048776,
+    "ret_6m": 5.1514756544250195,
+    "ret_12m": 21.309567575711917,
+    "rsi14": 57.573355800020266,
+    "pct_vs_200dma": 8.240512864317884,
+    "score": 52.4,
+    "components_json": "{\"trend\": 62.6466016058269, \"rsi\": 57.573355800020266, \"vs_200dma\": 66.48102572863577, \"short_squeeze\": 20.4500015, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

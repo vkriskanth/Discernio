@@ -1,0 +1,63 @@
+{
+  "ticker": "FPS",
+  "stock": {
+    "ticker": "FPS",
+    "name": "Forgent Power Solutions, Inc.",
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FPS",
+    "asof": "2026-08-12",
+    "market_cap": 11877293056.0,
+    "pe": 1950.75,
+    "forward_pe": 33.376675,
+    "ev_ebitda": 60.581,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": 0.34332,
+    "op_margin": 0.103870004,
+    "rev_growth": 1.034,
+    "debt_to_equity": 121.449
+  },
+  "market_stats": {
+    "ticker": "FPS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2464,
+    "short_ratio": 0.99,
+    "putcall_oi_ratio": 0.3635725976151508,
+    "avg_volume": 8434119.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "FPS",
+    "asof": "2026-08-12",
+    "ret_1m": -5.123847971624141,
+    "ret_3m": -9.160657476092949,
+    "ret_6m": 26.23586019942177,
+    "ret_12m": null,
+    "rsi14": 50.213262129597936,
+    "pct_vs_200dma": null,
+    "score": 59.7,
+    "components_json": "{\"trend\": 55.12256081699864, \"rsi\": 50.213262129597936, \"vs_200dma\": 50, \"short_squeeze\": 100.0, \"options_skew\": 75.79970773906945}",
+    "thesis": null
+  }
+}

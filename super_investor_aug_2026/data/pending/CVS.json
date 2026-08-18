@@ -1,0 +1,55 @@
+{
+  "ticker": "CVS",
+  "stock": {
+    "ticker": "CVS",
+    "name": "CVS Health Corp.",
+    "sector": "Healthcare",
+    "industry": "Healthcare Plans"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 10.21,
+      "pct_of_portfolio": 0.34,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CVS",
+    "asof": "2026-08-12",
+    "market_cap": 119597670400.0,
+    "pe": 24.673061,
+    "forward_pe": 10.999523,
+    "ev_ebitda": 10.919,
+    "fcf_yield": 0.06752640104936358,
+    "roe": 0.06205,
+    "gross_margin": 0.13645001,
+    "op_margin": 0.03861,
+    "rev_growth": 0.071,
+    "debt_to_equity": 95.503
+  },
+  "market_stats": {
+    "ticker": "CVS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0147,
+    "short_ratio": 2.52,
+    "putcall_oi_ratio": 0.5308733786828234,
+    "avg_volume": 8263643.0,
+    "beta": 0.596
+  },
+  "momentum": {
+    "ticker": "CVS",
+    "asof": "2026-08-12",
+    "ret_1m": -10.724006213600546,
+    "ret_3m": -0.37493248157589587,
+    "ret_6m": 26.32135828860922,
+    "ret_12m": 49.815389186528904,
+    "rsi14": 21.46713779851045,
+    "pct_vs_200dma": 11.951666633138469,
+    "score": 60.0,
+    "components_json": "{\"trend\": 77.71008341672156, \"rsi\": 21.46713779851045, \"vs_200dma\": 73.90333326627695, \"short_squeeze\": 7.35, \"options_skew\": 64.64074564185569}",
+    "thesis": null
+  }
+}

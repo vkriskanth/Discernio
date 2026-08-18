@@ -1,0 +1,63 @@
+{
+  "ticker": "SMFG",
+  "stock": {
+    "ticker": "SMFG",
+    "name": "Sumitomo Mitsui Financial Group",
+    "sector": "Financial Services",
+    "industry": "Banks - Diversified"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 7.64,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 14.67,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SMFG",
+    "asof": "2026-08-12",
+    "market_cap": 165758500864.0,
+    "pe": 16.72436,
+    "forward_pe": 63.634148,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.08569,
+    "gross_margin": 0.0,
+    "op_margin": 0.40895998,
+    "rev_growth": 0.248,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "SMFG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0019,
+    "short_ratio": 4.7,
+    "putcall_oi_ratio": 29.25,
+    "avg_volume": 1944279.0,
+    "beta": 0.39
+  },
+  "momentum": {
+    "ticker": "SMFG",
+    "asof": "2026-08-12",
+    "ret_1m": 1.048952836692063,
+    "ret_3m": 21.371907879067507,
+    "ret_6m": 12.890621507540478,
+    "ret_12m": 66.83771632012625,
+    "rsi14": 50.76400767084038,
+    "pct_vs_200dma": 22.616960983614852,
+    "score": 66.3,
+    "components_json": "{\"trend\": 87.01384534403289, \"rsi\": 50.76400767084038, \"vs_200dma\": 95.2339219672297, \"short_squeeze\": 0.95, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

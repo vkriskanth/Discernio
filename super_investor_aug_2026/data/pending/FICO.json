@@ -1,0 +1,71 @@
+{
+  "ticker": "FICO",
+  "stock": {
+    "ticker": "FICO",
+    "name": "Fair Isaac Corp.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AC",
+      "manager_name": "Chuck Akre - Akre Capital Management",
+      "action": "add",
+      "share_change_pct": 31.11,
+      "pct_of_portfolio": 1.51,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AKO",
+      "manager_name": "AKO Capital",
+      "action": "add",
+      "share_change_pct": 12.79,
+      "pct_of_portfolio": 0.3,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 124.38,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FICO",
+    "asof": "2026-08-12",
+    "market_cap": 22142326784.0,
+    "pe": 29.65635,
+    "forward_pe": 19.329365,
+    "ev_ebitda": 21.983,
+    "fcf_yield": 0.03497435077869005,
+    "roe": null,
+    "gross_margin": 0.851,
+    "op_margin": 0.53787,
+    "rev_growth": 0.257,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "FICO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1033,
+    "short_ratio": 6.01,
+    "putcall_oi_ratio": 1.224113475177305,
+    "avg_volume": 335964.0,
+    "beta": 1.321
+  },
+  "momentum": {
+    "ticker": "FICO",
+    "asof": "2026-08-12",
+    "ret_1m": -19.548070509411996,
+    "ret_3m": -8.78064807100911,
+    "ret_6m": -24.167114760252172,
+    "ret_12m": -26.140737407669445,
+    "rsi14": 33.15666355199018,
+    "pct_vs_200dma": -24.263598983634292,
+    "score": 24.2,
+    "components_json": "{\"trend\": 29.65937618755384, \"rsi\": 33.15666355199018, \"vs_200dma\": 1.4728020327314155, \"short_squeeze\": 51.65, \"options_skew\": 18.401631205673752}",
+    "thesis": null
+  }
+}

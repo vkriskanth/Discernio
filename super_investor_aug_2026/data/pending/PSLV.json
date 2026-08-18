@@ -1,0 +1,55 @@
+{
+  "ticker": "PSLV",
+  "stock": {
+    "ticker": "PSLV",
+    "name": "\"Sprott Physical Silver Trust\"",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 0.53,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PSLV",
+    "asof": "2026-08-12",
+    "market_cap": 13744596992.0,
+    "pe": 1.4929835,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "PSLV",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": null,
+    "avg_volume": 8846277.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "PSLV",
+    "asof": "2026-08-12",
+    "ret_1m": 13.586737157953465,
+    "ret_3m": -23.831021264053042,
+    "ret_6m": -19.41625655440229,
+    "ret_12m": 67.53600027341649,
+    "rsi14": 77.80394406101043,
+    "pct_vs_200dma": -6.735945745262429,
+    "score": 51.4,
+    "components_json": "{\"trend\": 64.04021676383, \"rsi\": 77.80394406101043, \"vs_200dma\": 36.528108509475146, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

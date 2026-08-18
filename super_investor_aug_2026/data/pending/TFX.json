@@ -1,0 +1,63 @@
+{
+  "ticker": "TFX",
+  "stock": {
+    "ticker": "TFX",
+    "name": "Teleflex Incorporated",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 3.73,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "ABI",
+      "manager_name": "Abrams Bison Investments",
+      "action": "add",
+      "share_change_pct": 3.2,
+      "pct_of_portfolio": 0.16,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TFX",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": 12.095585,
+    "ev_ebitda": 20.478,
+    "fcf_yield": null,
+    "roe": -0.00701,
+    "gross_margin": 0.55108,
+    "op_margin": 0.14442,
+    "rev_growth": 0.289,
+    "debt_to_equity": 101.103
+  },
+  "market_stats": {
+    "ticker": "TFX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1047,
+    "short_ratio": 6.95,
+    "putcall_oi_ratio": 0.5714285714285714,
+    "avg_volume": 552325.0,
+    "beta": 0.809
+  },
+  "momentum": {
+    "ticker": "TFX",
+    "asof": "2026-08-12",
+    "ret_1m": -0.5669908571343973,
+    "ret_3m": 1.4766480763656498,
+    "ret_6m": 26.557738946132424,
+    "ret_12m": 20.288100218255867,
+    "rsi14": 48.78127882412449,
+    "pct_vs_200dma": 10.140148858543885,
+    "score": 62.9,
+    "components_json": "{\"trend\": 66.52555619405177, \"rsi\": 48.78127882412449, \"vs_200dma\": 70.28029771708776, \"short_squeeze\": 52.35, \"options_skew\": 61.93571428571429}",
+    "thesis": null
+  }
+}

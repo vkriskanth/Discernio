@@ -1,0 +1,55 @@
+{
+  "ticker": "VELO",
+  "stock": {
+    "ticker": "VELO",
+    "name": "Velo3D, Inc.",
+    "sector": "Technology",
+    "industry": "Computer Hardware"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 21.14,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VELO",
+    "asof": "2026-08-12",
+    "market_cap": 454167264.0,
+    "pe": null,
+    "forward_pe": -24.383999,
+    "ev_ebitda": -8.671,
+    "fcf_yield": -0.04800268915903195,
+    "roe": -1.26379,
+    "gross_margin": -0.11334,
+    "op_margin": -0.50282,
+    "rev_growth": 0.482,
+    "debt_to_equity": 34.622
+  },
+  "market_stats": {
+    "ticker": "VELO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.3109,
+    "short_ratio": 2.62,
+    "putcall_oi_ratio": 0.3467917346383904,
+    "avg_volume": 3531538.0,
+    "beta": 2.57
+  },
+  "momentum": {
+    "ticker": "VELO",
+    "asof": "2026-08-12",
+    "ret_1m": 18.060988479330888,
+    "ret_3m": 7.396870062692207,
+    "ret_6m": 12.351196822277611,
+    "ret_12m": 155.9322057185382,
+    "rsi14": 68.04049316061095,
+    "pct_vs_200dma": 14.89180703251396,
+    "score": 87.8,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 68.04049316061095, \"vs_200dma\": 79.78361406502792, \"short_squeeze\": 100.0, \"options_skew\": 76.91899129961936}",
+    "thesis": null
+  }
+}

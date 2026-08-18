@@ -15,7 +15,7 @@ import pandas as pd
 import yfinance as yf
 
 from si import db
-from si.enrich import pending_tickers
+from si.enrich import pending_tickers, yf_symbol
 
 WEIGHTS = {
     "trend": 0.40,
@@ -63,7 +63,7 @@ def _putcall_ratio(tkr: yf.Ticker) -> float | None:
 
 
 def compute_ticker(conn: sqlite3.Connection, ticker: str) -> bool:
-    tkr = yf.Ticker(ticker)
+    tkr = yf.Ticker(yf_symbol(ticker))
     try:
         hist = tkr.history(period="2y", auto_adjust=True)
         info = tkr.info or {}

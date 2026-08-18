@@ -1,0 +1,55 @@
+{
+  "ticker": "TIGO",
+  "stock": {
+    "ticker": "TIGO",
+    "name": "Millicom Intl Cellular S.a.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 0.36,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TIGO",
+    "asof": "2026-08-08",
+    "market_cap": 16284640256.0,
+    "pe": 24.275,
+    "forward_pe": 13.461618,
+    "ev_ebitda": 8.855,
+    "fcf_yield": 0.11596050083478122,
+    "roe": 0.21733,
+    "gross_margin": 0.76545,
+    "op_margin": 0.20468001,
+    "rev_growth": 0.594,
+    "debt_to_equity": 485.158
+  },
+  "market_stats": {
+    "ticker": "TIGO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0419,
+    "short_ratio": 2.72,
+    "putcall_oi_ratio": 0.12371475953565506,
+    "avg_volume": 1797477.0,
+    "beta": 0.904
+  },
+  "momentum": {
+    "ticker": "TIGO",
+    "asof": "2026-08-12",
+    "ret_1m": -1.4669950974768642,
+    "ret_3m": 21.685731489367544,
+    "ret_6m": 52.18023584707194,
+    "ret_12m": 148.79208428322568,
+    "rsi14": 50.71755911557728,
+    "pct_vs_200dma": 36.14076982602037,
+    "score": 83.9,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 50.71755911557728, \"vs_200dma\": 100.0, \"short_squeeze\": 20.950000000000003, \"options_skew\": 91.7982255389718}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "CMCSA",
+  "stock": {
+    "ticker": "CMCSA",
+    "name": "Comcast Corp.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 55.54,
+      "pct_of_portfolio": 1.12,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 9.65,
+      "pct_of_portfolio": 0.17,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "add",
+      "share_change_pct": 4.81,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 2.29,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 0.12,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "KB",
+      "manager_name": "Kahn Brothers Group",
+      "action": "add",
+      "share_change_pct": 2.05,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.52,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.26,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CMCSA",
+    "asof": "2026-08-12",
+    "market_cap": 89869230080.0,
+    "pe": 8.116988,
+    "forward_pe": 6.9915495,
+    "ev_ebitda": 5.105,
+    "fcf_yield": 0.14129001177262562,
+    "roe": 0.114879996,
+    "gross_margin": 0.6939,
+    "op_margin": 0.17233999,
+    "rev_growth": -0.012,
+    "debt_to_equity": 100.474
+  },
+  "market_stats": {
+    "ticker": "CMCSA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0231,
+    "short_ratio": 1.99,
+    "putcall_oi_ratio": 2.0059558679945324,
+    "avg_volume": 35668588.0,
+    "beta": 0.647
+  },
+  "momentum": {
+    "ticker": "CMCSA",
+    "asof": "2026-08-12",
+    "ret_1m": 8.637772295806979,
+    "ret_3m": 2.5556612635992515,
+    "ret_6m": -20.045520718888376,
+    "ret_12m": -10.272962050490698,
+    "rsi14": 74.256322372961,
+    "pct_vs_200dma": -4.233498735971242,
+    "score": 38.9,
+    "components_json": "{\"trend\": 40.643857343216986, \"rsi\": 74.256322372961, \"vs_200dma\": 41.533002528057516, \"short_squeeze\": 11.55, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

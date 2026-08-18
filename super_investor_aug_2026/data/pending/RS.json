@@ -1,0 +1,71 @@
+{
+  "ticker": "RS",
+  "stock": {
+    "ticker": "RS",
+    "name": "Reliance, Inc.",
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.78,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.22,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 35.75,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RS",
+    "asof": "2026-08-12",
+    "market_cap": 21647386624.0,
+    "pe": 24.665794,
+    "forward_pe": 18.371147,
+    "ev_ebitda": 15.1,
+    "fcf_yield": 0.01595746913934732,
+    "roe": 0.12229,
+    "gross_margin": 0.28285,
+    "op_margin": 0.09538,
+    "rev_growth": 0.265,
+    "debt_to_equity": 26.921
+  },
+  "market_stats": {
+    "ticker": "RS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.026199998,
+    "short_ratio": 2.87,
+    "putcall_oi_ratio": 0.22641509433962265,
+    "avg_volume": 358574.0,
+    "beta": 0.967
+  },
+  "momentum": {
+    "ticker": "RS",
+    "asof": "2026-08-12",
+    "ret_1m": 8.911371573314009,
+    "ret_3m": 17.8034000180183,
+    "ret_6m": 20.628871604060883,
+    "ret_12m": 51.82394186309909,
+    "rsi14": 67.68247460708088,
+    "pct_vs_200dma": 26.33041028843892,
+    "score": 77.9,
+    "components_json": "{\"trend\": 82.25925823186338, \"rsi\": 67.68247460708088, \"vs_200dma\": 100.0, \"short_squeeze\": 13.099999, \"options_skew\": 84.94811320754718}",
+    "thesis": null
+  }
+}

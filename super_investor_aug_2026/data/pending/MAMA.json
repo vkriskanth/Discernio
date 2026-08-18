@@ -1,0 +1,55 @@
+{
+  "ticker": "MAMA",
+  "stock": {
+    "ticker": "MAMA",
+    "name": "Mama's Creations, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 53.65,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MAMA",
+    "asof": "2026-08-12",
+    "market_cap": 822537152.0,
+    "pe": 117.933334,
+    "forward_pe": 58.966667,
+    "ev_ebitda": 47.417,
+    "fcf_yield": 0.006356095876384195,
+    "roe": 0.14929,
+    "gross_margin": 0.24462,
+    "op_margin": 0.05049,
+    "rev_growth": 0.497,
+    "debt_to_equity": 24.741
+  },
+  "market_stats": {
+    "ticker": "MAMA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0563,
+    "short_ratio": 3.62,
+    "putcall_oi_ratio": 0.3729508196721312,
+    "avg_volume": 620888.0,
+    "beta": 0.581
+  },
+  "momentum": {
+    "ticker": "MAMA",
+    "asof": "2026-08-12",
+    "ret_1m": -4.294145319905784,
+    "ret_3m": 32.171980920857756,
+    "ret_6m": 16.5359457609894,
+    "ret_12m": 122.87499904632568,
+    "rsi14": 56.0137565159598,
+    "pct_vs_200dma": 20.37679326837669,
+    "score": 81.4,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 56.0137565159598, \"vs_200dma\": 90.75358653675337, \"short_squeeze\": 28.15, \"options_skew\": 75.17418032786885}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "COLD",
+  "stock": {
+    "ticker": "COLD",
+    "name": "Americold Realty Trust, Inc.",
+    "sector": "Real Estate",
+    "industry": "REIT - Industrial"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "add",
+      "share_change_pct": 123.86,
+      "pct_of_portfolio": 0.96,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "COLD",
+    "asof": "2026-08-12",
+    "market_cap": 4143503104.0,
+    "pe": null,
+    "forward_pe": -68.78571,
+    "ev_ebitda": 16.018,
+    "fcf_yield": 0.10136776091576448,
+    "roe": -0.16457,
+    "gross_margin": 0.31709,
+    "op_margin": 0.06261,
+    "rev_growth": 0.018,
+    "debt_to_equity": 188.566
+  },
+  "market_stats": {
+    "ticker": "COLD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.088199995,
+    "short_ratio": 5.94,
+    "putcall_oi_ratio": 0.6828859060402684,
+    "avg_volume": 4363685.0,
+    "beta": 0.996
+  },
+  "momentum": {
+    "ticker": "COLD",
+    "asof": "2026-08-12",
+    "ret_1m": -6.927485263396404,
+    "ret_3m": -0.8489650021753947,
+    "ret_6m": 21.07838475498376,
+    "ret_12m": -3.0779543925985586,
+    "rsi14": 40.811348022717354,
+    "pct_vs_200dma": 14.563129608017068,
+    "score": 57.7,
+    "components_json": "{\"trend\": 54.83764416880309, \"rsi\": 40.811348022717354, \"vs_200dma\": 79.12625921603413, \"short_squeeze\": 44.0999975, \"options_skew\": 54.5015100671141}",
+    "thesis": null
+  }
+}

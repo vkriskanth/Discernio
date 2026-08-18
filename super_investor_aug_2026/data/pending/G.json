@@ -1,0 +1,55 @@
+{
+  "ticker": "G",
+  "stock": {
+    "ticker": "G",
+    "name": "Genpact Limited",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 353.46,
+      "pct_of_portfolio": 0.21,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "G",
+    "asof": "2026-08-12",
+    "market_cap": 5610668544.0,
+    "pe": 9.997006,
+    "forward_pe": 7.3968887,
+    "ev_ebitda": 7.509,
+    "fcf_yield": 0.08544948471652222,
+    "roe": 0.22447,
+    "gross_margin": 0.36456,
+    "op_margin": 0.15016,
+    "rev_growth": 0.071,
+    "debt_to_equity": 54.308
+  },
+  "market_stats": {
+    "ticker": "G",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0757,
+    "short_ratio": 5.13,
+    "putcall_oi_ratio": 0.178544061302682,
+    "avg_volume": 2650862.0,
+    "beta": 0.576
+  },
+  "momentum": {
+    "ticker": "G",
+    "asof": "2026-08-12",
+    "ret_1m": 14.922082354298794,
+    "ret_3m": 9.18909441807758,
+    "ret_6m": -12.391648730234584,
+    "ret_12m": -20.4022814127904,
+    "rsi14": 64.61158523497235,
+    "pct_vs_200dma": -10.018862934431617,
+    "score": 46.1,
+    "components_json": "{\"trend\": 40.87832114123674, \"rsi\": 64.61158523497235, \"vs_200dma\": 29.962274131136766, \"short_squeeze\": 37.85, \"options_skew\": 88.14111111111112}",
+    "thesis": null
+  }
+}

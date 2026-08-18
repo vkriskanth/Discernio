@@ -1,0 +1,63 @@
+{
+  "ticker": "IDXX",
+  "stock": {
+    "ticker": "IDXX",
+    "name": "IDEXX Laboratories",
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "JIM",
+      "manager_name": "Jensen Investment Management",
+      "action": "add",
+      "share_change_pct": 2861.04,
+      "pct_of_portfolio": 1.3,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 5.93,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IDXX",
+    "asof": "2026-08-12",
+    "market_cap": 45138432000.0,
+    "pe": 40.179523,
+    "forward_pe": 34.227413,
+    "ev_ebitda": 29.053,
+    "fcf_yield": 0.020146211193157973,
+    "roe": 0.74211,
+    "gross_margin": 0.62446,
+    "op_margin": 0.3498,
+    "rev_growth": 0.097,
+    "debt_to_equity": 67.971
+  },
+  "market_stats": {
+    "ticker": "IDXX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.027999999,
+    "short_ratio": 3.2,
+    "putcall_oi_ratio": 0.9104477611940298,
+    "avg_volume": 664101.0,
+    "beta": 1.542
+  },
+  "momentum": {
+    "ticker": "IDXX",
+    "asof": "2026-08-12",
+    "ret_1m": 2.531331053784136,
+    "ret_3m": 0.09436875495003605,
+    "ret_6m": -11.008566581937506,
+    "ret_12m": -8.2426844399612,
+    "rsi14": 53.21060773965613,
+    "pct_vs_200dma": -7.566443426618963,
+    "score": 39.4,
+    "components_json": "{\"trend\": 43.428666875919276, \"rsi\": 53.21060773965613, \"vs_200dma\": 34.86711314676207, \"short_squeeze\": 13.9999995, \"options_skew\": 39.323134328358215}",
+    "thesis": null
+  }
+}

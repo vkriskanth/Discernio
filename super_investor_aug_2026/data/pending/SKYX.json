@@ -1,0 +1,55 @@
+{
+  "ticker": "SKYX",
+  "stock": {
+    "ticker": "SKYX",
+    "name": "SKYX Platforms Corp.",
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 6.61,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SKYX",
+    "asof": "2026-08-12",
+    "market_cap": 162053328.0,
+    "pe": null,
+    "forward_pe": -11.4761915,
+    "ev_ebitda": -6.782,
+    "fcf_yield": -0.010064267239238677,
+    "roe": -2.39416,
+    "gross_margin": 0.30587998,
+    "op_margin": -0.36942002,
+    "rev_growth": 0.098,
+    "debt_to_equity": 151.548
+  },
+  "market_stats": {
+    "ticker": "SKYX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0233,
+    "short_ratio": 1.92,
+    "putcall_oi_ratio": null,
+    "avg_volume": 1483511.0,
+    "beta": -3499.519
+  },
+  "momentum": {
+    "ticker": "SKYX",
+    "asof": "2026-08-12",
+    "ret_1m": -2.799997329711912,
+    "ret_3m": 7.048461990091459,
+    "ret_6m": -43.224300288854124,
+    "ret_12m": 4.741385201707771,
+    "rsi14": 60.86957122668077,
+    "pct_vs_200dma": -24.830634637631523,
+    "score": 31.8,
+    "components_json": "{\"trend\": 41.04380259105431, \"rsi\": 60.86957122668077, \"vs_200dma\": 0.33873072473695487, \"short_squeeze\": 11.65, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

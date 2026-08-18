@@ -1,0 +1,63 @@
+{
+  "ticker": "MAT",
+  "stock": {
+    "ticker": "MAT",
+    "name": "Mattel Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Leisure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SE",
+      "manager_name": "Mason Hawkins - Southeastern Asset Management",
+      "action": "add",
+      "share_change_pct": 49.49,
+      "pct_of_portfolio": 3.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 8.26,
+      "pct_of_portfolio": 0.17,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MAT",
+    "asof": "2026-08-12",
+    "market_cap": 4241216512.0,
+    "pe": 10.835767,
+    "forward_pe": 9.319715,
+    "ev_ebitda": 9.973,
+    "fcf_yield": 0.10028157506145256,
+    "roe": 0.20497,
+    "gross_margin": 0.47605,
+    "op_margin": 0.01323,
+    "rev_growth": 0.105,
+    "debt_to_equity": 137.445
+  },
+  "market_stats": {
+    "ticker": "MAT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.14649999,
+    "short_ratio": 5.48,
+    "putcall_oi_ratio": 0.05032126725618678,
+    "avg_volume": 4575654.0,
+    "beta": 0.729
+  },
+  "momentum": {
+    "ticker": "MAT",
+    "asof": "2026-08-12",
+    "ret_1m": 13.619120142122076,
+    "ret_3m": -0.16666412353515403,
+    "ret_6m": -29.062056141644355,
+    "ret_12m": -13.43930033598003,
+    "rsi14": 63.89351973948331,
+    "pct_vs_200dma": -11.651263400468903,
+    "score": 47.6,
+    "components_json": "{\"trend\": 35.85566378605414, \"rsi\": 63.89351973948331, \"vs_200dma\": 26.697473199062195, \"short_squeeze\": 73.249995, \"options_skew\": 96.69357147401234}",
+    "thesis": null
+  }
+}

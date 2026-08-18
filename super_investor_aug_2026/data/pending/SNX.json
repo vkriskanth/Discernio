@@ -1,0 +1,63 @@
+{
+  "ticker": "SNX",
+  "stock": {
+    "ticker": "SNX",
+    "name": "TD SYNNEX Corporation",
+    "sector": "Technology",
+    "industry": "Electronics & Computer Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "add",
+      "share_change_pct": 748.88,
+      "pct_of_portfolio": 2.24,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "ABI",
+      "manager_name": "Abrams Bison Investments",
+      "action": "add",
+      "share_change_pct": 0.62,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SNX",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 18.493544,
+    "forward_pe": 12.039094,
+    "ev_ebitda": 10.781,
+    "fcf_yield": null,
+    "roe": 0.13141,
+    "gross_margin": 0.07047,
+    "op_margin": 0.02661,
+    "rev_growth": 0.31,
+    "debt_to_equity": 52.735
+  },
+  "market_stats": {
+    "ticker": "SNX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0228,
+    "short_ratio": 1.94,
+    "putcall_oi_ratio": 0.20626432391138275,
+    "avg_volume": 837708.0,
+    "beta": 1.436
+  },
+  "momentum": {
+    "ticker": "SNX",
+    "asof": "2026-08-12",
+    "ret_1m": 3.1974345716768715,
+    "ret_3m": 11.059888617495183,
+    "ret_6m": 57.6012292734412,
+    "ret_12m": 83.16542342390423,
+    "rsi14": 68.39975588306245,
+    "pct_vs_200dma": 32.91875056637388,
+    "score": 85.0,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 68.39975588306245, \"vs_200dma\": 100.0, \"short_squeeze\": 11.400000000000002, \"options_skew\": 86.29216959511076}",
+    "thesis": null
+  }
+}

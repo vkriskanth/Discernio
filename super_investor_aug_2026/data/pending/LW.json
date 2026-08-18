@@ -1,0 +1,55 @@
+{
+  "ticker": "LW",
+  "stock": {
+    "ticker": "LW",
+    "name": "Lamb Weston Holdings, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 43.59,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LW",
+    "asof": "2026-08-12",
+    "market_cap": 7195868160.0,
+    "pe": 25.163462,
+    "forward_pe": 15.422514,
+    "ev_ebitda": 10.141,
+    "fcf_yield": 0.0629423694166181,
+    "roe": 0.16280001,
+    "gross_margin": 0.20678,
+    "op_margin": 0.097729996,
+    "rev_growth": 0.056,
+    "debt_to_equity": 221.223
+  },
+  "market_stats": {
+    "ticker": "LW",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0541,
+    "short_ratio": 3.3,
+    "putcall_oi_ratio": 0.07083128381701918,
+    "avg_volume": 1684779.0,
+    "beta": 0.458
+  },
+  "momentum": {
+    "ticker": "LW",
+    "asof": "2026-08-12",
+    "ret_1m": 15.065868487144929,
+    "ret_3m": 29.209444465736368,
+    "ret_6m": 6.726661124825184,
+    "ret_12m": 6.017776914163675,
+    "rsi14": 68.18652555076143,
+    "pct_vs_200dma": 12.980241028937511,
+    "score": 66.7,
+    "components_json": "{\"trend\": 63.187942442833936, \"rsi\": 68.18652555076143, \"vs_200dma\": 75.96048205787503, \"short_squeeze\": 27.05, \"options_skew\": 95.32555336940483}",
+    "thesis": null
+  }
+}

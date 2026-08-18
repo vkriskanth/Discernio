@@ -1,0 +1,55 @@
+{
+  "ticker": "KARO",
+  "stock": {
+    "ticker": "KARO",
+    "name": "Karooooo Ltd.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 72.92,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KARO",
+    "asof": "2026-08-12",
+    "market_cap": 1920945408.0,
+    "pe": 30.331709,
+    "forward_pe": 21.699533,
+    "ev_ebitda": 0.871,
+    "fcf_yield": 0.3905469613429014,
+    "roe": 0.29186,
+    "gross_margin": 0.67980003,
+    "op_margin": 0.26196,
+    "rev_growth": 0.225,
+    "debt_to_equity": 29.544
+  },
+  "market_stats": {
+    "ticker": "KARO",
+    "asof": "2026-08-08",
+    "short_pct_float": 0.0152,
+    "short_ratio": 1.24,
+    "putcall_oi_ratio": null,
+    "avg_volume": 119258.0,
+    "beta": 0.893
+  },
+  "momentum": {
+    "ticker": "KARO",
+    "asof": "2026-08-08",
+    "ret_1m": 14.197096615173322,
+    "ret_3m": 29.312075866708696,
+    "ret_6m": 38.433006232256936,
+    "ret_12m": 47.786111757952156,
+    "rsi14": 54.23451235752754,
+    "pct_vs_200dma": 34.622909383861696,
+    "score": 74.7,
+    "components_json": "{\"trend\": 89.43796933287055, \"rsi\": 54.23451235752754, \"vs_200dma\": 100.0, \"short_squeeze\": 7.6, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}
