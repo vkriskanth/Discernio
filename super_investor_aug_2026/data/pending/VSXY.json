@@ -1,0 +1,55 @@
+{
+  "ticker": "VSXY",
+  "stock": {
+    "ticker": "VSXY",
+    "name": "Victorias Secret & Co.",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "add",
+      "share_change_pct": 29.87,
+      "pct_of_portfolio": 0.75,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VSXY",
+    "asof": "2026-08-12",
+    "market_cap": 7517532160.0,
+    "pe": 37.67729,
+    "forward_pe": 17.31379,
+    "ev_ebitda": 15.223,
+    "fcf_yield": 0.03217478859445278,
+    "roe": 0.32016,
+    "gross_margin": 0.37012002,
+    "op_margin": 0.05192,
+    "rev_growth": 0.153,
+    "debt_to_equity": 337.396
+  },
+  "market_stats": {
+    "ticker": "VSXY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1895,
+    "short_ratio": 6.56,
+    "putcall_oi_ratio": 0.545985401459854,
+    "avg_volume": 2249909.0,
+    "beta": 2.067
+  },
+  "momentum": {
+    "ticker": "VSXY",
+    "asof": "2026-08-12",
+    "ret_1m": 15.283208682012761,
+    "ret_3m": 102.83505080732542,
+    "ret_6m": 59.47315179789345,
+    "ret_12m": 342.96437051231817,
+    "rsi14": 72.92405223298691,
+    "pct_vs_200dma": 61.12288275516209,
+    "score": 91.8,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 72.92405223298691, \"vs_200dma\": 100.0, \"short_squeeze\": 94.75, \"options_skew\": 63.632773722627746}",
+    "thesis": null
+  }
+}

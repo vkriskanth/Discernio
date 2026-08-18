@@ -1,0 +1,71 @@
+{
+  "ticker": "TECH",
+  "stock": {
+    "ticker": "TECH",
+    "name": "Bio-Techne Corp.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "RC",
+      "manager_name": "Ruane Cunniff LP",
+      "action": "add",
+      "share_change_pct": 131.39,
+      "pct_of_portfolio": 1.67,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "add",
+      "share_change_pct": 113.32,
+      "pct_of_portfolio": 1.27,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 23.08,
+      "pct_of_portfolio": 0.54,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TECH",
+    "asof": "2026-08-12",
+    "market_cap": 11250309120.0,
+    "pe": 103.15,
+    "forward_pe": 35.333294,
+    "ev_ebitda": 31.069,
+    "fcf_yield": 0.02665254552578907,
+    "roe": 0.053400002,
+    "gross_margin": 0.66399,
+    "op_margin": 0.25191,
+    "rev_growth": -0.015,
+    "debt_to_equity": 13.922
+  },
+  "market_stats": {
+    "ticker": "TECH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.068,
+    "short_ratio": 1.8,
+    "putcall_oi_ratio": 0.08633550230122203,
+    "avg_volume": 4960512.0,
+    "beta": 1.277
+  },
+  "momentum": {
+    "ticker": "TECH",
+    "asof": "2026-08-12",
+    "ret_1m": 1.4249604686416673,
+    "ret_3m": 52.63334225506795,
+    "ret_6m": 11.845837827086259,
+    "ret_12m": 44.92993028306902,
+    "rsi14": 63.848604018008075,
+    "pct_vs_200dma": 20.58711237763269,
+    "score": 80.1,
+    "components_json": "{\"trend\": 87.31572613787387, \"rsi\": 63.848604018008075, \"vs_200dma\": 91.17422475526539, \"short_squeeze\": 34.0, \"options_skew\": 94.29142199650849}",
+    "thesis": null
+  }
+}

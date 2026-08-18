@@ -1,0 +1,55 @@
+{
+  "ticker": "PFGC",
+  "stock": {
+    "ticker": "PFGC",
+    "name": "Performance Food Group Company",
+    "sector": "Consumer Defensive",
+    "industry": "Food Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.72,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PFGC",
+    "asof": "2026-08-12",
+    "market_cap": 17451112448.0,
+    "pe": 52.9,
+    "forward_pe": 19.45691,
+    "ev_ebitda": 15.813,
+    "fcf_yield": 0.04225232163262489,
+    "roe": 0.072519995,
+    "gross_margin": 0.12508,
+    "op_margin": 0.00914,
+    "rev_growth": 0.064,
+    "debt_to_equity": 166.845
+  },
+  "market_stats": {
+    "ticker": "PFGC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0364,
+    "short_ratio": 2.19,
+    "putcall_oi_ratio": 0.8043715846994536,
+    "avg_volume": 1588732.0,
+    "beta": 0.905
+  },
+  "momentum": {
+    "ticker": "PFGC",
+    "asof": "2026-08-12",
+    "ret_1m": -1.3343473173560438,
+    "ret_3m": 19.23740617041998,
+    "ret_6m": 22.6642197069151,
+    "ret_12m": 12.479649513622215,
+    "rsi14": 53.128986430788835,
+    "pct_vs_200dma": 14.618511262938206,
+    "score": 61.3,
+    "components_json": "{\"trend\": 67.56234756864941, \"rsi\": 53.128986430788835, \"vs_200dma\": 79.23702252587641, \"short_squeeze\": 18.2, \"options_skew\": 46.398415300546446}",
+    "thesis": null
+  }
+}

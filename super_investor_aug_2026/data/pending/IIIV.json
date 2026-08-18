@@ -1,0 +1,55 @@
+{
+  "ticker": "IIIV",
+  "stock": {
+    "ticker": "IIIV",
+    "name": "i3 Verticals, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 89.2,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IIIV",
+    "asof": "2026-08-12",
+    "market_cap": 451652576.0,
+    "pe": 55.75862,
+    "forward_pe": 13.254098,
+    "ev_ebitda": 23.533,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": 0.19082001,
+    "op_margin": 0.010290001,
+    "rev_growth": 0.022,
+    "debt_to_equity": 29.694
+  },
+  "market_stats": {
+    "ticker": "IIIV",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.4044,
+    "short_ratio": 10.58,
+    "putcall_oi_ratio": null,
+    "avg_volume": 444477.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "IIIV",
+    "asof": "2026-08-12",
+    "ret_1m": -23.143266552371976,
+    "ret_3m": -15.177149418525948,
+    "ret_6m": -30.532694631751202,
+    "ret_12m": -49.01461734802142,
+    "rsi14": 31.804880281774004,
+    "pct_vs_200dma": -30.066724869774543,
+    "score": 26.4,
+    "components_json": "{\"trend\": 16.681199845708285, \"rsi\": 31.804880281774004, \"vs_200dma\": 0.0, \"short_squeeze\": 100.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

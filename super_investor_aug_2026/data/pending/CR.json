@@ -1,0 +1,55 @@
+{
+  "ticker": "CR",
+  "stock": {
+    "ticker": "CR",
+    "name": "Crane Company",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SP",
+      "manager_name": "Dennis Hong - ShawSpring Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 7.82,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CR",
+    "asof": "2026-08-15",
+    "market_cap": 12620129280.0,
+    "pe": 38.17133,
+    "forward_pe": 27.978354,
+    "ev_ebitda": 17.981,
+    "fcf_yield": 0.02882300235834034,
+    "roe": 0.16521999,
+    "gross_margin": 0.46965,
+    "op_margin": 0.35463002,
+    "rev_growth": 0.256,
+    "debt_to_equity": 51.181
+  },
+  "market_stats": {
+    "ticker": "CR",
+    "asof": "2026-08-15",
+    "short_pct_float": 0.020599999,
+    "short_ratio": 2.08,
+    "putcall_oi_ratio": 4.6891891891891895,
+    "avg_volume": 477943.0,
+    "beta": 1.094
+  },
+  "momentum": {
+    "ticker": "CR",
+    "asof": "2026-08-15",
+    "ret_1m": 1.1535743173344493,
+    "ret_3m": 19.76077523327151,
+    "ret_6m": 9.465785960492145,
+    "ret_12m": 13.146725037373908,
+    "rsi14": 42.635949713998585,
+    "pct_vs_200dma": 12.966088154090327,
+    "score": 52.0,
+    "components_json": "{\"trend\": 64.02665837307866, \"rsi\": 42.635949713998585, \"vs_200dma\": 75.93217630818066, \"short_squeeze\": 10.299999500000002, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

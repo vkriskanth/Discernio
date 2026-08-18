@@ -1,0 +1,55 @@
+{
+  "ticker": "ACI",
+  "stock": {
+    "ticker": "ACI",
+    "name": "Albertsons Companies, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Grocery Stores"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SE",
+      "manager_name": "Mason Hawkins - Southeastern Asset Management",
+      "action": "add",
+      "share_change_pct": 20.32,
+      "pct_of_portfolio": 1.05,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ACI",
+    "asof": "2026-08-12",
+    "market_cap": 5860307456.0,
+    "pe": 75.46875,
+    "forward_pe": 6.394268,
+    "ev_ebitda": 6.1,
+    "fcf_yield": 0.2991971894247318,
+    "roe": 0.02717,
+    "gross_margin": 0.27040002,
+    "op_margin": 0.01428,
+    "rev_growth": 0.002,
+    "debt_to_equity": 973.585
+  },
+  "market_stats": {
+    "ticker": "ACI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1475,
+    "short_ratio": 4.9,
+    "putcall_oi_ratio": 0.5756880733944955,
+    "avg_volume": 8602904.0,
+    "beta": 0.188
+  },
+  "momentum": {
+    "ticker": "ACI",
+    "asof": "2026-08-12",
+    "ret_1m": -16.475616961037296,
+    "ret_3m": -23.044948190066517,
+    "ret_6m": -31.156602269531675,
+    "ret_12m": -36.242015830659014,
+    "rsi14": 63.39971474462985,
+    "pct_vs_200dma": -24.29736603473759,
+    "score": 31.1,
+    "components_json": "{\"trend\": 19.242728529856937, \"rsi\": 63.39971474462985, \"vs_200dma\": 1.405267930524822, \"short_squeeze\": 73.75, \"options_skew\": 61.65160550458715}",
+    "thesis": null
+  }
+}

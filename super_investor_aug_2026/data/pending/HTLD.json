@@ -1,0 +1,55 @@
+{
+  "ticker": "HTLD",
+  "stock": {
+    "ticker": "HTLD",
+    "name": "Heartland Express, Inc.",
+    "sector": "Industrials",
+    "industry": "Trucking"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 9.05,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HTLD",
+    "asof": "2026-08-12",
+    "market_cap": 941081792.0,
+    "pe": null,
+    "forward_pe": 24.26236,
+    "ev_ebitda": 10.548,
+    "fcf_yield": -0.08552139110986008,
+    "roe": -0.028469998,
+    "gross_margin": 0.28059998,
+    "op_margin": -0.04617,
+    "rev_growth": -0.125,
+    "debt_to_equity": 19.358
+  },
+  "market_stats": {
+    "ticker": "HTLD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0631,
+    "short_ratio": 4.51,
+    "putcall_oi_ratio": 0.5248618784530387,
+    "avg_volume": 667920.0,
+    "beta": 1.328
+  },
+  "momentum": {
+    "ticker": "HTLD",
+    "asof": "2026-08-12",
+    "ret_1m": -18.48404082461631,
+    "ret_3m": -0.5128460708796911,
+    "ret_6m": 4.249502534725247,
+    "ret_12m": 61.747860123881935,
+    "rsi14": 23.173285974818228,
+    "pct_vs_200dma": 7.212749743746949,
+    "score": 59.6,
+    "components_json": "{\"trend\": 75.82014098870644, \"rsi\": 23.173285974818228, \"vs_200dma\": 64.4254994874939, \"short_squeeze\": 31.550000000000004, \"options_skew\": 65.04171270718233}",
+    "thesis": null
+  }
+}

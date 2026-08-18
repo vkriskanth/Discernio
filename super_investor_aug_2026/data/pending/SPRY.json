@@ -1,0 +1,55 @@
+{
+  "ticker": "SPRY",
+  "stock": {
+    "ticker": "SPRY",
+    "name": "ARS Pharmaceuticals, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "tp",
+      "manager_name": "Daniel Loeb - Third Point",
+      "action": "add",
+      "share_change_pct": 79.78,
+      "pct_of_portfolio": 0.17,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SPRY",
+    "asof": "2026-08-12",
+    "market_cap": 591847488.0,
+    "pe": null,
+    "forward_pe": -6.3180437,
+    "ev_ebitda": -2.792,
+    "fcf_yield": -0.16604784508268455,
+    "roe": -1.36403,
+    "gross_margin": 0.59408003,
+    "op_margin": -2.6517801,
+    "rev_growth": 1.845,
+    "debt_to_equity": 279.238
+  },
+  "market_stats": {
+    "ticker": "SPRY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.3117,
+    "short_ratio": 9.83,
+    "putcall_oi_ratio": 0.07145790554414784,
+    "avg_volume": 2054503.0,
+    "beta": 0.972
+  },
+  "momentum": {
+    "ticker": "SPRY",
+    "asof": "2026-08-12",
+    "ret_1m": -21.353481885545676,
+    "ret_3m": -30.648898561432592,
+    "ret_6m": -39.66733782777988,
+    "ret_12m": -63.46153577437485,
+    "rsi14": 49.73451557468681,
+    "pct_vs_200dma": -32.05927788226166,
+    "score": 28.4,
+    "components_json": "{\"trend\": 3.520514773486319, \"rsi\": 49.73451557468681, \"vs_200dma\": 0.0, \"short_squeeze\": 100.0, \"options_skew\": 95.28375770020534}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "CORZ",
+  "stock": {
+    "ticker": "CORZ",
+    "name": "Core Scientific, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oc",
+      "manager_name": "Howard Marks - Oaktree Capital Management",
+      "action": "add",
+      "share_change_pct": 11.98,
+      "pct_of_portfolio": 0.35,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CORZ",
+    "asof": "2026-08-12",
+    "market_cap": 6630892032.0,
+    "pe": null,
+    "forward_pe": 147.39357,
+    "ev_ebitda": -114.861,
+    "fcf_yield": 0.07010116372831329,
+    "roe": null,
+    "gross_margin": 0.32136002,
+    "op_margin": 0.06874,
+    "rev_growth": 1.088,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "CORZ",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.22209999,
+    "short_ratio": 4.93,
+    "putcall_oi_ratio": 0.64429332562591,
+    "avg_volume": 12938198.0,
+    "beta": 5.592
+  },
+  "momentum": {
+    "ticker": "CORZ",
+    "asof": "2026-08-12",
+    "ret_1m": -4.210051148717763,
+    "ret_3m": -7.152264162502419,
+    "ret_6m": 16.712635559313437,
+    "ret_12m": 45.629733216004475,
+    "rsi14": 42.156864211725335,
+    "pct_vs_200dma": 6.84683105309456,
+    "score": 66.4,
+    "components_json": "{\"trend\": 71.1200047054451, \"rsi\": 42.156864211725335, \"vs_200dma\": 63.69366210618912, \"short_squeeze\": 100.0, \"options_skew\": 57.0756351807518}",
+    "thesis": null
+  }
+}

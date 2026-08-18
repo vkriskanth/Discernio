@@ -1,0 +1,55 @@
+{
+  "ticker": "NTR",
+  "stock": {
+    "ticker": "NTR",
+    "name": "Nutrien Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 9.34,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NTR",
+    "asof": "2026-08-12",
+    "market_cap": 31851388928.0,
+    "pe": 13.511134,
+    "forward_pe": 13.451691,
+    "ev_ebitda": 7.777,
+    "fcf_yield": 0.05030392827207262,
+    "roe": 0.094399996,
+    "gross_margin": 0.32062,
+    "op_margin": 0.17457001,
+    "rev_growth": 0.04,
+    "debt_to_equity": 49.071
+  },
+  "market_stats": {
+    "ticker": "NTR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0078,
+    "short_ratio": 1.53,
+    "putcall_oi_ratio": 1.6120653973509933,
+    "avg_volume": 2709977.0,
+    "beta": 1.061
+  },
+  "momentum": {
+    "ticker": "NTR",
+    "asof": "2026-08-12",
+    "ret_1m": 1.0927652981136626,
+    "ret_3m": -2.3195861479206825,
+    "ret_6m": -2.0142125191597526,
+    "ret_12m": 20.675013983452594,
+    "rsi14": 42.95542088550251,
+    "pct_vs_200dma": -0.46431289694971456,
+    "score": 41.9,
+    "components_json": "{\"trend\": 56.96986599325691, \"rsi\": 42.95542088550251, \"vs_200dma\": 49.07137420610057, \"short_squeeze\": 3.8999999999999995, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

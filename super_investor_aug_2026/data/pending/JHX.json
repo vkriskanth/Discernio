@@ -1,0 +1,63 @@
+{
+  "ticker": "JHX",
+  "stock": {
+    "ticker": "JHX",
+    "name": "James Hardie Industries plc.",
+    "sector": "Basic Materials",
+    "industry": "Building Materials"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 165.53,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 54.53,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "JHX",
+    "asof": "2026-08-12",
+    "market_cap": 17787209728.0,
+    "pe": 139.27272,
+    "forward_pe": 19.13075,
+    "ev_ebitda": 15.411,
+    "fcf_yield": 0.12125496291893725,
+    "roe": 0.03313,
+    "gross_margin": 0.36766997,
+    "op_margin": 0.16133,
+    "rev_growth": 0.639,
+    "debt_to_equity": 69.137
+  },
+  "market_stats": {
+    "ticker": "JHX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0214,
+    "short_ratio": 1.83,
+    "putcall_oi_ratio": 0.42447728911319393,
+    "avg_volume": 7953001.0,
+    "beta": 1.03
+  },
+  "momentum": {
+    "ticker": "JHX",
+    "asof": "2026-08-12",
+    "ret_1m": 19.685797984558473,
+    "ret_3m": 52.823173482280986,
+    "ret_6m": 26.5586571138591,
+    "ret_12m": 10.117769586570958,
+    "rsi14": 81.51420704792802,
+    "pct_vs_200dma": 38.52768945537255,
+    "score": 76.6,
+    "components_json": "{\"trend\": 77.8616570134704, \"rsi\": 81.51420704792802, \"vs_200dma\": 100.0, \"short_squeeze\": 10.7, \"options_skew\": 71.73736481614998}",
+    "thesis": null
+  }
+}

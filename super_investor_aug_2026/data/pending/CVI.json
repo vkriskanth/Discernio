@@ -1,0 +1,55 @@
+{
+  "ticker": "CVI",
+  "stock": {
+    "ticker": "CVI",
+    "name": "CVR Energy Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Refining & Marketing"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "ic",
+      "manager_name": "Carl Icahn - Icahn Capital Management",
+      "action": "add",
+      "share_change_pct": 1.11,
+      "pct_of_portfolio": 0.31,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CVI",
+    "asof": "2026-08-12",
+    "market_cap": 3443675904.0,
+    "pe": 49.644928,
+    "forward_pe": 14.760887,
+    "ev_ebitda": 6.101,
+    "fcf_yield": 0.062288091556713464,
+    "roe": 0.24254999,
+    "gross_margin": 0.10905,
+    "op_margin": 0.02849,
+    "rev_growth": 0.555,
+    "debt_to_equity": 241.801
+  },
+  "market_stats": {
+    "ticker": "CVI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1858,
+    "short_ratio": 5.69,
+    "putcall_oi_ratio": 0.5125685125685125,
+    "avg_volume": 972440.0,
+    "beta": 0.821
+  },
+  "momentum": {
+    "ticker": "CVI",
+    "asof": "2026-08-12",
+    "ret_1m": 3.279728605623289,
+    "ret_3m": 0.8471553742848359,
+    "ret_6m": 43.739733307278584,
+    "ret_12m": 34.51282484015288,
+    "rsi14": 52.12279425575576,
+    "pct_vs_200dma": 14.05194146831079,
+    "score": 74.1,
+    "components_json": "{\"trend\": 77.18119654053018, \"rsi\": 52.12279425575576, \"vs_200dma\": 78.10388293662157, \"short_squeeze\": 92.89999999999999, \"options_skew\": 65.86168021168021}",
+    "thesis": null
+  }
+}

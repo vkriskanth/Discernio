@@ -1,0 +1,71 @@
+{
+  "ticker": "MRSH",
+  "stock": {
+    "ticker": "MRSH",
+    "name": "Marsh",
+    "sector": "Financial Services",
+    "industry": "Insurance Brokers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.2,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.27,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.52,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MRSH",
+    "asof": "2026-08-12",
+    "market_cap": 90348019712.0,
+    "pe": 23.116606,
+    "forward_pe": 16.596203,
+    "ev_ebitda": 14.462,
+    "fcf_yield": 0.05296463394830141,
+    "roe": 0.25902998,
+    "gross_margin": 0.43994,
+    "op_margin": 0.26323998,
+    "rev_growth": 0.062,
+    "debt_to_equity": 145.027
+  },
+  "market_stats": {
+    "ticker": "MRSH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.015800001,
+    "short_ratio": 2.76,
+    "putcall_oi_ratio": 0.47048903878583476,
+    "avg_volume": 2673588.0,
+    "beta": 0.579
+  },
+  "momentum": {
+    "ticker": "MRSH",
+    "asof": "2026-08-12",
+    "ret_1m": 4.104003194149652,
+    "ret_3m": 16.957540280964565,
+    "ret_6m": 10.992393544029898,
+    "ret_12m": -5.840729104118692,
+    "rsi14": 65.45454886280774,
+    "pct_vs_200dma": 7.104566975995308,
+    "score": 55.9,
+    "components_json": "{\"trend\": 56.04868850585086, \"rsi\": 65.45454886280774, \"vs_200dma\": 64.20913395199062, \"short_squeeze\": 7.900000500000001, \"options_skew\": 68.66838111298483}",
+    "thesis": null
+  }
+}

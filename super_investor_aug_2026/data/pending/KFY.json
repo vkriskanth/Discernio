@@ -1,0 +1,55 @@
+{
+  "ticker": "KFY",
+  "stock": {
+    "ticker": "KFY",
+    "name": "Korn Ferry",
+    "sector": "Industrials",
+    "industry": "Staffing & Employment Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 8.81,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KFY",
+    "asof": "2026-08-12",
+    "market_cap": 4201958656.0,
+    "pe": 15.67433,
+    "forward_pe": 12.945056,
+    "ev_ebitda": 8.959,
+    "fcf_yield": 0.05811296016711689,
+    "roe": 0.14583999,
+    "gross_margin": 0.24304001,
+    "op_margin": 0.14693,
+    "rev_growth": 0.067,
+    "debt_to_equity": 30.126
+  },
+  "market_stats": {
+    "ticker": "KFY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0589,
+    "short_ratio": 4.45,
+    "putcall_oi_ratio": 0.6379310344827587,
+    "avg_volume": 535516.0,
+    "beta": 1.203
+  },
+  "momentum": {
+    "ticker": "KFY",
+    "asof": "2026-08-12",
+    "ret_1m": 15.303283834609417,
+    "ret_3m": 24.42567112510412,
+    "ret_6m": 26.17975915000241,
+    "ret_12m": 21.248889860673547,
+    "rsi14": 66.59834613235944,
+    "pct_vs_200dma": 23.669179745310043,
+    "score": 72.5,
+    "components_json": "{\"trend\": 73.68118502680139, \"rsi\": 66.59834613235944, \"vs_200dma\": 97.33835949062009, \"short_squeeze\": 29.45, \"options_skew\": 57.5}",
+    "thesis": null
+  }
+}

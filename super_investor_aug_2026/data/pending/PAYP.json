@@ -1,0 +1,55 @@
+{
+  "ticker": "PAYP",
+  "stock": {
+    "ticker": "PAYP",
+    "name": "PayPay Corporation - American D",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TGM",
+      "manager_name": "Chase Coleman - Tiger Global Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PAYP",
+    "asof": "2026-08-12",
+    "market_cap": 10014946304.0,
+    "pe": 13.088495,
+    "forward_pe": 19.590824,
+    "ev_ebitda": 7.27,
+    "fcf_yield": 4.705804091748029,
+    "roe": 0.37265,
+    "gross_margin": 0.53919,
+    "op_margin": 0.27391002,
+    "rev_growth": 0.27,
+    "debt_to_equity": 170.251
+  },
+  "market_stats": {
+    "ticker": "PAYP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.021300001,
+    "short_ratio": 3.67,
+    "putcall_oi_ratio": 1.0,
+    "avg_volume": 1066483.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "PAYP",
+    "asof": "2026-08-12",
+    "ret_1m": -0.6666692097981763,
+    "ret_3m": -26.74533182520885,
+    "ret_6m": null,
+    "ret_12m": null,
+    "rsi14": 45.29485642955878,
+    "pct_vs_200dma": null,
+    "score": 40.5,
+    "components_json": "{\"trend\": 41.976400452437346, \"rsi\": 45.29485642955878, \"vs_200dma\": 50, \"short_squeeze\": 10.650000499999999, \"options_skew\": 33.35}",
+    "thesis": null
+  }
+}

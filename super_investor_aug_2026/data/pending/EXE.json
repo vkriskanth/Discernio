@@ -1,0 +1,55 @@
+{
+  "ticker": "EXE",
+  "stock": {
+    "ticker": "EXE",
+    "name": "Expand Energy Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oc",
+      "manager_name": "Howard Marks - Oaktree Capital Management",
+      "action": "add",
+      "share_change_pct": 3.46,
+      "pct_of_portfolio": 0.45,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EXE",
+    "asof": "2026-08-12",
+    "market_cap": 22479017984.0,
+    "pe": 8.370689,
+    "forward_pe": 10.750712,
+    "ev_ebitda": 3.84,
+    "fcf_yield": 0.06522749281323766,
+    "roe": 0.14893,
+    "gross_margin": 0.47069,
+    "op_margin": 0.26323998,
+    "rev_growth": -0.106,
+    "debt_to_equity": 19.207
+  },
+  "market_stats": {
+    "ticker": "EXE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0373,
+    "short_ratio": 2.03,
+    "putcall_oi_ratio": 2.006905048421294,
+    "avg_volume": 3659711.0,
+    "beta": 0.319
+  },
+  "momentum": {
+    "ticker": "EXE",
+    "asof": "2026-08-12",
+    "ret_1m": 10.192466491830343,
+    "ret_3m": 0.9490744941692109,
+    "ret_6m": -4.2395747453359505,
+    "ret_12m": 1.9465745621953578,
+    "rsi14": 61.34414914923871,
+    "pct_vs_200dma": -4.638755330285127,
+    "score": 41.2,
+    "components_json": "{\"trend\": 49.79147974952812, \"rsi\": 61.34414914923871, \"vs_200dma\": 40.72248933942974, \"short_squeeze\": 18.65, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

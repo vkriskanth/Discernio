@@ -1,0 +1,63 @@
+{
+  "ticker": "IVV",
+  "stock": {
+    "ticker": "IVV",
+    "name": "iShares Core S&P 500 ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "add",
+      "share_change_pct": 22.31,
+      "pct_of_portfolio": 0.1,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 1.61,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IVV",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 26.011314,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "IVV",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.1893939393939394,
+    "avg_volume": 7750822.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "IVV",
+    "asof": "2026-08-12",
+    "ret_1m": 2.8591517897917917,
+    "ret_3m": 5.014255664512013,
+    "ret_6m": 12.331076816607766,
+    "ret_12m": 23.007836065038177,
+    "rsi14": 75.94267040537017,
+    "pct_vs_200dma": 10.193740241472526,
+    "score": 63.5,
+    "components_json": "{\"trend\": 64.4067341703512, \"rsi\": 75.94267040537017, \"vs_200dma\": 70.38748048294505, \"short_squeeze\": 0.0, \"options_skew\": 87.41742424242425}",
+    "thesis": null
+  }
+}

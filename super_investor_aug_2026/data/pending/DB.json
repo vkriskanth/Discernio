@@ -1,0 +1,55 @@
+{
+  "ticker": "DB",
+  "stock": {
+    "ticker": "DB",
+    "name": "Deutsche Bank AG",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 75.86,
+      "pct_of_portfolio": 3.84,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DB",
+    "asof": "2026-08-12",
+    "market_cap": 72285134848.0,
+    "pe": 10.123685,
+    "forward_pe": 8.044852,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.08891,
+    "gross_margin": 0.0,
+    "op_margin": 0.33400002,
+    "rev_growth": 0.087,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "DB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0033000002,
+    "short_ratio": 2.99,
+    "putcall_oi_ratio": 1.2526315789473683,
+    "avg_volume": 2494488.0,
+    "beta": 0.99
+  },
+  "momentum": {
+    "ticker": "DB",
+    "asof": "2026-08-12",
+    "ret_1m": 8.502819750820546,
+    "ret_3m": 26.46369661627268,
+    "ret_6m": 10.187580248607775,
+    "ret_12m": 14.629343774835867,
+    "rsi14": 81.00001017252603,
+    "pct_vs_200dma": 13.434641554792304,
+    "score": 59.9,
+    "components_json": "{\"trend\": 66.84712056939848, \"rsi\": 81.00001017252603, \"vs_200dma\": 76.86928310958461, \"short_squeeze\": 1.6500001, \"options_skew\": 16.499473684210535}",
+    "thesis": null
+  }
+}

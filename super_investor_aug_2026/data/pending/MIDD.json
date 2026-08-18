@@ -1,0 +1,55 @@
+{
+  "ticker": "MIDD",
+  "stock": {
+    "ticker": "MIDD",
+    "name": "Middleby Corp.",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 1.02,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MIDD",
+    "asof": "2026-08-12",
+    "market_cap": 5324006912.0,
+    "pe": 18.485086,
+    "forward_pe": 14.219675,
+    "ev_ebitda": 10.439,
+    "fcf_yield": null,
+    "roe": 0.10974,
+    "gross_margin": 0.38401002,
+    "op_margin": 0.17236,
+    "rev_growth": -0.105,
+    "debt_to_equity": 89.573
+  },
+  "market_stats": {
+    "ticker": "MIDD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0465,
+    "short_ratio": 2.77,
+    "putcall_oi_ratio": 0.2230769230769231,
+    "avg_volume": 723181.0,
+    "beta": 1.354
+  },
+  "momentum": {
+    "ticker": "MIDD",
+    "asof": "2026-08-12",
+    "ret_1m": -12.036553524804173,
+    "ret_3m": -2.5438643593895915,
+    "ret_6m": -9.256478750353791,
+    "ret_12m": 22.642524504021623,
+    "rsi14": 32.50068272937612,
+    "pct_vs_200dma": -0.8877966202866294,
+    "score": 50.0,
+    "components_json": "{\"trend\": 55.51690686868564, \"rsi\": 32.50068272937612, \"vs_200dma\": 48.22440675942674, \"short_squeeze\": 23.25, \"options_skew\": 85.17076923076922}",
+    "thesis": null
+  }
+}

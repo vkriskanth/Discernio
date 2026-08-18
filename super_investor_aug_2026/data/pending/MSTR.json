@@ -1,0 +1,55 @@
+{
+  "ticker": "MSTR",
+  "stock": {
+    "ticker": "MSTR",
+    "name": "Strategy Inc",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "add",
+      "share_change_pct": 106.17,
+      "pct_of_portfolio": 0.88,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MSTR",
+    "asof": "2026-08-12",
+    "market_cap": 37403320320.0,
+    "pe": null,
+    "forward_pe": 1.9190744,
+    "ev_ebitda": -1.532,
+    "fcf_yield": -0.6038908545753405,
+    "roe": -0.63562,
+    "gross_margin": 0.67600995,
+    "op_margin": -68.081116,
+    "rev_growth": 0.069,
+    "debt_to_equity": 14.938
+  },
+  "market_stats": {
+    "ticker": "MSTR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0892,
+    "short_ratio": 1.75,
+    "putcall_oi_ratio": 1.0874036619483682,
+    "avg_volume": 20166330.0,
+    "beta": 3.555
+  },
+  "momentum": {
+    "ticker": "MSTR",
+    "asof": "2026-08-12",
+    "ret_1m": -2.4549089343664066,
+    "ret_3m": -48.38710411397378,
+    "ret_6m": -28.432705527857728,
+    "ret_12m": -76.21873787683967,
+    "rsi14": 52.06028282880577,
+    "pct_vs_200dma": -36.56164936663805,
+    "score": 15.0,
+    "components_json": "{\"trend\": 0.0, \"rsi\": 52.06028282880577, \"vs_200dma\": 0.0, \"short_squeeze\": 44.6, \"options_skew\": 27.52017574804384}",
+    "thesis": null
+  }
+}

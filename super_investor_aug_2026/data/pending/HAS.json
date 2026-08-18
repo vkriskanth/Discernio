@@ -1,0 +1,55 @@
+{
+  "ticker": "HAS",
+  "stock": {
+    "ticker": "HAS",
+    "name": "Hasbro, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Leisure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.98,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HAS",
+    "asof": "2026-08-12",
+    "market_cap": 13440831488.0,
+    "pe": 16.956406,
+    "forward_pe": 14.603008,
+    "ev_ebitda": 12.469,
+    "fcf_yield": 0.05119847061652262,
+    "roe": 1.5956,
+    "gross_margin": 0.63822,
+    "op_margin": 0.22157,
+    "rev_growth": 0.162,
+    "debt_to_equity": 531.042
+  },
+  "market_stats": {
+    "ticker": "HAS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0596,
+    "short_ratio": 2.97,
+    "putcall_oi_ratio": 0.7327755905511811,
+    "avg_volume": 2232448.0,
+    "beta": 0.468
+  },
+  "momentum": {
+    "ticker": "HAS",
+    "asof": "2026-08-12",
+    "ret_1m": 24.389456194419722,
+    "ret_3m": -0.3456093537802518,
+    "ret_6m": 2.4023346244764987,
+    "ret_12m": 29.137690554568696,
+    "rsi14": 77.51735748493434,
+    "pct_vs_200dma": 10.554217678080423,
+    "score": 62.4,
+    "components_json": "{\"trend\": 62.272093803036356, \"rsi\": 77.51735748493434, \"vs_200dma\": 71.10843535616084, \"short_squeeze\": 29.8, \"options_skew\": 51.17386811023622}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "AU",
+  "stock": {
+    "ticker": "AU",
+    "name": "AngloGold Ashanti PLC",
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 106.98,
+      "pct_of_portfolio": 0.55,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AU",
+    "asof": "2026-08-12",
+    "market_cap": 50216157184.0,
+    "pe": 13.309209,
+    "forward_pe": 9.973871,
+    "ev_ebitda": 7.049,
+    "fcf_yield": 0.07878191303058352,
+    "roe": 0.44731,
+    "gross_margin": 0.54833,
+    "op_margin": 0.51192003,
+    "rev_growth": 0.27,
+    "debt_to_equity": 16.676
+  },
+  "market_stats": {
+    "ticker": "AU",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0128999995,
+    "short_ratio": 2.19,
+    "putcall_oi_ratio": null,
+    "avg_volume": 3055754.0,
+    "beta": 0.702
+  },
+  "momentum": {
+    "ticker": "AU",
+    "asof": "2026-08-12",
+    "ret_1m": 23.100545296993968,
+    "ret_3m": -8.268413866545776,
+    "ret_6m": -5.726546635248297,
+    "ret_12m": 80.4395475896137,
+    "rsi14": 79.72626443204689,
+    "pct_vs_200dma": 8.87672404835187,
+    "score": 65.7,
+    "components_json": "{\"trend\": 77.97733088530725, \"rsi\": 79.72626443204689, \"vs_200dma\": 67.75344809670374, \"short_squeeze\": 6.449999750000001, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

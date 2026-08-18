@@ -1,0 +1,63 @@
+{
+  "ticker": "CVLG",
+  "stock": {
+    "ticker": "CVLG",
+    "name": "Covenant Logistics Group, Inc.",
+    "sector": "Industrials",
+    "industry": "Trucking"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 44.64,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CVLG",
+    "asof": "2026-08-12",
+    "market_cap": 857261312.0,
+    "pe": 675.6,
+    "forward_pe": 12.283636,
+    "ev_ebitda": 10.334,
+    "fcf_yield": -0.05223800884647877,
+    "roe": 0.00232,
+    "gross_margin": 0.20257999,
+    "op_margin": 0.02844,
+    "rev_growth": 0.099,
+    "debt_to_equity": 78.579
+  },
+  "market_stats": {
+    "ticker": "CVLG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0377,
+    "short_ratio": 3.28,
+    "putcall_oi_ratio": 3.7552083333333335,
+    "avg_volume": 211912.0,
+    "beta": 1.304
+  },
+  "momentum": {
+    "ticker": "CVLG",
+    "asof": "2026-08-12",
+    "ret_1m": -26.6236582110005,
+    "ret_3m": 2.9998560546301567,
+    "ret_6m": 18.91184797326717,
+    "ret_12m": 44.649306793454066,
+    "rsi14": 9.566687418156832,
+    "pct_vs_200dma": 12.487728593033243,
+    "score": 51.8,
+    "components_json": "{\"trend\": 74.43323392575083, \"rsi\": 9.566687418156832, \"vs_200dma\": 74.97545718606648, \"short_squeeze\": 18.849999999999998, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

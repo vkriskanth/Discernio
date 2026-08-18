@@ -1,0 +1,55 @@
+{
+  "ticker": "UPBD",
+  "stock": {
+    "ticker": "UPBD",
+    "name": "Upbound Group, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "add",
+      "share_change_pct": 71.43,
+      "pct_of_portfolio": 0.24,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "UPBD",
+    "asof": "2026-08-12",
+    "market_cap": 1101858688.0,
+    "pe": 12.272727,
+    "forward_pe": 4.124062,
+    "ev_ebitda": 5.687,
+    "fcf_yield": 1.4231981079591942,
+    "roe": 0.12733,
+    "gross_margin": 0.49133998,
+    "op_margin": 0.06047,
+    "rev_growth": 0.005,
+    "debt_to_equity": 232.932
+  },
+  "market_stats": {
+    "ticker": "UPBD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.135,
+    "short_ratio": 6.27,
+    "putcall_oi_ratio": 0.980719794344473,
+    "avg_volume": 1006045.0,
+    "beta": 1.779
+  },
+  "momentum": {
+    "ticker": "UPBD",
+    "asof": "2026-08-12",
+    "ret_1m": -6.98818945679236,
+    "ret_3m": 2.889800507417184,
+    "ret_6m": -0.6331114426557538,
+    "ret_12m": -5.779327756629693,
+    "rsi14": 28.57142857142857,
+    "pct_vs_200dma": 1.851391419171855,
+    "score": 47.3,
+    "components_json": "{\"trend\": 48.36527561677655, \"rsi\": 28.57142857142857, \"vs_200dma\": 53.70278283834371, \"short_squeeze\": 67.5, \"options_skew\": 34.63598971722365}",
+    "thesis": null
+  }
+}

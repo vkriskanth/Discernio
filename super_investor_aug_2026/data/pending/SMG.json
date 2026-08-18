@@ -1,0 +1,63 @@
+{
+  "ticker": "SMG",
+  "stock": {
+    "ticker": "SMG",
+    "name": "Scotts Miracle-Gro Co.",
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.66,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SMG",
+    "asof": "2026-08-12",
+    "market_cap": 3593355264.0,
+    "pe": 23.830116,
+    "forward_pe": 13.042394,
+    "ev_ebitda": 11.357,
+    "fcf_yield": 0.06915542208965397,
+    "roe": null,
+    "gross_margin": 0.32157,
+    "op_margin": 0.16825001,
+    "rev_growth": 0.011,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "SMG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1094,
+    "short_ratio": 4.97,
+    "putcall_oi_ratio": 1.1062176165803108,
+    "avg_volume": 966358.0,
+    "beta": 1.829
+  },
+  "momentum": {
+    "ticker": "SMG",
+    "asof": "2026-08-12",
+    "ret_1m": -3.3452966010287355,
+    "ret_3m": 5.207611555967007,
+    "ret_6m": -5.594822024826495,
+    "ret_12m": 8.364447541135478,
+    "rsi14": 38.10747268951554,
+    "pct_vs_200dma": 0.9956784654351569,
+    "score": 48.1,
+    "components_json": "{\"trend\": 53.22961587579634, \"rsi\": 38.10747268951554, \"vs_200dma\": 51.99135693087031, \"short_squeeze\": 54.699999999999996, \"options_skew\": 26.26528497409327}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "AIT",
+  "stock": {
+    "ticker": "AIT",
+    "name": "Applied Industrial Technologies",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.81,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AIT",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 33.54872,
+    "forward_pe": 29.994501,
+    "ev_ebitda": 22.284,
+    "fcf_yield": null,
+    "roe": 0.21899,
+    "gross_margin": 0.30386,
+    "op_margin": 0.110190004,
+    "rev_growth": 0.073,
+    "debt_to_equity": 19.639
+  },
+  "market_stats": {
+    "ticker": "AIT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0231,
+    "short_ratio": 2.66,
+    "putcall_oi_ratio": 0.391304347826087,
+    "avg_volume": 262369.0,
+    "beta": 0.847
+  },
+  "momentum": {
+    "ticker": "AIT",
+    "asof": "2026-08-12",
+    "ret_1m": 9.403396423247745,
+    "ret_3m": 13.859533635565736,
+    "ret_6m": 23.343528883842744,
+    "ret_12m": 34.08377137622847,
+    "rsi14": 63.63636363636363,
+    "pct_vs_200dma": 22.637670291966128,
+    "score": 71.8,
+    "components_json": "{\"trend\": 74.79442730631393, \"rsi\": 63.63636363636363, \"vs_200dma\": 95.27534058393226, \"short_squeeze\": 11.55, \"options_skew\": 73.95}",
+    "thesis": null
+  }
+}

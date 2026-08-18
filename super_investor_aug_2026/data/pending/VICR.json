@@ -1,0 +1,55 @@
+{
+  "ticker": "VICR",
+  "stock": {
+    "ticker": "VICR",
+    "name": "Vicor Corporation",
+    "sector": "Technology",
+    "industry": "Electronic Components"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 7.37,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VICR",
+    "asof": "2026-08-12",
+    "market_cap": 10282723328.0,
+    "pe": 71.480774,
+    "forward_pe": 40.15969,
+    "ev_ebitda": 80.815,
+    "fcf_yield": 3.3016545244929105e-05,
+    "roe": 0.20131999,
+    "gross_margin": 0.56628,
+    "op_margin": 0.2433,
+    "rev_growth": 0.493,
+    "debt_to_equity": 0.912
+  },
+  "market_stats": {
+    "ticker": "VICR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.072,
+    "short_ratio": 1.67,
+    "putcall_oi_ratio": 1.354922279792746,
+    "avg_volume": 859432.0,
+    "beta": 2.384
+  },
+  "momentum": {
+    "ticker": "VICR",
+    "asof": "2026-08-12",
+    "ret_1m": -16.40075798972117,
+    "ret_3m": -24.411172857517972,
+    "ret_6m": 40.45607914914437,
+    "ret_12m": 377.7873832099244,
+    "rsi14": 45.968878108322315,
+    "pct_vs_200dma": 14.738188559296162,
+    "score": 71.3,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 45.968878108322315, \"vs_200dma\": 79.47637711859232, \"short_squeeze\": 36.0, \"options_skew\": 9.676683937823839}",
+    "thesis": null
+  }
+}

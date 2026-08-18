@@ -1,0 +1,55 @@
+{
+  "ticker": "PSX",
+  "stock": {
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "sector": "Energy",
+    "industry": "Oil & Gas Refining & Marketing"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PSX",
+    "asof": "2026-08-12",
+    "market_cap": 89783377920.0,
+    "pe": 12.781677,
+    "forward_pe": 10.716803,
+    "ev_ebitda": 10.8,
+    "fcf_yield": 0.05062602162340207,
+    "roe": 0.23452999,
+    "gross_margin": 0.13098,
+    "op_margin": 0.08529,
+    "rev_growth": 0.531,
+    "debt_to_equity": 62.884
+  },
+  "market_stats": {
+    "ticker": "PSX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.021300001,
+    "short_ratio": 2.89,
+    "putcall_oi_ratio": 0.6666334164588529,
+    "avg_volume": 2597980.0,
+    "beta": 0.687
+  },
+  "momentum": {
+    "ticker": "PSX",
+    "asof": "2026-08-12",
+    "ret_1m": 11.767188975011567,
+    "ret_3m": 29.276431729736686,
+    "ret_6m": 45.35253838690907,
+    "ret_12m": 96.73338036648393,
+    "rsi14": 70.64638862358795,
+    "pct_vs_200dma": 38.959876641780134,
+    "score": 82.2,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 70.64638862358795, \"vs_200dma\": 100.0, \"short_squeeze\": 10.650000499999999, \"options_skew\": 55.585551122194516}",
+    "thesis": null
+  }
+}

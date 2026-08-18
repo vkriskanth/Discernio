@@ -1,0 +1,55 @@
+{
+  "ticker": "SHAZ",
+  "stock": {
+    "ticker": "SHAZ",
+    "name": "SharonAI Holdings, Inc.",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oc",
+      "manager_name": "Howard Marks - Oaktree Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.53,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SHAZ",
+    "asof": "2026-08-12",
+    "market_cap": 2365537536.0,
+    "pe": null,
+    "forward_pe": -8.693421,
+    "ev_ebitda": -57.685,
+    "fcf_yield": -0.09726745168840982,
+    "roe": -0.84255,
+    "gross_margin": 0.33923,
+    "op_margin": -6.2479496,
+    "rev_growth": 4.123,
+    "debt_to_equity": 89.695
+  },
+  "market_stats": {
+    "ticker": "SHAZ",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.105399996,
+    "short_ratio": 1.12,
+    "putcall_oi_ratio": 0.3768899276897232,
+    "avg_volume": 1621917.0,
+    "beta": 6.206
+  },
+  "momentum": {
+    "ticker": "SHAZ",
+    "asof": "2026-08-12",
+    "ret_1m": -4.84143204352031,
+    "ret_3m": 30.153549989595607,
+    "ret_6m": null,
+    "ret_12m": null,
+    "rsi14": 48.38357466545557,
+    "pct_vs_200dma": null,
+    "score": 56.1,
+    "components_json": "{\"trend\": 59.046064996878684, \"rsi\": 48.38357466545557, \"vs_200dma\": 50, \"short_squeeze\": 52.699998, \"options_skew\": 74.91144182309547}",
+    "thesis": null
+  }
+}

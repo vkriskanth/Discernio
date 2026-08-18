@@ -1,0 +1,147 @@
+{
+  "ticker": "BRK.B",
+  "stock": {
+    "ticker": "BRK.B",
+    "name": null,
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 268.76,
+      "pct_of_portfolio": 5.24,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HH",
+      "manager_name": "Duan Yongping - H&H International Investment",
+      "action": "add",
+      "share_change_pct": 27.47,
+      "pct_of_portfolio": 4.72,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HC",
+      "manager_name": "Li Lu - Himalaya Capital Management",
+      "action": "add",
+      "share_change_pct": 23.46,
+      "pct_of_portfolio": 2.85,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "fairx",
+      "manager_name": "Bruce Berkowitz - Fairholme Capital",
+      "action": "add",
+      "share_change_pct": 74.13,
+      "pct_of_portfolio": 1.26,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "add",
+      "share_change_pct": 7.95,
+      "pct_of_portfolio": 1.14,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "ca",
+      "manager_name": "Francis Chou - Chou Associates",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.72,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CHE",
+      "manager_name": "Steven Check - Check Capital Management",
+      "action": "add",
+      "share_change_pct": 0.96,
+      "pct_of_portfolio": 0.31,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "add",
+      "share_change_pct": 1.53,
+      "pct_of_portfolio": 0.22,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HH",
+      "manager_name": "Duan Yongping - H&H International Investment",
+      "action": "add",
+      "share_change_pct": 0.9,
+      "pct_of_portfolio": 0.21,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "fairx",
+      "manager_name": "Bruce Berkowitz - Fairholme Capital",
+      "action": "add",
+      "share_change_pct": 5.08,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "add",
+      "share_change_pct": 2.21,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.35,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 0.22,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.62,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 0.43,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BRK.B",
+    "asof": "2026-08-15",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": null,
+  "momentum": null
+}

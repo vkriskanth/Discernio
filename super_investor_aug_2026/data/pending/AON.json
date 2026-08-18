@@ -1,0 +1,87 @@
+{
+  "ticker": "AON",
+  "stock": {
+    "ticker": "AON",
+    "name": "Aon Plc",
+    "sector": "Financial Services",
+    "industry": "Insurance Brokers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 4.85,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 38.72,
+      "pct_of_portfolio": 0.27,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 7.12,
+      "pct_of_portfolio": 0.22,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 3.36,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "JIM",
+      "manager_name": "Jensen Investment Management",
+      "action": "add",
+      "share_change_pct": 0.86,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AON",
+    "asof": "2026-08-12",
+    "market_cap": 74759364608.0,
+    "pe": 19.428335,
+    "forward_pe": 16.511652,
+    "ev_ebitda": 15.34,
+    "fcf_yield": 0.04268194221193989,
+    "roe": 0.44699,
+    "gross_margin": 0.48154,
+    "op_margin": 0.23457001,
+    "rev_growth": 0.022,
+    "debt_to_equity": 163.481
+  },
+  "market_stats": {
+    "ticker": "AON",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0234,
+    "short_ratio": 3.52,
+    "putcall_oi_ratio": 0.5293333333333333,
+    "avg_volume": 1554180.0,
+    "beta": 0.676
+  },
+  "momentum": {
+    "ticker": "AON",
+    "asof": "2026-08-12",
+    "ret_1m": -1.3345791257441841,
+    "ret_3m": 11.933084020992046,
+    "ret_6m": 11.674148895829784,
+    "ret_12m": -3.5468259137821367,
+    "rsi14": 48.62002380291827,
+    "pct_vs_200dma": 5.250733293781895,
+    "score": 52.3,
+    "components_json": "{\"trend\": 55.663439509533696, \"rsi\": 48.62002380291827, \"vs_200dma\": 60.50146658756379, \"short_squeeze\": 11.7, \"options_skew\": 64.74346666666668}",
+    "thesis": null
+  }
+}

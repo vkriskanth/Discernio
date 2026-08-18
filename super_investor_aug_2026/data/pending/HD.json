@@ -1,0 +1,71 @@
+{
+  "ticker": "HD",
+  "stock": {
+    "ticker": "HD",
+    "name": "Home Depot, Inc. (The)",
+    "sector": "Consumer Cyclical",
+    "industry": "Home Improvement Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.46,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 25.03,
+      "pct_of_portfolio": 0.37,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 0.27,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HD",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 24.445274,
+    "forward_pe": 21.350008,
+    "ev_ebitda": 16.66,
+    "fcf_yield": null,
+    "roe": 1.2838,
+    "gross_margin": 0.33126998,
+    "op_margin": 0.11926,
+    "rev_growth": 0.048,
+    "debt_to_equity": 459.356
+  },
+  "market_stats": {
+    "ticker": "HD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0137,
+    "short_ratio": 3.15,
+    "putcall_oi_ratio": 0.7382966507177033,
+    "avg_volume": 4705106.0,
+    "beta": 0.959
+  },
+  "momentum": {
+    "ticker": "HD",
+    "asof": "2026-08-12",
+    "ret_1m": 2.436789016490737,
+    "ret_3m": 12.27372428748108,
+    "ret_6m": -9.952938092741748,
+    "ret_12m": -8.350709794729916,
+    "rsi14": 63.251050348239325,
+    "pct_vs_200dma": 0.5360778830793667,
+    "score": 47.0,
+    "components_json": "{\"trend\": 47.355951940529835, \"rsi\": 63.251050348239325, \"vs_200dma\": 51.07215576615873, \"short_squeeze\": 6.8500000000000005, \"options_skew\": 50.80561339712919}",
+    "thesis": null
+  }
+}

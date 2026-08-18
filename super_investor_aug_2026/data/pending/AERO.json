@@ -1,0 +1,63 @@
+{
+  "ticker": "AERO",
+  "stock": {
+    "ticker": "AERO",
+    "name": "Grupo Aeromexico, S.A.B. de C.V",
+    "sector": "Industrials",
+    "industry": "Airlines"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oc",
+      "manager_name": "Howard Marks - Oaktree Capital Management",
+      "action": "add",
+      "share_change_pct": 5.08,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "add",
+      "share_change_pct": 0.52,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AERO",
+    "asof": "2026-08-12",
+    "market_cap": 2305273856.0,
+    "pe": 1.1142454,
+    "forward_pe": 8.245314,
+    "ev_ebitda": 5.556,
+    "fcf_yield": 0.25836431990490594,
+    "roe": null,
+    "gross_margin": 0.33103,
+    "op_margin": 0.0417,
+    "rev_growth": 0.126,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "AERO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0081,
+    "short_ratio": 2.6,
+    "putcall_oi_ratio": 0.875,
+    "avg_volume": 231572.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "AERO",
+    "asof": "2026-08-12",
+    "ret_1m": -5.738189544172167,
+    "ret_3m": -3.3108462652393422,
+    "ret_6m": -17.130846617202554,
+    "ret_12m": null,
+    "rsi14": 58.160240495729546,
+    "pct_vs_200dma": null,
+    "score": 43.3,
+    "components_json": "{\"trend\": 43.86749213526743, \"rsi\": 58.160240495729546, \"vs_200dma\": 50, \"short_squeeze\": 4.05, \"options_skew\": 41.6875}",
+    "thesis": null
+  }
+}

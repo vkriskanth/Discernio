@@ -1,0 +1,55 @@
+{
+  "ticker": "VREX",
+  "stock": {
+    "ticker": "VREX",
+    "name": "Varex Imaging Corporation",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 8.82,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VREX",
+    "asof": "2026-08-12",
+    "market_cap": 780796416.0,
+    "pe": 34.95283,
+    "forward_pe": 16.933271,
+    "ev_ebitda": 10.807,
+    "fcf_yield": -0.05062139014736461,
+    "roe": 0.04592,
+    "gross_margin": 0.34324002,
+    "op_margin": 0.10831001,
+    "rev_growth": 0.037,
+    "debt_to_equity": 74.3
+  },
+  "market_stats": {
+    "ticker": "VREX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.033099998,
+    "short_ratio": 3.24,
+    "putcall_oi_ratio": 1.6666666666666667,
+    "avg_volume": 672620.0,
+    "beta": 0.877
+  },
+  "momentum": {
+    "ticker": "VREX",
+    "asof": "2026-08-12",
+    "ret_1m": 71.49487955722596,
+    "ret_3m": 56.12848210034718,
+    "ret_6m": 34.03483070584981,
+    "ret_12m": 162.35794621358104,
+    "rsi14": 95.06313245920141,
+    "pct_vs_200dma": 56.750913745108456,
+    "score": 80.9,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 95.06313245920141, \"vs_200dma\": 100.0, \"short_squeeze\": 16.549999, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

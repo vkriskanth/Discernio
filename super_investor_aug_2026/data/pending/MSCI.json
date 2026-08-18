@@ -1,0 +1,55 @@
+{
+  "ticker": "MSCI",
+  "stock": {
+    "ticker": "MSCI",
+    "name": "MSCI Inc.",
+    "sector": "Financial Services",
+    "industry": "Financial Data & Stock Exchanges"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HC",
+      "manager_name": "Li Lu - Himalaya Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.32,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MSCI",
+    "asof": "2026-08-12",
+    "market_cap": 40685101056.0,
+    "pe": 30.564175,
+    "forward_pe": 24.875982,
+    "ev_ebitda": 23.966,
+    "fcf_yield": 0.029364703269523076,
+    "roe": null,
+    "gross_margin": 0.82975,
+    "op_margin": 0.56298,
+    "rev_growth": 0.122,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "MSCI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0196,
+    "short_ratio": 1.63,
+    "putcall_oi_ratio": 0.6836306400839455,
+    "avg_volume": 719111.0,
+    "beta": 1.222
+  },
+  "momentum": {
+    "ticker": "MSCI",
+    "asof": "2026-08-12",
+    "ret_1m": -7.286136488173844,
+    "ret_3m": -3.8852753676203666,
+    "ret_6m": 1.275099398701518,
+    "ret_12m": 4.2145817298615995,
+    "rsi14": 49.17614102945002,
+    "pct_vs_200dma": -1.7889926619085617,
+    "score": 45.8,
+    "components_json": "{\"trend\": 50.902779901268985, \"rsi\": 49.17614102945002, \"vs_200dma\": 46.422014676182876, \"short_squeeze\": 9.8, \"options_skew\": 54.45183630640084}",
+    "thesis": null
+  }
+}

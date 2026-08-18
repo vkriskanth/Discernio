@@ -1,0 +1,71 @@
+{
+  "ticker": "KKR",
+  "stock": {
+    "ticker": "KKR",
+    "name": "KKR & Co. Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VA",
+      "manager_name": "ValueAct Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 5.31,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LT",
+      "manager_name": "Lindsell Train",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.33,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 65.87,
+      "pct_of_portfolio": 0.18,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KKR",
+    "asof": "2026-08-08",
+    "market_cap": 94954340352.0,
+    "pe": 32.84664,
+    "forward_pe": 13.914021,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": 0.54151,
+    "op_margin": 0.1554,
+    "rev_growth": 0.022,
+    "debt_to_equity": 69.029
+  },
+  "market_stats": {
+    "ticker": "KKR",
+    "asof": "2026-08-08",
+    "short_pct_float": 0.0221,
+    "short_ratio": 3.34,
+    "putcall_oi_ratio": 1.16977600676206,
+    "avg_volume": 4499403.0,
+    "beta": 1.786
+  },
+  "momentum": {
+    "ticker": "KKR",
+    "asof": "2026-08-08",
+    "ret_1m": 6.793394768439898,
+    "ret_3m": 2.6626909463022486,
+    "ret_6m": 4.063134538983459,
+    "ret_12m": -28.408233627545275,
+    "rsi14": 60.99396370409223,
+    "pct_vs_200dma": -3.497318445627151,
+    "score": 39.5,
+    "components_json": "{\"trend\": 40.654454194567606, \"rsi\": 60.99396370409223, \"vs_200dma\": 43.0053631087457, \"short_squeeze\": 11.05, \"options_skew\": 22.025940348970604}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "SHG",
+  "stock": {
+    "ticker": "SHG",
+    "name": "Shinhan Financial Group Co Ltd",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 69.17,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SHG",
+    "asof": "2026-08-12",
+    "market_cap": 34650906624.0,
+    "pe": 10.136363,
+    "forward_pe": 7.8814197,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.08941,
+    "gross_margin": 0.0,
+    "op_margin": 0.52981997,
+    "rev_growth": 0.141,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "SHG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.001,
+    "short_ratio": 1.86,
+    "putcall_oi_ratio": 0.208955223880597,
+    "avg_volume": 266941.0,
+    "beta": 0.642
+  },
+  "momentum": {
+    "ticker": "SHG",
+    "asof": "2026-08-12",
+    "ret_1m": 4.10881475013356,
+    "ret_3m": 8.42556735533111,
+    "ret_6m": 18.918922589736752,
+    "ret_12m": 47.728188334067156,
+    "rsi14": 61.90994830805864,
+    "pct_vs_200dma": 18.489952009942456,
+    "score": 70.6,
+    "components_json": "{\"trend\": 77.29462231714723, \"rsi\": 61.90994830805864, \"vs_200dma\": 86.97990401988491, \"short_squeeze\": 0.5, \"options_skew\": 86.11268656716419}",
+    "thesis": null
+  }
+}

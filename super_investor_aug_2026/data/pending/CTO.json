@@ -1,0 +1,55 @@
+{
+  "ticker": "CTO",
+  "stock": {
+    "ticker": "CTO",
+    "name": "CTO Realty Growth, Inc.",
+    "sector": "Real Estate",
+    "industry": "REIT - Diversified"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "add",
+      "share_change_pct": 28.08,
+      "pct_of_portfolio": 0.59,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CTO",
+    "asof": "2026-08-12",
+    "market_cap": 818120128.0,
+    "pe": 15.815218,
+    "forward_pe": 35.201614,
+    "ev_ebitda": 14.663,
+    "fcf_yield": 0.044611267649926345,
+    "roe": 0.08497,
+    "gross_margin": 0.74563,
+    "op_margin": 0.25425,
+    "rev_growth": 0.165,
+    "debt_to_equity": 99.351
+  },
+  "market_stats": {
+    "ticker": "CTO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.028399998,
+    "short_ratio": 2.94,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 395708.0,
+    "beta": 0.639
+  },
+  "momentum": {
+    "ticker": "CTO",
+    "asof": "2026-08-12",
+    "ret_1m": 0.9717680635884074,
+    "ret_3m": 9.957964975394429,
+    "ret_6m": 21.757273769430796,
+    "ret_12m": 45.56841399787219,
+    "rsi14": 50.20408608127475,
+    "pct_vs_200dma": 15.565141902811042,
+    "score": 65.3,
+    "components_json": "{\"trend\": 77.74193722259645, \"rsi\": 50.20408608127475, \"vs_200dma\": 81.13028380562208, \"short_squeeze\": 14.199998999999998, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

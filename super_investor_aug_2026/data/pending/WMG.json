@@ -1,0 +1,55 @@
+{
+  "ticker": "WMG",
+  "stock": {
+    "ticker": "WMG",
+    "name": "Warner Music Group Corp.",
+    "sector": "Communication Services",
+    "industry": "Entertainment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LT",
+      "manager_name": "Lindsell Train",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WMG",
+    "asof": "2026-08-12",
+    "market_cap": 12962660352.0,
+    "pe": 19.824001,
+    "forward_pe": 12.575043,
+    "ev_ebitda": 10.558,
+    "fcf_yield": 0.02948854429723779,
+    "roe": 0.70074,
+    "gross_margin": 0.45769,
+    "op_margin": 0.16738,
+    "rev_growth": 0.104,
+    "debt_to_equity": 452.947
+  },
+  "market_stats": {
+    "ticker": "WMG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0838,
+    "short_ratio": 4.47,
+    "putcall_oi_ratio": 0.8,
+    "avg_volume": 2331609.0,
+    "beta": 1.293
+  },
+  "momentum": {
+    "ticker": "WMG",
+    "asof": "2026-08-12",
+    "ret_1m": -10.714285467296614,
+    "ret_3m": -26.308035183759692,
+    "ret_6m": -19.087818718898653,
+    "ret_12m": -20.266907720063585,
+    "rsi14": 40.12006272206671,
+    "pct_vs_200dma": -14.315557281762391,
+    "score": 31.5,
+    "components_json": "{\"trend\": 28.27448074117706, \"rsi\": 40.12006272206671, \"vs_200dma\": 21.368885436475217, \"short_squeeze\": 41.900000000000006, \"options_skew\": 46.69}",
+    "thesis": null
+  }
+}

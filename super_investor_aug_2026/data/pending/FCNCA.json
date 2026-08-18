@@ -1,0 +1,71 @@
+{
+  "ticker": "FCNCA",
+  "stock": {
+    "ticker": "FCNCA",
+    "name": "First Citizens BancShares, Inc.",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 1145.29,
+      "pct_of_portfolio": 0.38,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 2.06,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CHE",
+      "manager_name": "Steven Check - Check Capital Management",
+      "action": "add",
+      "share_change_pct": 0.65,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FCNCA",
+    "asof": "2026-08-12",
+    "market_cap": 25498171392.0,
+    "pe": 12.102541,
+    "forward_pe": 11.44272,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.106529996,
+    "gross_margin": 0.0,
+    "op_margin": 0.39036,
+    "rev_growth": 0.085,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "FCNCA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0505,
+    "short_ratio": 5.37,
+    "putcall_oi_ratio": 0.5769230769230769,
+    "avg_volume": 79029.0,
+    "beta": 0.601
+  },
+  "momentum": {
+    "ticker": "FCNCA",
+    "asof": "2026-08-12",
+    "ret_1m": 10.200028980785557,
+    "ret_3m": 18.56934742066958,
+    "ret_6m": 5.622954588314699,
+    "ret_12m": 23.429373530197406,
+    "rsi14": 57.83300432652477,
+    "pct_vs_200dma": 13.141889062088886,
+    "score": 63.1,
+    "components_json": "{\"trend\": 66.62944001477425, \"rsi\": 57.83300432652477, \"vs_200dma\": 76.28377812417777, \"short_squeeze\": 25.250000000000004, \"options_skew\": 61.56923076923078}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "SNDX",
+  "stock": {
+    "ticker": "SNDX",
+    "name": "Syndax Pharmaceuticals, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 27.62,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SNDX",
+    "asof": "2026-08-12",
+    "market_cap": 1831036672.0,
+    "pe": null,
+    "forward_pe": -31.338835,
+    "ev_ebitda": -9.513,
+    "fcf_yield": -0.08196374561743348,
+    "roe": -2.55925,
+    "gross_margin": -0.08007,
+    "op_margin": -0.54947,
+    "rev_growth": 0.918,
+    "debt_to_equity": 3903.451
+  },
+  "market_stats": {
+    "ticker": "SNDX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2582,
+    "short_ratio": 13.4,
+    "putcall_oi_ratio": 0.6647531572904707,
+    "avg_volume": 1833872.0,
+    "beta": 0.373
+  },
+  "momentum": {
+    "ticker": "SNDX",
+    "asof": "2026-08-12",
+    "ret_1m": -17.83413960532626,
+    "ret_3m": -0.632916564365682,
+    "ret_6m": 1.2903237409629398,
+    "ret_12m": 58.33979289213011,
+    "rsi14": 33.21427160379453,
+    "pct_vs_200dma": -0.25023025724213444,
+    "score": 62.3,
+    "components_json": "{\"trend\": 73.53313930983123, \"rsi\": 33.21427160379453, \"vs_200dma\": 49.49953948551573, \"short_squeeze\": 100.0, \"options_skew\": 55.71096440872561}",
+    "thesis": null
+  }
+}

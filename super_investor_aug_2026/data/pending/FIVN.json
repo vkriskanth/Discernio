@@ -1,0 +1,55 @@
+{
+  "ticker": "FIVN",
+  "stock": {
+    "ticker": "FIVN",
+    "name": "Five9, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FIVN",
+    "asof": "2026-08-12",
+    "market_cap": 2314934784.0,
+    "pe": 45.558823,
+    "forward_pe": 8.075489,
+    "ev_ebitda": 17.34,
+    "fcf_yield": 0.11252217807618377,
+    "roe": 0.079169996,
+    "gross_margin": 0.55063,
+    "op_margin": 0.033210002,
+    "rev_growth": 0.103,
+    "debt_to_equity": 107.449
+  },
+  "market_stats": {
+    "ticker": "FIVN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1251,
+    "short_ratio": 3.08,
+    "putcall_oi_ratio": 0.5451591942820013,
+    "avg_volume": 3205680.0,
+    "beta": 1.454
+  },
+  "momentum": {
+    "ticker": "FIVN",
+    "asof": "2026-08-12",
+    "ret_1m": 22.63487463954801,
+    "ret_3m": 49.880556052719726,
+    "ret_6m": 76.53348357415443,
+    "ret_12m": 30.436598063973676,
+    "rsi14": 75.34896398350507,
+    "pct_vs_200dma": 54.4093703352978,
+    "score": 88.9,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 75.34896398350507, \"vs_200dma\": 100.0, \"short_squeeze\": 62.54999999999999, \"options_skew\": 63.68788174139051}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "TDS",
+  "stock": {
+    "ticker": "TDS",
+    "name": "Telephone and Data Systems, Inc",
+    "sector": "Communication Services",
+    "industry": "Telecom Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oc",
+      "manager_name": "Howard Marks - Oaktree Capital Management",
+      "action": "add",
+      "share_change_pct": 16.37,
+      "pct_of_portfolio": 0.59,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TDS",
+    "asof": "2026-08-12",
+    "market_cap": 3852932608.0,
+    "pe": 8.3675,
+    "forward_pe": null,
+    "ev_ebitda": 13.019,
+    "fcf_yield": 0.15558216999574367,
+    "roe": 0.11784001,
+    "gross_margin": 0.59351003,
+    "op_margin": -0.065630004,
+    "rev_growth": 0.036,
+    "debt_to_equity": 23.12
+  },
+  "market_stats": {
+    "ticker": "TDS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.00090000004,
+    "short_ratio": 0.06,
+    "putcall_oi_ratio": 0.006862745098039216,
+    "avg_volume": 1181193.0,
+    "beta": 0.347
+  },
+  "momentum": {
+    "ticker": "TDS",
+    "asof": "2026-08-12",
+    "ret_1m": -2.977223272148599,
+    "ret_3m": -22.185645319440404,
+    "ret_6m": -27.22000011359259,
+    "ret_12m": -13.742962021893135,
+    "rsi14": 48.06283111501503,
+    "pct_vs_200dma": -18.40638982649968,
+    "score": 32.4,
+    "components_json": "{\"trend\": 29.681121561332848, \"rsi\": 48.06283111501503, \"vs_200dma\": 13.18722034700064, \"short_squeeze\": 0.45000002000000006, \"options_skew\": 99.59225490196079}",
+    "thesis": null
+  }
+}

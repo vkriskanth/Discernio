@@ -1,0 +1,55 @@
+{
+  "ticker": "IBIT",
+  "stock": {
+    "ticker": "IBIT",
+    "name": "iShares Bitcoin Trust ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.58,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IBIT",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "IBIT",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.6575483461517337,
+    "avg_volume": 43816458.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "IBIT",
+    "asof": "2026-08-12",
+    "ret_1m": -1.8179357086931303,
+    "ret_3m": -21.582966127070236,
+    "ret_6m": -7.839364150578443,
+    "ret_12m": -46.90271845120131,
+    "rsi14": 43.65832722236339,
+    "pct_vs_200dma": -18.0942377752594,
+    "score": 24.6,
+    "components_json": "{\"trend\": 22.412213536224872, \"rsi\": 43.65832722236339, \"vs_200dma\": 13.811524449481198, \"short_squeeze\": 0.0, \"options_skew\": 56.191525311679364}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "LYV",
+  "stock": {
+    "ticker": "LYV",
+    "name": "Live Nation Entertainment, Inc.",
+    "sector": "Communication Services",
+    "industry": "Entertainment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 17.74,
+      "pct_of_portfolio": 0.15,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DA",
+      "manager_name": "Pat Dorsey - Dorsey Asset Management",
+      "action": "add",
+      "share_change_pct": 0.77,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LYV",
+    "asof": "2026-08-12",
+    "market_cap": 42962391040.0,
+    "pe": null,
+    "forward_pe": 95.705154,
+    "ev_ebitda": 30.085,
+    "fcf_yield": 0.03945382496104202,
+    "roe": 0.17677,
+    "gross_margin": 0.25777,
+    "op_margin": 0.06696,
+    "rev_growth": 0.094,
+    "debt_to_equity": 620.214
+  },
+  "market_stats": {
+    "ticker": "LYV",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.15619999,
+    "short_ratio": 11.13,
+    "putcall_oi_ratio": 0.3819757365684575,
+    "avg_volume": 2369461.0,
+    "beta": 1.116
+  },
+  "momentum": {
+    "ticker": "LYV",
+    "asof": "2026-08-12",
+    "ret_1m": 1.7569963011135004,
+    "ret_3m": 11.51687212044119,
+    "ret_6m": 23.72755889226019,
+    "ret_12m": 19.602510869429924,
+    "rsi14": 61.43723566198473,
+    "pct_vs_200dma": 17.506234099822482,
+    "score": 73.1,
+    "components_json": "{\"trend\": 68.41433365158238, \"rsi\": 61.43723566198473, \"vs_200dma\": 85.01246819964496, \"short_squeeze\": 78.099995, \"options_skew\": 74.57221837088389}",
+    "thesis": null
+  }
+}

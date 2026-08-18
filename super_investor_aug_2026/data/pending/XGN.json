@@ -1,0 +1,55 @@
+{
+  "ticker": "XGN",
+  "stock": {
+    "ticker": "XGN",
+    "name": "Exagen Inc.",
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 145.1,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "XGN",
+    "asof": "2026-08-12",
+    "market_cap": 160614000.0,
+    "pe": null,
+    "forward_pe": -15.068182,
+    "ev_ebitda": -15.51,
+    "fcf_yield": -0.009694049086630057,
+    "roe": -1.13823,
+    "gross_margin": 0.58636004,
+    "op_margin": -0.08635,
+    "rev_growth": 0.159,
+    "debt_to_equity": 226.392
+  },
+  "market_stats": {
+    "ticker": "XGN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.041199997,
+    "short_ratio": 4.14,
+    "putcall_oi_ratio": 0.07936507936507936,
+    "avg_volume": 352333.0,
+    "beta": 2.027
+  },
+  "momentum": {
+    "ticker": "XGN",
+    "asof": "2026-08-12",
+    "ret_1m": 59.78260832007154,
+    "ret_3m": 66.2060236034392,
+    "ret_6m": 96.29080106098394,
+    "ret_12m": -28.097827084123097,
+    "rsi14": 70.13301395040108,
+    "pct_vs_200dma": 30.080816544489153,
+    "score": 82.1,
+    "components_json": "{\"trend\": 87.5099165656777, \"rsi\": 70.13301395040108, \"vs_200dma\": 100.0, \"short_squeeze\": 20.5999985, \"options_skew\": 94.75634920634921}",
+    "thesis": null
+  }
+}

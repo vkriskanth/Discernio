@@ -1,0 +1,71 @@
+{
+  "ticker": "BMI",
+  "stock": {
+    "ticker": "BMI",
+    "name": "Badger Meter, Inc.",
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VVP",
+      "manager_name": "Vulcan Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.31,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FS",
+      "manager_name": "Terry Smith - Fundsmith",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.17,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 1.95,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BMI",
+    "asof": "2026-08-12",
+    "market_cap": 3863947008.0,
+    "pe": 31.2178,
+    "forward_pe": 26.97136,
+    "ev_ebitda": 19.626,
+    "fcf_yield": 0.03320170378485687,
+    "roe": 0.1848,
+    "gross_margin": 0.4131,
+    "op_margin": 0.17724001,
+    "rev_growth": -0.066,
+    "debt_to_equity": 3.438
+  },
+  "market_stats": {
+    "ticker": "BMI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2079,
+    "short_ratio": 7.55,
+    "putcall_oi_ratio": 6.828571428571428,
+    "avg_volume": 492761.0,
+    "beta": 0.641
+  },
+  "momentum": {
+    "ticker": "BMI",
+    "asof": "2026-08-12",
+    "ret_1m": -7.73338497911944,
+    "ret_3m": 12.617297386322711,
+    "ret_6m": -11.514403407458918,
+    "ret_12m": -28.80577494264941,
+    "rsi14": 63.633843271721126,
+    "pct_vs_200dma": -12.218990164328003,
+    "score": 41.5,
+    "components_json": "{\"trend\": 38.80855821659937, \"rsi\": 63.633843271721126, \"vs_200dma\": 25.562019671343993, \"short_squeeze\": 100.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

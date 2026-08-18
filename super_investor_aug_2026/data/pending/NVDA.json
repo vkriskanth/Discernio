@@ -1,0 +1,127 @@
+{
+  "ticker": "NVDA",
+  "stock": {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corp.",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HH",
+      "manager_name": "Duan Yongping - H&H International Investment",
+      "action": "add",
+      "share_change_pct": 91.29,
+      "pct_of_portfolio": 5.76,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "add",
+      "share_change_pct": 27.77,
+      "pct_of_portfolio": 1.44,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "TGM",
+      "manager_name": "Chase Coleman - Tiger Global Management",
+      "action": "add",
+      "share_change_pct": 9.08,
+      "pct_of_portfolio": 0.76,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 11.32,
+      "pct_of_portfolio": 0.47,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "WIM",
+      "manager_name": "Wallace Weitz - Weitz Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.43,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 6.31,
+      "pct_of_portfolio": 0.38,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 36.26,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 2.27,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NVDA",
+    "asof": "2026-08-12",
+    "market_cap": 5410970927104.0,
+    "pe": 34.2638,
+    "forward_pe": 17.330685,
+    "ev_ebitda": 31.557,
+    "fcf_yield": 0.008563319531417141,
+    "roe": 1.14288,
+    "gross_margin": 0.74144995,
+    "op_margin": 0.65596,
+    "rev_growth": 0.852,
+    "debt_to_equity": 6.555
+  },
+  "market_stats": {
+    "ticker": "NVDA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0126,
+    "short_ratio": 2.23,
+    "putcall_oi_ratio": 0.6806269106397178,
+    "avg_volume": 149666624.0,
+    "beta": 2.215
+  },
+  "momentum": {
+    "ticker": "NVDA",
+    "asof": "2026-08-12",
+    "ret_1m": 5.7129323278478195,
+    "ret_3m": 1.531366102613907,
+    "ret_6m": 18.899482663829524,
+    "ret_12m": 23.145227765854102,
+    "rsi14": 61.29513460495972,
+    "pct_vs_200dma": 15.186692068637475,
+    "score": 61.5,
+    "components_json": "{\"trend\": 65.38734573627467, \"rsi\": 61.29513460495972, \"vs_200dma\": 80.37338413727495, \"short_squeeze\": 6.3, \"options_skew\": 54.65218506033082}",
+    "thesis": null
+  }
+}

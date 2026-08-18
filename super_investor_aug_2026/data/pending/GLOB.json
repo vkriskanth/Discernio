@@ -1,0 +1,63 @@
+{
+  "ticker": "GLOB",
+  "stock": {
+    "ticker": "GLOB",
+    "name": "Globant S.A.",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.13,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 30.01,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GLOB",
+    "asof": "2026-08-12",
+    "market_cap": 1619233408.0,
+    "pe": 15.243902,
+    "forward_pe": 5.70396,
+    "ev_ebitda": 5.118,
+    "fcf_yield": 0.16540844493248005,
+    "roe": 0.05204,
+    "gross_margin": 0.34908,
+    "op_margin": 0.085109994,
+    "rev_growth": -0.007,
+    "debt_to_equity": 21.118
+  },
+  "market_stats": {
+    "ticker": "GLOB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.21790001,
+    "short_ratio": 4.64,
+    "putcall_oi_ratio": 0.46511627906976744,
+    "avg_volume": 2038033.0,
+    "beta": 0.967
+  },
+  "momentum": {
+    "ticker": "GLOB",
+    "asof": "2026-08-12",
+    "ret_1m": 27.58678118228626,
+    "ret_3m": -2.5618176901409773,
+    "ret_6m": -36.32350616121599,
+    "ret_12m": -50.955866978759865,
+    "rsi14": 75.24221661226721,
+    "pct_vs_200dma": -23.085555204439924,
+    "score": 36.3,
+    "components_json": "{\"trend\": 17.95205605308896, \"rsi\": 75.24221661226721, \"vs_200dma\": 3.828889591120152, \"short_squeeze\": 100.0, \"options_skew\": 69.02674418604651}",
+    "thesis": null
+  }
+}

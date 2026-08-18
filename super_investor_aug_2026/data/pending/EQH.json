@@ -1,0 +1,63 @@
+{
+  "ticker": "EQH",
+  "stock": {
+    "ticker": "EQH",
+    "name": "Equitable Holdings Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 24.58,
+      "pct_of_portfolio": 0.14,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EQH",
+    "asof": "2026-08-12",
+    "market_cap": 13957425152.0,
+    "pe": null,
+    "forward_pe": 5.684892,
+    "ev_ebitda": 10.515,
+    "fcf_yield": -0.632226235992786,
+    "roe": -0.25131,
+    "gross_margin": 0.12768,
+    "op_margin": -0.26357,
+    "rev_growth": -0.298,
+    "debt_to_equity": 586.1
+  },
+  "market_stats": {
+    "ticker": "EQH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0001,
+    "short_ratio": 0.01,
+    "putcall_oi_ratio": 3.652173913043478,
+    "avg_volume": 3856279.0,
+    "beta": 1.092
+  },
+  "momentum": {
+    "ticker": "EQH",
+    "asof": "2026-08-12",
+    "ret_1m": 10.537592907162985,
+    "ret_3m": 21.32363240619497,
+    "ret_6m": 20.614979621806118,
+    "ret_12m": 2.9560835684344644,
+    "rsi14": 63.91753356993934,
+    "pct_vs_200dma": 17.59930460773207,
+    "score": 56.4,
+    "components_json": "{\"trend\": 63.76401703577412, \"rsi\": 63.91753356993934, \"vs_200dma\": 85.19860921546413, \"short_squeeze\": 0.05, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

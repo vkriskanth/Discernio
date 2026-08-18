@@ -1,0 +1,55 @@
+{
+  "ticker": "T",
+  "stock": {
+    "ticker": "T",
+    "name": "AT&T Inc.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 23.84,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "T",
+    "asof": "2026-08-12",
+    "market_cap": 166238879744.0,
+    "pe": 8.0066,
+    "forward_pe": 9.462812,
+    "ev_ebitda": 7.434,
+    "fcf_yield": 0.06100859283711608,
+    "roe": 0.18339,
+    "gross_margin": 0.59721,
+    "op_margin": 0.24786,
+    "rev_growth": 0.023,
+    "debt_to_equity": 129.054
+  },
+  "market_stats": {
+    "ticker": "T",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.019,
+    "short_ratio": 1.48,
+    "putcall_oi_ratio": 0.5738783874132796,
+    "avg_volume": 64135340.0,
+    "beta": 0.417
+  },
+  "momentum": {
+    "ticker": "T",
+    "asof": "2026-08-12",
+    "ret_1m": 13.440318140005303,
+    "ret_3m": -3.0387095449569967,
+    "ret_6m": -9.816243068428088,
+    "ret_12m": -10.169057724297792,
+    "rsi14": 60.06929062711468,
+    "pct_vs_200dma": -1.8255508781344187,
+    "score": 44.6,
+    "components_json": "{\"trend\": 42.07589112626536, \"rsi\": 60.06929062711468, \"vs_200dma\": 46.34889824373116, \"short_squeeze\": 9.5, \"options_skew\": 61.77231155953425}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "ZH",
+  "stock": {
+    "ticker": "ZH",
+    "name": "Zhihu Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 50.74,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ZH",
+    "asof": "2026-08-12",
+    "market_cap": 273105280.0,
+    "pe": null,
+    "forward_pe": 25.543497,
+    "ev_ebitda": 10.52,
+    "fcf_yield": null,
+    "roe": -0.048460003,
+    "gross_margin": 0.59341997,
+    "op_margin": -0.09651,
+    "rev_growth": -0.107,
+    "debt_to_equity": 0.717
+  },
+  "market_stats": {
+    "ticker": "ZH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0121,
+    "short_ratio": 4.22,
+    "putcall_oi_ratio": 0.009549795361527967,
+    "avg_volume": 192053.0,
+    "beta": 0.276
+  },
+  "momentum": {
+    "ticker": "ZH",
+    "asof": "2026-08-12",
+    "ret_1m": -0.6269586384879289,
+    "ret_3m": -6.4896761593595365,
+    "ret_6m": -7.848836524284108,
+    "ret_12m": -27.625570925388487,
+    "rsi14": 50.87719298245614,
+    "pct_vs_200dma": -7.209552058667379,
+    "score": 40.9,
+    "components_json": "{\"trend\": 34.64821782475151, \"rsi\": 50.87719298245614, \"vs_200dma\": 35.580895882665246, \"short_squeeze\": 6.05, \"options_skew\": 99.41302864938609}",
+    "thesis": null
+  }
+}

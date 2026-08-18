@@ -1,0 +1,55 @@
+{
+  "ticker": "KWR",
+  "stock": {
+    "ticker": "KWR",
+    "name": "Quaker Houghton",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 72.39,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KWR",
+    "asof": "2026-08-12",
+    "market_cap": 2922384128.0,
+    "pe": 30.599998,
+    "forward_pe": 18.251831,
+    "ev_ebitda": 12.939,
+    "fcf_yield": 0.044453986303610256,
+    "roe": 0.07175,
+    "gross_margin": 0.36061,
+    "op_margin": 0.091280006,
+    "rev_growth": 0.102,
+    "debt_to_equity": 66.913
+  },
+  "market_stats": {
+    "ticker": "KWR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.15609999,
+    "short_ratio": 11.93,
+    "putcall_oi_ratio": 2.0,
+    "avg_volume": 157772.0,
+    "beta": 1.391
+  },
+  "momentum": {
+    "ticker": "KWR",
+    "asof": "2026-08-12",
+    "ret_1m": 16.28911502121584,
+    "ret_3m": 19.82805551310185,
+    "ret_6m": 1.1855331797262947,
+    "ret_12m": 38.87033659682524,
+    "rsi14": 73.98477284323633,
+    "pct_vs_200dma": 19.35460819487016,
+    "score": 69.8,
+    "components_json": "{\"trend\": 71.85221124657855, \"rsi\": 73.98477284323633, \"vs_200dma\": 88.70921638974032, \"short_squeeze\": 78.049995, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

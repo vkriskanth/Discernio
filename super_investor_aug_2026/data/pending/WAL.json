@@ -1,0 +1,55 @@
+{
+  "ticker": "WAL",
+  "stock": {
+    "ticker": "WAL",
+    "name": "Western Alliance Bancorporation",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WAL",
+    "asof": "2026-08-12",
+    "market_cap": 8915722240.0,
+    "pe": 9.223476,
+    "forward_pe": 7.2407975,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.13019,
+    "gross_margin": 0.0,
+    "op_margin": 0.39363998,
+    "rev_growth": 0.136,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "WAL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0001,
+    "short_ratio": 0.01,
+    "putcall_oi_ratio": 1.5441370223978919,
+    "avg_volume": 1044346.0,
+    "beta": 1.332
+  },
+  "momentum": {
+    "ticker": "WAL",
+    "asof": "2026-08-12",
+    "ret_1m": 2.2653813880750384,
+    "ret_3m": 6.527693364481846,
+    "ret_6m": -12.552395880000267,
+    "ret_12m": 8.220708068439597,
+    "rsi14": 47.301808688863225,
+    "pct_vs_200dma": 1.612061698380507,
+    "score": 41.0,
+    "components_json": "{\"trend\": 51.480872472720314, \"rsi\": 47.301808688863225, \"vs_200dma\": 53.224123396761016, \"short_squeeze\": 0.05, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

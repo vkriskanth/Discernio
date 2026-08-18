@@ -1,0 +1,63 @@
+{
+  "ticker": "CE",
+  "stock": {
+    "ticker": "CE",
+    "name": "Celanese Corporation",
+    "sector": "Basic Materials",
+    "industry": "Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MUHL",
+      "manager_name": "Muhlenkamp",
+      "action": "add",
+      "share_change_pct": 0.67,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 0.27,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CE",
+    "asof": "2026-08-12",
+    "market_cap": 4789991936.0,
+    "pe": null,
+    "forward_pe": 7.0651217,
+    "ev_ebitda": 9.565,
+    "fcf_yield": 0.20561099499938698,
+    "roe": -0.2225,
+    "gross_margin": 0.21375999,
+    "op_margin": 0.11047,
+    "rev_growth": 0.087,
+    "debt_to_equity": 270.205
+  },
+  "market_stats": {
+    "ticker": "CE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.123,
+    "short_ratio": 4.64,
+    "putcall_oi_ratio": 0.4659799593581389,
+    "avg_volume": 1875558.0,
+    "beta": 0.752
+  },
+  "momentum": {
+    "ticker": "CE",
+    "asof": "2026-08-12",
+    "ret_1m": -8.671269569438378,
+    "ret_3m": -26.66980333355371,
+    "ret_6m": -25.146388728578973,
+    "ret_12m": -7.877429839838735,
+    "rsi14": 35.14072783661298,
+    "pct_vs_200dma": -13.13578977652412,
+    "score": 36.8,
+    "components_json": "{\"trend\": 31.304170445424703, \"rsi\": 35.14072783661298, \"vs_200dma\": 23.72842044695176, \"short_squeeze\": 61.5, \"options_skew\": 68.96913671081214}",
+    "thesis": null
+  }
+}

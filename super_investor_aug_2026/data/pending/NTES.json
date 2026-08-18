@@ -1,0 +1,63 @@
+{
+  "ticker": "NTES",
+  "stock": {
+    "ticker": "NTES",
+    "name": "NetEase, Inc.",
+    "sector": "Communication Services",
+    "industry": "Electronic Gaming & Multimedia"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 45.01,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 0.12,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NTES",
+    "asof": "2026-08-12",
+    "market_cap": 79237365760.0,
+    "pe": 15.785714,
+    "forward_pe": 11.683341,
+    "ev_ebitda": 6.303,
+    "fcf_yield": 0.4309688881812721,
+    "roe": 0.22128001,
+    "gross_margin": 0.65688,
+    "op_margin": 0.41374,
+    "rev_growth": 0.061,
+    "debt_to_equity": 6.469
+  },
+  "market_stats": {
+    "ticker": "NTES",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0073,
+    "short_ratio": 2.7,
+    "putcall_oi_ratio": 1.0692079940784605,
+    "avg_volume": 1008953.0,
+    "beta": 0.8
+  },
+  "momentum": {
+    "ticker": "NTES",
+    "asof": "2026-08-12",
+    "ret_1m": -3.042253128331862,
+    "ret_3m": 7.72801379925141,
+    "ret_6m": 2.5971858297461514,
+    "ret_12m": -2.86768159585572,
+    "rsi14": 54.51738135961884,
+    "pct_vs_200dma": -0.9664255603506033,
+    "score": 44.2,
+    "components_json": "{\"trend\": 51.95048725035698, \"rsi\": 54.51738135961884, \"vs_200dma\": 48.06714887929879, \"short_squeeze\": 3.65, \"options_skew\": 28.73382679496669}",
+    "thesis": null
+  }
+}

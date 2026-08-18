@@ -1,0 +1,55 @@
+{
+  "ticker": "XCEM",
+  "stock": {
+    "ticker": "XCEM",
+    "name": "Columbia Em Core Ex China",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "XCEM",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 20.69373,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "XCEM",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 3.2222222222222223,
+    "avg_volume": 186729.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "XCEM",
+    "asof": "2026-08-12",
+    "ret_1m": -0.3656078343329705,
+    "ret_3m": 2.075322005559155,
+    "ret_6m": 20.87029974137613,
+    "ret_12m": 51.99147393429353,
+    "rsi14": 61.84264177738298,
+    "pct_vs_200dma": 15.052723588160543,
+    "score": 60.4,
+    "components_json": "{\"trend\": 77.680276097798, \"rsi\": 61.84264177738298, \"vs_200dma\": 80.10544717632109, \"short_squeeze\": 0.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

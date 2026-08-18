@@ -1,0 +1,55 @@
+{
+  "ticker": "ACWI",
+  "stock": {
+    "ticker": "ACWI",
+    "name": "iShares MSCI ACWI ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 41.02,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ACWI",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 22.824934,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "ACWI",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 5.5,
+    "avg_volume": 3126930.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "ACWI",
+    "asof": "2026-08-12",
+    "ret_1m": 2.9055674064337067,
+    "ret_3m": 5.1078177836307415,
+    "ret_6m": 10.345011651628798,
+    "ret_12m": 24.688151916939162,
+    "rsi14": 76.16961803928918,
+    "pct_vs_200dma": 9.938208421537631,
+    "score": 54.7,
+    "components_json": "{\"trend\": 64.51110959735352, \"rsi\": 76.16961803928918, \"vs_200dma\": 69.87641684307526, \"short_squeeze\": 0.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

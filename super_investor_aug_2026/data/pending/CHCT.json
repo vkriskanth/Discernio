@@ -1,0 +1,55 @@
+{
+  "ticker": "CHCT",
+  "stock": {
+    "ticker": "CHCT",
+    "name": "Community Healthcare Trust Inco",
+    "sector": "Real Estate",
+    "industry": "REIT - Healthcare Facilities"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.38,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CHCT",
+    "asof": "2026-08-12",
+    "market_cap": 428948032.0,
+    "pe": 22.343283,
+    "forward_pe": 37.425,
+    "ev_ebitda": 12.272,
+    "fcf_yield": 0.15350198879103377,
+    "roe": 0.049250003,
+    "gross_margin": 0.80623,
+    "op_margin": 0.31165,
+    "rev_growth": 0.074,
+    "debt_to_equity": 135.984
+  },
+  "market_stats": {
+    "ticker": "CHCT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.041500002,
+    "short_ratio": 5.0,
+    "putcall_oi_ratio": 5.0,
+    "avg_volume": 229785.0,
+    "beta": 0.68
+  },
+  "momentum": {
+    "ticker": "CHCT",
+    "asof": "2026-08-12",
+    "ret_1m": -15.093273011233299,
+    "ret_3m": -11.750881000051328,
+    "ret_6m": -12.127878901088263,
+    "ret_12m": 14.47389843596456,
+    "rsi14": 17.863723987348976,
+    "pct_vs_200dma": -7.642923591284867,
+    "score": 32.9,
+    "components_json": "{\"trend\": 48.625931404043946, \"rsi\": 17.863723987348976, \"vs_200dma\": 34.71415281743027, \"short_squeeze\": 20.750001, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

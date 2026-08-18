@@ -1,0 +1,63 @@
+{
+  "ticker": "ALK",
+  "stock": {
+    "ticker": "ALK",
+    "name": "Alaska Air Group, Inc.",
+    "sector": "Industrials",
+    "industry": "Airlines"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "add",
+      "share_change_pct": 314.16,
+      "pct_of_portfolio": 5.65,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 74.43,
+      "pct_of_portfolio": 0.48,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ALK",
+    "asof": "2026-08-12",
+    "market_cap": 5353602048.0,
+    "pe": null,
+    "forward_pe": 8.08007,
+    "ev_ebitda": 14.731,
+    "fcf_yield": -0.004436265487621093,
+    "roe": -0.04598,
+    "gross_margin": 0.17713,
+    "op_margin": -0.02927,
+    "rev_growth": 0.097,
+    "debt_to_equity": 207.52
+  },
+  "market_stats": {
+    "ticker": "ALK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.108100004,
+    "short_ratio": 3.4,
+    "putcall_oi_ratio": 0.46504573676477556,
+    "avg_volume": 3188879.0,
+    "beta": 1.3
+  },
+  "momentum": {
+    "ticker": "ALK",
+    "asof": "2026-08-12",
+    "ret_1m": 1.589508776530435,
+    "ret_3m": 22.940878495340765,
+    "ret_6m": -19.487652739473848,
+    "ret_12m": -6.892838782268651,
+    "rsi14": 56.9691099592066,
+    "pct_vs_200dma": 3.8495696532624635,
+    "score": 54.6,
+    "components_json": "{\"trend\": 48.27883221385262, \"rsi\": 56.9691099592066, \"vs_200dma\": 57.69913930652493, \"short_squeeze\": 54.050002, \"options_skew\": 69.03144935778947}",
+    "thesis": null
+  }
+}

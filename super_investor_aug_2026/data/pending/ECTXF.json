@@ -1,0 +1,55 @@
+{
+  "ticker": "ECTXF",
+  "stock": {
+    "ticker": "ECTXF",
+    "name": "ELECTROLUX PROFESSIONAL AB",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 15.0,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ECTXF",
+    "asof": "2026-08-12",
+    "market_cap": 1336398080.0,
+    "pe": 17.884617,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": 0.45048105426790197,
+    "roe": 0.12494001,
+    "gross_margin": 0.34425,
+    "op_margin": 0.0,
+    "rev_growth": -0.05,
+    "debt_to_equity": 43.43
+  },
+  "market_stats": {
+    "ticker": "ECTXF",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": null,
+    "avg_volume": 0.0,
+    "beta": 0.907
+  },
+  "momentum": {
+    "ticker": "ECTXF",
+    "asof": "2026-08-12",
+    "ret_1m": 0.0,
+    "ret_3m": 0.0,
+    "ret_6m": -25.000001922730387,
+    "ret_12m": -19.962683887484367,
+    "rsi14": null,
+    "pct_vs_200dma": -16.644807963720986,
+    "score": 30.5,
+    "components_json": "{\"trend\": 34.514925868187134, \"rsi\": 50.0, \"vs_200dma\": 16.71038407255803, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

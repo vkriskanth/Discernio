@@ -1,0 +1,55 @@
+{
+  "ticker": "SDHC",
+  "stock": {
+    "ticker": "SDHC",
+    "name": "Smith Douglas Homes Corp",
+    "sector": "Real Estate",
+    "industry": "Real Estate - Development"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "RC",
+      "manager_name": "Ruane Cunniff LP",
+      "action": "add",
+      "share_change_pct": 18.68,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SDHC",
+    "asof": "2026-08-12",
+    "market_cap": 123453440.0,
+    "pe": 20.430555,
+    "forward_pe": 34.2093,
+    "ev_ebitda": 10.876,
+    "fcf_yield": 0.2789158730611314,
+    "roe": 0.09222999,
+    "gross_margin": 0.19469,
+    "op_margin": 0.022,
+    "rev_growth": 0.219,
+    "debt_to_equity": 15.25
+  },
+  "market_stats": {
+    "ticker": "SDHC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2468,
+    "short_ratio": 17.78,
+    "putcall_oi_ratio": null,
+    "avg_volume": 67851.0,
+    "beta": 0.889
+  },
+  "momentum": {
+    "ticker": "SDHC",
+    "asof": "2026-08-12",
+    "ret_1m": -6.369426828972724,
+    "ret_3m": 23.425692675044484,
+    "ret_6m": -22.509223292819858,
+    "ret_12m": -15.07798808320272,
+    "rsi14": 50.535709480850386,
+    "pct_vs_200dma": -6.71878688322961,
+    "score": 49.4,
+    "components_json": "{\"trend\": 44.2437455813863, \"rsi\": 50.535709480850386, \"vs_200dma\": 36.562426233540776, \"short_squeeze\": 100.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "CNH",
+  "stock": {
+    "ticker": "CNH",
+    "name": "CNH Industrial N.V.",
+    "sector": "Industrials",
+    "industry": "Farm & Heavy Construction Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.76,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CNH",
+    "asof": "2026-08-12",
+    "market_cap": 16845463552.0,
+    "pe": 41.9,
+    "forward_pe": 15.017706,
+    "ev_ebitda": 36.026,
+    "fcf_yield": 0.03361439014438823,
+    "roe": 0.03914,
+    "gross_margin": 0.17789,
+    "op_margin": 0.05538,
+    "rev_growth": 0.02,
+    "debt_to_equity": 335.044
+  },
+  "market_stats": {
+    "ticker": "CNH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.078,
+    "short_ratio": 6.16,
+    "putcall_oi_ratio": 0.8559914024717894,
+    "avg_volume": 12097058.0,
+    "beta": 1.221
+  },
+  "momentum": {
+    "ticker": "CNH",
+    "asof": "2026-08-12",
+    "ret_1m": 1.8272564510758649,
+    "ret_3m": -0.253101073135642,
+    "ret_6m": -13.536587716236026,
+    "ret_12m": -14.091284078372068,
+    "rsi14": 49.88758096939915,
+    "pct_vs_200dma": 0.539899803510413,
+    "score": 44.5,
+    "components_json": "{\"trend\": 40.22657973183967, \"rsi\": 49.88758096939915, \"vs_200dma\": 51.079799607020824, \"short_squeeze\": 39.0, \"options_skew\": 42.95537345513165}",
+    "thesis": null
+  }
+}

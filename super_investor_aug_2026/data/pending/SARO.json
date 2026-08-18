@@ -1,0 +1,55 @@
+{
+  "ticker": "SARO",
+  "stock": {
+    "ticker": "SARO",
+    "name": "StandardAero, Inc.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VVP",
+      "manager_name": "Vulcan Value Partners",
+      "action": "add",
+      "share_change_pct": 51.45,
+      "pct_of_portfolio": 0.17,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SARO",
+    "asof": "2026-08-12",
+    "market_cap": 9269053440.0,
+    "pe": 28.876287,
+    "forward_pe": 15.958023,
+    "ev_ebitda": 14.87,
+    "fcf_yield": 0.039876347934832926,
+    "roe": 0.12302,
+    "gross_margin": 0.15048,
+    "op_margin": 0.10532,
+    "rev_growth": 0.046,
+    "debt_to_equity": 93.207
+  },
+  "market_stats": {
+    "ticker": "SARO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.081199996,
+    "short_ratio": 4.93,
+    "putcall_oi_ratio": 0.04149377593360996,
+    "avg_volume": 3680458.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "SARO",
+    "asof": "2026-08-12",
+    "ret_1m": -0.8909479855957803,
+    "ret_3m": 6.838258672079434,
+    "ret_6m": -5.760761605401954,
+    "ret_12m": -1.0672399071336325,
+    "rsi14": 55.56621701815935,
+    "pct_vs_200dma": -0.4683127156885458,
+    "score": 54.3,
+    "components_json": "{\"trend\": 49.89635315714979, \"rsi\": 55.56621701815935, \"vs_200dma\": 49.063374568622905, \"short_squeeze\": 40.599998, \"options_skew\": 97.28236514522821}",
+    "thesis": null
+  }
+}

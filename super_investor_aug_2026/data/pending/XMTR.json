@@ -1,0 +1,55 @@
+{
+  "ticker": "XMTR",
+  "stock": {
+    "ticker": "XMTR",
+    "name": "Xometry, Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "XMTR",
+    "asof": "2026-08-12",
+    "market_cap": 5287526400.0,
+    "pe": null,
+    "forward_pe": 72.00006,
+    "ev_ebitda": -484.398,
+    "fcf_yield": -0.002322517954709408,
+    "roe": -0.07101,
+    "gross_margin": 0.38749,
+    "op_margin": -0.02438,
+    "rev_growth": 0.411,
+    "debt_to_equity": 56.991
+  },
+  "market_stats": {
+    "ticker": "XMTR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.059499998,
+    "short_ratio": 3.25,
+    "putcall_oi_ratio": 0.05263157894736842,
+    "avg_volume": 878070.0,
+    "beta": 1.316
+  },
+  "momentum": {
+    "ticker": "XMTR",
+    "asof": "2026-08-12",
+    "ret_1m": -4.257308577998231,
+    "ret_3m": 14.960631047506023,
+    "ret_6m": 39.3003256964668,
+    "ret_12m": 113.50974802101521,
+    "rsi14": 37.2876369432742,
+    "pct_vs_200dma": 40.335893020797364,
+    "score": 83.2,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 37.2876369432742, \"vs_200dma\": 100.0, \"short_squeeze\": 29.749999, \"options_skew\": 96.53947368421053}",
+    "thesis": null
+  }
+}

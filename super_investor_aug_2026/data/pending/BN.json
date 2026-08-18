@@ -1,0 +1,63 @@
+{
+  "ticker": "BN",
+  "stock": {
+    "ticker": "BN",
+    "name": "Brookfield Corporation",
+    "sector": "Financial Services",
+    "industry": "Asset Management"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 43.38,
+      "pct_of_portfolio": 0.4,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CHE",
+      "manager_name": "Steven Check - Check Capital Management",
+      "action": "add",
+      "share_change_pct": 0.67,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BN",
+    "asof": "2026-08-12",
+    "market_cap": 99082305536.0,
+    "pe": 86.98039,
+    "forward_pe": 7.5570703,
+    "ev_ebitda": 14.892,
+    "fcf_yield": -0.022392998830591926,
+    "roe": 0.02503,
+    "gross_margin": 0.32272997,
+    "op_margin": 0.28922,
+    "rev_growth": 0.079,
+    "debt_to_equity": 161.473
+  },
+  "market_stats": {
+    "ticker": "BN",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 5.3,
+    "putcall_oi_ratio": 0.5161993769470405,
+    "avg_volume": 4201850.0,
+    "beta": 1.838
+  },
+  "momentum": {
+    "ticker": "BN",
+    "asof": "2026-08-12",
+    "ret_1m": 2.5368968141999737,
+    "ret_3m": -3.9081885446911158,
+    "ret_6m": -4.824565307484852,
+    "ret_12m": 3.677179748344317,
+    "rsi14": 74.7336388962112,
+    "pct_vs_200dma": -0.1845176690213668,
+    "score": 49.7,
+    "components_json": "{\"trend\": 48.851045743684935, \"rsi\": 74.7336388962112, \"vs_200dma\": 49.630964661957265, \"short_squeeze\": 0.0, \"options_skew\": 65.6195015576324}",
+    "thesis": null
+  }
+}

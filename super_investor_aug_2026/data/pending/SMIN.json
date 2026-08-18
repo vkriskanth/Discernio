@@ -1,0 +1,55 @@
+{
+  "ticker": "SMIN",
+  "stock": {
+    "ticker": "SMIN",
+    "name": "Ishares MSCI India Small Cap ET",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 2.76,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SMIN",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 29.060167,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "SMIN",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 152282.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "SMIN",
+    "asof": "2026-08-12",
+    "ret_1m": 2.0589001454755618,
+    "ret_3m": 8.5297261619109,
+    "ret_6m": 3.1651896729824935,
+    "ret_12m": 1.327558464482137,
+    "rsi14": 81.1940108155134,
+    "pct_vs_200dma": 5.4100301448678945,
+    "score": 54.0,
+    "components_json": "{\"trend\": 54.039498136260875, \"rsi\": 81.1940108155134, \"vs_200dma\": 60.82006028973579, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

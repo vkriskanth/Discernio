@@ -1,0 +1,63 @@
+{
+  "ticker": "GPI",
+  "stock": {
+    "ticker": "GPI",
+    "name": "Group 1 Automotive",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto & Truck Dealerships"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CM",
+      "manager_name": "Greg Alexander - Conifer Management",
+      "action": "add",
+      "share_change_pct": 32.83,
+      "pct_of_portfolio": 11.78,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "RC",
+      "manager_name": "Ruane Cunniff LP",
+      "action": "add",
+      "share_change_pct": 11.16,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GPI",
+    "asof": "2026-08-12",
+    "market_cap": 3159270400.0,
+    "pe": 10.959057,
+    "forward_pe": 5.983954,
+    "ev_ebitda": 8.511,
+    "fcf_yield": 0.04274721150807478,
+    "roe": 0.0949,
+    "gross_margin": 0.15946001,
+    "op_margin": 0.03827,
+    "rev_growth": -0.056,
+    "debt_to_equity": 195.668
+  },
+  "market_stats": {
+    "ticker": "GPI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1176,
+    "short_ratio": 4.56,
+    "putcall_oi_ratio": 0.9523809523809523,
+    "avg_volume": 204564.0,
+    "beta": 0.834
+  },
+  "momentum": {
+    "ticker": "GPI",
+    "asof": "2026-08-12",
+    "ret_1m": -12.18312803774364,
+    "ret_3m": -23.88812244774663,
+    "ret_6m": -21.649367608505944,
+    "ret_12m": -36.767982365094824,
+    "rsi14": 36.356170238876906,
+    "pct_vs_200dma": -23.72270102591686,
+    "score": 24.3,
+    "components_json": "{\"trend\": 21.6315600370863, \"rsi\": 36.356170238876906, \"vs_200dma\": 2.5545979481662826, \"short_squeeze\": 58.8, \"options_skew\": 36.52619047619048}",
+    "thesis": null
+  }
+}

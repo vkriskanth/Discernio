@@ -1,0 +1,55 @@
+{
+  "ticker": "HVT",
+  "stock": {
+    "ticker": "HVT",
+    "name": "Haverty Furniture Companies, In",
+    "sector": "Consumer Cyclical",
+    "industry": "Home Improvement Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 7.07,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HVT",
+    "asof": "2026-08-12",
+    "market_cap": 438882624.0,
+    "pe": 20.394928,
+    "forward_pe": 10.681214,
+    "ev_ebitda": 11.206,
+    "fcf_yield": 0.08010114339819478,
+    "roe": 0.076230004,
+    "gross_margin": 0.609,
+    "op_margin": 0.033689998,
+    "rev_growth": 0.077,
+    "debt_to_equity": 78.455
+  },
+  "market_stats": {
+    "ticker": "HVT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0007,
+    "short_ratio": 0.11,
+    "putcall_oi_ratio": 0.6666666666666666,
+    "avg_volume": 113656.0,
+    "beta": 1.175
+  },
+  "momentum": {
+    "ticker": "HVT",
+    "asof": "2026-08-12",
+    "ret_1m": 11.96903265473166,
+    "ret_3m": 38.222987077228176,
+    "ret_6m": 7.485239403003829,
+    "ret_12m": 41.77540157196464,
+    "rsi14": 71.09233614359282,
+    "pct_vs_200dma": 20.62775766947116,
+    "score": 71.2,
+    "components_json": "{\"trend\": 80.42262857285546, \"rsi\": 71.09233614359282, \"vs_200dma\": 91.25551533894232, \"short_squeeze\": 0.35, \"options_skew\": 55.583333333333336}",
+    "thesis": null
+  }
+}

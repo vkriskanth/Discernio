@@ -1,0 +1,87 @@
+{
+  "ticker": "DVN",
+  "stock": {
+    "ticker": "DVN",
+    "name": "Devon Energy Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 4.49,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "add",
+      "share_change_pct": 15.83,
+      "pct_of_portfolio": 0.41,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 33.27,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 11.35,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 6.14,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DVN",
+    "asof": "2026-08-12",
+    "market_cap": 49566003200.0,
+    "pe": 9.795652,
+    "forward_pe": 8.2185335,
+    "ev_ebitda": 6.822,
+    "fcf_yield": 0.01578955278766556,
+    "roe": 0.11522,
+    "gross_margin": 0.50349,
+    "op_margin": 0.41077,
+    "rev_growth": 0.642,
+    "debt_to_equity": 28.488
+  },
+  "market_stats": {
+    "ticker": "DVN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.028800001,
+    "short_ratio": 2.64,
+    "putcall_oi_ratio": 0.20564104006676232,
+    "avg_volume": 13135746.0,
+    "beta": 0.419
+  },
+  "momentum": {
+    "ticker": "DVN",
+    "asof": "2026-08-12",
+    "ret_1m": 3.3525298737370424,
+    "ret_3m": -3.4123615088887838,
+    "ret_6m": 4.438791343739146,
+    "ret_12m": 40.00600818284499,
+    "rsi14": 48.305410921467825,
+    "pct_vs_200dma": 6.992296954464061,
+    "score": 59.8,
+    "components_json": "{\"trend\": 66.31033222359311, \"rsi\": 48.305410921467825, \"vs_200dma\": 63.98459390892812, \"short_squeeze\": 14.400000499999999, \"options_skew\": 86.33374262754695}",
+    "thesis": null
+  }
+}

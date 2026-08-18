@@ -1,0 +1,55 @@
+{
+  "ticker": "HLN",
+  "stock": {
+    "ticker": "HLN",
+    "name": "Haleon plc",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.2,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HLN",
+    "asof": "2026-08-12",
+    "market_cap": 43223920640.0,
+    "pe": 20.030611,
+    "forward_pe": 15.752137,
+    "ev_ebitda": 18.118,
+    "fcf_yield": 0.04168409504094444,
+    "roe": 0.100930005,
+    "gross_margin": 0.65567,
+    "op_margin": 0.23938,
+    "rev_growth": 0.022,
+    "debt_to_equity": 50.195
+  },
+  "market_stats": {
+    "ticker": "HLN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0041,
+    "short_ratio": 1.74,
+    "putcall_oi_ratio": 1.875,
+    "avg_volume": 9668816.0,
+    "beta": 0.245
+  },
+  "momentum": {
+    "ticker": "HLN",
+    "asof": "2026-08-12",
+    "ret_1m": 1.081354704673787,
+    "ret_3m": 5.537627732110217,
+    "ret_6m": -8.424019311461928,
+    "ret_12m": 8.173103907119582,
+    "rsi14": 43.967817450861475,
+    "pct_vs_200dma": 0.9820631486450848,
+    "score": 40.8,
+    "components_json": "{\"trend\": 52.40332408904232, \"rsi\": 43.967817450861475, \"vs_200dma\": 51.96412629729017, \"short_squeeze\": 2.0500000000000003, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

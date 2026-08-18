@@ -1,0 +1,95 @@
+{
+  "ticker": "FERG",
+  "stock": {
+    "ticker": "FERG",
+    "name": "Ferguson Enterprises Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "add",
+      "share_change_pct": 40.39,
+      "pct_of_portfolio": 1.51,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "add",
+      "share_change_pct": 26.86,
+      "pct_of_portfolio": 1.39,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "add",
+      "share_change_pct": 58.61,
+      "pct_of_portfolio": 0.85,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "WIM",
+      "manager_name": "Wallace Weitz - Weitz Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 5.57,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "GC",
+      "manager_name": "Francois Rochon - Giverny Capital",
+      "action": "add",
+      "share_change_pct": 0.97,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FERG",
+    "asof": "2026-08-12",
+    "market_cap": 47901794304.0,
+    "pe": 24.371555,
+    "forward_pe": 19.725029,
+    "ev_ebitda": 17.946,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": 0.30633,
+    "op_margin": 0.10159001,
+    "rev_growth": 0.046,
+    "debt_to_equity": 111.063
+  },
+  "market_stats": {
+    "ticker": "FERG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0161,
+    "short_ratio": 2.19,
+    "putcall_oi_ratio": 0.40066225165562913,
+    "avg_volume": 2334482.0,
+    "beta": 1.121
+  },
+  "momentum": {
+    "ticker": "FERG",
+    "asof": "2026-08-12",
+    "ret_1m": 8.269584543825204,
+    "ret_3m": 2.4357278848026853,
+    "ret_6m": -5.564329098393939,
+    "ret_12m": 11.254705363977058,
+    "rsi14": 62.10454136747272,
+    "pct_vs_200dma": 2.777791220596737,
+    "score": 52.8,
+    "components_json": "{\"trend\": 53.563301781513445, \"rsi\": 62.10454136747272, \"vs_200dma\": 55.55558244119347, \"short_squeeze\": 8.049999999999999, \"options_skew\": 73.32582781456955}",
+    "thesis": null
+  }
+}

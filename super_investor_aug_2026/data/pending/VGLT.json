@@ -1,0 +1,55 @@
+{
+  "ticker": "VGLT",
+  "stock": {
+    "ticker": "VGLT",
+    "name": "Vanguard Long-Term Treasury ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VGLT",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VGLT",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.6422018348623854,
+    "avg_volume": 2060130.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VGLT",
+    "asof": "2026-08-12",
+    "ret_1m": -1.8201557562084747,
+    "ret_3m": -2.8068574702946325,
+    "ret_6m": -3.296898890144906,
+    "ret_12m": -0.9772683088605238,
+    "rsi14": 47.39074403353942,
+    "pct_vs_200dma": -3.0046243453438204,
+    "score": 42.9,
+    "components_json": "{\"trend\": 47.77796576832393, \"rsi\": 47.39074403353942, \"vs_200dma\": 43.99075130931236, \"short_squeeze\": 0.0, \"options_skew\": 57.2151376146789}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "STE",
+  "stock": {
+    "ticker": "STE",
+    "name": "STERIS plc (Ireland)",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 427.78,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "STE",
+    "asof": "2026-08-12",
+    "market_cap": 22912526336.0,
+    "pe": 28.76377,
+    "forward_pe": 19.19516,
+    "ev_ebitda": 15.12,
+    "fcf_yield": 0.034865754927462224,
+    "roe": 0.11389,
+    "gross_margin": 0.44422,
+    "op_margin": 0.19153,
+    "rev_growth": 0.073,
+    "debt_to_equity": 28.312
+  },
+  "market_stats": {
+    "ticker": "STE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0325,
+    "short_ratio": 4.34,
+    "putcall_oi_ratio": 0.3489583333333333,
+    "avg_volume": 826593.0,
+    "beta": 0.914
+  },
+  "momentum": {
+    "ticker": "STE",
+    "asof": "2026-08-12",
+    "ret_1m": 9.449075769495074,
+    "ret_3m": 10.956234231649642,
+    "ret_6m": -2.499283377536854,
+    "ret_12m": 7.741862354034201,
+    "rsi14": 74.94315252470793,
+    "pct_vs_200dma": 1.0794762296056026,
+    "score": 55.8,
+    "components_json": "{\"trend\": 55.633830197847516, \"rsi\": 74.94315252470793, \"vs_200dma\": 52.15895245921121, \"short_squeeze\": 16.25, \"options_skew\": 76.77447916666668}",
+    "thesis": null
+  }
+}

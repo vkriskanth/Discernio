@@ -1,0 +1,63 @@
+{
+  "ticker": "RKT",
+  "stock": {
+    "ticker": "RKT",
+    "name": "Rocket Companies Inc.",
+    "sector": "Financial Services",
+    "industry": "Mortgage Finance"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "add",
+      "share_change_pct": 10.51,
+      "pct_of_portfolio": 0.27,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 49.43,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RKT",
+    "asof": "2026-08-12",
+    "market_cap": 39005872128.0,
+    "pe": null,
+    "forward_pe": 15.779466,
+    "ev_ebitda": 27.241,
+    "fcf_yield": -0.09141623528628515,
+    "roe": 0.03033,
+    "gross_margin": 1.0,
+    "op_margin": 0.27083,
+    "rev_growth": 0.919,
+    "debt_to_equity": 140.911
+  },
+  "market_stats": {
+    "ticker": "RKT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0521,
+    "short_ratio": 3.23,
+    "putcall_oi_ratio": 0.46365062130534446,
+    "avg_volume": 30035698.0,
+    "beta": 2.213
+  },
+  "momentum": {
+    "ticker": "RKT",
+    "asof": "2026-08-12",
+    "ret_1m": -2.4125892477423805,
+    "ret_3m": -5.7094611901275405,
+    "ret_6m": -31.086420129846648,
+    "ret_12m": -18.439512414375546,
+    "rsi14": 60.05133037196572,
+    "pct_vs_200dma": -14.898547977503974,
+    "score": 36.2,
+    "components_json": "{\"trend\": 31.585430638257524, \"rsi\": 60.05133037196572, \"vs_200dma\": 20.202904044992053, \"short_squeeze\": 26.05, \"options_skew\": 69.12450355893353}",
+    "thesis": null
+  }
+}

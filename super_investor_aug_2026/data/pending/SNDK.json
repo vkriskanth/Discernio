@@ -1,0 +1,55 @@
+{
+  "ticker": "SNDK",
+  "stock": {
+    "ticker": "SNDK",
+    "name": "Sandisk Corporation",
+    "sector": "Technology",
+    "industry": "Computer Hardware"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AM",
+      "manager_name": "David Tepper - Appaloosa Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 3.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SNDK",
+    "asof": "2026-08-12",
+    "market_cap": 201131032576.0,
+    "pe": 18.687057,
+    "forward_pe": 5.196131,
+    "ev_ebitda": 14.633,
+    "fcf_yield": 0.03850661386662696,
+    "roe": 0.9164,
+    "gross_margin": 0.71474,
+    "op_margin": 0.78494,
+    "rev_growth": 3.716,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "SNDK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0736,
+    "short_ratio": 0.43,
+    "putcall_oi_ratio": 1.1015333805142722,
+    "avg_volume": 13375451.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "SNDK",
+    "asof": "2026-08-12",
+    "ret_1m": -22.144642303945794,
+    "ret_3m": -5.748062118472486,
+    "ret_6m": 152.66911044676556,
+    "ret_12m": 3055.538484068999,
+    "rsi14": 41.98464953814904,
+    "pct_vs_200dma": 53.887675587084736,
+    "score": 77.6,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 41.98464953814904, \"vs_200dma\": 100.0, \"short_squeeze\": 36.8, \"options_skew\": 26.577723519698047}",
+    "thesis": null
+  }
+}

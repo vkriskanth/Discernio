@@ -1,0 +1,63 @@
+{
+  "ticker": "PTLO",
+  "stock": {
+    "ticker": "PTLO",
+    "name": "Portillo's Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "ENG",
+      "manager_name": "Glenn Welling - Engaged Capital",
+      "action": "add",
+      "share_change_pct": 124.3,
+      "pct_of_portfolio": 3.33,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.18,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PTLO",
+    "asof": "2026-08-12",
+    "market_cap": 337211872.0,
+    "pe": 25.833332,
+    "forward_pe": 20.019804,
+    "ev_ebitda": 13.342,
+    "fcf_yield": -0.11663995032772749,
+    "roe": 0.02747,
+    "gross_margin": 0.20749001,
+    "op_margin": 0.084350005,
+    "rev_growth": 0.056,
+    "debt_to_equity": 135.579
+  },
+  "market_stats": {
+    "ticker": "PTLO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1579,
+    "short_ratio": 10.07,
+    "putcall_oi_ratio": 0.3681917211328976,
+    "avg_volume": 1427132.0,
+    "beta": 1.566
+  },
+  "momentum": {
+    "ticker": "PTLO",
+    "asof": "2026-08-12",
+    "ret_1m": 4.867252015929324,
+    "ret_3m": 17.03702587377167,
+    "ret_6m": -20.469803007050313,
+    "ret_12m": -39.61783657703079,
+    "rsi14": 64.01383455034082,
+    "pct_vs_200dma": -5.22417246969582,
+    "score": 48.2,
+    "components_json": "{\"trend\": 33.123032229204085, \"rsi\": 64.01383455034082, \"vs_200dma\": 39.55165506060836, \"short_squeeze\": 78.95, \"options_skew\": 75.49161220043574}",
+    "thesis": null
+  }
+}

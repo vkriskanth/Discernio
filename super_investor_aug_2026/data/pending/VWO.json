@@ -1,0 +1,71 @@
+{
+  "ticker": "VWO",
+  "stock": {
+    "ticker": "VWO",
+    "name": "Vanguard FTSE Emerging Marke",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 0.79,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VWO",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 16.969633,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VWO",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.8484233158146202,
+    "avg_volume": 8370082.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VWO",
+    "asof": "2026-08-12",
+    "ret_1m": 0.8599088243394615,
+    "ret_3m": -0.1044137603596007,
+    "ret_6m": 5.617871707713951,
+    "ret_12m": 22.13889354473273,
+    "rsi14": 67.99373925721576,
+    "pct_vs_200dma": 6.708646566136034,
+    "score": 54.6,
+    "components_json": "{\"trend\": 60.5095948020994, \"rsi\": 67.99373925721576, \"vs_200dma\": 63.417293132272064, \"short_squeeze\": 0.0, \"options_skew\": 43.46016483516484}",
+    "thesis": null
+  }
+}

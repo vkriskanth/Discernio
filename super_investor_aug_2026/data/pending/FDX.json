@@ -1,0 +1,63 @@
+{
+  "ticker": "FDX",
+  "stock": {
+    "ticker": "FDX",
+    "name": "FedEx Corp.",
+    "sector": "Industrials",
+    "industry": "Integrated Freight & Logistics"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.93,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 38.53,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FDX",
+    "asof": "2026-08-12",
+    "market_cap": 76056125440.0,
+    "pe": 17.339806,
+    "forward_pe": 15.474615,
+    "ev_ebitda": 8.922,
+    "fcf_yield": 0.0743743534038223,
+    "roe": 0.14846,
+    "gross_margin": 0.27318,
+    "op_margin": 0.11129,
+    "rev_growth": 0.125,
+    "debt_to_equity": 135.697
+  },
+  "market_stats": {
+    "ticker": "FDX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0215,
+    "short_ratio": 3.06,
+    "putcall_oi_ratio": 0.9205298013245033,
+    "avg_volume": 1944311.0,
+    "beta": 1.36
+  },
+  "momentum": {
+    "ticker": "FDX",
+    "asof": "2026-08-12",
+    "ret_1m": 3.757891538185598,
+    "ret_3m": 7.020139553008198,
+    "ret_6m": 11.668475819517976,
+    "ret_12m": 80.5975007307644,
+    "rsi14": 62.207445868698464,
+    "pct_vs_200dma": 16.630276402637723,
+    "score": 70.2,
+    "components_json": "{\"trend\": 87.84558490406361, \"rsi\": 62.207445868698464, \"vs_200dma\": 83.26055280527544, \"short_squeeze\": 10.75, \"options_skew\": 38.650662251655625}",
+    "thesis": null
+  }
+}

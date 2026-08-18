@@ -1,0 +1,63 @@
+{
+  "ticker": "RGA",
+  "stock": {
+    "ticker": "RGA",
+    "name": "Reinsurance Group of America, I",
+    "sector": "Financial Services",
+    "industry": "Insurance - Reinsurance"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 13.83,
+      "pct_of_portfolio": 0.16,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 368.42,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RGA",
+    "asof": "2026-08-12",
+    "market_cap": 16078575616.0,
+    "pe": 10.846696,
+    "forward_pe": 8.327952,
+    "ev_ebitda": 6.963,
+    "fcf_yield": 0.611776826686785,
+    "roe": 0.11687,
+    "gross_margin": 0.1407,
+    "op_margin": 0.10637,
+    "rev_growth": 0.185,
+    "debt_to_equity": 41.418
+  },
+  "market_stats": {
+    "ticker": "RGA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0138,
+    "short_ratio": 2.27,
+    "putcall_oi_ratio": 1.4545454545454546,
+    "avg_volume": 365790.0,
+    "beta": 0.461
+  },
+  "momentum": {
+    "ticker": "RGA",
+    "asof": "2026-08-12",
+    "ret_1m": 7.028502998895836,
+    "ret_3m": 16.42386065093644,
+    "ret_6m": 20.789675508620608,
+    "ret_12m": 36.80144709137729,
+    "rsi14": 56.84979610575301,
+    "pct_vs_200dma": 19.249457254509018,
+    "score": 62.0,
+    "components_json": "{\"trend\": 75.88463968441803, \"rsi\": 56.84979610575301, \"vs_200dma\": 88.49891450901804, \"short_squeeze\": 6.8999999999999995, \"options_skew\": 3.031818181818179}",
+    "thesis": null
+  }
+}

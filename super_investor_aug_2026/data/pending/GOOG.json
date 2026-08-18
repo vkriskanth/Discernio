@@ -1,0 +1,159 @@
+{
+  "ticker": "GOOG",
+  "stock": {
+    "ticker": "GOOG",
+    "name": "Alphabet Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "BRK",
+      "manager_name": "Warren Buffett - Berkshire Hathaway",
+      "action": "add",
+      "share_change_pct": 658.35,
+      "pct_of_portfolio": 2.79,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HH",
+      "manager_name": "Duan Yongping - H&H International Investment",
+      "action": "add",
+      "share_change_pct": 99.74,
+      "pct_of_portfolio": 2.65,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 65.25,
+      "pct_of_portfolio": 1.82,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "add",
+      "share_change_pct": 16.15,
+      "pct_of_portfolio": 1.24,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "tci",
+      "manager_name": "Chris Hohn - TCI Fund Management",
+      "action": "add",
+      "share_change_pct": 16.55,
+      "pct_of_portfolio": 0.8,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "tci",
+      "manager_name": "Chris Hohn - TCI Fund Management",
+      "action": "add",
+      "share_change_pct": 12.25,
+      "pct_of_portfolio": 0.73,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "AM",
+      "manager_name": "David Tepper - Appaloosa Management",
+      "action": "add",
+      "share_change_pct": 6.77,
+      "pct_of_portfolio": 0.55,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "add",
+      "share_change_pct": 8.64,
+      "pct_of_portfolio": 0.53,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 118.37,
+      "pct_of_portfolio": 0.49,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "BRK",
+      "manager_name": "Warren Buffett - Berkshire Hathaway",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.39,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 4.46,
+      "pct_of_portfolio": 0.23,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.23,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 0.0,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GOOG",
+    "asof": "2026-08-15",
+    "market_cap": 4201472065536.0,
+    "pe": 17.271997,
+    "forward_pe": 23.296865,
+    "ev_ebitda": 23.693,
+    "fcf_yield": 0.005394538058676472,
+    "roe": 0.48676,
+    "gross_margin": 0.60897,
+    "op_margin": 0.34033,
+    "rev_growth": 0.242,
+    "debt_to_equity": 18.859
+  },
+  "market_stats": {
+    "ticker": "GOOG",
+    "asof": "2026-08-14",
+    "short_pct_float": null,
+    "short_ratio": 2.35,
+    "putcall_oi_ratio": 0.7893284471720606,
+    "avg_volume": 22467229.0,
+    "beta": 1.237
+  },
+  "momentum": {
+    "ticker": "GOOG",
+    "asof": "2026-08-14",
+    "ret_1m": -7.0959697523073295,
+    "ret_3m": -13.756265554361624,
+    "ret_6m": 10.618788307857985,
+    "ret_12m": 68.94697030340589,
+    "rsi14": 62.46113379889627,
+    "pct_vs_200dma": 4.269612726406313,
+    "score": 59.4,
+    "components_json": "{\"trend\": 76.63754494741127, \"rsi\": 62.46113379889627, \"vs_200dma\": 58.53922545281263, \"short_squeeze\": 0.0, \"options_skew\": 47.40179257362356}",
+    "thesis": null
+  }
+}

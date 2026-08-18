@@ -1,0 +1,55 @@
+{
+  "ticker": "PLGO",
+  "stock": {
+    "ticker": "PLGO",
+    "name": "Pelagos Insurance Capital",
+    "sector": "Financial Services",
+    "industry": "Insurance - Diversified"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oa",
+      "manager_name": "Leon Cooperman",
+      "action": "add",
+      "share_change_pct": 13.39,
+      "pct_of_portfolio": 0.59,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PLGO",
+    "asof": "2026-08-12",
+    "market_cap": 2102989440.0,
+    "pe": 6.7574997,
+    "forward_pe": 6.0578213,
+    "ev_ebitda": null,
+    "fcf_yield": 0.39977020141385017,
+    "roe": 0.16188,
+    "gross_margin": 0.23858999,
+    "op_margin": 0.19309,
+    "rev_growth": -0.073,
+    "debt_to_equity": 37.424
+  },
+  "market_stats": {
+    "ticker": "PLGO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0398,
+    "short_ratio": 8.49,
+    "putcall_oi_ratio": null,
+    "avg_volume": 414070.0,
+    "beta": 0.29
+  },
+  "momentum": {
+    "ticker": "PLGO",
+    "asof": "2026-08-12",
+    "ret_1m": -1.9207664931277013,
+    "ret_3m": 17.347502250325707,
+    "ret_6m": 27.3215857380948,
+    "ret_12m": 54.73495091614507,
+    "rsi14": 37.5870034695178,
+    "pct_vs_200dma": 19.644143674031646,
+    "score": 69.1,
+    "components_json": "{\"trend\": 85.29470676298418, \"rsi\": 37.5870034695178, \"vs_200dma\": 89.28828734806329, \"short_squeeze\": 19.900000000000002, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

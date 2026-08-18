@@ -1,0 +1,55 @@
+{
+  "ticker": "CGNX",
+  "stock": {
+    "ticker": "CGNX",
+    "name": "Cognex Corporation",
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 4.46,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CGNX",
+    "asof": "2026-08-12",
+    "market_cap": 10401280000.0,
+    "pe": 59.451927,
+    "forward_pe": 30.742382,
+    "ev_ebitda": 38.329,
+    "fcf_yield": 0.018812240031996063,
+    "roe": 0.111490004,
+    "gross_margin": 0.68865997,
+    "op_margin": 0.29361,
+    "rev_growth": 0.169,
+    "debt_to_equity": 4.448
+  },
+  "market_stats": {
+    "ticker": "CGNX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0584,
+    "short_ratio": 4.12,
+    "putcall_oi_ratio": 1.309043020193152,
+    "avg_volume": 2227858.0,
+    "beta": 1.503
+  },
+  "momentum": {
+    "ticker": "CGNX",
+    "asof": "2026-08-12",
+    "ret_1m": -5.0438241440365905,
+    "ret_3m": -5.85728340022672,
+    "ret_6m": 42.0940951400818,
+    "ret_12m": 53.63320393732616,
+    "rsi14": 47.09522333950145,
+    "pct_vs_200dma": 19.3559817495077,
+    "score": 66.4,
+    "components_json": "{\"trend\": 82.32432509688698, \"rsi\": 47.09522333950145, \"vs_200dma\": 88.7119634990154, \"short_squeeze\": 29.2, \"options_skew\": 12.736830553116762}",
+    "thesis": null
+  }
+}

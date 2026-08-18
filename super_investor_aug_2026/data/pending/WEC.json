@@ -1,0 +1,55 @@
+{
+  "ticker": "WEC",
+  "stock": {
+    "ticker": "WEC",
+    "name": "WEC Energy Group, Inc.",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Electric"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 0.1,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WEC",
+    "asof": "2026-08-12",
+    "market_cap": 35628367872.0,
+    "pe": 21.231068,
+    "forward_pe": 18.220387,
+    "ev_ebitda": 14.671,
+    "fcf_yield": -0.06606076889224279,
+    "roe": 0.11988,
+    "gross_margin": 0.41909,
+    "op_margin": 0.21802999,
+    "rev_growth": 0.026,
+    "debt_to_equity": 157.985
+  },
+  "market_stats": {
+    "ticker": "WEC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0498,
+    "short_ratio": 7.37,
+    "putcall_oi_ratio": 0.9025054466230937,
+    "avg_volume": 2167833.0,
+    "beta": 0.462
+  },
+  "momentum": {
+    "ticker": "WEC",
+    "asof": "2026-08-12",
+    "ret_1m": -5.16297460568863,
+    "ret_3m": -2.2520033318863764,
+    "ret_6m": -1.7249928739747622,
+    "ret_12m": 2.8378283148601247,
+    "rsi14": 29.51057026015758,
+    "pct_vs_200dma": -1.7797299011011236,
+    "score": 42.5,
+    "components_json": "{\"trend\": 49.94203246418571, \"rsi\": 29.51057026015758, \"vs_200dma\": 46.44054019779775, \"short_squeeze\": 24.9, \"options_skew\": 39.85288671023965}",
+    "thesis": null
+  }
+}

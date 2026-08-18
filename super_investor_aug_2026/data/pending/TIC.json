@@ -1,0 +1,55 @@
+{
+  "ticker": "TIC",
+  "stock": {
+    "ticker": "TIC",
+    "name": "TIC Solutions, Inc.",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 4.26,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TIC",
+    "asof": "2026-08-12",
+    "market_cap": 2230212096.0,
+    "pe": null,
+    "forward_pe": 18.745415,
+    "ev_ebitda": 14.871,
+    "fcf_yield": -0.0043377040315362,
+    "roe": -0.07082,
+    "gross_margin": 0.33927,
+    "op_margin": 0.018550001,
+    "rev_growth": 0.861,
+    "debt_to_equity": 81.295
+  },
+  "market_stats": {
+    "ticker": "TIC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1082,
+    "short_ratio": 9.17,
+    "putcall_oi_ratio": 5.168115942028986,
+    "avg_volume": 2166238.0,
+    "beta": 1.743
+  },
+  "momentum": {
+    "ticker": "TIC",
+    "asof": "2026-08-12",
+    "ret_1m": 37.15046440509138,
+    "ret_3m": 2.897102449771083,
+    "ret_6m": 14.444446563720703,
+    "ret_12m": 2.7944083850240053,
+    "rsi14": 90.34335141630874,
+    "pct_vs_200dma": 12.030195758466377,
+    "score": 60.0,
+    "components_json": "{\"trend\": 56.32022805805714, \"rsi\": 90.34335141630874, \"vs_200dma\": 74.06039151693275, \"short_squeeze\": 54.1, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

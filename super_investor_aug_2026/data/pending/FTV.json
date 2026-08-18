@@ -1,0 +1,63 @@
+{
+  "ticker": "FTV",
+  "stock": {
+    "ticker": "FTV",
+    "name": "Fortive Corp.",
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 16.91,
+      "pct_of_portfolio": 0.5,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 22.94,
+      "pct_of_portfolio": 0.15,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FTV",
+    "asof": "2026-08-12",
+    "market_cap": 18404919296.0,
+    "pe": 32.243385,
+    "forward_pe": 18.753077,
+    "ev_ebitda": 17.707,
+    "fcf_yield": 0.051025081767356636,
+    "roe": 0.07318,
+    "gross_margin": 0.6323,
+    "op_margin": 0.19137,
+    "rev_growth": 0.079,
+    "debt_to_equity": 59.283
+  },
+  "market_stats": {
+    "ticker": "FTV",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0582,
+    "short_ratio": 4.39,
+    "putcall_oi_ratio": 3.092541436464088,
+    "avg_volume": 3018524.0,
+    "beta": 0.976
+  },
+  "momentum": {
+    "ticker": "FTV",
+    "asof": "2026-08-12",
+    "ret_1m": 1.0711956536088918,
+    "ret_3m": 1.8588958384519572,
+    "ret_6m": -0.7468697895676724,
+    "ret_12m": 31.852401147145095,
+    "rsi14": 52.58936230538012,
+    "pct_vs_200dma": 7.1322548344025405,
+    "score": 52.1,
+    "components_json": "{\"trend\": 63.074568273523326, \"rsi\": 52.58936230538012, \"vs_200dma\": 64.26450966880508, \"short_squeeze\": 29.1, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

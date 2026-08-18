@@ -1,0 +1,63 @@
+{
+  "ticker": "TWLO",
+  "stock": {
+    "ticker": "TWLO",
+    "name": "Twilio Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.16,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 105.76,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TWLO",
+    "asof": "2026-08-12",
+    "market_cap": 37738807296.0,
+    "pe": 33.9413,
+    "forward_pe": 36.11774,
+    "ev_ebitda": 75.463,
+    "fcf_yield": 0.02529691477825765,
+    "roe": 0.13497,
+    "gross_margin": 0.48561,
+    "op_margin": 0.078260005,
+    "rev_growth": 0.22,
+    "debt_to_equity": 11.868
+  },
+  "market_stats": {
+    "ticker": "TWLO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.036199998,
+    "short_ratio": 2.59,
+    "putcall_oi_ratio": 0.582073516997928,
+    "avg_volume": 2450533.0,
+    "beta": 1.383
+  },
+  "momentum": {
+    "ticker": "TWLO",
+    "asof": "2026-08-12",
+    "ret_1m": 12.131135528933012,
+    "ret_3m": 23.226245455748273,
+    "ret_6m": 109.19387016190059,
+    "ret_12m": 148.01358151328157,
+    "rsi14": 78.9967368611862,
+    "pct_vs_200dma": 59.155659249024865,
+    "score": 84.8,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 78.9967368611862, \"vs_200dma\": 100.0, \"short_squeeze\": 18.099998999999997, \"options_skew\": 61.22569641623821}",
+    "thesis": null
+  }
+}

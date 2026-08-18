@@ -1,0 +1,55 @@
+{
+  "ticker": "AQN",
+  "stock": {
+    "ticker": "AQN",
+    "name": "Algonquin Power & Utilities",
+    "sector": "Utilities",
+    "industry": "Utilities - Diversified"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 23.37,
+      "pct_of_portfolio": 0.26,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AQN",
+    "asof": "2026-08-12",
+    "market_cap": 4484678144.0,
+    "pe": 24.270834,
+    "forward_pe": 14.330347,
+    "ev_ebitda": 12.397,
+    "fcf_yield": -0.0180587104357427,
+    "roe": 0.024920002,
+    "gross_margin": 0.36942002,
+    "op_margin": 0.15867,
+    "rev_growth": 0.031,
+    "debt_to_equity": 133.525
+  },
+  "market_stats": {
+    "ticker": "AQN",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 2.94,
+    "putcall_oi_ratio": 0.3125,
+    "avg_volume": 4495809.0,
+    "beta": 0.9
+  },
+  "momentum": {
+    "ticker": "AQN",
+    "asof": "2026-08-12",
+    "ret_1m": 0.25817326391261997,
+    "ret_3m": -1.023205270763805,
+    "ret_6m": -10.091792275476774,
+    "ret_12m": 4.787384521581495,
+    "rsi14": 41.708543676851015,
+    "pct_vs_200dma": -3.5481820197734604,
+    "score": 44.3,
+    "components_json": "{\"trend\": 48.58045454476042, \"rsi\": 41.708543676851015, \"vs_200dma\": 42.90363596045308, \"short_squeeze\": 0.0, \"options_skew\": 79.20625}",
+    "thesis": null
+  }
+}

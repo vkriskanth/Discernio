@@ -1,0 +1,55 @@
+{
+  "ticker": "TDAY",
+  "stock": {
+    "ticker": "TDAY",
+    "name": "Gannett Co.",
+    "sector": "Communication Services",
+    "industry": "Publishing"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oa",
+      "manager_name": "Leon Cooperman",
+      "action": "add",
+      "share_change_pct": 1.74,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TDAY",
+    "asof": "2026-08-12",
+    "market_cap": 1016714240.0,
+    "pe": null,
+    "forward_pe": 23.083334,
+    "ev_ebitda": 7.027,
+    "fcf_yield": 0.08324414144135524,
+    "roe": -0.20663,
+    "gross_margin": 0.39471,
+    "op_margin": 0.04216,
+    "rev_growth": -0.083,
+    "debt_to_equity": 725.559
+  },
+  "market_stats": {
+    "ticker": "TDAY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1392,
+    "short_ratio": 13.57,
+    "putcall_oi_ratio": null,
+    "avg_volume": 1768196.0,
+    "beta": 1.391
+  },
+  "momentum": {
+    "ticker": "TDAY",
+    "asof": "2026-08-12",
+    "ret_1m": -18.05225614196835,
+    "ret_3m": -5.7377058257448095,
+    "ret_6m": 14.808649460753532,
+    "ret_12m": 78.75648401270585,
+    "rsi14": 28.571422489320483,
+    "pct_vs_200dma": 3.841379926168531,
+    "score": 64.4,
+    "components_json": "{\"trend\": 84.22387669558496, \"rsi\": 28.571422489320483, \"vs_200dma\": 57.682759852337064, \"short_squeeze\": 69.6, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

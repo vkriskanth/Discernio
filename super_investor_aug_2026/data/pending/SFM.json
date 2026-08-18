@@ -1,0 +1,55 @@
+{
+  "ticker": "SFM",
+  "stock": {
+    "ticker": "SFM",
+    "name": "Sprouts Farmers Market, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Grocery Stores"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.23,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SFM",
+    "asof": "2026-08-12",
+    "market_cap": 7856112128.0,
+    "pe": 16.108986,
+    "forward_pe": 14.13216,
+    "ev_ebitda": 11.578,
+    "fcf_yield": 0.05075027768239104,
+    "roe": 0.35197,
+    "gross_margin": 0.38939,
+    "op_margin": 0.074889995,
+    "rev_growth": 0.047,
+    "debt_to_equity": 140.338
+  },
+  "market_stats": {
+    "ticker": "SFM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.14930001,
+    "short_ratio": 4.76,
+    "putcall_oi_ratio": 0.5656535851283564,
+    "avg_volume": 2183266.0,
+    "beta": 0.679
+  },
+  "momentum": {
+    "ticker": "SFM",
+    "asof": "2026-08-12",
+    "ret_1m": 4.235719794589454,
+    "ret_3m": 1.7566120957263731,
+    "ret_6m": 25.200540766772296,
+    "ret_12m": -44.28910872994605,
+    "rsi14": 69.03393440260946,
+    "pct_vs_200dma": 5.553011968877319,
+    "score": 55.5,
+    "components_json": "{\"trend\": 40.37150236677118, \"rsi\": 69.03393440260946, \"vs_200dma\": 61.10602393775464, \"short_squeeze\": 74.65000500000001, \"options_skew\": 62.32090587193863}",
+    "thesis": null
+  }
+}

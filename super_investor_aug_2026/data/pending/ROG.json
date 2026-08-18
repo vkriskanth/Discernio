@@ -1,0 +1,55 @@
+{
+  "ticker": "ROG",
+  "stock": {
+    "ticker": "ROG",
+    "name": "Rogers Corporation",
+    "sector": "Technology",
+    "industry": "Electronic Components"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 42.82,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ROG",
+    "asof": "2026-08-12",
+    "market_cap": 2455377152.0,
+    "pe": 81.310646,
+    "forward_pe": 30.879776,
+    "ev_ebitda": 17.317,
+    "fcf_yield": 0.040655668689711745,
+    "roe": 0.02596,
+    "gross_margin": 0.32439,
+    "op_margin": 0.09548,
+    "rev_growth": 0.069,
+    "debt_to_equity": 2.366
+  },
+  "market_stats": {
+    "ticker": "ROG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.041300002,
+    "short_ratio": 1.93,
+    "putcall_oi_ratio": 0.03296703296703297,
+    "avg_volume": 293032.0,
+    "beta": 0.502
+  },
+  "momentum": {
+    "ticker": "ROG",
+    "asof": "2026-08-12",
+    "ret_1m": 1.4463300720475747,
+    "ret_3m": 0.8307514383583792,
+    "ret_6m": 31.679247010428945,
+    "ret_12m": 99.82821027944337,
+    "rsi14": 56.33967459553708,
+    "pct_vs_200dma": 22.06939181298506,
+    "score": 83.7,
+    "components_json": "{\"trend\": 99.68428364641355, \"rsi\": 56.33967459553708, \"vs_200dma\": 94.13878362597012, \"short_squeeze\": 20.650001000000003, \"options_skew\": 97.8510989010989}",
+    "thesis": null
+  }
+}

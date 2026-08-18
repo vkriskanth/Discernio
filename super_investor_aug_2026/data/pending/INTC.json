@@ -1,0 +1,71 @@
+{
+  "ticker": "INTC",
+  "stock": {
+    "ticker": "INTC",
+    "name": "Intel Corp.",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.54,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TGM",
+      "manager_name": "Chase Coleman - Tiger Global Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.32,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "INTC",
+    "asof": "2026-08-12",
+    "market_cap": 508662153216.0,
+    "pe": null,
+    "forward_pe": 48.702568,
+    "ev_ebitda": 31.429,
+    "fcf_yield": 0.009567008548272169,
+    "roe": -0.10715,
+    "gross_margin": 0.38873002,
+    "op_margin": 0.12189999,
+    "rev_growth": 0.254,
+    "debt_to_equity": 48.997
+  },
+  "market_stats": {
+    "ticker": "INTC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0248,
+    "short_ratio": 1.07,
+    "putcall_oi_ratio": 0.7734862688871733,
+    "avg_volume": 121990977.0,
+    "beta": 2.241
+  },
+  "momentum": {
+    "ticker": "INTC",
+    "asof": "2026-08-12",
+    "ret_1m": -5.386971223178971,
+    "ret_3m": -15.46720726713584,
+    "ret_6m": 116.32717912249339,
+    "ret_12m": 393.7288315471221,
+    "rsi14": 51.68968337988391,
+    "pct_vs_200dma": 46.69050991946948,
+    "score": 78.8,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 51.68968337988391, \"vs_200dma\": 100.0, \"short_squeeze\": 12.4, \"options_skew\": 48.45846586522554}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "ARLP",
+  "stock": {
+    "ticker": "ARLP",
+    "name": "Alliance Resource Partners, L.P",
+    "sector": "Energy",
+    "industry": "Thermal Coal"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "add",
+      "share_change_pct": 40.35,
+      "pct_of_portfolio": 0.39,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 54.26,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ARLP",
+    "asof": "2026-08-12",
+    "market_cap": 3201030912.0,
+    "pe": 12.196078,
+    "forward_pe": 8.549828,
+    "ev_ebitda": 5.494,
+    "fcf_yield": 0.07940281958764164,
+    "roe": 0.15168999,
+    "gross_margin": 0.35306,
+    "op_margin": 0.1733,
+    "rev_growth": 0.007,
+    "debt_to_equity": 33.076
+  },
+  "market_stats": {
+    "ticker": "ARLP",
+    "asof": "2026-08-08",
+    "short_pct_float": 0.0172,
+    "short_ratio": 5.48,
+    "putcall_oi_ratio": 0.32890715565391504,
+    "avg_volume": 317227.0,
+    "beta": 0.175
+  },
+  "momentum": {
+    "ticker": "ARLP",
+    "asof": "2026-08-08",
+    "ret_1m": 3.1393571817930344,
+    "ret_3m": 1.0724446282983635,
+    "ret_6m": 7.869700663415191,
+    "ret_12m": 5.287881189194543,
+    "rsi14": 62.317053107245485,
+    "pct_vs_200dma": 2.993370030269493,
+    "score": 53.9,
+    "components_json": "{\"trend\": 54.79779606319188, \"rsi\": 62.317053107245485, \"vs_200dma\": 55.986740060538985, \"short_squeeze\": 8.6, \"options_skew\": 78.11189271788386}",
+    "thesis": null
+  }
+}

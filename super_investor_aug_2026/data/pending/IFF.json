@@ -1,0 +1,63 @@
+{
+  "ticker": "IFF",
+  "stock": {
+    "ticker": "IFF",
+    "name": "International Flavors & Fragran",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 1.57,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 0.2,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IFF",
+    "asof": "2026-08-12",
+    "market_cap": 21516797952.0,
+    "pe": null,
+    "forward_pe": 21.299706,
+    "ev_ebitda": 14.354,
+    "fcf_yield": -0.07998401713113786,
+    "roe": -0.05548,
+    "gross_margin": 0.36583,
+    "op_margin": 0.08495,
+    "rev_growth": 0.018,
+    "debt_to_equity": 44.821
+  },
+  "market_stats": {
+    "ticker": "IFF",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0883,
+    "short_ratio": 8.62,
+    "putcall_oi_ratio": 0.8787699586043761,
+    "avg_volume": 2010966.0,
+    "beta": 0.943
+  },
+  "momentum": {
+    "ticker": "IFF",
+    "asof": "2026-08-12",
+    "ret_1m": 7.72952984741988,
+    "ret_3m": 8.672778214817844,
+    "ret_6m": 16.504965861801434,
+    "ret_12m": 30.965491420688608,
+    "rsi14": 65.11341534701654,
+    "pct_vs_200dma": 17.38633592903025,
+    "score": 67.5,
+    "components_json": "{\"trend\": 69.93951979126123, \"rsi\": 65.11341534701654, \"vs_200dma\": 84.7726718580605, \"short_squeeze\": 44.15, \"options_skew\": 41.436043761088115}",
+    "thesis": null
+  }
+}

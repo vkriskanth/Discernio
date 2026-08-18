@@ -1,0 +1,55 @@
+{
+  "ticker": "QCOM",
+  "stock": {
+    "ticker": "QCOM",
+    "name": "QUALCOMM Incorporated",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 7.65,
+      "pct_of_portfolio": 0.13,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "QCOM",
+    "asof": "2026-08-12",
+    "market_cap": 170383507456.0,
+    "pe": 18.545143,
+    "forward_pe": 15.876495,
+    "ev_ebitda": 14.819,
+    "fcf_yield": 0.060105585340439395,
+    "roe": 0.33754003,
+    "gross_margin": 0.54226,
+    "op_margin": 0.18528,
+    "rev_growth": -0.04,
+    "debt_to_equity": 55.21
+  },
+  "market_stats": {
+    "ticker": "QCOM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0369,
+    "short_ratio": 2.4,
+    "putcall_oi_ratio": 0.6686345593000648,
+    "avg_volume": 18628353.0,
+    "beta": 1.663
+  },
+  "momentum": {
+    "ticker": "QCOM",
+    "asof": "2026-08-12",
+    "ret_1m": -8.388546844138112,
+    "ret_3m": -22.13274287499043,
+    "ret_6m": 17.64870144009125,
+    "ret_12m": 12.589660731226825,
+    "rsi14": 44.05385337545688,
+    "pct_vs_200dma": -2.748053787747251,
+    "score": 46.6,
+    "components_json": "{\"trend\": 53.69065186202098, \"rsi\": 44.05385337545688, \"vs_200dma\": 44.503892424505494, \"short_squeeze\": 18.450000000000003, \"options_skew\": 55.45207489468568}",
+    "thesis": null
+  }
+}

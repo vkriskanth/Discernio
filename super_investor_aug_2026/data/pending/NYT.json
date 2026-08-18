@@ -1,0 +1,55 @@
+{
+  "ticker": "NYT",
+  "stock": {
+    "ticker": "NYT",
+    "name": "New York Times Company (The)",
+    "sector": "Communication Services",
+    "industry": "Publishing"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "BRK",
+      "manager_name": "Warren Buffett - Berkshire Hathaway",
+      "action": "add",
+      "share_change_pct": 199.0,
+      "pct_of_portfolio": 0.32,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NYT",
+    "asof": "2026-08-12",
+    "market_cap": 10370535424.0,
+    "pe": 26.791666,
+    "forward_pe": 20.48743,
+    "ev_ebitda": 17.25,
+    "fcf_yield": 0.04434989218932733,
+    "roe": 0.19724001,
+    "gross_margin": 0.50958997,
+    "op_margin": 0.17122,
+    "rev_growth": 0.113,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "NYT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0862,
+    "short_ratio": 8.91,
+    "putcall_oi_ratio": 1.5960698689956332,
+    "avg_volume": 1906027.0,
+    "beta": 0.927
+  },
+  "momentum": {
+    "ticker": "NYT",
+    "asof": "2026-08-12",
+    "ret_1m": -13.664871414415758,
+    "ret_3m": -19.745870903297025,
+    "ret_6m": -6.634345031603539,
+    "ret_12m": 4.767306735236598,
+    "rsi14": 31.351888642608344,
+    "pct_vs_200dma": -11.29834256733745,
+    "score": 33.5,
+    "components_json": "{\"trend\": 43.99285791362447, \"rsi\": 31.351888642608344, \"vs_200dma\": 27.4033148653251, \"short_squeeze\": 43.099999999999994, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

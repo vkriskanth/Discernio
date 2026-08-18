@@ -1,0 +1,63 @@
+{
+  "ticker": "ATI",
+  "stock": {
+    "ticker": "ATI",
+    "name": "ATI Inc.",
+    "sector": "Industrials",
+    "industry": "Metal Fabrication"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.39,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.36,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ATI",
+    "asof": "2026-08-08",
+    "market_cap": 31025059840.0,
+    "pe": 66.61988,
+    "forward_pe": 42.033875,
+    "ev_ebitda": 36.53,
+    "fcf_yield": 0.010674838008628318,
+    "roe": 0.25357,
+    "gross_margin": 0.23858999,
+    "op_margin": 0.16635999,
+    "rev_growth": 0.106,
+    "debt_to_equity": 109.699
+  },
+  "market_stats": {
+    "ticker": "ATI",
+    "asof": "2026-08-08",
+    "short_pct_float": 0.0416,
+    "short_ratio": 2.15,
+    "putcall_oi_ratio": 0.631307929969104,
+    "avg_volume": 1706500.0,
+    "beta": 1.008
+  },
+  "momentum": {
+    "ticker": "ATI",
+    "asof": "2026-08-08",
+    "ret_1m": 20.959861753880983,
+    "ret_3m": 40.07130899319198,
+    "ret_6m": 77.07313249412957,
+    "ret_12m": 205.94869424354152,
+    "rsi14": 73.45511227029871,
+    "pct_vs_200dma": 55.547026856347095,
+    "score": 83.9,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 73.45511227029871, \"vs_200dma\": 100.0, \"short_squeeze\": 20.8, \"options_skew\": 57.94176107106077}",
+    "thesis": null
+  }
+}

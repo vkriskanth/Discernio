@@ -1,0 +1,63 @@
+{
+  "ticker": "CRH",
+  "stock": {
+    "ticker": "CRH",
+    "name": "CRH PLC",
+    "sector": "Basic Materials",
+    "industry": "Building Materials"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "add",
+      "share_change_pct": 58.87,
+      "pct_of_portfolio": 1.68,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.6,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CRH",
+    "asof": "2026-08-12",
+    "market_cap": 65530519552.0,
+    "pe": 17.402828,
+    "forward_pe": 14.863438,
+    "ev_ebitda": 11.081,
+    "fcf_yield": 0.030811978995493497,
+    "roe": 0.15812,
+    "gross_margin": 0.3625,
+    "op_margin": 0.19022,
+    "rev_growth": 0.056,
+    "debt_to_equity": 77.592
+  },
+  "market_stats": {
+    "ticker": "CRH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.024400001,
+    "short_ratio": 3.53,
+    "putcall_oi_ratio": 1.0059213642823306,
+    "avg_volume": 4715406.0,
+    "beta": 1.204
+  },
+  "momentum": {
+    "ticker": "CRH",
+    "asof": "2026-08-12",
+    "ret_1m": -5.5247789927377555,
+    "ret_3m": -12.724362260016864,
+    "ret_6m": -21.627842836912592,
+    "ret_12m": -6.813952719552807,
+    "rsi14": 51.67006204604107,
+    "pct_vs_200dma": -12.399120892616933,
+    "score": 33.4,
+    "components_json": "{\"trend\": 36.96875738310004, \"rsi\": 51.67006204604107, \"vs_200dma\": 25.201758214766134, \"short_squeeze\": 12.200000500000002, \"options_skew\": 32.95504500236855}",
+    "thesis": null
+  }
+}

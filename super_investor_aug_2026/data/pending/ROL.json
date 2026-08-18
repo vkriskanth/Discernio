@@ -1,0 +1,55 @@
+{
+  "ticker": "ROL",
+  "stock": {
+    "ticker": "ROL",
+    "name": "Rollins, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Personal Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 1.23,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ROL",
+    "asof": "2026-08-12",
+    "market_cap": 17638791168.0,
+    "pe": 33.32727,
+    "forward_pe": 28.108109,
+    "ev_ebitda": 21.749,
+    "fcf_yield": 0.028445118444978462,
+    "roe": 0.37008998,
+    "gross_margin": 0.52366,
+    "op_margin": 0.18799,
+    "rev_growth": 0.079,
+    "debt_to_equity": 78.015
+  },
+  "market_stats": {
+    "ticker": "ROL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0652,
+    "short_ratio": 3.21,
+    "putcall_oi_ratio": 1.2819689673622259,
+    "avg_volume": 5239275.0,
+    "beta": 0.744
+  },
+  "momentum": {
+    "ticker": "ROL",
+    "asof": "2026-08-12",
+    "ret_1m": -17.319475706983766,
+    "ret_3m": -29.765338901358017,
+    "ret_6m": -41.87555623012232,
+    "ret_12m": -35.87531718707188,
+    "rsi14": 29.391171492009065,
+    "pct_vs_200dma": -31.160512738006506,
+    "score": 14.8,
+    "components_json": "{\"trend\": 14.15760458572715, \"rsi\": 29.391171492009065, \"vs_200dma\": 0.0, \"short_squeeze\": 32.599999999999994, \"options_skew\": 14.542669876939534}",
+    "thesis": null
+  }
+}

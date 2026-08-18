@@ -1,0 +1,55 @@
+{
+  "ticker": "RCL",
+  "stock": {
+    "ticker": "RCL",
+    "name": "Royal Caribbean Cruises Ltd.",
+    "sector": "Consumer Cyclical",
+    "industry": "Travel Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RCL",
+    "asof": "2026-08-12",
+    "market_cap": 82260238336.0,
+    "pe": 18.99753,
+    "forward_pe": 15.164036,
+    "ev_ebitda": 15.162,
+    "fcf_yield": -0.018432355834014588,
+    "roe": 0.44669998,
+    "gross_margin": 0.50284,
+    "op_margin": 0.2707,
+    "rev_growth": 0.065,
+    "debt_to_equity": 224.816
+  },
+  "market_stats": {
+    "ticker": "RCL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.064,
+    "short_ratio": 4.77,
+    "putcall_oi_ratio": 2.029647198339757,
+    "avg_volume": 2621738.0,
+    "beta": 1.779
+  },
+  "momentum": {
+    "ticker": "RCL",
+    "asof": "2026-08-12",
+    "ret_1m": 8.51673184536108,
+    "ret_3m": 19.631495732102678,
+    "ret_6m": -10.61390058346804,
+    "ret_12m": 3.1672834534264505,
+    "rsi14": 65.8832916258659,
+    "pct_vs_200dma": 7.911281517204083,
+    "score": 51.1,
+    "components_json": "{\"trend\": 53.97219192596097, \"rsi\": 65.8832916258659, \"vs_200dma\": 65.82256303440816, \"short_squeeze\": 32.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

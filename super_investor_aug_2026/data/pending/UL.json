@@ -1,0 +1,71 @@
+{
+  "ticker": "UL",
+  "stock": {
+    "ticker": "UL",
+    "name": "Unilever PLC",
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 20.53,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 2.2,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "UL",
+    "asof": "2026-08-12",
+    "market_cap": 133288230912.0,
+    "pe": 20.692307,
+    "forward_pe": 15.75877,
+    "ev_ebitda": 14.949,
+    "fcf_yield": 0.050511773244593786,
+    "roe": 0.31869,
+    "gross_margin": 0.47068,
+    "op_margin": 0.20345,
+    "rev_growth": 0.005,
+    "debt_to_equity": 175.397
+  },
+  "market_stats": {
+    "ticker": "UL",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 0.47,
+    "putcall_oi_ratio": 0.9589778076664425,
+    "avg_volume": 4284438.0,
+    "beta": 0.454
+  },
+  "momentum": {
+    "ticker": "UL",
+    "asof": "2026-08-12",
+    "ret_1m": 2.4240239623531057,
+    "ret_3m": 8.620079012328464,
+    "ret_6m": -11.91764996690221,
+    "ret_12m": -5.9625189608221385,
+    "rsi14": 57.93943052328998,
+    "pct_vs_200dma": -0.787370074395688,
+    "score": 43.1,
+    "components_json": "{\"trend\": 46.62572112929902, \"rsi\": 57.93943052328998, \"vs_200dma\": 48.42525985120862, \"short_squeeze\": 0.0, \"options_skew\": 36.08618022864829}",
+    "thesis": null
+  }
+}

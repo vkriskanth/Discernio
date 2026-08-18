@@ -1,0 +1,55 @@
+{
+  "ticker": "TSHA",
+  "stock": {
+    "ticker": "TSHA",
+    "name": "Taysha Gene Therapies, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 53.0,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TSHA",
+    "asof": "2026-08-12",
+    "market_cap": 1827616128.0,
+    "pe": null,
+    "forward_pe": -13.67742,
+    "ev_ebitda": -13.025,
+    "fcf_yield": -0.04018787034910648,
+    "roe": -0.97283995,
+    "gross_margin": 1.0,
+    "op_margin": -17.743681,
+    "rev_growth": null,
+    "debt_to_equity": 32.344
+  },
+  "market_stats": {
+    "ticker": "TSHA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.14829999,
+    "short_ratio": 15.14,
+    "putcall_oi_ratio": 0.008928571428571428,
+    "avg_volume": 3101453.0,
+    "beta": 1.187
+  },
+  "momentum": {
+    "ticker": "TSHA",
+    "asof": "2026-08-12",
+    "ret_1m": 9.736847785041135,
+    "ret_3m": -8.68612844489618,
+    "ret_6m": 39.620537674339595,
+    "ret_12m": 126.63043971210439,
+    "rsi14": 57.41710935703018,
+    "pct_vs_200dma": 17.883748282452295,
+    "score": 87.4,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 57.41710935703018, \"vs_200dma\": 85.76749656490459, \"short_squeeze\": 74.14999499999999, \"options_skew\": 99.4544642857143}",
+    "thesis": null
+  }
+}

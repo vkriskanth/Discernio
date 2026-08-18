@@ -1,0 +1,63 @@
+{
+  "ticker": "ONB",
+  "stock": {
+    "ticker": "ONB",
+    "name": "Old National Bancorp",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 5.56,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 41.65,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ONB",
+    "asof": "2026-08-12",
+    "market_cap": 10289219584.0,
+    "pe": 11.900443,
+    "forward_pe": 9.308387,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.106079996,
+    "gross_margin": 0.0,
+    "op_margin": 0.52542,
+    "rev_growth": 0.288,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "ONB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.061,
+    "short_ratio": 3.68,
+    "putcall_oi_ratio": 0.13990825688073394,
+    "avg_volume": 4105308.0,
+    "beta": 0.839
+  },
+  "momentum": {
+    "ticker": "ONB",
+    "asof": "2026-08-12",
+    "ret_1m": 3.1524675603145313,
+    "ret_3m": 12.321314007686613,
+    "ret_6m": 6.91558671372523,
+    "ret_12m": 33.52601134255806,
+    "rsi14": 56.616657489875166,
+    "pct_vs_200dma": 15.544158810274089,
+    "score": 68.6,
+    "components_json": "{\"trend\": 69.18147475344678, \"rsi\": 56.616657489875166, \"vs_200dma\": 81.08831762054818, \"short_squeeze\": 30.5, \"options_skew\": 90.71811926605506}",
+    "thesis": null
+  }
+}

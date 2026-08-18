@@ -1,0 +1,55 @@
+{
+  "ticker": "SD",
+  "stock": {
+    "ticker": "SD",
+    "name": "SandRidge Energy, Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "ic",
+      "manager_name": "Carl Icahn - Icahn Capital Management",
+      "action": "add",
+      "share_change_pct": 0.74,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SD",
+    "asof": "2026-08-12",
+    "market_cap": 524615424.0,
+    "pe": 6.316964,
+    "forward_pe": 9.496644,
+    "ev_ebitda": 3.573,
+    "fcf_yield": 0.001525403111289385,
+    "roe": 0.16221,
+    "gross_margin": 0.69505,
+    "op_margin": 0.50751996,
+    "rev_growth": 0.48,
+    "debt_to_equity": 0.266
+  },
+  "market_stats": {
+    "ticker": "SD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0544,
+    "short_ratio": 6.12,
+    "putcall_oi_ratio": 6.13265306122449,
+    "avg_volume": 333327.0,
+    "beta": 0.434
+  },
+  "momentum": {
+    "ticker": "SD",
+    "asof": "2026-08-12",
+    "ret_1m": 4.1605887330965485,
+    "ret_3m": -2.9758240033873395,
+    "ret_6m": -12.74224334935129,
+    "ret_12m": 35.4098644306827,
+    "rsi14": 51.02041908622941,
+    "pct_vs_200dma": -2.058864549524786,
+    "score": 45.6,
+    "components_json": "{\"trend\": 59.448525566451494, \"rsi\": 51.02041908622941, \"vs_200dma\": 45.88227090095043, \"short_squeeze\": 27.199999999999996, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

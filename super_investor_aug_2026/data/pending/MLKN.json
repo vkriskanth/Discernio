@@ -1,0 +1,55 @@
+{
+  "ticker": "MLKN",
+  "stock": {
+    "ticker": "MLKN",
+    "name": "MillerKnoll, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Furnishings, Fixtures & Appliances"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 51.96,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MLKN",
+    "asof": "2026-08-12",
+    "market_cap": 1603961728.0,
+    "pe": 17.83712,
+    "forward_pe": 9.903259,
+    "ev_ebitda": 9.339,
+    "fcf_yield": 0.051287069113908436,
+    "roe": 0.06983,
+    "gross_margin": 0.38794997,
+    "op_margin": 0.060739998,
+    "rev_growth": 0.044,
+    "debt_to_equity": 128.174
+  },
+  "market_stats": {
+    "ticker": "MLKN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.087299995,
+    "short_ratio": 5.79,
+    "putcall_oi_ratio": 0.4444444444444444,
+    "avg_volume": 832177.0,
+    "beta": 1.357
+  },
+  "momentum": {
+    "ticker": "MLKN",
+    "asof": "2026-08-12",
+    "ret_1m": 19.819825237984222,
+    "ret_3m": 47.840384816302816,
+    "ret_6m": 11.63457655821134,
+    "ret_12m": 26.134767264114366,
+    "rsi14": 65.66968717027575,
+    "pct_vs_200dma": 34.902387845393925,
+    "score": 77.6,
+    "components_json": "{\"trend\": 78.296395318, \"rsi\": 65.66968717027575, \"vs_200dma\": 100.0, \"short_squeeze\": 43.6499975, \"options_skew\": 70.40555555555557}",
+    "thesis": null
+  }
+}

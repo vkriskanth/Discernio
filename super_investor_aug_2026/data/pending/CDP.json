@@ -1,0 +1,55 @@
+{
+  "ticker": "CDP",
+  "stock": {
+    "ticker": "CDP",
+    "name": "COPT Defense Properties",
+    "sector": "Real Estate",
+    "industry": "REIT - Office"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.51,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CDP",
+    "asof": "2026-08-12",
+    "market_cap": 4243961344.0,
+    "pe": 25.44097,
+    "forward_pe": 25.092464,
+    "ev_ebitda": 16.531,
+    "fcf_yield": 0.06062410732457416,
+    "roe": 0.10825,
+    "gross_margin": 0.58258,
+    "op_margin": 0.32167,
+    "rev_growth": 0.039,
+    "debt_to_equity": 164.15
+  },
+  "market_stats": {
+    "ticker": "CDP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0847,
+    "short_ratio": 7.45,
+    "putcall_oi_ratio": 0.125,
+    "avg_volume": 1009532.0,
+    "beta": 0.789
+  },
+  "momentum": {
+    "ticker": "CDP",
+    "asof": "2026-08-12",
+    "ret_1m": 1.276771488100703,
+    "ret_3m": 16.938960795039428,
+    "ret_6m": 17.496790437600218,
+    "ret_12m": 35.9173069225652,
+    "rsi14": 44.558958345896066,
+    "pct_vs_200dma": 17.606056594645246,
+    "score": 71.3,
+    "components_json": "{\"trend\": 74.69764813881798, \"rsi\": 44.558958345896066, \"vs_200dma\": 85.21211318929049, \"short_squeeze\": 42.349999999999994, \"options_skew\": 91.7125}",
+    "thesis": null
+  }
+}

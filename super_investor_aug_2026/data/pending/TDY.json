@@ -1,0 +1,71 @@
+{
+  "ticker": "TDY",
+  "stock": {
+    "ticker": "TDY",
+    "name": "Teledyne Technologies Incorpora",
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 371.43,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 19.05,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 8.0,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TDY",
+    "asof": "2026-08-12",
+    "market_cap": 31466235904.0,
+    "pe": 32.855766,
+    "forward_pe": 25.44878,
+    "ev_ebitda": 20.905,
+    "fcf_yield": 0.02900489943520637,
+    "roe": 0.09154,
+    "gross_margin": 0.43339002,
+    "op_margin": 0.20198,
+    "rev_growth": 0.098,
+    "debt_to_equity": 18.565
+  },
+  "market_stats": {
+    "ticker": "TDY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0315,
+    "short_ratio": 2.89,
+    "putcall_oi_ratio": 0.265625,
+    "avg_volume": 371237.0,
+    "beta": 0.92
+  },
+  "momentum": {
+    "ticker": "TDY",
+    "asof": "2026-08-12",
+    "ret_1m": 7.44012427858578,
+    "ret_3m": 9.725932132301441,
+    "ret_6m": 5.289858084495558,
+    "ret_12m": 23.93706876370887,
+    "rsi14": 66.58455145103954,
+    "pct_vs_200dma": 13.15392565811344,
+    "score": 64.5,
+    "components_json": "{\"trend\": 64.07956457052265, \"rsi\": 66.58455145103954, \"vs_200dma\": 76.30785131622687, \"short_squeeze\": 15.75, \"options_skew\": 82.3328125}",
+    "thesis": null
+  }
+}

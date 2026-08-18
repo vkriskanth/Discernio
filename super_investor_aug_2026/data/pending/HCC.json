@@ -1,0 +1,55 @@
+{
+  "ticker": "HCC",
+  "stock": {
+    "ticker": "HCC",
+    "name": "Warrior Met Coal, Inc.",
+    "sector": "Basic Materials",
+    "industry": "Coking Coal"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PI",
+      "manager_name": "Mohnish Pabrai - Pabrai Investments",
+      "action": "add",
+      "share_change_pct": 0.61,
+      "pct_of_portfolio": 0.24,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HCC",
+    "asof": "2026-08-12",
+    "market_cap": 5105961984.0,
+    "pe": 23.245192,
+    "forward_pe": 12.959757,
+    "ev_ebitda": 11.418,
+    "fcf_yield": -0.010501351198465955,
+    "roe": 0.10037,
+    "gross_margin": 0.30597,
+    "op_margin": 0.18545,
+    "rev_growth": 0.713,
+    "debt_to_equity": 10.297
+  },
+  "market_stats": {
+    "ticker": "HCC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1179,
+    "short_ratio": 6.73,
+    "putcall_oi_ratio": 0.75,
+    "avg_volume": 792438.0,
+    "beta": 0.645
+  },
+  "momentum": {
+    "ticker": "HCC",
+    "asof": "2026-08-12",
+    "ret_1m": 16.391894273192342,
+    "ret_3m": 9.865615959074713,
+    "ret_6m": 7.593006959241988,
+    "ret_12m": 61.27167310797341,
+    "rsi14": 81.91587574717772,
+    "pct_vs_200dma": 12.318870633687329,
+    "score": 73.7,
+    "components_json": "{\"trend\": 79.74625611868439, \"rsi\": 81.91587574717772, \"vs_200dma\": 74.63774126737465, \"short_squeeze\": 58.95, \"options_skew\": 50.025000000000006}",
+    "thesis": null
+  }
+}

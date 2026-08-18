@@ -1,0 +1,55 @@
+{
+  "ticker": "EXPE",
+  "stock": {
+    "ticker": "EXPE",
+    "name": "Expedia Group, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Travel Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EXPE",
+    "asof": "2026-08-12",
+    "market_cap": 38213832704.0,
+    "pe": 20.03713,
+    "forward_pe": 13.25893,
+    "ev_ebitda": 13.273,
+    "fcf_yield": 0.089872558416275,
+    "roe": 0.89489,
+    "gross_margin": 0.90433,
+    "op_margin": 0.1898,
+    "rev_growth": 0.14,
+    "debt_to_equity": 230.271
+  },
+  "market_stats": {
+    "ticker": "EXPE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0842,
+    "short_ratio": 5.44,
+    "putcall_oi_ratio": 1.1925539483044818,
+    "avg_volume": 1616130.0,
+    "beta": 1.246
+  },
+  "momentum": {
+    "ticker": "EXPE",
+    "asof": "2026-08-12",
+    "ret_1m": 20.68686784873193,
+    "ret_3m": 45.40694486895029,
+    "ret_6m": 33.62009355130206,
+    "ret_12m": 68.14374554212188,
+    "rsi14": 78.30662452224398,
+    "pct_vs_200dma": 28.113943937973794,
+    "score": 83.0,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 78.30662452224398, \"vs_200dma\": 100.0, \"short_squeeze\": 42.1, \"options_skew\": 20.506651648091065}",
+    "thesis": null
+  }
+}

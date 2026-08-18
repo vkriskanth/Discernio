@@ -1,0 +1,63 @@
+{
+  "ticker": "SHW",
+  "stock": {
+    "ticker": "SHW",
+    "name": "Sherwin-Williams Company (The)",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 37.82,
+      "pct_of_portfolio": 0.4,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 4.84,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SHW",
+    "asof": "2026-08-12",
+    "market_cap": 87676960768.0,
+    "pe": 33.379856,
+    "forward_pe": 26.549084,
+    "ev_ebitda": 21.805,
+    "fcf_yield": 0.028582622869777256,
+    "roe": 0.65124,
+    "gross_margin": 0.48981997,
+    "op_margin": 0.18124,
+    "rev_growth": 0.075,
+    "debt_to_equity": 389.958
+  },
+  "market_stats": {
+    "ticker": "SHW",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.025999999,
+    "short_ratio": 2.96,
+    "putcall_oi_ratio": 0.7847142529263255,
+    "avg_volume": 2410082.0,
+    "beta": 1.093
+  },
+  "momentum": {
+    "ticker": "SHW",
+    "asof": "2026-08-12",
+    "ret_1m": 9.914766308742395,
+    "ret_3m": 16.184035487387426,
+    "ret_6m": -0.5055057517225348,
+    "ret_12m": 2.7813544347892627,
+    "rsi14": 72.4478089563635,
+    "pct_vs_200dma": 8.49809014900762,
+    "score": 56.0,
+    "components_json": "{\"trend\": 55.81610069461517, \"rsi\": 72.4478089563635, \"vs_200dma\": 66.99618029801525, \"short_squeeze\": 12.9999995, \"options_skew\": 47.70955932981409}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "ticker": "INTU",
+  "stock": {
+    "ticker": "INTU",
+    "name": "Intuit Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 6561.4,
+      "pct_of_portfolio": 1.57,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.68,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.29,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 191.63,
+      "pct_of_portfolio": 0.15,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "INTU",
+    "asof": "2026-08-12",
+    "market_cap": 90331488256.0,
+    "pe": 20.160868,
+    "forward_pe": 12.069838,
+    "ev_ebitda": 14.376,
+    "fcf_yield": 0.05792000221641959,
+    "roe": 0.22496,
+    "gross_margin": 0.80793,
+    "op_margin": 0.46974,
+    "rev_growth": 0.104,
+    "debt_to_equity": 33.448
+  },
+  "market_stats": {
+    "ticker": "INTU",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0509,
+    "short_ratio": 2.78,
+    "putcall_oi_ratio": 1.0626377085300598,
+    "avg_volume": 5448904.0,
+    "beta": 0.959
+  },
+  "momentum": {
+    "ticker": "INTU",
+    "asof": "2026-08-12",
+    "ret_1m": 17.66278761437743,
+    "ret_3m": -13.914720749099308,
+    "ret_6m": -20.54425948167292,
+    "ret_12m": -52.407163948440825,
+    "rsi14": 73.87522844064101,
+    "pct_vs_200dma": -26.22694277842963,
+    "score": 24.0,
+    "components_json": "{\"trend\": 18.699440351392, \"rsi\": 73.87522844064101, \"vs_200dma\": 0.0, \"short_squeeze\": 25.45, \"options_skew\": 29.172064841045014}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "XRAY",
+  "stock": {
+    "ticker": "XRAY",
+    "name": "DENTSPLY SIRONA Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AIM",
+      "manager_name": "Alex Roepers - Atlantic Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 4.12,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 21.08,
+      "pct_of_portfolio": 0.14,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "XRAY",
+    "asof": "2026-08-12",
+    "market_cap": 2241734144.0,
+    "pe": null,
+    "forward_pe": 7.3757534,
+    "ev_ebitda": 8.37,
+    "fcf_yield": 0.06317653339003611,
+    "roe": -0.33031,
+    "gross_margin": 0.4952,
+    "op_margin": 0.09243,
+    "rev_growth": -0.041,
+    "debt_to_equity": 172.243
+  },
+  "market_stats": {
+    "ticker": "XRAY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1321,
+    "short_ratio": 4.69,
+    "putcall_oi_ratio": 3.810810810810811,
+    "avg_volume": 5771843.0,
+    "beta": 0.871
+  },
+  "momentum": {
+    "ticker": "XRAY",
+    "asof": "2026-08-12",
+    "ret_1m": -10.15748016714081,
+    "ret_3m": 3.727271340110083,
+    "ret_6m": -18.09045515115566,
+    "ret_12m": -6.410671399331247,
+    "rsi14": 39.209223396535066,
+    "pct_vs_200dma": -3.011428669506,
+    "score": 40.7,
+    "components_json": "{\"trend\": 43.12677629695383, \"rsi\": 39.209223396535066, \"vs_200dma\": 43.977142660988, \"short_squeeze\": 66.05, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

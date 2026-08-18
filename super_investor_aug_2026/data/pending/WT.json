@@ -1,0 +1,55 @@
+{
+  "ticker": "WT",
+  "stock": {
+    "ticker": "WT",
+    "name": "WisdomTree, Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 36.74,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WT",
+    "asof": "2026-08-12",
+    "market_cap": 3393113856.0,
+    "pe": 40.71818,
+    "forward_pe": 17.264906,
+    "ev_ebitda": 16.085,
+    "fcf_yield": 0.04615093470061265,
+    "roe": 0.18731001,
+    "gross_margin": 0.53330004,
+    "op_margin": 0.41166002,
+    "rev_growth": 0.573,
+    "debt_to_equity": 257.672
+  },
+  "market_stats": {
+    "ticker": "WT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.169,
+    "short_ratio": 5.97,
+    "putcall_oi_ratio": 0.021619444071438162,
+    "avg_volume": 2962677.0,
+    "beta": 1.175
+  },
+  "momentum": {
+    "ticker": "WT",
+    "asof": "2026-08-12",
+    "ret_1m": 16.36316633777637,
+    "ret_3m": 17.2821904862974,
+    "ret_6m": 42.58168438910837,
+    "ret_12m": 73.05522278956016,
+    "rsi14": 63.53529889615475,
+    "pct_vs_200dma": 41.1901821702898,
+    "score": 91.7,
+    "components_json": "{\"trend\": 97.1812515784458, \"rsi\": 63.53529889615475, \"vs_200dma\": 100.0, \"short_squeeze\": 84.50000000000001, \"options_skew\": 98.60798308043508}",
+    "thesis": null
+  }
+}

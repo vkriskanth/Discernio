@@ -1,0 +1,55 @@
+{
+  "ticker": "AMTM",
+  "stock": {
+    "ticker": "AMTM",
+    "name": "Amentum Holdings Inc.",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AMTM",
+    "asof": "2026-08-12",
+    "market_cap": 5415349248.0,
+    "pe": 26.70482,
+    "forward_pe": 8.081423,
+    "ev_ebitda": 8.663,
+    "fcf_yield": 0.0909451962275361,
+    "roe": 0.04287,
+    "gross_margin": 0.10488,
+    "op_margin": 0.04126,
+    "rev_growth": -0.02,
+    "debt_to_equity": 79.871
+  },
+  "market_stats": {
+    "ticker": "AMTM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0806,
+    "short_ratio": 6.71,
+    "putcall_oi_ratio": 0.12402597402597403,
+    "avg_volume": 2041509.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "AMTM",
+    "asof": "2026-08-12",
+    "ret_1m": 5.045213966657802,
+    "ret_3m": -10.02854024851516,
+    "ret_6m": -41.193710597723346,
+    "ret_12m": -14.721791304067121,
+    "rsi14": 54.76815452093345,
+    "pct_vs_200dma": -16.786535974249972,
+    "score": 37.0,
+    "components_json": "{\"trend\": 28.7446082245016, \"rsi\": 54.76815452093345, \"vs_200dma\": 16.426928051500056, \"short_squeeze\": 40.300000000000004, \"options_skew\": 91.77746753246754}",
+    "thesis": null
+  }
+}

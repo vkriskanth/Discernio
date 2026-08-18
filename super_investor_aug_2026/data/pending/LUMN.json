@@ -1,0 +1,55 @@
+{
+  "ticker": "LUMN",
+  "stock": {
+    "ticker": "LUMN",
+    "name": "Lumen Technologies, Inc.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 1.4,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LUMN",
+    "asof": "2026-08-12",
+    "market_cap": 6594958336.0,
+    "pe": null,
+    "forward_pe": -21.571861,
+    "ev_ebitda": 8.143,
+    "fcf_yield": 0.3208890604278717,
+    "roe": null,
+    "gross_margin": 0.47794,
+    "op_margin": -0.02888,
+    "rev_growth": -0.093,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "LUMN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0717,
+    "short_ratio": 5.56,
+    "putcall_oi_ratio": 0.7987678250034612,
+    "avg_volume": 14143391.0,
+    "beta": 1.813
+  },
+  "momentum": {
+    "ticker": "LUMN",
+    "asof": "2026-08-12",
+    "ret_1m": -2.0930194734386953,
+    "ret_3m": -24.28057623882749,
+    "ret_6m": -18.72586778993218,
+    "ret_12m": 67.95212960738357,
+    "rsi14": 46.52665266095222,
+    "pct_vs_200dma": -21.512575548516445,
+    "score": 42.7,
+    "components_json": "{\"trend\": 64.27891863432552, \"rsi\": 46.52665266095222, \"vs_200dma\": 6.974848902967111, \"short_squeeze\": 35.85, \"options_skew\": 46.772186072269136}",
+    "thesis": null
+  }
+}

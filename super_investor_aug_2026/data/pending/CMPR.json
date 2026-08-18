@@ -1,0 +1,55 @@
+{
+  "ticker": "CMPR",
+  "stock": {
+    "ticker": "CMPR",
+    "name": "Cimpress PLC",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CHE",
+      "manager_name": "Steven Check - Check Capital Management",
+      "action": "add",
+      "share_change_pct": 0.22,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CMPR",
+    "asof": "2026-08-12",
+    "market_cap": 2315878656.0,
+    "pe": 25.094988,
+    "forward_pe": 16.893427,
+    "ev_ebitda": 11.553,
+    "fcf_yield": 0.042814581732558615,
+    "roe": null,
+    "gross_margin": 0.4629,
+    "op_margin": 0.07052,
+    "rev_growth": 0.087,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "CMPR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.14140001,
+    "short_ratio": 11.33,
+    "putcall_oi_ratio": 1.75,
+    "avg_volume": 221319.0,
+    "beta": 1.816
+  },
+  "momentum": {
+    "ticker": "CMPR",
+    "asof": "2026-08-12",
+    "ret_1m": -4.2529384437475,
+    "ret_3m": 3.0816300174773215,
+    "ret_6m": 23.581815234120352,
+    "ret_12m": 70.42457891874867,
+    "rsi14": 44.24981645584147,
+    "pct_vs_200dma": 16.239238562778624,
+    "score": 68.8,
+    "components_json": "{\"trend\": 86.16886514297877, \"rsi\": 44.24981645584147, \"vs_200dma\": 82.47847712555725, \"short_squeeze\": 70.700005, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

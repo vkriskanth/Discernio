@@ -1,0 +1,55 @@
+{
+  "ticker": "DFNL",
+  "stock": {
+    "ticker": "DFNL",
+    "name": "Davis Select Financial ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 0.01,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DFNL",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 13.066991,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "DFNL",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 50279.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "DFNL",
+    "asof": "2026-08-12",
+    "ret_1m": 3.404840573662593,
+    "ret_3m": 13.843686602181094,
+    "ret_6m": 5.970147186680097,
+    "ret_12m": 23.73752746419502,
+    "rsi14": 76.1905171647292,
+    "pct_vs_200dma": 10.698485730025675,
+    "score": 60.5,
+    "components_json": "{\"trend\": 65.43916112233637, \"rsi\": 76.1905171647292, \"vs_200dma\": 71.39697146005135, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

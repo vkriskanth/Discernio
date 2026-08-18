@@ -1,0 +1,55 @@
+{
+  "ticker": "COHR",
+  "stock": {
+    "ticker": "COHR",
+    "name": "Coherent Corp.",
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "COHR",
+    "asof": "2026-08-12",
+    "market_cap": 67309707264.0,
+    "pe": 163.83333,
+    "forward_pe": 41.099392,
+    "ev_ebitda": 49.95,
+    "fcf_yield": -0.002936155155523928,
+    "roe": 0.04718,
+    "gross_margin": 0.36990002,
+    "op_margin": 0.13572,
+    "rev_growth": 0.205,
+    "debt_to_equity": 31.093
+  },
+  "market_stats": {
+    "ticker": "COHR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0542,
+    "short_ratio": 1.92,
+    "putcall_oi_ratio": 1.0243568424141642,
+    "avg_volume": 5744940.0,
+    "beta": 2.107
+  },
+  "momentum": {
+    "ticker": "COHR",
+    "asof": "2026-08-12",
+    "ret_1m": 15.001456795338953,
+    "ret_3m": -4.443730029472337,
+    "ret_6m": 56.49604689313221,
+    "ret_12m": 214.60389035995763,
+    "rsi14": 56.60298520590582,
+    "pct_vs_200dma": 35.57027265281474,
+    "score": 79.4,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 56.60298520590582, \"vs_200dma\": 100.0, \"short_squeeze\": 27.1, \"options_skew\": 31.725398610975247}",
+    "thesis": null
+  }
+}

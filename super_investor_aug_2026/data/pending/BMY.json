@@ -1,0 +1,55 @@
+{
+  "ticker": "BMY",
+  "stock": {
+    "ticker": "BMY",
+    "name": "Bristol-Myers Squibb",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 43.63,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BMY",
+    "asof": "2026-08-08",
+    "market_cap": 132204494848.0,
+    "pe": 14.255507,
+    "forward_pe": 9.880811,
+    "ev_ebitda": 8.779,
+    "fcf_yield": 0.061377452993027,
+    "roe": 0.46598998,
+    "gross_margin": 0.71661,
+    "op_margin": 0.34418,
+    "rev_growth": 0.057,
+    "debt_to_equity": 201.859
+  },
+  "market_stats": {
+    "ticker": "BMY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0256,
+    "short_ratio": 4.76,
+    "putcall_oi_ratio": 0.9038552288721557,
+    "avg_volume": 12407727.0,
+    "beta": 0.225
+  },
+  "momentum": {
+    "ticker": "BMY",
+    "asof": "2026-08-12",
+    "ret_1m": 7.263231146289528,
+    "ret_3m": 15.625114556445418,
+    "ret_6m": 7.013666453265288,
+    "ret_12m": 45.16889496364571,
+    "rsi14": 60.573147448353595,
+    "pct_vs_200dma": 15.02189209608491,
+    "score": 64.3,
+    "components_json": "{\"trend\": 74.8591922883715, \"rsi\": 60.573147448353595, \"vs_200dma\": 80.04378419216982, \"short_squeeze\": 12.8, \"options_skew\": 39.762856234227215}",
+    "thesis": null
+  }
+}

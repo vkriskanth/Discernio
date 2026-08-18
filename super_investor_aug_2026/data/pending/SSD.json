@@ -1,0 +1,55 @@
+{
+  "ticker": "SSD",
+  "stock": {
+    "ticker": "SSD",
+    "name": "Simpson Manufacturing",
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 0.4,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SSD",
+    "asof": "2026-08-12",
+    "market_cap": 7969061376.0,
+    "pe": 21.296824,
+    "forward_pe": 20.024717,
+    "ev_ebitda": 14.135,
+    "fcf_yield": 0.05601494014644668,
+    "roe": 0.18722,
+    "gross_margin": 0.45841,
+    "op_margin": 0.24405001,
+    "rev_growth": 0.063,
+    "debt_to_equity": 21.084
+  },
+  "market_stats": {
+    "ticker": "SSD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.032899998,
+    "short_ratio": 3.68,
+    "putcall_oi_ratio": 0.20569620253164558,
+    "avg_volume": 311958.0,
+    "beta": 1.315
+  },
+  "momentum": {
+    "ticker": "SSD",
+    "asof": "2026-08-12",
+    "ret_1m": 2.9072841806405902,
+    "ret_3m": 5.845563371541629,
+    "ret_6m": -5.11192563498204,
+    "ret_12m": 7.995194851936627,
+    "rsi14": 55.007388331314154,
+    "pct_vs_200dma": 6.884138112280969,
+    "score": 55.8,
+    "components_json": "{\"trend\": 53.41816926174253, \"rsi\": 55.007388331314154, \"vs_200dma\": 63.76827622456194, \"short_squeeze\": 16.449999, \"options_skew\": 86.33006329113924}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "HAL",
+  "stock": {
+    "ticker": "HAL",
+    "name": "Halliburton Company",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HAL",
+    "asof": "2026-08-12",
+    "market_cap": 27943192576.0,
+    "pe": 17.56021,
+    "forward_pe": 11.533463,
+    "ev_ebitda": 8.3,
+    "fcf_yield": 0.07344364744358695,
+    "roe": 0.14917,
+    "gross_margin": 0.15076,
+    "op_margin": 0.12793,
+    "rev_growth": 0.037,
+    "debt_to_equity": 74.186
+  },
+  "market_stats": {
+    "ticker": "HAL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.057600003,
+    "short_ratio": 2.96,
+    "putcall_oi_ratio": 1.2565418805559034,
+    "avg_volume": 11964248.0,
+    "beta": 0.753
+  },
+  "momentum": {
+    "ticker": "HAL",
+    "asof": "2026-08-12",
+    "ret_1m": -5.350075496976892,
+    "ret_3m": -19.26229045087977,
+    "ret_6m": -0.5563422873660073,
+    "ret_12m": 67.33083947230982,
+    "rsi14": 54.65982013122211,
+    "pct_vs_200dma": -1.0973667053385316,
+    "score": 53.0,
+    "components_json": "{\"trend\": 70.98674596745019, \"rsi\": 54.65982013122211, \"vs_200dma\": 47.80526658932294, \"short_squeeze\": 28.8000015, \"options_skew\": 16.238656566921243}",
+    "thesis": null
+  }
+}

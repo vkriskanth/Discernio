@@ -1,0 +1,143 @@
+{
+  "ticker": "SPGI",
+  "stock": {
+    "ticker": "SPGI",
+    "name": "S&P Global Inc.",
+    "sector": "Financial Services",
+    "industry": "Financial Data & Stock Exchanges"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DA",
+      "manager_name": "Pat Dorsey - Dorsey Asset Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 7.54,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "psc",
+      "manager_name": "Bill Ackman - Pershing Square Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 5.43,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "TFP",
+      "manager_name": "Triple Frond Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 4.24,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DA",
+      "manager_name": "Pat Dorsey - Dorsey Asset Management",
+      "action": "add",
+      "share_change_pct": 42.09,
+      "pct_of_portfolio": 2.44,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.12,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "tci",
+      "manager_name": "Chris Hohn - TCI Fund Management",
+      "action": "add",
+      "share_change_pct": 19.04,
+      "pct_of_portfolio": 2.11,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HC",
+      "manager_name": "Li Lu - Himalaya Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.61,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.38,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "tci",
+      "manager_name": "Chris Hohn - TCI Fund Management",
+      "action": "add",
+      "share_change_pct": 0.33,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "CCM",
+      "manager_name": "Glenn Greenberg - Brave Warrior Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "LT",
+      "manager_name": "Lindsell Train",
+      "action": "add",
+      "share_change_pct": 1.37,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "WIM",
+      "manager_name": "Wallace Weitz - Weitz Investment Management",
+      "action": "add",
+      "share_change_pct": 1.42,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SPGI",
+    "asof": "2026-08-15",
+    "market_cap": 123462238208.0,
+    "pe": 25.709023,
+    "forward_pe": 20.692026,
+    "ev_ebitda": 17.219,
+    "fcf_yield": 0.0441288764490175,
+    "roe": 0.14255,
+    "gross_margin": 0.70903,
+    "op_margin": 0.4479,
+    "rev_growth": 0.104,
+    "debt_to_equity": 42.98
+  },
+  "market_stats": {
+    "ticker": "SPGI",
+    "asof": "2026-08-14",
+    "short_pct_float": 0.0299,
+    "short_ratio": 3.96,
+    "putcall_oi_ratio": 0.9037304452466908,
+    "avg_volume": 2311815.0,
+    "beta": 1.072
+  },
+  "momentum": {
+    "ticker": "SPGI",
+    "asof": "2026-08-14",
+    "ret_1m": -8.555250440569251,
+    "ret_3m": 9.704733622614148,
+    "ret_6m": 11.820081591065756,
+    "ret_12m": -20.75822973957766,
+    "rsi14": 34.49269056696954,
+    "pct_vs_200dma": -3.0264634392202283,
+    "score": 40.9,
+    "components_json": "{\"trend\": 48.15415266827291, \"rsi\": 34.49269056696954, \"vs_200dma\": 43.94707312155954, \"short_squeeze\": 14.95, \"options_skew\": 39.77117930204573}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "PKG",
+  "stock": {
+    "ticker": "PKG",
+    "name": "Packaging Corporation of Americ",
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.39,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PKG",
+    "asof": "2026-08-12",
+    "market_cap": 22916972544.0,
+    "pe": 33.403896,
+    "forward_pe": 20.054579,
+    "ev_ebitda": 13.303,
+    "fcf_yield": 0.01889211217444831,
+    "roe": 0.14887,
+    "gross_margin": 0.21385999,
+    "op_margin": 0.13121,
+    "rev_growth": 0.147,
+    "debt_to_equity": 94.474
+  },
+  "market_stats": {
+    "ticker": "PKG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0428,
+    "short_ratio": 4.55,
+    "putcall_oi_ratio": 0.5893854748603352,
+    "avg_volume": 678198.0,
+    "beta": 0.807
+  },
+  "momentum": {
+    "ticker": "PKG",
+    "asof": "2026-08-12",
+    "ret_1m": 14.633164078980299,
+    "ret_3m": 15.938998817032758,
+    "ret_6m": 12.355742412804883,
+    "ret_12m": 37.183559285140475,
+    "rsi14": 78.09521832358097,
+    "pct_vs_200dma": 18.587559785531415,
+    "score": 71.1,
+    "components_json": "{\"trend\": 73.36184608300748, \"rsi\": 78.09521832358097, \"vs_200dma\": 87.17511957106282, \"short_squeeze\": 21.4, \"options_skew\": 60.737988826815645}",
+    "thesis": null
+  }
+}

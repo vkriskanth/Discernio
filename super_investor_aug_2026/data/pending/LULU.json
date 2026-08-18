@@ -1,0 +1,71 @@
+{
+  "ticker": "LULU",
+  "stock": {
+    "ticker": "LULU",
+    "name": "lululemon athletica inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SAM",
+      "manager_name": "Michael Burry - Scion Asset Management",
+      "action": "add",
+      "share_change_pct": 100.0,
+      "pct_of_portfolio": 16.18,
+      "quarter": "Q3 2025"
+    },
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.42,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.16,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LULU",
+    "asof": "2026-08-12",
+    "market_cap": 13873451008.0,
+    "pe": 9.892713,
+    "forward_pe": 10.851146,
+    "ev_ebitda": 5.801,
+    "fcf_yield": 0.08173604097106853,
+    "roe": 0.32027,
+    "gross_margin": 0.55695,
+    "op_margin": 0.11205,
+    "rev_growth": 0.043,
+    "debt_to_equity": 44.264
+  },
+  "market_stats": {
+    "ticker": "LULU",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.091000006,
+    "short_ratio": 3.8,
+    "putcall_oi_ratio": 0.9238191508913802,
+    "avg_volume": 3416432.0,
+    "beta": 0.863
+  },
+  "momentum": {
+    "ticker": "LULU",
+    "asof": "2026-08-12",
+    "ret_1m": 3.4009528419267188,
+    "ret_3m": -3.0528248850575923,
+    "ret_6m": -32.836894674984904,
+    "ret_12m": -34.933492828762084,
+    "rsi14": 67.62375666721977,
+    "pct_vs_200dma": -22.825340773692247,
+    "score": 29.7,
+    "components_json": "{\"trend\": 25.259687000482415, \"rsi\": 67.62375666721977, \"vs_200dma\": 4.349318452615506, \"short_squeeze\": 45.500003, \"options_skew\": 38.43126263554494}",
+    "thesis": null
+  }
+}

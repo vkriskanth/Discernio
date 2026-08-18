@@ -1,0 +1,55 @@
+{
+  "ticker": "IONS",
+  "stock": {
+    "ticker": "IONS",
+    "name": "Ionis Pharmaceuticals, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 0.21,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IONS",
+    "asof": "2026-08-12",
+    "market_cap": 9411848192.0,
+    "pe": null,
+    "forward_pe": -48.81528,
+    "ev_ebitda": -16.043,
+    "fcf_yield": -0.03684341618416108,
+    "roe": -1.05496,
+    "gross_margin": -0.06933,
+    "op_margin": -0.38176,
+    "rev_growth": -0.407,
+    "debt_to_equity": 497.802
+  },
+  "market_stats": {
+    "ticker": "IONS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1711,
+    "short_ratio": 4.97,
+    "putcall_oi_ratio": 0.8669058602426106,
+    "avg_volume": 2868388.0,
+    "beta": 0.4
+  },
+  "momentum": {
+    "ticker": "IONS",
+    "asof": "2026-08-12",
+    "ret_1m": 3.0311321796414825,
+    "ret_3m": -25.36595034404212,
+    "ret_6m": -32.85680317239436,
+    "ret_12m": 38.5773775936602,
+    "rsi14": 52.40305651137214,
+    "pct_vs_200dma": -24.027564044570347,
+    "score": 40.3,
+    "components_json": "{\"trend\": 47.964124982533136, \"rsi\": 52.40305651137214, \"vs_200dma\": 1.9448719108593053, \"short_squeeze\": 85.55, \"options_skew\": 42.227379121817876}",
+    "thesis": null
+  }
+}

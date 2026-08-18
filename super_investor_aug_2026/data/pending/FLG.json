@@ -1,0 +1,55 @@
+{
+  "ticker": "FLG",
+  "stock": {
+    "ticker": "FLG",
+    "name": "Flagstar Bank, N.A.",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TA",
+      "manager_name": "Third Avenue Management",
+      "action": "add",
+      "share_change_pct": 52.43,
+      "pct_of_portfolio": 0.24,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FLG",
+    "asof": "2026-08-12",
+    "market_cap": 5925035008.0,
+    "pe": 475.80002,
+    "forward_pe": 10.326268,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.0059100003,
+    "gross_margin": 0.0,
+    "op_margin": 0.20281,
+    "rev_growth": 0.153,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "FLG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0001,
+    "short_ratio": 0.01,
+    "putcall_oi_ratio": 0.19242803504380476,
+    "avg_volume": 4699619.0,
+    "beta": 1.003
+  },
+  "momentum": {
+    "ticker": "FLG",
+    "asof": "2026-08-12",
+    "ret_1m": -3.6560656654786916,
+    "ret_3m": -0.34925627433795015,
+    "ret_6m": 2.4531585127368194,
+    "ret_12m": 26.31395204039815,
+    "rsi14": 36.796520532901766,
+    "pct_vs_200dma": 6.674140940004714,
+    "score": 54.5,
+    "components_json": "{\"trend\": 61.15675148767892, \"rsi\": 36.796520532901766, \"vs_200dma\": 63.348281880009424, \"short_squeeze\": 0.05, \"options_skew\": 87.21505006257823}",
+    "thesis": null
+  }
+}

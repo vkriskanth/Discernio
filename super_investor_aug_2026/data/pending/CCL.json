@@ -1,0 +1,55 @@
+{
+  "ticker": "CCL",
+  "stock": {
+    "ticker": "CCL",
+    "name": "Carnival Corporation Ltd.",
+    "sector": "Consumer Cyclical",
+    "industry": "Travel Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 9.29,
+      "pct_of_portfolio": 1.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CCL",
+    "asof": "2026-08-12",
+    "market_cap": 37831901184.0,
+    "pe": 12.442162,
+    "forward_pe": 10.471374,
+    "ev_ebitda": 8.48,
+    "fcf_yield": 0.0502056443518966,
+    "roe": 0.26689,
+    "gross_margin": 0.55676997,
+    "op_margin": 0.12787,
+    "rev_growth": 0.053,
+    "debt_to_equity": 201.556
+  },
+  "market_stats": {
+    "ticker": "CCL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0296,
+    "short_ratio": 2.0,
+    "putcall_oi_ratio": 0.9354825902251162,
+    "avg_volume": 22944500.0,
+    "beta": 2.338
+  },
+  "momentum": {
+    "ticker": "CCL",
+    "asof": "2026-08-12",
+    "ret_1m": 5.455095069589966,
+    "ret_3m": 13.14593577779959,
+    "ret_6m": -15.302139004804028,
+    "ret_12m": -1.2697178352125138,
+    "rsi14": 66.95823257057444,
+    "pct_vs_200dma": 0.6188297099646078,
+    "score": 47.6,
+    "components_json": "{\"trend\": 48.84525189781366, \"rsi\": 66.95823257057444, \"vs_200dma\": 51.237659419929216, \"short_squeeze\": 14.8, \"options_skew\": 37.65331123198475}",
+    "thesis": null
+  }
+}

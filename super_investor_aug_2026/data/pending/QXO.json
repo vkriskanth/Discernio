@@ -1,0 +1,63 @@
+{
+  "ticker": "QXO",
+  "stock": {
+    "ticker": "QXO",
+    "name": "QXO, Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 4.79,
+      "pct_of_portfolio": 0.22,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 197.02,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "QXO",
+    "asof": "2026-08-12",
+    "market_cap": 15988503552.0,
+    "pe": null,
+    "forward_pe": 20.757439,
+    "ev_ebitda": 28.716,
+    "fcf_yield": -0.07684099640746667,
+    "roe": -0.06769,
+    "gross_margin": 0.24633,
+    "op_margin": -0.117910005,
+    "rev_growth": 127.163,
+    "debt_to_equity": 38.392
+  },
+  "market_stats": {
+    "ticker": "QXO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.097600006,
+    "short_ratio": 3.2,
+    "putcall_oi_ratio": 0.3980405239315939,
+    "avg_volume": 22278579.0,
+    "beta": 2.302
+  },
+  "momentum": {
+    "ticker": "QXO",
+    "asof": "2026-08-12",
+    "ret_1m": 3.3194989002077513,
+    "ret_3m": -15.783541301355818,
+    "ret_6m": -35.63119271995979,
+    "ret_12m": -22.47016489112672,
+    "rsi14": 57.23598294427271,
+    "pct_vs_200dma": -23.19694224608515,
+    "score": 32.0,
+    "components_json": "{\"trend\": 25.587513837154628, \"rsi\": 57.23598294427271, \"vs_200dma\": 3.606115507829699, \"short_squeeze\": 48.800003, \"options_skew\": 73.50069705376269}",
+    "thesis": null
+  }
+}

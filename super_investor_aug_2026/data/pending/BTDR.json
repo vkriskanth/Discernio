@@ -1,0 +1,55 @@
+{
+  "ticker": "BTDR",
+  "stock": {
+    "ticker": "BTDR",
+    "name": "Bitdeer Technologies Group A",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BTDR",
+    "asof": "2026-08-08",
+    "market_cap": 2647252480.0,
+    "pe": null,
+    "forward_pe": -27.719744,
+    "ev_ebitda": 9.321,
+    "fcf_yield": -0.2780515442184041,
+    "roe": -0.26135,
+    "gross_margin": 0.03507,
+    "op_margin": -0.43352002,
+    "rev_growth": 1.694,
+    "debt_to_equity": 277.856
+  },
+  "market_stats": {
+    "ticker": "BTDR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.3159,
+    "short_ratio": 6.09,
+    "putcall_oi_ratio": 0.8297510020144124,
+    "avg_volume": 11242496.0,
+    "beta": 2.514
+  },
+  "momentum": {
+    "ticker": "BTDR",
+    "asof": "2026-08-12",
+    "ret_1m": -25.647250520605112,
+    "ret_3m": -28.371008300608846,
+    "ret_6m": -24.672133409345864,
+    "ret_12m": -28.146992902321756,
+    "rsi14": 36.22920370931691,
+    "pct_vs_200dma": -27.87051545488618,
+    "score": 29.0,
+    "components_json": "{\"trend\": 22.828260326084884, \"rsi\": 36.22920370931691, \"vs_200dma\": 0.0, \"short_squeeze\": 100.0, \"options_skew\": 44.705608165638694}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ticker": "DEO",
+  "stock": {
+    "ticker": "DEO",
+    "name": "Diageo plc",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Wineries & Distilleries"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 37.3,
+      "pct_of_portfolio": 0.17,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "add",
+      "share_change_pct": 7.01,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 248.1,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DEO",
+    "asof": "2026-08-12",
+    "market_cap": 51915497472.0,
+    "pe": 30.02894,
+    "forward_pe": 13.518931,
+    "ev_ebitda": 140.688,
+    "fcf_yield": 0.04784457807304357,
+    "roe": 0.14985,
+    "gross_margin": 0.60948,
+    "op_margin": 0.31430998,
+    "rev_growth": null,
+    "debt_to_equity": 172.202
+  },
+  "market_stats": {
+    "ticker": "DEO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0070999996,
+    "short_ratio": 4.05,
+    "putcall_oi_ratio": 0.35428571428571426,
+    "avg_volume": 1185927.0,
+    "beta": 0.317
+  },
+  "momentum": {
+    "ticker": "DEO",
+    "asof": "2026-08-12",
+    "ret_1m": 15.530021393221283,
+    "ret_3m": 15.287882422104637,
+    "ret_6m": -4.668886449542353,
+    "ret_12m": -13.107478083225676,
+    "rsi14": 75.55655385844065,
+    "pct_vs_200dma": 9.61771971927523,
+    "score": 55.8,
+    "components_json": "{\"trend\": 47.94270755847842, \"rsi\": 75.55655385844065, \"vs_200dma\": 69.23543943855046, \"short_squeeze\": 3.5499998, \"options_skew\": 76.41914285714286}",
+    "thesis": null
+  }
+}

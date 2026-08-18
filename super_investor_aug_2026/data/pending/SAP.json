@@ -1,0 +1,87 @@
+{
+  "ticker": "SAP",
+  "stock": {
+    "ticker": "SAP",
+    "name": "SAP SE",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "RC",
+      "manager_name": "Ruane Cunniff LP",
+      "action": "add",
+      "share_change_pct": 1532.83,
+      "pct_of_portfolio": 2.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 81.86,
+      "pct_of_portfolio": 0.43,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 463.33,
+      "pct_of_portfolio": 0.21,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SAP",
+    "asof": "2026-08-12",
+    "market_cap": 234857480192.0,
+    "pe": 26.357513,
+    "forward_pe": 21.196253,
+    "ev_ebitda": 289.749,
+    "fcf_yield": 0.03870698307998646,
+    "roe": 0.18320999,
+    "gross_margin": 0.73658997,
+    "op_margin": 0.2762,
+    "rev_growth": 0.094,
+    "debt_to_equity": 21.966
+  },
+  "market_stats": {
+    "ticker": "SAP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0074,
+    "short_ratio": 2.57,
+    "putcall_oi_ratio": 0.6239023533544081,
+    "avg_volume": 3159945.0,
+    "beta": 0.757
+  },
+  "momentum": {
+    "ticker": "SAP",
+    "asof": "2026-08-12",
+    "ret_1m": 31.16400483045505,
+    "ret_3m": 21.393547850355322,
+    "ret_6m": -2.6507553458860023,
+    "ret_12m": -28.07935616613819,
+    "rsi14": 85.35778623870084,
+    "pct_vs_200dma": 2.7334779672265386,
+    "score": 50.6,
+    "components_json": "{\"trend\": 44.39109528488552, \"rsi\": 85.35778623870084, \"vs_200dma\": 55.466955934453075, \"short_squeeze\": 3.7, \"options_skew\": 58.43571303126098}",
+    "thesis": null
+  }
+}

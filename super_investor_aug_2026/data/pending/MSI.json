@@ -1,0 +1,63 @@
+{
+  "ticker": "MSI",
+  "stock": {
+    "ticker": "MSI",
+    "name": "Motorola Solutions Inc.",
+    "sector": "Technology",
+    "industry": "Communication Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "JIM",
+      "manager_name": "Jensen Investment Management",
+      "action": "add",
+      "share_change_pct": 64.45,
+      "pct_of_portfolio": 1.1,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 2.95,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MSI",
+    "asof": "2026-08-12",
+    "market_cap": 77042327552.0,
+    "pe": 36.655907,
+    "forward_pe": 24.39767,
+    "ev_ebitda": 22.934,
+    "fcf_yield": 0.02568717907262429,
+    "roe": 0.91567004,
+    "gross_margin": 0.52112,
+    "op_margin": 0.27354,
+    "rev_growth": 0.133,
+    "debt_to_equity": 357.85
+  },
+  "market_stats": {
+    "ticker": "MSI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0272,
+    "short_ratio": 4.41,
+    "putcall_oi_ratio": 0.5387263339070568,
+    "avg_volume": 1075408.0,
+    "beta": 0.87
+  },
+  "momentum": {
+    "ticker": "MSI",
+    "asof": "2026-08-12",
+    "ret_1m": 13.075924233551127,
+    "ret_3m": 19.882581532673083,
+    "ret_6m": 12.09421451645043,
+    "ret_12m": 2.6347788342198974,
+    "rsi14": 76.8097192061245,
+    "pct_vs_200dma": 12.811068619871001,
+    "score": 62.5,
+    "components_json": "{\"trend\": 60.64695034842501, \"rsi\": 76.8097192061245, \"vs_200dma\": 75.622137239742, \"short_squeeze\": 13.599999999999998, \"options_skew\": 64.1169535283993}",
+    "thesis": null
+  }
+}

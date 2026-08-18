@@ -1,0 +1,55 @@
+{
+  "ticker": "LASR",
+  "stock": {
+    "ticker": "LASR",
+    "name": "nLIGHT, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 48.62,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LASR",
+    "asof": "2026-08-12",
+    "market_cap": 2987775232.0,
+    "pe": null,
+    "forward_pe": 82.20635,
+    "ev_ebitda": -5357.39,
+    "fcf_yield": 0.01431470598655796,
+    "roe": -0.03805,
+    "gross_margin": 0.31524,
+    "op_margin": -0.04319,
+    "rev_growth": 0.338,
+    "debt_to_equity": 3.374
+  },
+  "market_stats": {
+    "ticker": "LASR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0511,
+    "short_ratio": 2.61,
+    "putcall_oi_ratio": 0.3492379058979457,
+    "avg_volume": 1290851.0,
+    "beta": 2.358
+  },
+  "momentum": {
+    "ticker": "LASR",
+    "asof": "2026-08-12",
+    "ret_1m": -23.03387267018713,
+    "ret_3m": -37.67510112203745,
+    "ret_6m": -3.0133732426554816,
+    "ret_12m": 102.46654098345229,
+    "rsi14": 34.36257472195396,
+    "pct_vs_200dma": -5.442609403914512,
+    "score": 56.7,
+    "components_json": "{\"trend\": 78.78007408397303, \"rsi\": 34.36257472195396, \"vs_200dma\": 39.11478119217098, \"short_squeeze\": 25.55, \"options_skew\": 76.75583167660703}",
+    "thesis": null
+  }
+}

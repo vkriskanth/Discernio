@@ -1,0 +1,55 @@
+{
+  "ticker": "IWS",
+  "stock": {
+    "ticker": "IWS",
+    "name": "Ishares Russell Mid Cap Valu",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IWS",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 20.250814,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "IWS",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.011235955056179775,
+    "avg_volume": 477764.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "IWS",
+    "asof": "2026-08-12",
+    "ret_1m": 3.9393939393939315,
+    "ret_3m": 9.524106039190006,
+    "ret_6m": 16.2113649786342,
+    "ret_12m": 30.091120536641803,
+    "rsi14": 74.45361144808633,
+    "pct_vs_200dma": 13.513388246047331,
+    "score": 68.3,
+    "components_json": "{\"trend\": 69.75708952000399, \"rsi\": 74.45361144808633, \"vs_200dma\": 77.02677649209465, \"short_squeeze\": 0.0, \"options_skew\": 99.3005617977528}",
+    "thesis": null
+  }
+}

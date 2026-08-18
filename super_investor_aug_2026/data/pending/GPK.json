@@ -1,0 +1,55 @@
+{
+  "ticker": "GPK",
+  "stock": {
+    "ticker": "GPK",
+    "name": "Graphic Packaging Holding Compa",
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "add",
+      "share_change_pct": 8.14,
+      "pct_of_portfolio": 0.21,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GPK",
+    "asof": "2026-08-12",
+    "market_cap": 3446569216.0,
+    "pe": 17.909231,
+    "forward_pe": 10.414579,
+    "ev_ebitda": 7.906,
+    "fcf_yield": 0.06901791117256935,
+    "roe": 0.060100004,
+    "gross_margin": 0.15491,
+    "op_margin": 0.045250002,
+    "rev_growth": -0.007,
+    "debt_to_equity": 176.151
+  },
+  "market_stats": {
+    "ticker": "GPK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0828,
+    "short_ratio": 4.59,
+    "putcall_oi_ratio": 0.24006749501457278,
+    "avg_volume": 5920062.0,
+    "beta": 0.658
+  },
+  "momentum": {
+    "ticker": "GPK",
+    "asof": "2026-08-12",
+    "ret_1m": 13.939985911839138,
+    "ret_3m": 17.512424187083873,
+    "ret_6m": -10.112269533112917,
+    "ret_12m": -45.344954469554565,
+    "rsi14": 61.33721752254302,
+    "pct_vs_200dma": -3.397261606117985,
+    "score": 46.2,
+    "components_json": "{\"trend\": 34.082064608369464, \"rsi\": 61.33721752254302, \"vs_200dma\": 43.20547678776403, \"short_squeeze\": 41.4, \"options_skew\": 84.037498082528}",
+    "thesis": null
+  }
+}

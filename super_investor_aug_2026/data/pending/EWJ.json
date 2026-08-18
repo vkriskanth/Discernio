@@ -1,0 +1,55 @@
+{
+  "ticker": "EWJ",
+  "stock": {
+    "ticker": "EWJ",
+    "name": "iShares MSCI Japan ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oa",
+      "manager_name": "Leon Cooperman",
+      "action": "add",
+      "share_change_pct": 42.01,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EWJ",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 20.31007,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "EWJ",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 1.8612454212454212,
+    "avg_volume": 5384379.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "EWJ",
+    "asof": "2026-08-12",
+    "ret_1m": 4.089896679356597,
+    "ret_3m": 6.7358309500460845,
+    "ret_6m": 5.543501366910397,
+    "ret_12m": 31.04200951854159,
+    "rsi14": 72.90945864577611,
+    "pct_vs_200dma": 12.352754023553736,
+    "score": 56.1,
+    "components_json": "{\"trend\": 66.10060350250359, \"rsi\": 72.90945864577611, \"vs_200dma\": 74.70550804710747, \"short_squeeze\": 0.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

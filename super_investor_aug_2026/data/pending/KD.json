@@ -1,0 +1,55 @@
+{
+  "ticker": "KD",
+  "stock": {
+    "ticker": "KD",
+    "name": "Kyndryl Holdings, Inc.",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "add",
+      "share_change_pct": 39.46,
+      "pct_of_portfolio": 0.52,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KD",
+    "asof": "2026-08-12",
+    "market_cap": 2771737344.0,
+    "pe": 34.39189,
+    "forward_pe": 5.108329,
+    "ev_ebitda": 4.453,
+    "fcf_yield": 0.9570260694947003,
+    "roe": 0.069299996,
+    "gross_margin": 0.21841,
+    "op_margin": 0.02902,
+    "rev_growth": -0.033,
+    "debt_to_equity": 422.451
+  },
+  "market_stats": {
+    "ticker": "KD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1366,
+    "short_ratio": 7.24,
+    "putcall_oi_ratio": 0.8266392916720133,
+    "avg_volume": 4297496.0,
+    "beta": 1.716
+  },
+  "momentum": {
+    "ticker": "KD",
+    "asof": "2026-08-12",
+    "ret_1m": 11.498708678937607,
+    "ret_3m": 12.761325879831054,
+    "ret_6m": 16.411868957257457,
+    "ret_12m": -55.54601881266634,
+    "rsi14": 60.681625688540024,
+    "pct_vs_200dma": -25.452104713063793,
+    "score": 35.0,
+    "components_json": "{\"trend\": 36.533550926060016, \"rsi\": 60.681625688540024, \"vs_200dma\": 0.0, \"short_squeeze\": 68.3, \"options_skew\": 44.91315924547671}",
+    "thesis": null
+  }
+}

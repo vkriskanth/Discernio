@@ -1,0 +1,71 @@
+{
+  "ticker": "BIDU",
+  "stock": {
+    "ticker": "BIDU",
+    "name": "Baidu Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AM",
+      "manager_name": "David Tepper - Appaloosa Management",
+      "action": "add",
+      "share_change_pct": 20.37,
+      "pct_of_portfolio": 0.22,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 66.4,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BIDU",
+    "asof": "2026-08-08",
+    "market_cap": 37212151808.0,
+    "pe": null,
+    "forward_pe": 12.912891,
+    "ev_ebitda": 1.612,
+    "fcf_yield": 0.21387166238231423,
+    "roe": 0.00319,
+    "gross_margin": 0.42084998,
+    "op_margin": 0.09955,
+    "rev_growth": -0.012,
+    "debt_to_equity": 32.2
+  },
+  "market_stats": {
+    "ticker": "BIDU",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0311,
+    "short_ratio": 3.63,
+    "putcall_oi_ratio": 0.5785360976636498,
+    "avg_volume": 2412130.0,
+    "beta": 0.59
+  },
+  "momentum": {
+    "ticker": "BIDU",
+    "asof": "2026-08-12",
+    "ret_1m": -11.4523944731323,
+    "ret_3m": -26.217655127142326,
+    "ret_6m": -28.68498258199679,
+    "ret_12m": 18.977933282790517,
+    "rsi14": 40.20763911766876,
+    "pct_vs_200dma": -16.885693573596516,
+    "score": 34.2,
+    "components_json": "{\"trend\": 41.12038200037448, \"rsi\": 40.20763911766876, \"vs_200dma\": 16.228612852806968, \"short_squeeze\": 15.549999999999999, \"options_skew\": 61.461642285834564}",
+    "thesis": null
+  }
+}

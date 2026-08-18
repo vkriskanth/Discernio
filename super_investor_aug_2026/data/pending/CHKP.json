@@ -1,0 +1,55 @@
+{
+  "ticker": "CHKP",
+  "stock": {
+    "ticker": "CHKP",
+    "name": "Check Point Software Technologi",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "add",
+      "share_change_pct": 22.13,
+      "pct_of_portfolio": 0.45,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CHKP",
+    "asof": "2026-08-12",
+    "market_cap": 13213863936.0,
+    "pe": 13.273846,
+    "forward_pe": 11.4513235,
+    "ev_ebitda": 15.341,
+    "fcf_yield": 0.053014394229645566,
+    "roe": 0.37639,
+    "gross_margin": 0.87495005,
+    "op_margin": 0.27479,
+    "rev_growth": 0.013,
+    "debt_to_equity": 72.153
+  },
+  "market_stats": {
+    "ticker": "CHKP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0615,
+    "short_ratio": 3.45,
+    "putcall_oi_ratio": 2.8359281437125747,
+    "avg_volume": 1362919.0,
+    "beta": 0.491
+  },
+  "momentum": {
+    "ticker": "CHKP",
+    "asof": "2026-08-12",
+    "ret_1m": -6.970182851445261,
+    "ret_3m": 11.2236080778098,
+    "ret_6m": -27.07517799756206,
+    "ret_12m": -31.709264016605086,
+    "rsi14": 42.9411773505648,
+    "pct_vs_200dma": -18.316739678100625,
+    "score": 25.9,
+    "components_json": "{\"trend\": 32.56082341743229, \"rsi\": 42.9411773505648, \"vs_200dma\": 13.36652064379875, \"short_squeeze\": 30.75, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

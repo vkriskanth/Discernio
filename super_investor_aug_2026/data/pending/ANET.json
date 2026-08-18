@@ -1,0 +1,55 @@
+{
+  "ticker": "ANET",
+  "stock": {
+    "ticker": "ANET",
+    "name": "Arista Networks, Inc.",
+    "sector": "Technology",
+    "industry": "Computer Hardware"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GC",
+      "manager_name": "Francois Rochon - Giverny Capital",
+      "action": "add",
+      "share_change_pct": 1.0,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ANET",
+    "asof": "2026-08-12",
+    "market_cap": 260657299456.0,
+    "pe": 65.19558,
+    "forward_pe": 40.05574,
+    "ev_ebitda": 50.907,
+    "fcf_yield": 0.014929612882975882,
+    "roe": 0.31476,
+    "gross_margin": 0.63004,
+    "op_margin": 0.45393002,
+    "rev_growth": 0.377,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "ANET",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0123000005,
+    "short_ratio": 1.65,
+    "putcall_oi_ratio": 0.6942892232115444,
+    "avg_volume": 8740914.0,
+    "beta": 1.615
+  },
+  "momentum": {
+    "ticker": "ANET",
+    "asof": "2026-08-12",
+    "ret_1m": 13.844001140669038,
+    "ret_3m": 45.81521749020847,
+    "ret_6m": 44.89020957992431,
+    "ret_12m": 50.99528546075116,
+    "rsi14": 68.20327599334195,
+    "pct_vs_200dma": 40.64014384140806,
+    "score": 80.3,
+    "components_json": "{\"trend\": 97.6097423053403, \"rsi\": 68.20327599334195, \"vs_200dma\": 100.0, \"short_squeeze\": 6.15000025, \"options_skew\": 53.74090881178999}",
+    "thesis": null
+  }
+}

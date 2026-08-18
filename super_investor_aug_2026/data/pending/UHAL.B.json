@@ -1,0 +1,51 @@
+{
+  "ticker": "UHAL.B",
+  "stock": {
+    "ticker": "UHAL.B",
+    "name": null,
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TA",
+      "manager_name": "Third Avenue Management",
+      "action": "add",
+      "share_change_pct": 9.69,
+      "pct_of_portfolio": 0.18,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 4.51,
+      "pct_of_portfolio": 0.16,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 2.46,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "UHAL.B",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": null,
+  "momentum": null
+}

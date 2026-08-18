@@ -1,0 +1,55 @@
+{
+  "ticker": "BUD",
+  "stock": {
+    "ticker": "BUD",
+    "name": "Anheuser-Busch Inbev SA Sponsor",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Brewers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 42.12,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BUD",
+    "asof": "2026-08-12",
+    "market_cap": 155520909312.0,
+    "pe": 17.021553,
+    "forward_pe": 15.875952,
+    "ev_ebitda": 51.888,
+    "fcf_yield": 0.06876004570258051,
+    "roe": 0.11392,
+    "gross_margin": 0.56494,
+    "op_margin": 0.27341,
+    "rev_growth": 0.11,
+    "debt_to_equity": 71.88
+  },
+  "market_stats": {
+    "ticker": "BUD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0070999996,
+    "short_ratio": 3.15,
+    "putcall_oi_ratio": 0.8362200713194091,
+    "avg_volume": 1955835.0,
+    "beta": 0.794
+  },
+  "momentum": {
+    "ticker": "BUD",
+    "asof": "2026-08-12",
+    "ret_1m": -0.2645824331683033,
+    "ret_3m": -0.814426658774392,
+    "ret_6m": 6.095160129081223,
+    "ret_12m": 30.90313506628386,
+    "rsi14": 46.15384615384615,
+    "pct_vs_200dma": 8.869376744496194,
+    "score": 54.2,
+    "components_json": "{\"trend\": 63.945474067605595, \"rsi\": 46.15384615384615, \"vs_200dma\": 67.73875348899239, \"short_squeeze\": 3.5499998, \"options_skew\": 44.27412124299541}",
+    "thesis": null
+  }
+}

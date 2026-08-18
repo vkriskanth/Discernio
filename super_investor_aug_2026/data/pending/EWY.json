@@ -1,0 +1,55 @@
+{
+  "ticker": "EWY",
+  "stock": {
+    "ticker": "EWY",
+    "name": "iShares MSCI South Korea ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AM",
+      "manager_name": "David Tepper - Appaloosa Management",
+      "action": "add",
+      "share_change_pct": 28.0,
+      "pct_of_portfolio": 1.09,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EWY",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 17.117672,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "EWY",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 1.0634892492182715,
+    "avg_volume": 22316827.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "EWY",
+    "asof": "2026-08-12",
+    "ret_1m": -1.1357184740417359,
+    "ret_3m": -1.977590352547265,
+    "ret_6m": 40.59462074030571,
+    "ret_12m": 144.9676754202879,
+    "rsi14": 50.626340482285194,
+    "pct_vs_200dma": 25.046263125239943,
+    "score": 75.5,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 50.626340482285194, \"vs_200dma\": 100.0, \"short_squeeze\": 0.0, \"options_skew\": 29.115267077141294}",
+    "thesis": null
+  }
+}

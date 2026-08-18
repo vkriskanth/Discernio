@@ -1,0 +1,55 @@
+{
+  "ticker": "AFYA",
+  "stock": {
+    "ticker": "AFYA",
+    "name": "Afya Limited",
+    "sector": "Consumer Defensive",
+    "industry": "Education & Training Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 44.93,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AFYA",
+    "asof": "2026-08-12",
+    "market_cap": 1223636096.0,
+    "pe": 8.158537,
+    "forward_pe": 6.732744,
+    "ev_ebitda": 2.102,
+    "fcf_yield": 0.42923668704849977,
+    "roe": 0.16757,
+    "gross_margin": 0.64334,
+    "op_margin": 0.38866,
+    "rev_growth": 0.082,
+    "debt_to_equity": 66.887
+  },
+  "market_stats": {
+    "ticker": "AFYA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.053000003,
+    "short_ratio": 4.3,
+    "putcall_oi_ratio": 1.025,
+    "avg_volume": 100759.0,
+    "beta": 0.377
+  },
+  "momentum": {
+    "ticker": "AFYA",
+    "asof": "2026-08-12",
+    "ret_1m": -6.906077566391677,
+    "ret_3m": -3.091303449983729,
+    "ret_6m": -6.159183186519823,
+    "ret_12m": -4.24406227047217,
+    "rsi14": 42.34233873023274,
+    "pct_vs_200dma": -4.88434893493892,
+    "score": 40.4,
+    "components_json": "{\"trend\": 45.52722910086007, \"rsi\": 42.34233873023274, \"vs_200dma\": 40.23130213012216, \"short_squeeze\": 26.5000015, \"options_skew\": 31.682500000000008}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "CMCO",
+  "stock": {
+    "ticker": "CMCO",
+    "name": "Columbus McKinnon Corporation",
+    "sector": "Industrials",
+    "industry": "Farm & Heavy Construction Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 26.2,
+      "pct_of_portfolio": 0.33,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CMCO",
+    "asof": "2026-08-12",
+    "market_cap": 547843328.0,
+    "pe": null,
+    "forward_pe": 7.1803637,
+    "ev_ebitda": 15.075,
+    "fcf_yield": -0.46951677396352265,
+    "roe": -0.27747,
+    "gross_margin": 0.35138,
+    "op_margin": 0.10429,
+    "rev_growth": 1.253,
+    "debt_to_equity": 180.952
+  },
+  "market_stats": {
+    "ticker": "CMCO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2895,
+    "short_ratio": 2.65,
+    "putcall_oi_ratio": 0.49150622876557193,
+    "avg_volume": 687990.0,
+    "beta": 1.37
+  },
+  "momentum": {
+    "ticker": "CMCO",
+    "asof": "2026-08-12",
+    "ret_1m": 44.06409232623032,
+    "ret_3m": 22.81919715168157,
+    "ret_6m": -6.865080556961645,
+    "ret_12m": 41.2255346186917,
+    "rsi14": 67.42196654976325,
+    "pct_vs_200dma": 17.51460417586945,
+    "score": 76.6,
+    "components_json": "{\"trend\": 71.27644882589266, \"rsi\": 67.42196654976325, \"vs_200dma\": 85.0292083517389, \"short_squeeze\": 100.0, \"options_skew\": 67.26653454133634}",
+    "thesis": null
+  }
+}

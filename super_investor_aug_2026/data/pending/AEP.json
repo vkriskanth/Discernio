@@ -1,0 +1,55 @@
+{
+  "ticker": "AEP",
+  "stock": {
+    "ticker": "AEP",
+    "name": "American Electric Power Company",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Electric"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 3.84,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AEP",
+    "asof": "2026-08-12",
+    "market_cap": 67565158400.0,
+    "pe": 21.509533,
+    "forward_pe": 18.096138,
+    "ev_ebitda": 13.447,
+    "fcf_yield": -0.08874322538404646,
+    "roe": 0.10130999,
+    "gross_margin": 0.46352002,
+    "op_margin": 0.23251,
+    "rev_growth": 0.07,
+    "debt_to_equity": 160.789
+  },
+  "market_stats": {
+    "ticker": "AEP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0577,
+    "short_ratio": 7.09,
+    "putcall_oi_ratio": 0.7313895781637717,
+    "avg_volume": 5215632.0,
+    "beta": 0.507
+  },
+  "momentum": {
+    "ticker": "AEP",
+    "asof": "2026-08-12",
+    "ret_1m": -7.228481663986819,
+    "ret_3m": -5.1190732140183215,
+    "ret_6m": 4.013069670310498,
+    "ret_12m": 14.369808039689968,
+    "rsi14": 19.342201664712775,
+    "pct_vs_200dma": -0.33679186559755214,
+    "score": 45.4,
+    "components_json": "{\"trend\": 55.41612215276364, \"rsi\": 19.342201664712775, \"vs_200dma\": 49.3264162688049, \"short_squeeze\": 28.85, \"options_skew\": 51.26631513647643}",
+    "thesis": null
+  }
+}

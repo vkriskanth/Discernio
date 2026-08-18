@@ -1,0 +1,55 @@
+{
+  "ticker": "DLG.MI",
+  "stock": {
+    "ticker": "DLG.MI",
+    "name": "DE'LONGHI",
+    "sector": "Consumer Cyclical",
+    "industry": "Furnishings, Fixtures & Appliances"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 10.64,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DLG.MI",
+    "asof": "2026-08-12",
+    "market_cap": 6014057472.0,
+    "pe": 17.763159,
+    "forward_pe": 15.363722,
+    "ev_ebitda": 10.216,
+    "fcf_yield": 0.0646060896173624,
+    "roe": 0.17764,
+    "gross_margin": 0.4511,
+    "op_margin": 0.14033,
+    "rev_growth": 0.095,
+    "debt_to_equity": 21.437
+  },
+  "market_stats": {
+    "ticker": "DLG.MI",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": null,
+    "avg_volume": 163560.0,
+    "beta": 1.6
+  },
+  "momentum": {
+    "ticker": "DLG.MI",
+    "asof": "2026-08-12",
+    "ret_1m": 8.543794199036592,
+    "ret_3m": 12.260625341055231,
+    "ret_6m": 5.39452121784374,
+    "ret_12m": 40.12681596865577,
+    "rsi14": 64.40130588481475,
+    "pct_vs_200dma": 14.338200338414264,
+    "score": 62.9,
+    "components_json": "{\"trend\": 71.347270355132, \"rsi\": 64.40130588481475, \"vs_200dma\": 78.67640067682854, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

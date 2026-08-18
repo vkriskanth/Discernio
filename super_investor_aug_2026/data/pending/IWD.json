@@ -1,0 +1,63 @@
+{
+  "ticker": "IWD",
+  "stock": {
+    "ticker": "IWD",
+    "name": "iShares Russell 1000 Value ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VVP",
+      "manager_name": "Vulcan Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 30.58,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IWD",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 21.974562,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "IWD",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 1.042857142857143,
+    "avg_volume": 2125838.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "IWD",
+    "asof": "2026-08-12",
+    "ret_1m": 4.5581893935527695,
+    "ret_3m": 10.333538222639183,
+    "ret_6m": 15.625995037048845,
+    "ret_12m": 34.160133984714136,
+    "rsi14": 80.21168549122821,
+    "pct_vs_200dma": 14.895291111487797,
+    "score": 63.6,
+    "components_json": "{\"trend\": 71.45191357179206, \"rsi\": 80.21168549122821, \"vs_200dma\": 79.79058222297559, \"short_squeeze\": 0.0, \"options_skew\": 30.491428571428568}",
+    "thesis": null
+  }
+}

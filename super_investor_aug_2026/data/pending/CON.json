@@ -1,0 +1,55 @@
+{
+  "ticker": "CON",
+  "stock": {
+    "ticker": "CON",
+    "name": "Concentra Group Holdings Parent",
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 62.09,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CON",
+    "asof": "2026-08-12",
+    "market_cap": 4265468416.0,
+    "pe": 21.580647,
+    "forward_pe": 18.41048,
+    "ev_ebitda": 13.49,
+    "fcf_yield": 0.04801199118760513,
+    "roe": 0.4706,
+    "gross_margin": 0.29314,
+    "op_margin": 0.1929,
+    "rev_growth": 0.1,
+    "debt_to_equity": 423.325
+  },
+  "market_stats": {
+    "ticker": "CON",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0442,
+    "short_ratio": 3.39,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 942164.0,
+    "beta": 0.617
+  },
+  "momentum": {
+    "ticker": "CON",
+    "asof": "2026-08-12",
+    "ret_1m": 8.312097881245428,
+    "ret_3m": 44.45911906273423,
+    "ret_6m": 45.29680019263136,
+    "ret_12m": 72.45307478671413,
+    "rsi14": 64.48498176864132,
+    "pct_vs_200dma": 43.634975335768566,
+    "score": 81.9,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 64.48498176864132, \"vs_200dma\": 100.0, \"short_squeeze\": 22.1, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

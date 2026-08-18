@@ -1,0 +1,55 @@
+{
+  "ticker": "GHC",
+  "stock": {
+    "ticker": "GHC",
+    "name": "Graham Holdings Company",
+    "sector": "Industrials",
+    "industry": "Conglomerates"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SE",
+      "manager_name": "Mason Hawkins - Southeastern Asset Management",
+      "action": "add",
+      "share_change_pct": 5.71,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GHC",
+    "asof": "2026-08-12",
+    "market_cap": 4917555712.0,
+    "pe": 9.385629,
+    "forward_pe": 17.331194,
+    "ev_ebitda": 7.947,
+    "fcf_yield": 0.05443458817289755,
+    "roe": 0.118710004,
+    "gross_margin": 0.29947,
+    "op_margin": 0.1974,
+    "rev_growth": 0.071,
+    "debt_to_equity": 30.218
+  },
+  "market_stats": {
+    "ticker": "GHC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0809,
+    "short_ratio": 6.86,
+    "putcall_oi_ratio": null,
+    "avg_volume": 19983.0,
+    "beta": 0.724
+  },
+  "momentum": {
+    "ticker": "GHC",
+    "asof": "2026-08-12",
+    "ret_1m": 0.8670664878733803,
+    "ret_3m": 3.2623397602022486,
+    "ret_6m": -1.2737959597055704,
+    "ret_12m": 21.554257619313777,
+    "rsi14": 51.74632800783935,
+    "pct_vs_200dma": 5.059855147618864,
+    "score": 55.5,
+    "components_json": "{\"trend\": 59.21826618787451, \"rsi\": 51.74632800783935, \"vs_200dma\": 60.119710295237724, \"short_squeeze\": 40.45, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

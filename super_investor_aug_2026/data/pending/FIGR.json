@@ -1,0 +1,55 @@
+{
+  "ticker": "FIGR",
+  "stock": {
+    "ticker": "FIGR",
+    "name": "Figure Technology Solutions, In",
+    "sector": "Financial Services",
+    "industry": "Capital Markets"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.81,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FIGR",
+    "asof": "2026-08-12",
+    "market_cap": 6223988736.0,
+    "pe": 34.32927,
+    "forward_pe": 19.54861,
+    "ev_ebitda": null,
+    "fcf_yield": 0.012636088421095754,
+    "roe": 0.21672001,
+    "gross_margin": 1.0,
+    "op_margin": 0.24861999,
+    "rev_growth": 1.192,
+    "debt_to_equity": 102.468
+  },
+  "market_stats": {
+    "ticker": "FIGR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.075100005,
+    "short_ratio": 4.11,
+    "putcall_oi_ratio": 0.5639894937227403,
+    "avg_volume": 3696909.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "FIGR",
+    "asof": "2026-08-12",
+    "ret_1m": -1.6855780246946894,
+    "ret_3m": -25.43037993998467,
+    "ret_6m": -24.221762971173277,
+    "ret_12m": null,
+    "rsi14": 50.7046876148723,
+    "pct_vs_200dma": -20.716525897032124,
+    "score": 33.8,
+    "components_json": "{\"trend\": 35.104357126652616, \"rsi\": 50.7046876148723, \"vs_200dma\": 8.566948205935752, \"short_squeeze\": 37.5500025, \"options_skew\": 62.431900768693225}",
+    "thesis": null
+  }
+}

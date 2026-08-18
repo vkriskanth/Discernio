@@ -1,0 +1,63 @@
+{
+  "ticker": "RELX",
+  "stock": {
+    "ticker": "RELX",
+    "name": "RELX PLC PLC",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 93.92,
+      "pct_of_portfolio": 0.46,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AKO",
+      "manager_name": "AKO Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RELX",
+    "asof": "2026-08-12",
+    "market_cap": 60248342528.0,
+    "pe": 20.568453,
+    "forward_pe": 15.994872,
+    "ev_ebitda": 77.845,
+    "fcf_yield": 0.037052887205362026,
+    "roe": 1.31864,
+    "gross_margin": 0.6642,
+    "op_margin": 0.32006,
+    "rev_growth": 0.027,
+    "debt_to_equity": 709.641
+  },
+  "market_stats": {
+    "ticker": "RELX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0023,
+    "short_ratio": 1.31,
+    "putcall_oi_ratio": 0.16015625,
+    "avg_volume": 2764258.0,
+    "beta": 0.263
+  },
+  "momentum": {
+    "ticker": "RELX",
+    "asof": "2026-08-12",
+    "ret_1m": 8.47047093164852,
+    "ret_3m": 3.82783300609455,
+    "ret_6m": 17.871683894039904,
+    "ret_12m": -26.9458354871147,
+    "rsi14": 52.950367571122406,
+    "pct_vs_200dma": -2.9342052970480648,
+    "score": 46.3,
+    "components_json": "{\"trend\": 45.731520875194455, \"rsi\": 52.950367571122406, \"vs_200dma\": 44.13158940590387, \"short_squeeze\": 1.15, \"options_skew\": 89.36757812500001}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "PLXS",
+  "stock": {
+    "ticker": "PLXS",
+    "name": "Plexus Corp.",
+    "sector": "Technology",
+    "industry": "Electronic Components"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 36.33,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PLXS",
+    "asof": "2026-08-12",
+    "market_cap": 7393825792.0,
+    "pe": 40.617867,
+    "forward_pe": 27.725367,
+    "ev_ebitda": 23.509,
+    "fcf_yield": 0.0028144090198223594,
+    "roe": 0.1258,
+    "gross_margin": 0.100389995,
+    "op_margin": 0.046719998,
+    "rev_growth": 0.281,
+    "debt_to_equity": 20.079
+  },
+  "market_stats": {
+    "ticker": "PLXS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.04,
+    "short_ratio": 2.32,
+    "putcall_oi_ratio": 0.02155688622754491,
+    "avg_volume": 317666.0,
+    "beta": 0.904
+  },
+  "momentum": {
+    "ticker": "PLXS",
+    "asof": "2026-08-12",
+    "ret_1m": 1.674304708816332,
+    "ret_3m": 5.515709161185045,
+    "ret_6m": 36.813043376637026,
+    "ret_12m": 114.9812428150224,
+    "rsi14": 62.94888975143007,
+    "pct_vs_200dma": 30.369092174664814,
+    "score": 86.3,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 62.94888975143007, \"vs_200dma\": 100.0, \"short_squeeze\": 20.0, \"options_skew\": 98.61215568862276}",
+    "thesis": null
+  }
+}

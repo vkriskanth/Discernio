@@ -1,0 +1,63 @@
+{
+  "ticker": "CSGP",
+  "stock": {
+    "ticker": "CSGP",
+    "name": "CoStar Group Inc.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AC",
+      "manager_name": "Chuck Akre - Akre Capital Management",
+      "action": "add",
+      "share_change_pct": 7.59,
+      "pct_of_portfolio": 0.48,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.24,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CSGP",
+    "asof": "2026-08-12",
+    "market_cap": 12352449536.0,
+    "pe": 169.36111,
+    "forward_pe": 17.669495,
+    "ev_ebitda": 31.756,
+    "fcf_yield": 0.033410377334246656,
+    "roe": 0.00894,
+    "gross_margin": 0.78683996,
+    "op_margin": 0.082159996,
+    "rev_growth": 0.184,
+    "debt_to_equity": 14.537
+  },
+  "market_stats": {
+    "ticker": "CSGP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.040599998,
+    "short_ratio": 2.1,
+    "putcall_oi_ratio": 0.5640167364016736,
+    "avg_volume": 7862593.0,
+    "beta": 0.731
+  },
+  "momentum": {
+    "ticker": "CSGP",
+    "asof": "2026-08-12",
+    "ret_1m": 7.502645698864918,
+    "ret_3m": -6.86603591263284,
+    "ret_6m": -39.29991806139326,
+    "ret_12m": -67.9882508600074,
+    "rsi14": 66.69961178289243,
+    "pct_vs_200dma": -35.708657319090854,
+    "score": 21.9,
+    "components_json": "{\"trend\": 8.954913463789211, \"rsi\": 66.69961178289243, \"vs_200dma\": 0.0, \"short_squeeze\": 20.299999, \"options_skew\": 62.43008368200837}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "ticker": "TSLA",
+  "stock": {
+    "ticker": "TSLA",
+    "name": "Tesla, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HH",
+      "manager_name": "Duan Yongping - H&H International Investment",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 6.34,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 46.7,
+      "pct_of_portfolio": 0.82,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 21.8,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TSLA",
+    "asof": "2026-08-12",
+    "market_cap": 1285399904256.0,
+    "pe": 307.03302,
+    "forward_pe": 146.65222,
+    "ev_ebitda": 119.727,
+    "fcf_yield": 0.003762253076251096,
+    "roe": 0.046669997,
+    "gross_margin": 0.18852,
+    "op_margin": 0.014099999,
+    "rev_growth": 0.255,
+    "debt_to_equity": 18.373
+  },
+  "market_stats": {
+    "ticker": "TSLA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0194,
+    "short_ratio": 1.61,
+    "putcall_oi_ratio": 0.8840516066507162,
+    "avg_volume": 43842567.0,
+    "beta": 1.827
+  },
+  "momentum": {
+    "ticker": "TSLA",
+    "asof": "2026-08-12",
+    "ret_1m": -17.606897413392954,
+    "ret_3m": -24.691434167717475,
+    "ret_6m": -23.232051373972862,
+    "ret_12m": -3.7179633164361348,
+    "rsi14": 54.32367240617271,
+    "pct_vs_200dma": -19.815735778278764,
+    "score": 29.5,
+    "components_json": "{\"trend\": 34.135769010918445, \"rsi\": 54.32367240617271, \"vs_200dma\": 10.368528443442472, \"short_squeeze\": 9.7, \"options_skew\": 41.083757836397226}",
+    "thesis": null
+  }
+}

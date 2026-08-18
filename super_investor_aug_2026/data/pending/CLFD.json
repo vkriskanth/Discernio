@@ -1,0 +1,55 @@
+{
+  "ticker": "CLFD",
+  "stock": {
+    "ticker": "CLFD",
+    "name": "Clearfield, Inc.",
+    "sector": "Technology",
+    "industry": "Communication Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 0.21,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CLFD",
+    "asof": "2026-08-12",
+    "market_cap": 402288832.0,
+    "pe": 102.12069,
+    "forward_pe": 25.530172,
+    "ev_ebitda": 53.94,
+    "fcf_yield": 0.05358339154689733,
+    "roe": 0.01561,
+    "gross_margin": 0.33007,
+    "op_margin": 0.05861,
+    "rev_growth": 0.132,
+    "debt_to_equity": 4.179
+  },
+  "market_stats": {
+    "ticker": "CLFD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1163,
+    "short_ratio": 6.83,
+    "putcall_oi_ratio": 0.10901591043017089,
+    "avg_volume": 287211.0,
+    "beta": 2.122
+  },
+  "momentum": {
+    "ticker": "CLFD",
+    "asof": "2026-08-12",
+    "ret_1m": -11.451072315962808,
+    "ret_3m": -35.26024683413933,
+    "ret_6m": -6.910828352409759,
+    "ret_12m": -10.611624280559194,
+    "rsi14": 46.807439064081365,
+    "pct_vs_200dma": -10.528306887236328,
+    "score": 42.6,
+    "components_json": "{\"trend\": 33.1040277318116, \"rsi\": 46.807439064081365, \"vs_200dma\": 28.943386225527345, \"short_squeeze\": 58.150000000000006, \"options_skew\": 92.77863877430761}",
+    "thesis": null
+  }
+}

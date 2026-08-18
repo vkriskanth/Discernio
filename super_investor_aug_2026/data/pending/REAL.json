@@ -1,0 +1,55 @@
+{
+  "ticker": "REAL",
+  "stock": {
+    "ticker": "REAL",
+    "name": "The RealReal, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Luxury Goods"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 123.81,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "REAL",
+    "asof": "2026-08-12",
+    "market_cap": 1399826176.0,
+    "pe": null,
+    "forward_pe": 39.333336,
+    "ev_ebitda": 67.535,
+    "fcf_yield": 0.025128031324940733,
+    "roe": null,
+    "gross_margin": 0.74497,
+    "op_margin": -0.01186,
+    "rev_growth": 0.166,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "REAL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1486,
+    "short_ratio": 5.8,
+    "putcall_oi_ratio": 0.007277538868673503,
+    "avg_volume": 3274672.0,
+    "beta": 2.744
+  },
+  "momentum": {
+    "ticker": "REAL",
+    "asof": "2026-08-12",
+    "ret_1m": 9.004737365781645,
+    "ret_3m": -7.258061663045012,
+    "ret_6m": -8.512328725551189,
+    "ret_12m": 100.0,
+    "rsi14": 49.8721199550432,
+    "pct_vs_200dma": -5.505146809648864,
+    "score": 68.7,
+    "components_json": "{\"trend\": 85.26888288342114, \"rsi\": 49.8721199550432, \"vs_200dma\": 38.98970638070227, \"short_squeeze\": 74.30000000000001, \"options_skew\": 99.56458815745948}",
+    "thesis": null
+  }
+}

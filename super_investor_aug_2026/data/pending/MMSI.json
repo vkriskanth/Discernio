@@ -1,0 +1,55 @@
+{
+  "ticker": "MMSI",
+  "stock": {
+    "ticker": "MMSI",
+    "name": "Merit Medical Systems, Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 46.88,
+      "pct_of_portfolio": 0.18,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MMSI",
+    "asof": "2026-08-12",
+    "market_cap": 5379908608.0,
+    "pe": 37.078186,
+    "forward_pe": 19.538113,
+    "ev_ebitda": 17.146,
+    "fcf_yield": 0.03232436471902238,
+    "roe": 0.0919,
+    "gross_margin": 0.49514,
+    "op_margin": 0.14456001,
+    "rev_growth": 0.095,
+    "debt_to_equity": 48.822
+  },
+  "market_stats": {
+    "ticker": "MMSI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0846,
+    "short_ratio": 4.44,
+    "putcall_oi_ratio": 7.0,
+    "avg_volume": 902654.0,
+    "beta": 0.484
+  },
+  "momentum": {
+    "ticker": "MMSI",
+    "asof": "2026-08-12",
+    "ret_1m": 27.654193110920676,
+    "ret_3m": 48.25838331948646,
+    "ret_6m": 10.26514511809693,
+    "ret_12m": 7.877204515069103,
+    "rsi14": 97.56099174701998,
+    "pct_vs_200dma": 18.89509125268878,
+    "score": 69.1,
+    "components_json": "{\"trend\": 70.70794033730266, \"rsi\": 97.56099174701998, \"vs_200dma\": 87.79018250537756, \"short_squeeze\": 42.3, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

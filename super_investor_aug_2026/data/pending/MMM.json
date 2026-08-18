@@ -1,0 +1,55 @@
+{
+  "ticker": "MMM",
+  "stock": {
+    "ticker": "MMM",
+    "name": "3M Company",
+    "sector": "Industrials",
+    "industry": "Conglomerates"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 0.77,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MMM",
+    "asof": "2026-08-12",
+    "market_cap": 94392672256.0,
+    "pe": 32.567616,
+    "forward_pe": 18.7184,
+    "ev_ebitda": 15.776,
+    "fcf_yield": 0.06727349596352125,
+    "roe": 0.81891996,
+    "gross_margin": 0.39408,
+    "op_margin": 0.20354,
+    "rev_growth": 0.025,
+    "debt_to_equity": 437.937
+  },
+  "market_stats": {
+    "ticker": "MMM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.019299999,
+    "short_ratio": 2.7,
+    "putcall_oi_ratio": 0.6422270914096297,
+    "avg_volume": 3816366.0,
+    "beta": 1.08
+  },
+  "momentum": {
+    "ticker": "MMM",
+    "asof": "2026-08-12",
+    "ret_1m": 17.387272018365117,
+    "ret_3m": 29.01024534112331,
+    "ret_6m": 7.008365877765121,
+    "ret_12m": 20.56095297831746,
+    "rsi14": 72.56709369037826,
+    "pct_vs_200dma": 15.536385977853984,
+    "score": 65.5,
+    "components_json": "{\"trend\": 69.02996455699352, \"rsi\": 72.56709369037826, \"vs_200dma\": 81.07277195570796, \"short_squeeze\": 9.6499995, \"options_skew\": 57.2134530029777}",
+    "thesis": null
+  }
+}

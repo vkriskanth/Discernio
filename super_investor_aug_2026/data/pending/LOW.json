@@ -1,0 +1,63 @@
+{
+  "ticker": "LOW",
+  "stock": {
+    "ticker": "LOW",
+    "name": "Lowe's Companies, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Home Improvement Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 22.45,
+      "pct_of_portfolio": 0.26,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 1.83,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LOW",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 18.194256,
+    "forward_pe": 16.029692,
+    "ev_ebitda": 13.164,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": 0.33293,
+    "op_margin": 0.11067,
+    "rev_growth": 0.103,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "LOW",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0224,
+    "short_ratio": 3.65,
+    "putcall_oi_ratio": 1.1901713813751806,
+    "avg_volume": 3075741.0,
+    "beta": 0.851
+  },
+  "momentum": {
+    "ticker": "LOW",
+    "asof": "2026-08-12",
+    "ret_1m": 4.949316614471977,
+    "ret_3m": -2.922352559525365,
+    "ret_6m": -23.067066833591955,
+    "ret_12m": -7.829836798055368,
+    "rsi14": 62.93102221730658,
+    "pct_vs_200dma": -8.180916612491352,
+    "score": 36.7,
+    "components_json": "{\"trend\": 39.071239462842655, \"rsi\": 62.93102221730658, \"vs_200dma\": 33.6381667750173, \"short_squeeze\": 11.2, \"options_skew\": 20.665568862275453}",
+    "thesis": null
+  }
+}

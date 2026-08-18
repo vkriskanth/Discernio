@@ -1,0 +1,63 @@
+{
+  "ticker": "FANG",
+  "stock": {
+    "ticker": "FANG",
+    "name": "Diamondback Energy, Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.74,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 1.01,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FANG",
+    "asof": "2026-08-12",
+    "market_cap": 56143966208.0,
+    "pe": 38.26336,
+    "forward_pe": 11.165046,
+    "ev_ebitda": 6.343,
+    "fcf_yield": 0.08968906851619057,
+    "roe": 0.034930002,
+    "gross_margin": 0.72353995,
+    "op_margin": 0.48466998,
+    "rev_growth": 0.525,
+    "debt_to_equity": 28.678
+  },
+  "market_stats": {
+    "ticker": "FANG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.042600002,
+    "short_ratio": 4.09,
+    "putcall_oi_ratio": 0.9117477960904561,
+    "avg_volume": 2253467.0,
+    "beta": 0.419
+  },
+  "momentum": {
+    "ticker": "FANG",
+    "asof": "2026-08-12",
+    "ret_1m": 5.160205680376029,
+    "ret_3m": 1.7577181626902139,
+    "ret_6m": 23.01423263660176,
+    "ret_12m": 50.32514753774704,
+    "rsi14": 46.15503628395522,
+    "pct_vs_200dma": 14.811789905617578,
+    "score": 63.9,
+    "components_json": "{\"trend\": 77.5616442548864, \"rsi\": 46.15503628395522, \"vs_200dma\": 79.62357981123516, \"short_squeeze\": 21.300000999999998, \"options_skew\": 39.23642200076658}",
+    "thesis": null
+  }
+}

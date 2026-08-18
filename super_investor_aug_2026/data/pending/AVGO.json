@@ -1,0 +1,103 @@
+{
+  "ticker": "AVGO",
+  "stock": {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TGM",
+      "manager_name": "Chase Coleman - Tiger Global Management",
+      "action": "add",
+      "share_change_pct": 24.66,
+      "pct_of_portfolio": 0.96,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "tp",
+      "manager_name": "Daniel Loeb - Third Point",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.74,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 2.01,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 1.73,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 6.02,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 1.93,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 6.32,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AVGO",
+    "asof": "2026-08-12",
+    "market_cap": 2004130725888.0,
+    "pe": 70.32555,
+    "forward_pe": 21.568651,
+    "ev_ebitda": 48.114,
+    "fcf_yield": 0.01357808087890208,
+    "roe": 0.37280998,
+    "gross_margin": 0.76284,
+    "op_margin": 0.48988,
+    "rev_growth": 0.479,
+    "debt_to_equity": 74.018
+  },
+  "market_stats": {
+    "ticker": "AVGO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.013099999,
+    "short_ratio": 2.87,
+    "putcall_oi_ratio": 1.1535290628706998,
+    "avg_volume": 25780098.0,
+    "beta": 1.473
+  },
+  "momentum": {
+    "ticker": "AVGO",
+    "asof": "2026-08-12",
+    "ret_1m": 7.848682813248509,
+    "ret_3m": 0.24187356223552836,
+    "ret_6m": 23.721026272212352,
+    "ret_12m": 39.09997419520865,
+    "rsi14": 63.94704022720311,
+    "pct_vs_200dma": 14.106449814144707,
+    "score": 61.2,
+    "components_json": "{\"trend\": 72.82885962841783, \"rsi\": 63.94704022720311, \"vs_200dma\": 78.21289962828942, \"short_squeeze\": 6.5499995, \"options_skew\": 23.109611506524324}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "CSX",
+  "stock": {
+    "ticker": "CSX",
+    "name": "CSX Corporation",
+    "sector": "Industrials",
+    "industry": "Railroads"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 35.18,
+      "pct_of_portfolio": 0.56,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 10.28,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CSX",
+    "asof": "2026-08-12",
+    "market_cap": 92234727424.0,
+    "pe": 28.947674,
+    "forward_pe": 21.919342,
+    "ev_ebitda": 16.187,
+    "fcf_yield": 0.021176948233618927,
+    "roe": 0.24357,
+    "gross_margin": 0.47070998,
+    "op_margin": 0.38424,
+    "rev_growth": 0.101,
+    "debt_to_equity": 138.068
+  },
+  "market_stats": {
+    "ticker": "CSX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0197,
+    "short_ratio": 2.67,
+    "putcall_oi_ratio": 0.664509448615066,
+    "avg_volume": 12844153.0,
+    "beta": 1.211
+  },
+  "momentum": {
+    "ticker": "CSX",
+    "asof": "2026-08-12",
+    "ret_1m": 0.3305306922667173,
+    "ret_3m": 12.819527948939967,
+    "ret_6m": 23.23712104850111,
+    "ret_12m": 44.17391947925795,
+    "rsi14": 30.123979060621693,
+    "pct_vs_200dma": 20.049025000361453,
+    "score": 65.0,
+    "components_json": "{\"trend\": 78.48656249093551, \"rsi\": 30.123979060621693, \"vs_200dma\": 90.0980500007229, \"short_squeeze\": 9.85, \"options_skew\": 55.7272197773751}",
+    "thesis": null
+  }
+}

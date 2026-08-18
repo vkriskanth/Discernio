@@ -1,0 +1,71 @@
+{
+  "ticker": "NCLH",
+  "stock": {
+    "ticker": "NCLH",
+    "name": "Norwegian Cruise Line Hlgs Ltd.",
+    "sector": "Consumer Cyclical",
+    "industry": "Travel Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.33,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 8.32,
+      "pct_of_portfolio": 0.31,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 2.16,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NCLH",
+    "asof": "2026-08-12",
+    "market_cap": 8701609984.0,
+    "pe": 11.484849,
+    "forward_pe": 11.0844,
+    "ev_ebitda": 9.385,
+    "fcf_yield": -0.19310234716215016,
+    "roe": 0.3673,
+    "gross_margin": 0.42457,
+    "op_margin": 0.14042,
+    "rev_growth": 0.049,
+    "debt_to_equity": 621.051
+  },
+  "market_stats": {
+    "ticker": "NCLH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2074,
+    "short_ratio": 5.7,
+    "putcall_oi_ratio": 0.36041151959880524,
+    "avg_volume": 18334287.0,
+    "beta": 1.903
+  },
+  "momentum": {
+    "ticker": "NCLH",
+    "asof": "2026-08-12",
+    "ret_1m": -3.0061619321422928,
+    "ret_3m": 17.96875,
+    "ret_6m": -19.885397165288033,
+    "ret_12m": -20.459332641768736,
+    "rsi14": 50.91211138159126,
+    "pct_vs_200dma": -6.203839831631619,
+    "score": 51.1,
+    "components_json": "{\"trend\": 41.241272793706095, \"rsi\": 50.91211138159126, \"vs_200dma\": 37.59232033673676, \"short_squeeze\": 100.0, \"options_skew\": 76.01055164275968}",
+    "thesis": null
+  }
+}

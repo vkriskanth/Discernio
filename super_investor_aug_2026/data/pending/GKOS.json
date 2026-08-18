@@ -1,0 +1,55 @@
+{
+  "ticker": "GKOS",
+  "stock": {
+    "ticker": "GKOS",
+    "name": "Glaukos Corporation",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GKOS",
+    "asof": "2026-08-12",
+    "market_cap": 10739500032.0,
+    "pe": null,
+    "forward_pe": 362.73532,
+    "ev_ebitda": -284.979,
+    "fcf_yield": 0.0014391964201262363,
+    "roe": -0.25981,
+    "gross_margin": 0.79121,
+    "op_margin": -0.08495,
+    "rev_growth": 0.495,
+    "debt_to_equity": 15.766
+  },
+  "market_stats": {
+    "ticker": "GKOS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.074499995,
+    "short_ratio": 4.07,
+    "putcall_oi_ratio": 3.019047619047619,
+    "avg_volume": 1025638.0,
+    "beta": 0.762
+  },
+  "momentum": {
+    "ticker": "GKOS",
+    "asof": "2026-08-12",
+    "ret_1m": 20.455885984163878,
+    "ret_3m": 34.669253215664455,
+    "ret_6m": 62.4657139609484,
+    "ret_12m": 111.02620270150014,
+    "rsi14": 89.10264204200041,
+    "pct_vs_200dma": 51.736650493190425,
+    "score": 82.1,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 89.10264204200041, \"vs_200dma\": 100.0, \"short_squeeze\": 37.2499975, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

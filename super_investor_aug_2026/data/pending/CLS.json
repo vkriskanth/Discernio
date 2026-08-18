@@ -1,0 +1,55 @@
+{
+  "ticker": "CLS",
+  "stock": {
+    "ticker": "CLS",
+    "name": "Celestica, Inc.",
+    "sector": "Technology",
+    "industry": "Electronic Components"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CLS",
+    "asof": "2026-08-12",
+    "market_cap": 41627389952.0,
+    "pe": 38.651638,
+    "forward_pe": 16.88436,
+    "ev_ebitda": 23.137,
+    "fcf_yield": 0.01751430990126181,
+    "roe": 0.52691,
+    "gross_margin": 0.11951999,
+    "op_margin": 0.098179996,
+    "rev_growth": 0.624,
+    "debt_to_equity": 39.571
+  },
+  "market_stats": {
+    "ticker": "CLS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0287,
+    "short_ratio": 1.32,
+    "putcall_oi_ratio": 0.43801238079304,
+    "avg_volume": 2397559.0,
+    "beta": 1.516
+  },
+  "momentum": {
+    "ticker": "CLS",
+    "asof": "2026-08-12",
+    "ret_1m": -2.9156877935790027,
+    "ret_3m": -10.452590514594872,
+    "ret_6m": 12.43245374937132,
+    "ret_12m": 63.71944830306013,
+    "rsi14": 50.04027261358369,
+    "pct_vs_200dma": 1.6160219669712594,
+    "score": 59.8,
+    "components_json": "{\"trend\": 76.08173829165699, \"rsi\": 50.04027261358369, \"vs_200dma\": 53.23204393394252, \"short_squeeze\": 14.350000000000001, \"options_skew\": 70.83457420110423}",
+    "thesis": null
+  }
+}

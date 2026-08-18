@@ -1,0 +1,55 @@
+{
+  "ticker": "COPX",
+  "stock": {
+    "ticker": "COPX",
+    "name": "Global X Copper Miners ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "COPX",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 19.217655,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "COPX",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 1.0375751053717155,
+    "avg_volume": 3370724.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "COPX",
+    "asof": "2026-08-12",
+    "ret_1m": 12.766762279622723,
+    "ret_3m": -1.8710373993262475,
+    "ret_6m": 0.9539347160689715,
+    "ret_12m": 100.35201584734259,
+    "rsi14": 76.53056775868096,
+    "pct_vs_200dma": 14.315631255381312,
+    "score": 70.2,
+    "components_json": "{\"trend\": 89.86567553395986, \"rsi\": 76.53056775868096, \"vs_200dma\": 78.63126251076262, \"short_squeeze\": 0.0, \"options_skew\": 30.843740471706578}",
+    "thesis": null
+  }
+}

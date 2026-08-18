@@ -1,0 +1,55 @@
+{
+  "ticker": "GTN",
+  "stock": {
+    "ticker": "GTN",
+    "name": "Gray Media, Inc.",
+    "sector": "Communication Services",
+    "industry": "Broadcasting"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "add",
+      "share_change_pct": 34.64,
+      "pct_of_portfolio": 1.56,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GTN",
+    "asof": "2026-08-12",
+    "market_cap": 491111904.0,
+    "pe": null,
+    "forward_pe": -6.812571,
+    "ev_ebitda": 9.852,
+    "fcf_yield": 0.31586485836840966,
+    "roe": -0.00935,
+    "gross_margin": 0.26048002,
+    "op_margin": 0.18594,
+    "rev_growth": 0.087,
+    "debt_to_equity": 215.799
+  },
+  "market_stats": {
+    "ticker": "GTN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0,
+    "short_ratio": 0.0,
+    "putcall_oi_ratio": 0.9702380952380952,
+    "avg_volume": 1378850.0,
+    "beta": 0.958
+  },
+  "momentum": {
+    "ticker": "GTN",
+    "asof": "2026-08-12",
+    "ret_1m": 27.188331579660318,
+    "ret_3m": 10.744253455855791,
+    "ret_6m": 15.212106532980663,
+    "ret_12m": 15.903681808568093,
+    "rsi14": 62.39016189843281,
+    "pct_vs_200dma": 6.589989426980303,
+    "score": 54.3,
+    "components_json": "{\"trend\": 64.14838072007817, \"rsi\": 62.39016189843281, \"vs_200dma\": 63.179978853960606, \"short_squeeze\": 0.0, \"options_skew\": 35.33511904761905}",
+    "thesis": null
+  }
+}

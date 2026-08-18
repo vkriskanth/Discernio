@@ -1,0 +1,55 @@
+{
+  "ticker": "RNG",
+  "stock": {
+    "ticker": "RNG",
+    "name": "Ringcentral, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RNG",
+    "asof": "2026-08-12",
+    "market_cap": 5147703808.0,
+    "pe": 49.31568,
+    "forward_pe": 11.210515,
+    "ev_ebitda": 15.802,
+    "fcf_yield": 0.12423140877028487,
+    "roe": null,
+    "gross_margin": 0.71861,
+    "op_margin": 0.08796,
+    "rev_growth": 0.059,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "RNG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.17719999,
+    "short_ratio": 3.26,
+    "putcall_oi_ratio": 1.068252974326863,
+    "avg_volume": 1933162.0,
+    "beta": 1.117
+  },
+  "momentum": {
+    "ticker": "RNG",
+    "asof": "2026-08-12",
+    "ret_1m": 47.54442281906957,
+    "ret_3m": 35.26974446091757,
+    "ret_6m": 128.76045030163058,
+    "ret_12m": 112.34185884181275,
+    "rsi14": 81.5958743406031,
+    "pct_vs_200dma": 69.86906813755765,
+    "score": 89.0,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 81.5958743406031, \"vs_200dma\": 100.0, \"short_squeeze\": 88.599995, \"options_skew\": 28.797526612398244}",
+    "thesis": null
+  }
+}

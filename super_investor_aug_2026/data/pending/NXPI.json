@@ -1,0 +1,63 @@
+{
+  "ticker": "NXPI",
+  "stock": {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors N.V.",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.71,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 0.34,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NXPI",
+    "asof": "2026-08-12",
+    "market_cap": 59417444352.0,
+    "pe": 46.938248,
+    "forward_pe": 13.02175,
+    "ev_ebitda": 13.363,
+    "fcf_yield": 0.05983091502454259,
+    "roe": 0.27921,
+    "gross_margin": 0.56102,
+    "op_margin": 0.30406,
+    "rev_growth": 0.195,
+    "debt_to_equity": 93.325
+  },
+  "market_stats": {
+    "ticker": "NXPI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0392,
+    "short_ratio": 2.04,
+    "putcall_oi_ratio": 1.0444246009599285,
+    "avg_volume": 4232133.0,
+    "beta": 1.825
+  },
+  "momentum": {
+    "ticker": "NXPI",
+    "asof": "2026-08-12",
+    "ret_1m": -17.17687509971133,
+    "ret_3m": -19.82207335304803,
+    "ret_6m": 0.2163134472778383,
+    "ret_12m": 16.635244834435483,
+    "rsi14": 28.99822234202601,
+    "pct_vs_200dma": -2.2911041160328716,
+    "score": 41.0,
+    "components_json": "{\"trend\": 50.772369962043136, \"rsi\": 28.99822234202601, \"vs_200dma\": 45.417791767934254, \"short_squeeze\": 19.6, \"options_skew\": 30.38687911597277}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "SRRK",
+  "stock": {
+    "ticker": "SRRK",
+    "name": "Scholar Rock Holding Corporatio",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 0.35,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SRRK",
+    "asof": "2026-08-12",
+    "market_cap": 6661045760.0,
+    "pe": null,
+    "forward_pe": -23.632679,
+    "ev_ebitda": -14.95,
+    "fcf_yield": -0.023100857964981163,
+    "roe": -1.67773,
+    "gross_margin": 0.0,
+    "op_margin": 0.0,
+    "rev_growth": null,
+    "debt_to_equity": 80.318
+  },
+  "market_stats": {
+    "ticker": "SRRK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1814,
+    "short_ratio": 15.63,
+    "putcall_oi_ratio": 0.13336388634280477,
+    "avg_volume": 1370696.0,
+    "beta": 0.666
+  },
+  "momentum": {
+    "ticker": "SRRK",
+    "asof": "2026-08-12",
+    "ret_1m": 0.13015934624966974,
+    "ret_3m": 9.473470171804067,
+    "ret_6m": 13.035262728869835,
+    "ret_12m": 71.16973948260288,
+    "rsi14": 62.78525129569127,
+    "pct_vs_200dma": 18.263207656224733,
+    "score": 83.3,
+    "components_json": "{\"trend\": 85.22051566324332, \"rsi\": 62.78525129569127, \"vs_200dma\": 86.52641531244947, \"short_squeeze\": 90.7, \"options_skew\": 91.15462878093493}",
+    "thesis": null
+  }
+}

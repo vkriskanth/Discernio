@@ -1,0 +1,71 @@
+{
+  "ticker": "SGOV",
+  "stock": {
+    "ticker": "SGOV",
+    "name": "iShares 0-3 Month Treasury Bond",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLC",
+      "manager_name": "Josh Tarasoff - Greenlea Lane Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 11.2,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "add",
+      "share_change_pct": 180.03,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 834.0,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SGOV",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "SGOV",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.4623145400593472,
+    "avg_volume": 20505158.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "SGOV",
+    "asof": "2026-08-12",
+    "ret_1m": 0.30077972202009473,
+    "ret_3m": 0.9163101833868925,
+    "ret_6m": 1.8270307996056667,
+    "ret_12m": 3.842495706498439,
+    "rsi14": null,
+    "pct_vs_200dma": 1.4440253011464455,
+    "score": 48.6,
+    "components_json": "{\"trend\": 52.360000577497146, \"rsi\": 50.0, \"vs_200dma\": 52.88805060229289, \"short_squeeze\": 0.0, \"options_skew\": 69.21362017804155}",
+    "thesis": null
+  }
+}

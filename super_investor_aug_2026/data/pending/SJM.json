@@ -1,0 +1,63 @@
+{
+  "ticker": "SJM",
+  "stock": {
+    "ticker": "SJM",
+    "name": "J.M. Smucker Co",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 15.63,
+      "pct_of_portfolio": 0.27,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 6.95,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SJM",
+    "asof": "2026-08-12",
+    "market_cap": 12692081664.0,
+    "pe": null,
+    "forward_pe": 11.047087,
+    "ev_ebitda": 10.17,
+    "fcf_yield": 0.0792442881023051,
+    "roe": -0.02386,
+    "gross_margin": 0.34257,
+    "op_margin": 0.18456,
+    "rev_growth": 0.058,
+    "debt_to_equity": 128.609
+  },
+  "market_stats": {
+    "ticker": "SJM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.054,
+    "short_ratio": 3.59,
+    "putcall_oi_ratio": 0.5319841823679926,
+    "avg_volume": 1626309.0,
+    "beta": 0.25
+  },
+  "momentum": {
+    "ticker": "SJM",
+    "asof": "2026-08-12",
+    "ret_1m": 9.181146693606435,
+    "ret_3m": 19.723578680999232,
+    "ret_6m": 10.916844246402313,
+    "ret_12m": 11.569999465485026,
+    "rsi14": 55.66973046266596,
+    "pct_vs_200dma": 14.409567371063247,
+    "score": 62.7,
+    "components_json": "{\"trend\": 63.820126664414474, \"rsi\": 55.66973046266596, \"vs_200dma\": 78.8191347421265, \"short_squeeze\": 27.0, \"options_skew\": 64.5666550360549}",
+    "thesis": null
+  }
+}

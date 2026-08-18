@@ -1,0 +1,55 @@
+{
+  "ticker": "TEM",
+  "stock": {
+    "ticker": "TEM",
+    "name": "Tempus AI, Inc.",
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 15.72,
+      "pct_of_portfolio": 0.1,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TEM",
+    "asof": "2026-08-12",
+    "market_cap": 9849932800.0,
+    "pe": null,
+    "forward_pe": -3591.4473,
+    "ev_ebitda": -52.75,
+    "fcf_yield": -0.01006506846422343,
+    "roe": -0.67442,
+    "gross_margin": 0.63979,
+    "op_margin": -0.19847,
+    "rev_growth": 0.216,
+    "debt_to_equity": 324.58
+  },
+  "market_stats": {
+    "ticker": "TEM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.3327,
+    "short_ratio": 6.25,
+    "putcall_oi_ratio": 0.3884536186027824,
+    "avg_volume": 6100806.0,
+    "beta": 3.578
+  },
+  "momentum": {
+    "ticker": "TEM",
+    "asof": "2026-08-12",
+    "ret_1m": -7.243906822294011,
+    "ret_3m": 15.910537347429376,
+    "ret_6m": -2.6127467273850735,
+    "ret_12m": -10.52285688587984,
+    "rsi14": 68.27465813209193,
+    "pct_vs_200dma": -5.9133537522894075,
+    "score": 57.1,
+    "components_json": "{\"trend\": 49.78019443166136, \"rsi\": 68.27465813209193, \"vs_200dma\": 38.17329249542119, \"short_squeeze\": 100.0, \"options_skew\": 74.1401436391944}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "ZD",
+  "stock": {
+    "ticker": "ZD",
+    "name": "Ziff Davis, Inc.",
+    "sector": "Communication Services",
+    "industry": "Advertising Agencies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.75,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ZD",
+    "asof": "2026-08-12",
+    "market_cap": 1889910912.0,
+    "pe": null,
+    "forward_pe": 9.573666,
+    "ev_ebitda": 2.82,
+    "fcf_yield": 0.2749914002295575,
+    "roe": -0.01456,
+    "gross_margin": 0.85010004,
+    "op_margin": 0.04156,
+    "rev_growth": -0.027,
+    "debt_to_equity": 39.98
+  },
+  "market_stats": {
+    "ticker": "ZD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.22770001,
+    "short_ratio": 8.83,
+    "putcall_oi_ratio": 0.7211796246648794,
+    "avg_volume": 641412.0,
+    "beta": 1.018
+  },
+  "momentum": {
+    "ticker": "ZD",
+    "asof": "2026-08-12",
+    "ret_1m": 3.6984449371621375,
+    "ret_3m": 26.564296671929966,
+    "ret_6m": 69.70588210978983,
+    "ret_12m": 76.87963546806822,
+    "rsi14": 51.09875582514412,
+    "pct_vs_200dma": 33.937594607157266,
+    "score": 87.9,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 51.09875582514412, \"vs_200dma\": 100.0, \"short_squeeze\": 100.0, \"options_skew\": 51.94731903485255}",
+    "thesis": null
+  }
+}

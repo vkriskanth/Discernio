@@ -1,0 +1,79 @@
+{
+  "ticker": "GLD",
+  "stock": {
+    "ticker": "GLD",
+    "name": "SPDR Gold Shares",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "tp",
+      "manager_name": "Daniel Loeb - Third Point",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.96,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 1.42,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GLD",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "GLD",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.7434634791290036,
+    "avg_volume": 7369154.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "GLD",
+    "asof": "2026-08-12",
+    "ret_1m": 8.604062893027088,
+    "ret_3m": -6.643101594854173,
+    "ret_6m": -12.592989021921507,
+    "ret_12m": 30.990124588475076,
+    "rsi14": 78.3567705793297,
+    "pct_vs_200dma": -1.9169087729788648,
+    "score": 51.0,
+    "components_json": "{\"trend\": 56.62522265035733, \"rsi\": 78.3567705793297, \"vs_200dma\": 46.16618245404227, \"short_squeeze\": 0.0, \"options_skew\": 50.46098594209546}",
+    "thesis": null
+  }
+}

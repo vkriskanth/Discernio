@@ -1,0 +1,55 @@
+{
+  "ticker": "UAA",
+  "stock": {
+    "ticker": "UAA",
+    "name": "Under Armour, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Manufacturing"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FFH",
+      "manager_name": "Prem Watsa - Fairfax Financial Holdings",
+      "action": "add",
+      "share_change_pct": 2.48,
+      "pct_of_portfolio": 0.32,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "UAA",
+    "asof": "2026-08-12",
+    "market_cap": 2274443520.0,
+    "pe": null,
+    "forward_pe": 26.969898,
+    "ev_ebitda": 13.471,
+    "fcf_yield": 0.06417729467294048,
+    "roe": -0.29825002,
+    "gross_margin": 0.47044,
+    "op_margin": 0.04772,
+    "rev_growth": -0.032,
+    "debt_to_equity": 96.356
+  },
+  "market_stats": {
+    "ticker": "UAA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.3156,
+    "short_ratio": 6.05,
+    "putcall_oi_ratio": 1.522099447513812,
+    "avg_volume": 8721629.0,
+    "beta": 1.651
+  },
+  "momentum": {
+    "ticker": "UAA",
+    "asof": "2026-08-12",
+    "ret_1m": -21.70370596426504,
+    "ret_3m": -12.788780572363546,
+    "ret_6m": -32.760817332848404,
+    "ret_12m": -2.8492685326835465,
+    "rsi14": 22.39089568649706,
+    "pct_vs_200dma": -10.065135295625483,
+    "score": 34.9,
+    "components_json": "{\"trend\": 35.195413215363, \"rsi\": 22.39089568649706, \"vs_200dma\": 29.869729408749034, \"short_squeeze\": 100.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

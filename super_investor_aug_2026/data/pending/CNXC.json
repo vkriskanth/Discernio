@@ -1,0 +1,55 @@
+{
+  "ticker": "CNXC",
+  "stock": {
+    "ticker": "CNXC",
+    "name": "Concentrix Corporation",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 15.99,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CNXC",
+    "asof": "2026-08-12",
+    "market_cap": 1520577280.0,
+    "pe": null,
+    "forward_pe": 2.0958788,
+    "ev_ebitda": 5.348,
+    "fcf_yield": 0.5100377035753159,
+    "roe": -0.37662,
+    "gross_margin": 0.3447,
+    "op_margin": 0.07893,
+    "rev_growth": 0.019,
+    "debt_to_equity": 203.764
+  },
+  "market_stats": {
+    "ticker": "CNXC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.19860001,
+    "short_ratio": 5.65,
+    "putcall_oi_ratio": 0.7724867724867724,
+    "avg_volume": 1705933.0,
+    "beta": 0.425
+  },
+  "momentum": {
+    "ticker": "CNXC",
+    "asof": "2026-08-12",
+    "ret_1m": 6.197346508371826,
+    "ret_3m": 9.304429184957863,
+    "ret_6m": -35.391272096054394,
+    "ret_12m": -43.827186658308904,
+    "rsi14": 64.10019137184739,
+    "pct_vs_200dma": -19.751492119227564,
+    "score": 36.9,
+    "components_json": "{\"trend\": 24.64307246334748, \"rsi\": 64.10019137184739, \"vs_200dma\": 10.497015761544873, \"short_squeeze\": 99.300005, \"options_skew\": 48.52513227513228}",
+    "thesis": null
+  }
+}

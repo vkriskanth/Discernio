@@ -1,0 +1,95 @@
+{
+  "ticker": "COP",
+  "stock": {
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 2.04,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 4.31,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 1.55,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 4.66,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 0.66,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 0.11,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "COP",
+    "asof": "2026-08-12",
+    "market_cap": 151176298496.0,
+    "pe": 16.645502,
+    "forward_pe": 13.479396,
+    "ev_ebitda": 6.231,
+    "fcf_yield": 0.050876858214672506,
+    "roe": 0.1418,
+    "gross_margin": 0.47574002,
+    "op_margin": 0.3151,
+    "rev_growth": 0.355,
+    "debt_to_equity": 35.639
+  },
+  "market_stats": {
+    "ticker": "COP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0154,
+    "short_ratio": 2.88,
+    "putcall_oi_ratio": 0.6296888888888889,
+    "avg_volume": 7052283.0,
+    "beta": 0.123
+  },
+  "momentum": {
+    "ticker": "COP",
+    "asof": "2026-08-12",
+    "ret_1m": 12.52345951807352,
+    "ret_3m": 6.795617477041427,
+    "ret_6m": 18.88594248169948,
+    "ret_12m": 39.048789190776304,
+    "rsi14": 59.806625504136484,
+    "pct_vs_200dma": 16.37719285227679,
+    "score": 65.6,
+    "components_json": "{\"trend\": 73.3239836639328, \"rsi\": 59.806625504136484, \"vs_200dma\": 82.75438570455358, \"short_squeeze\": 7.7, \"options_skew\": 58.049751111111114}",
+    "thesis": null
+  }
+}

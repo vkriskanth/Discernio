@@ -1,0 +1,55 @@
+{
+  "ticker": "VONE",
+  "stock": {
+    "ticker": "VONE",
+    "name": "Vanguard Russell 1000 ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VONE",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 27.449486,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VONE",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 89843.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VONE",
+    "asof": "2026-08-12",
+    "ret_1m": 2.8466517670834524,
+    "ret_3m": 6.262403109391901,
+    "ret_6m": 14.648231003650691,
+    "ret_12m": 23.160988633340462,
+    "rsi14": 72.10150982041418,
+    "pct_vs_200dma": 10.357576240403631,
+    "score": 59.7,
+    "components_json": "{\"trend\": 65.53758568724896, \"rsi\": 72.10150982041418, \"vs_200dma\": 70.71515248080726, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

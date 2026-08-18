@@ -1,0 +1,63 @@
+{
+  "ticker": "MBC",
+  "stock": {
+    "ticker": "MBC",
+    "name": "MasterBrand, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Furnishings, Fixtures & Appliances"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 301.93,
+      "pct_of_portfolio": 0.35,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.23,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MBC",
+    "asof": "2026-08-12",
+    "market_cap": 1842606464.0,
+    "pe": null,
+    "forward_pe": 35.509808,
+    "ev_ebitda": 19.942,
+    "fcf_yield": -0.01282829538581278,
+    "roe": -0.0582,
+    "gross_margin": 0.26902,
+    "op_margin": 0.02429,
+    "rev_growth": 0.115,
+    "debt_to_equity": 85.833
+  },
+  "market_stats": {
+    "ticker": "MBC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.089899994,
+    "short_ratio": 8.42,
+    "putcall_oi_ratio": 0.5,
+    "avg_volume": 3050401.0,
+    "beta": 1.436
+  },
+  "momentum": {
+    "ticker": "MBC",
+    "asof": "2026-08-12",
+    "ret_1m": 2.2982054030567634,
+    "ret_3m": 27.089139528732133,
+    "ret_6m": -33.97250215991365,
+    "ret_12m": -22.3404255319149,
+    "rsi14": 58.362988116064535,
+    "pct_vs_200dma": -8.031959291497481,
+    "score": 44.0,
+    "components_json": "{\"trend\": 38.998820997879584, \"rsi\": 58.362988116064535, \"vs_200dma\": 33.93608141700504, \"short_squeeze\": 44.949997, \"options_skew\": 66.7}",
+    "thesis": null
+  }
+}

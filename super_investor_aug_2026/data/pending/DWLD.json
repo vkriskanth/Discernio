@@ -1,0 +1,55 @@
+{
+  "ticker": "DWLD",
+  "stock": {
+    "ticker": "DWLD",
+    "name": "Davis Select Worldwide ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 0.95,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DWLD",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 14.512245,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "DWLD",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": null,
+    "avg_volume": 19719.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "DWLD",
+    "asof": "2026-08-12",
+    "ret_1m": 1.935281841551717,
+    "ret_3m": 0.46733927164757105,
+    "ret_6m": 4.247666590003196,
+    "ret_12m": 16.899866882773807,
+    "rsi14": 56.00515244421734,
+    "pct_vs_200dma": 4.019674330069578,
+    "score": 51.2,
+    "components_json": "{\"trend\": 58.17444851160475, \"rsi\": 56.00515244421734, \"vs_200dma\": 58.039348660139154, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

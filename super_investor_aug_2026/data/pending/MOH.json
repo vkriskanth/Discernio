@@ -1,0 +1,71 @@
+{
+  "ticker": "MOH",
+  "stock": {
+    "ticker": "MOH",
+    "name": "Molina Healthcare Inc",
+    "sector": "Healthcare",
+    "industry": "Healthcare Plans"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SAM",
+      "manager_name": "Michael Burry - Scion Asset Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 43.49,
+      "quarter": "Q3 2025"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "add",
+      "share_change_pct": 1.38,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MOH",
+    "asof": "2026-08-12",
+    "market_cap": 10519866368.0,
+    "pe": 1259.5625,
+    "forward_pe": 20.691475,
+    "ev_ebitda": 13.315,
+    "fcf_yield": 0.06656453223874259,
+    "roe": -0.0016,
+    "gross_margin": 0.08427,
+    "op_margin": 0.01398,
+    "rev_growth": -0.057,
+    "debt_to_equity": 94.773
+  },
+  "market_stats": {
+    "ticker": "MOH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0654,
+    "short_ratio": 1.91,
+    "putcall_oi_ratio": 1.4147286821705427,
+    "avg_volume": 1153222.0,
+    "beta": 0.754
+  },
+  "momentum": {
+    "ticker": "MOH",
+    "asof": "2026-08-12",
+    "ret_1m": -15.747637717584295,
+    "ret_3m": 6.232384553339543,
+    "ret_6m": 62.257836065765225,
+    "ret_12m": 32.301892901216235,
+    "rsi14": 53.70159624583907,
+    "pct_vs_200dma": 17.704997850977588,
+    "score": 66.6,
+    "components_json": "{\"trend\": 83.46782334621793, \"rsi\": 53.70159624583907, \"vs_200dma\": 85.40999570195518, \"short_squeeze\": 32.7, \"options_skew\": 5.687596899224801}",
+    "thesis": null
+  }
+}

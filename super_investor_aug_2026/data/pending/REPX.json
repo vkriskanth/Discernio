@@ -1,0 +1,55 @@
+{
+  "ticker": "REPX",
+  "stock": {
+    "ticker": "REPX",
+    "name": "Riley Exploration Permian, Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 134.02,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "REPX",
+    "asof": "2026-08-12",
+    "market_cap": 783766144.0,
+    "pe": 6.439394,
+    "forward_pe": 4.4554763,
+    "ev_ebitda": 3.551,
+    "fcf_yield": 0.17297825000208225,
+    "roe": 0.19941,
+    "gross_margin": 0.70959,
+    "op_margin": 0.52597,
+    "rev_growth": 0.942,
+    "debt_to_equity": 42.235
+  },
+  "market_stats": {
+    "ticker": "REPX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.036199998,
+    "short_ratio": 3.32,
+    "putcall_oi_ratio": 0.1191553544494721,
+    "avg_volume": 266869.0,
+    "beta": 0.938
+  },
+  "momentum": {
+    "ticker": "REPX",
+    "asof": "2026-08-12",
+    "ret_1m": 9.826005417310647,
+    "ret_3m": 6.521285187408399,
+    "ret_6m": 33.31292268588402,
+    "ret_12m": 47.49830475220796,
+    "rsi14": 56.68099197117201,
+    "pct_vs_200dma": 17.559946209780207,
+    "score": 73.2,
+    "components_json": "{\"trend\": 80.94958426287091, \"rsi\": 56.68099197117201, \"vs_200dma\": 85.11989241956041, \"short_squeeze\": 18.099998999999997, \"options_skew\": 92.10233785822021}",
+    "thesis": null
+  }
+}

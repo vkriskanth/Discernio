@@ -1,0 +1,55 @@
+{
+  "ticker": "CBOE",
+  "stock": {
+    "ticker": "CBOE",
+    "name": "Cboe Global Markets, Inc.",
+    "sector": "Financial Services",
+    "industry": "Financial Data & Stock Exchanges"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.54,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CBOE",
+    "asof": "2026-08-12",
+    "market_cap": 29925228544.0,
+    "pe": 22.317368,
+    "forward_pe": 18.792192,
+    "ev_ebitda": 14.892,
+    "fcf_yield": 0.022664822191842172,
+    "roe": 0.26297,
+    "gross_margin": 0.54078996,
+    "op_margin": 0.34634,
+    "rev_growth": 0.229,
+    "debt_to_equity": 28.09
+  },
+  "market_stats": {
+    "ticker": "CBOE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0298,
+    "short_ratio": 2.87,
+    "putcall_oi_ratio": 1.096896551724138,
+    "avg_volume": 1453088.0,
+    "beta": 0.415
+  },
+  "momentum": {
+    "ticker": "CBOE",
+    "asof": "2026-08-12",
+    "ret_1m": 7.380992556719002,
+    "ret_3m": -14.890641975792496,
+    "ret_6m": 4.960244828820848,
+    "ret_12m": 16.458903635208966,
+    "rsi14": 56.62583186318013,
+    "pct_vs_200dma": 2.9239149213738047,
+    "score": 48.1,
+    "components_json": "{\"trend\": 53.604442309992095, \"rsi\": 56.62583186318013, \"vs_200dma\": 55.84782984274761, \"short_squeeze\": 14.9, \"options_skew\": 26.886999999999993}",
+    "thesis": null
+  }
+}

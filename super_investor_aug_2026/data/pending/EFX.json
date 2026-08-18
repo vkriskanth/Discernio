@@ -1,0 +1,71 @@
+{
+  "ticker": "EFX",
+  "stock": {
+    "ticker": "EFX",
+    "name": "Equifax, Inc.",
+    "sector": "Industrials",
+    "industry": "Consulting Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.27,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "add",
+      "share_change_pct": 22.36,
+      "pct_of_portfolio": 0.31,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LT",
+      "manager_name": "Lindsell Train",
+      "action": "add",
+      "share_change_pct": 2.61,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EFX",
+    "asof": "2026-08-08",
+    "market_cap": 21448042496.0,
+    "pe": 32.028072,
+    "forward_pe": 17.975458,
+    "ev_ebitda": 13.971,
+    "fcf_yield": 0.044178272780684445,
+    "roe": 0.14275,
+    "gross_margin": 0.55542,
+    "op_margin": 0.17305,
+    "rev_growth": 0.106,
+    "debt_to_equity": 120.956
+  },
+  "market_stats": {
+    "ticker": "EFX",
+    "asof": "2026-08-08",
+    "short_pct_float": 0.0654,
+    "short_ratio": 3.77,
+    "putcall_oi_ratio": 0.2403718459495352,
+    "avg_volume": 1744172.0,
+    "beta": 1.296
+  },
+  "momentum": {
+    "ticker": "EFX",
+    "asof": "2026-08-08",
+    "ret_1m": 9.540377743372929,
+    "ret_3m": 4.309857570871278,
+    "ret_6m": -3.835449233074928,
+    "ret_12m": -23.31484164341986,
+    "rsi14": 52.025477834010246,
+    "pct_vs_200dma": -3.8161568589800687,
+    "score": 46.4,
+    "components_json": "{\"trend\": 40.81638584397096, \"rsi\": 52.025477834010246, \"vs_200dma\": 42.36768628203986, \"short_squeeze\": 32.7, \"options_skew\": 84.017197875166}",
+    "thesis": null
+  }
+}

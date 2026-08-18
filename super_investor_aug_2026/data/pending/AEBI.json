@@ -1,0 +1,55 @@
+{
+  "ticker": "AEBI",
+  "stock": {
+    "ticker": "AEBI",
+    "name": "Aebi Schmidt Holding AG",
+    "sector": "Industrials",
+    "industry": "Farm & Heavy Construction Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 5.07,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AEBI",
+    "asof": "2026-08-12",
+    "market_cap": 1012230080.0,
+    "pe": 118.72728,
+    "forward_pe": 9.674074,
+    "ev_ebitda": 13.458,
+    "fcf_yield": -0.0900464763900318,
+    "roe": 0.01402,
+    "gross_margin": 0.19511999,
+    "op_margin": 0.03546,
+    "rev_growth": 0.828,
+    "debt_to_equity": 97.218
+  },
+  "market_stats": {
+    "ticker": "AEBI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.17870001,
+    "short_ratio": 5.46,
+    "putcall_oi_ratio": null,
+    "avg_volume": 281846.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "AEBI",
+    "asof": "2026-08-12",
+    "ret_1m": 7.131008513717618,
+    "ret_3m": 12.579284803045287,
+    "ret_6m": -15.629102910731996,
+    "ret_12m": 17.12659311716669,
+    "rsi14": 43.31394841117474,
+    "pct_vs_200dma": 3.1106485361778624,
+    "score": 56.9,
+    "components_json": "{\"trend\": 55.93569181456066, \"rsi\": 43.31394841117474, \"vs_200dma\": 56.221297072355725, \"short_squeeze\": 89.350005, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

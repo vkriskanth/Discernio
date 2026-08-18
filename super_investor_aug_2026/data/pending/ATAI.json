@@ -1,0 +1,55 @@
+{
+  "ticker": "ATAI",
+  "stock": {
+    "ticker": "ATAI",
+    "name": "AtaiBeckley Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "RC",
+      "manager_name": "Ruane Cunniff LP",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ATAI",
+    "asof": "2026-08-12",
+    "market_cap": 2681351680.0,
+    "pe": null,
+    "forward_pe": -15.866746,
+    "ev_ebitda": -19.926,
+    "fcf_yield": -0.020709190970428764,
+    "roe": -3.77996,
+    "gross_margin": 0.0,
+    "op_margin": -32.39099,
+    "rev_growth": -0.387,
+    "debt_to_equity": 2.585
+  },
+  "market_stats": {
+    "ticker": "ATAI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0633,
+    "short_ratio": 1.03,
+    "putcall_oi_ratio": 0.0920863309352518,
+    "avg_volume": 11713082.0,
+    "beta": 1.553
+  },
+  "momentum": {
+    "ticker": "ATAI",
+    "asof": "2026-08-12",
+    "ret_1m": 27.336855256461014,
+    "ret_3m": 73.9758945608508,
+    "ret_6m": 87.53246672822202,
+    "ret_12m": 82.32322526870857,
+    "rsi14": 60.86954718944817,
+    "pct_vs_200dma": 61.728383315399626,
+    "score": 86.7,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 60.86954718944817, \"vs_200dma\": 100.0, \"short_squeeze\": 31.649999999999995, \"options_skew\": 93.90784172661871}",
+    "thesis": null
+  }
+}

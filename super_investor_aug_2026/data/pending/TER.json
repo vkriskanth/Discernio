@@ -1,0 +1,55 @@
+{
+  "ticker": "TER",
+  "stock": {
+    "ticker": "TER",
+    "name": "Teradyne, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment & Materials"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 4.43,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TER",
+    "asof": "2026-08-12",
+    "market_cap": 63081144320.0,
+    "pe": 55.347736,
+    "forward_pe": 34.924603,
+    "ev_ebitda": 39.287,
+    "fcf_yield": 0.006933628942766776,
+    "roe": 0.36465,
+    "gross_margin": 0.59242,
+    "op_margin": 0.33161,
+    "rev_growth": 1.039,
+    "debt_to_equity": 2.883
+  },
+  "market_stats": {
+    "ticker": "TER",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0594,
+    "short_ratio": 1.95,
+    "putcall_oi_ratio": 0.7563361493997333,
+    "avg_volume": 4266829.0,
+    "beta": 1.793
+  },
+  "momentum": {
+    "ticker": "TER",
+    "asof": "2026-08-12",
+    "ret_1m": 14.190470356704799,
+    "ret_3m": 12.57004361373264,
+    "ret_6m": 32.40055536133046,
+    "ret_12m": 286.3083645255277,
+    "rsi14": 56.7595974246976,
+    "pct_vs_200dma": 34.888784003239024,
+    "score": 81.4,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 56.7595974246976, \"vs_200dma\": 100.0, \"short_squeeze\": 29.700000000000003, \"options_skew\": 49.6023788350378}",
+    "thesis": null
+  }
+}

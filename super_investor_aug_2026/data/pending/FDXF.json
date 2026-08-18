@@ -1,0 +1,55 @@
+{
+  "ticker": "FDXF",
+  "stock": {
+    "ticker": "FDXF",
+    "name": "FedEx Freight Holding Company, ",
+    "sector": "Industrials",
+    "industry": "Integrated Freight & Logistics"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FDXF",
+    "asof": "2026-08-12",
+    "market_cap": 20841332736.0,
+    "pe": 31.8242,
+    "forward_pe": 27.822353,
+    "ev_ebitda": 27.273,
+    "fcf_yield": -0.02452458287934317,
+    "roe": 0.69093,
+    "gross_margin": 0.29278,
+    "op_margin": -0.057719998,
+    "rev_growth": 0.048,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "FDXF",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 3.34,
+    "putcall_oi_ratio": 0.5900297619047619,
+    "avg_volume": 1752439.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "FDXF",
+    "asof": "2026-08-12",
+    "ret_1m": -3.1709819260038907,
+    "ret_3m": null,
+    "ret_6m": null,
+    "ret_12m": null,
+    "rsi14": 33.558116635576326,
+    "pct_vs_200dma": null,
+    "score": 43.6,
+    "components_json": "{\"trend\": 50, \"rsi\": 33.558116635576326, \"vs_200dma\": 50, \"short_squeeze\": 0.0, \"options_skew\": 60.695014880952385}",
+    "thesis": null
+  }
+}

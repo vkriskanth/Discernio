@@ -1,0 +1,55 @@
+{
+  "ticker": "YMM",
+  "stock": {
+    "ticker": "YMM",
+    "name": "Full Truck Alliance Co. Ltd.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 64.01,
+      "pct_of_portfolio": 0.43,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "YMM",
+    "asof": "2026-08-12",
+    "market_cap": 9632686080.0,
+    "pe": 15.61017,
+    "forward_pe": 10.687305,
+    "ev_ebitda": -1.844,
+    "fcf_yield": 0.47081515522615264,
+    "roe": 0.104499996,
+    "gross_margin": 0.85010004,
+    "op_margin": 0.35317,
+    "rev_growth": 0.055,
+    "debt_to_equity": 0.062
+  },
+  "market_stats": {
+    "ticker": "YMM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0223,
+    "short_ratio": 3.02,
+    "putcall_oi_ratio": 0.9390762255596486,
+    "avg_volume": 8913616.0,
+    "beta": 0.239
+  },
+  "momentum": {
+    "ticker": "YMM",
+    "asof": "2026-08-12",
+    "ret_1m": 6.886565853140558,
+    "ret_3m": 6.090427758016159,
+    "ret_6m": -5.780155879779681,
+    "ret_12m": -16.323409072252247,
+    "rsi14": 54.545444992010694,
+    "pct_vs_200dma": -2.9633467645938327,
+    "score": 41.5,
+    "components_json": "{\"trend\": 43.56371793457004, \"rsi\": 54.545444992010694, \"vs_200dma\": 44.073306470812334, \"short_squeeze\": 11.15, \"options_skew\": 37.413615755171435}",
+    "thesis": null
+  }
+}

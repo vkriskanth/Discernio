@@ -1,0 +1,55 @@
+{
+  "ticker": "IPAR",
+  "stock": {
+    "ticker": "IPAR",
+    "name": "Interparfums, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IPAR",
+    "asof": "2026-08-12",
+    "market_cap": 3717872640.0,
+    "pe": 22.19694,
+    "forward_pe": 22.154581,
+    "ev_ebitda": 14.159,
+    "fcf_yield": 0.059046536892667735,
+    "roe": 0.19105,
+    "gross_margin": 0.58882,
+    "op_margin": 0.14351,
+    "rev_growth": 0.021,
+    "debt_to_equity": 15.12
+  },
+  "market_stats": {
+    "ticker": "IPAR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0992,
+    "short_ratio": 5.74,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 287143.0,
+    "beta": 1.146
+  },
+  "momentum": {
+    "ticker": "IPAR",
+    "asof": "2026-08-12",
+    "ret_1m": -0.16129239090322267,
+    "ret_3m": 31.464729342805043,
+    "ret_6m": 18.874190697904325,
+    "ret_12m": 5.733618995726042,
+    "rsi14": 46.94460432814497,
+    "pct_vs_200dma": 23.302477614945104,
+    "score": 68.1,
+    "components_json": "{\"trend\": 67.39512361050322, \"rsi\": 46.94460432814497, \"vs_200dma\": 96.60495522989021, \"short_squeeze\": 49.6, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "RAL",
+  "stock": {
+    "ticker": "RAL",
+    "name": "Ralliant Corporation",
+    "sector": "Technology",
+    "industry": "Electronic Components"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 12.55,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RAL",
+    "asof": "2026-08-12",
+    "market_cap": 7888632832.0,
+    "pe": null,
+    "forward_pe": 21.709213,
+    "ev_ebitda": 22.389,
+    "fcf_yield": 0.04233306621209976,
+    "roe": -0.53898996,
+    "gross_margin": 0.50952,
+    "op_margin": 0.14477,
+    "rev_growth": 0.128,
+    "debt_to_equity": 79.797
+  },
+  "market_stats": {
+    "ticker": "RAL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.080299996,
+    "short_ratio": 3.26,
+    "putcall_oi_ratio": 0.04319654427645788,
+    "avg_volume": 1736529.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "RAL",
+    "asof": "2026-08-12",
+    "ret_1m": 7.373401924834999,
+    "ret_3m": 22.68477577854444,
+    "ret_6m": 68.82364511896488,
+    "ret_12m": 62.755902215378526,
+    "rsi14": 57.15216874560538,
+    "pct_vs_200dma": 36.40023553043304,
+    "score": 87.3,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 57.15216874560538, \"vs_200dma\": 100.0, \"short_squeeze\": 40.149998, \"options_skew\": 97.16879049676027}",
+    "thesis": null
+  }
+}

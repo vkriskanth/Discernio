@@ -1,0 +1,55 @@
+{
+  "ticker": "PAX",
+  "stock": {
+    "ticker": "PAX",
+    "name": "Patria Investments Limited",
+    "sector": "Financial Services",
+    "industry": "Asset Management"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 148.11,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PAX",
+    "asof": "2026-08-12",
+    "market_cap": 1798734464.0,
+    "pe": 24.766668,
+    "forward_pe": 7.3116493,
+    "ev_ebitda": 11.293,
+    "fcf_yield": null,
+    "roe": 0.12885,
+    "gross_margin": 0.5682,
+    "op_margin": 0.22552,
+    "rev_growth": 0.349,
+    "debt_to_equity": 57.344
+  },
+  "market_stats": {
+    "ticker": "PAX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1029,
+    "short_ratio": 6.69,
+    "putcall_oi_ratio": 0.05319148936170213,
+    "avg_volume": 956661.0,
+    "beta": 0.749
+  },
+  "momentum": {
+    "ticker": "PAX",
+    "asof": "2026-08-12",
+    "ret_1m": 2.121819597141683,
+    "ret_3m": -4.824789536239981,
+    "ret_6m": -15.758541123242631,
+    "ret_12m": -14.027261469505103,
+    "rsi14": 54.0685101723811,
+    "pct_vs_200dma": -13.460553147615018,
+    "score": 44.0,
+    "components_json": "{\"trend\": 38.21409621435318, \"rsi\": 54.0685101723811, \"vs_200dma\": 23.078893704769964, \"short_squeeze\": 51.45, \"options_skew\": 96.50212765957448}",
+    "thesis": null
+  }
+}

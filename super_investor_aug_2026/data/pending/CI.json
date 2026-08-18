@@ -1,0 +1,87 @@
+{
+  "ticker": "CI",
+  "stock": {
+    "ticker": "CI",
+    "name": "Cigna Group",
+    "sector": "Healthcare",
+    "industry": "Healthcare Plans"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 196.73,
+      "pct_of_portfolio": 1.82,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 3.75,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 42.21,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 1.46,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 0.87,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CI",
+    "asof": "2026-08-12",
+    "market_cap": 72214282240.0,
+    "pe": 11.302316,
+    "forward_pe": 8.164332,
+    "ev_ebitda": 7.625,
+    "fcf_yield": 0.11050618986253322,
+    "roe": 0.16758,
+    "gross_margin": 0.091359995,
+    "op_margin": 0.03985,
+    "rev_growth": 0.067,
+    "debt_to_equity": 74.29
+  },
+  "market_stats": {
+    "ticker": "CI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0201,
+    "short_ratio": 2.87,
+    "putcall_oi_ratio": 0.5679794181674253,
+    "avg_volume": 1746082.0,
+    "beta": 0.321
+  },
+  "momentum": {
+    "ticker": "CI",
+    "asof": "2026-08-12",
+    "ret_1m": -9.287957060707097,
+    "ret_3m": -7.2766891252663335,
+    "ret_6m": -3.3061869480305317,
+    "ret_12m": 1.5273006511441478,
+    "rsi14": 42.4145068180862,
+    "pct_vs_200dma": -0.5964584939429751,
+    "score": 44.8,
+    "components_json": "{\"trend\": 47.4360574384686, \"rsi\": 42.4145068180862, \"vs_200dma\": 48.80708301211405, \"short_squeeze\": 10.049999999999999, \"options_skew\": 62.16577280823274}",
+    "thesis": null
+  }
+}

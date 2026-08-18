@@ -1,0 +1,55 @@
+{
+  "ticker": "SHOE",
+  "stock": {
+    "ticker": "SHOE",
+    "name": "Shoe Station Group, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.13,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SHOE",
+    "asof": "2026-08-12",
+    "market_cap": 418401664.0,
+    "pe": 11.414815,
+    "forward_pe": 8.35987,
+    "ev_ebitda": 6.975,
+    "fcf_yield": 0.11486599632643908,
+    "roe": 0.056209996,
+    "gross_margin": 0.36290002,
+    "op_margin": 0.02795,
+    "rev_growth": -0.025,
+    "debt_to_equity": 53.638
+  },
+  "market_stats": {
+    "ticker": "SHOE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.3515,
+    "short_ratio": 8.28,
+    "putcall_oi_ratio": 21.22758620689655,
+    "avg_volume": 638917.0,
+    "beta": 1.406
+  },
+  "momentum": {
+    "ticker": "SHOE",
+    "asof": "2026-08-12",
+    "ret_1m": 6.988119990752484,
+    "ret_3m": -5.003403704167453,
+    "ret_6m": -22.978670343391837,
+    "ret_12m": -20.31316312837703,
+    "rsi14": 62.84987468768989,
+    "pct_vs_200dma": -10.98117075727002,
+    "score": 39.8,
+    "components_json": "{\"trend\": 33.480112534381405, \"rsi\": 62.84987468768989, \"vs_200dma\": 28.03765848545996, \"short_squeeze\": 100.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

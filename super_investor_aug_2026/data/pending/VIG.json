@@ -1,0 +1,55 @@
+{
+  "ticker": "VIG",
+  "stock": {
+    "ticker": "VIG",
+    "name": "Vanguard Div Appreciation ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 4.56,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VIG",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 27.38404,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VIG",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.4429530201342282,
+    "avg_volume": 1099856.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VIG",
+    "asof": "2026-08-12",
+    "ret_1m": 3.695745537157924,
+    "ret_3m": 8.011614244253984,
+    "ret_6m": 8.295992748948189,
+    "ret_12m": 20.978429433242994,
+    "rsi14": 75.5208112575764,
+    "pct_vs_200dma": 9.237292331072,
+    "score": 60.8,
+    "components_json": "{\"trend\": 63.283653871257854, \"rsi\": 75.5208112575764, \"vs_200dma\": 68.474584662144, \"short_squeeze\": 0.0, \"options_skew\": 70.50503355704699}",
+    "thesis": null
+  }
+}

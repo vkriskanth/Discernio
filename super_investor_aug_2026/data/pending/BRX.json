@@ -1,0 +1,55 @@
+{
+  "ticker": "BRX",
+  "stock": {
+    "ticker": "BRX",
+    "name": "Brixmor Property Group Inc.",
+    "sector": "Real Estate",
+    "industry": "REIT - Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.3,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BRX",
+    "asof": "2026-08-12",
+    "market_cap": 9114107904.0,
+    "pe": 21.214287,
+    "forward_pe": 26.816916,
+    "ev_ebitda": 15.479,
+    "fcf_yield": 0.0661759889561211,
+    "roe": 0.14413,
+    "gross_margin": 0.7515,
+    "op_margin": 0.36018002,
+    "rev_growth": 0.043,
+    "debt_to_equity": 176.202
+  },
+  "market_stats": {
+    "ticker": "BRX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.081099994,
+    "short_ratio": 7.82,
+    "putcall_oi_ratio": 0.01652892561983471,
+    "avg_volume": 2441548.0,
+    "beta": 0.966
+  },
+  "momentum": {
+    "ticker": "BRX",
+    "asof": "2026-08-12",
+    "ret_1m": -4.137041579028189,
+    "ret_3m": -0.44722744336834763,
+    "ret_6m": 8.09913761252201,
+    "ret_12m": 16.773075238385804,
+    "rsi14": 17.865434162860083,
+    "pct_vs_200dma": 4.543164849695169,
+    "score": 55.0,
+    "components_json": "{\"trend\": 59.00480314610042, \"rsi\": 17.865434162860083, \"vs_200dma\": 59.08632969939034, \"short_squeeze\": 40.549997, \"options_skew\": 98.94752066115703}",
+    "thesis": null
+  }
+}

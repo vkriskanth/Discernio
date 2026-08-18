@@ -1,0 +1,79 @@
+{
+  "ticker": "VST",
+  "stock": {
+    "ticker": "VST",
+    "name": "Vistra Corp.",
+    "sector": "Utilities",
+    "industry": "Utilities - Independent Power Producers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AM",
+      "manager_name": "David Tepper - Appaloosa Management",
+      "action": "add",
+      "share_change_pct": 114.0,
+      "pct_of_portfolio": 2.73,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.42,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "add",
+      "share_change_pct": 18.72,
+      "pct_of_portfolio": 1.17,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.74,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VST",
+    "asof": "2026-08-12",
+    "market_cap": 49009455104.0,
+    "pe": 24.623947,
+    "forward_pe": 14.0869665,
+    "ev_ebitda": 10.713,
+    "fcf_yield": 0.0007575068917052695,
+    "roe": 0.42962003,
+    "gross_margin": 0.38309,
+    "op_margin": 0.13766,
+    "rev_growth": -0.055,
+    "debt_to_equity": 373.28
+  },
+  "market_stats": {
+    "ticker": "VST",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0299,
+    "short_ratio": 2.11,
+    "putcall_oi_ratio": 0.5495877830730164,
+    "avg_volume": 4796396.0,
+    "beta": 1.433
+  },
+  "momentum": {
+    "ticker": "VST",
+    "asof": "2026-08-12",
+    "ret_1m": -7.703709610870524,
+    "ret_3m": -0.2997353672751779,
+    "ret_6m": -8.12686409048682,
+    "ret_12m": -26.53336368185296,
+    "rsi14": 31.867092309274895,
+    "pct_vs_200dma": -9.342020324253742,
+    "score": 35.2,
+    "components_json": "{\"trend\": 36.85867468993021, \"rsi\": 31.867092309274895, \"vs_200dma\": 31.315959351492516, \"short_squeeze\": 14.95, \"options_skew\": 63.39249486902981}",
+    "thesis": null
+  }
+}

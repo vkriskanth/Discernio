@@ -1,0 +1,55 @@
+{
+  "ticker": "THO",
+  "stock": {
+    "ticker": "THO",
+    "name": "Thor Industries, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Recreational Vehicles"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.15,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "THO",
+    "asof": "2026-08-12",
+    "market_cap": 4093791744.0,
+    "pe": 15.919028,
+    "forward_pe": 17.168543,
+    "ev_ebitda": 9.118,
+    "fcf_yield": 0.03621431701240931,
+    "roe": 0.06091,
+    "gross_margin": 0.13216,
+    "op_margin": 0.03452,
+    "rev_growth": -0.039,
+    "debt_to_equity": 21.316
+  },
+  "market_stats": {
+    "ticker": "THO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1368,
+    "short_ratio": 7.64,
+    "putcall_oi_ratio": 0.41449459631277813,
+    "avg_volume": 743475.0,
+    "beta": 1.332
+  },
+  "momentum": {
+    "ticker": "THO",
+    "asof": "2026-08-12",
+    "ret_1m": 8.415155981082556,
+    "ret_3m": 5.677587264785,
+    "ret_6m": -32.97742158410591,
+    "ret_12m": -15.848566895973025,
+    "rsi14": 57.50164723600522,
+    "pct_vs_200dma": -12.610550474372495,
+    "score": 43.1,
+    "components_json": "{\"trend\": 35.47062294581452, \"rsi\": 57.50164723600522, \"vs_200dma\": 24.77889905125501, \"short_squeeze\": 68.4, \"options_skew\": 72.4032104259377}",
+    "thesis": null
+  }
+}

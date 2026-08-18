@@ -1,0 +1,63 @@
+{
+  "ticker": "SYF",
+  "stock": {
+    "ticker": "SYF",
+    "name": "Synchrony Financial",
+    "sector": "Financial Services",
+    "industry": "Credit Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.42,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "ca",
+      "manager_name": "Francis Chou - Chou Associates",
+      "action": "add",
+      "share_change_pct": 3.48,
+      "pct_of_portfolio": 0.25,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SYF",
+    "asof": "2026-08-12",
+    "market_cap": 25629460480.0,
+    "pe": 8.078974,
+    "forward_pe": 7.4946594,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.20786,
+    "gross_margin": 0.0,
+    "op_margin": 0.50219,
+    "rev_growth": 0.006,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "SYF",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0775,
+    "short_ratio": 4.66,
+    "putcall_oi_ratio": 1.2680054064491215,
+    "avg_volume": 3726317.0,
+    "beta": 1.311
+  },
+  "momentum": {
+    "ticker": "SYF",
+    "asof": "2026-08-12",
+    "ret_1m": 7.1381632621013935,
+    "ret_3m": 11.433368966165114,
+    "ret_6m": 7.252611548969035,
+    "ret_12m": 14.812361398651763,
+    "rsi14": 71.91328431691703,
+    "pct_vs_200dma": 6.212802379067783,
+    "score": 56.4,
+    "components_json": "{\"trend\": 61.53073871400095, \"rsi\": 71.91328431691703, \"vs_200dma\": 62.42560475813556, \"short_squeeze\": 38.75, \"options_skew\": 15.474039389843595}",
+    "thesis": null
+  }
+}

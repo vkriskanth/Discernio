@@ -1,0 +1,79 @@
+{
+  "ticker": "VTI",
+  "stock": {
+    "ticker": "VTI",
+    "name": "Vanguard Total Stock Mkt ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 0.13,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 2.21,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "RC",
+      "manager_name": "Ruane Cunniff LP",
+      "action": "add",
+      "share_change_pct": 2.61,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 19.47,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VTI",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VTI",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.7154132539091586,
+    "avg_volume": 3388896.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VTI",
+    "asof": "2026-08-12",
+    "ret_1m": 2.888242567877075,
+    "ret_3m": 5.564787002991856,
+    "ret_6m": 12.398589538921655,
+    "ret_12m": 23.70371988690403,
+    "rsi14": 75.21270119778706,
+    "pct_vs_200dma": 10.425054755521268,
+    "score": 60.2,
+    "components_json": "{\"trend\": 64.87050091733566, \"rsi\": 75.21270119778706, \"vs_200dma\": 70.85010951104253, \"short_squeeze\": 0.0, \"options_skew\": 52.331935964259124}",
+    "thesis": null
+  }
+}

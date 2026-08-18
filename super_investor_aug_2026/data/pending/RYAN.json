@@ -1,0 +1,71 @@
+{
+  "ticker": "RYAN",
+  "stock": {
+    "ticker": "RYAN",
+    "name": "Ryan Specialty Holdings, Inc.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Specialty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VVP",
+      "manager_name": "Vulcan Value Partners",
+      "action": "add",
+      "share_change_pct": 42.72,
+      "pct_of_portfolio": 1.77,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VVP",
+      "manager_name": "Vulcan Value Partners",
+      "action": "add",
+      "share_change_pct": 19.97,
+      "pct_of_portfolio": 1.51,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 14.5,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RYAN",
+    "asof": "2026-08-12",
+    "market_cap": 16327605248.0,
+    "pe": 56.574326,
+    "forward_pe": 17.37786,
+    "ev_ebitda": 10.251,
+    "fcf_yield": 0.03581420049775079,
+    "roe": 0.22092,
+    "gross_margin": 0.41487,
+    "op_margin": 0.25041,
+    "rev_growth": 0.074,
+    "debt_to_equity": 374.707
+  },
+  "market_stats": {
+    "ticker": "RYAN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1254,
+    "short_ratio": 5.96,
+    "putcall_oi_ratio": 0.1476510067114094,
+    "avg_volume": 2423653.0,
+    "beta": 0.572
+  },
+  "momentum": {
+    "ticker": "RYAN",
+    "asof": "2026-08-12",
+    "ret_1m": 3.010946539737702,
+    "ret_3m": 34.62363635381118,
+    "ret_6m": -4.769885345761904,
+    "ret_12m": -27.37358983409628,
+    "rsi14": 58.904247317969194,
+    "pct_vs_200dma": -0.3400943823419378,
+    "score": 55.7,
+    "components_json": "{\"trend\": 48.00668936877627, \"rsi\": 58.904247317969194, \"vs_200dma\": 49.31981123531612, \"short_squeeze\": 62.7, \"options_skew\": 90.201677852349}",
+    "thesis": null
+  }
+}

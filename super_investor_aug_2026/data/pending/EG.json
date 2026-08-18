@@ -1,0 +1,63 @@
+{
+  "ticker": "EG",
+  "stock": {
+    "ticker": "EG",
+    "name": "Everest Group, Ltd.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Reinsurance"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 4.8,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 19.4,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EG",
+    "asof": "2026-08-12",
+    "market_cap": 13992222720.0,
+    "pe": 7.7118554,
+    "forward_pe": 6.0873203,
+    "ev_ebitda": null,
+    "fcf_yield": 0.14755518585684718,
+    "roe": 0.12572,
+    "gross_margin": 0.15281,
+    "op_margin": 0.19132,
+    "rev_growth": -0.113,
+    "debt_to_equity": 23.26
+  },
+  "market_stats": {
+    "ticker": "EG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.048,
+    "short_ratio": 4.15,
+    "putcall_oi_ratio": 0.03288672350791717,
+    "avg_volume": 408095.0,
+    "beta": 0.279
+  },
+  "momentum": {
+    "ticker": "EG",
+    "asof": "2026-08-12",
+    "ret_1m": -1.7088938916147267,
+    "ret_3m": 4.296462858830674,
+    "ret_6m": 13.268984546300011,
+    "ret_12m": 12.372455552934913,
+    "rsi14": 40.81057692194788,
+    "pct_vs_200dma": 8.692784085034354,
+    "score": 59.2,
+    "components_json": "{\"trend\": 60.21861644271317, \"rsi\": 40.81057692194788, \"vs_200dma\": 67.38556817006871, \"short_squeeze\": 24.0, \"options_skew\": 97.85645554202193}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "RBC",
+  "stock": {
+    "ticker": "RBC",
+    "name": "RBC Bearings Incorporated",
+    "sector": "Industrials",
+    "industry": "Tools & Accessories"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 0.35,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RBC",
+    "asof": "2026-08-12",
+    "market_cap": 17589559296.0,
+    "pe": 54.954506,
+    "forward_pe": 33.338474,
+    "ev_ebitda": 29.647,
+    "fcf_yield": 0.016102592409146396,
+    "roe": 0.09747,
+    "gross_margin": 0.45953,
+    "op_margin": 0.2718,
+    "rev_growth": 0.192,
+    "debt_to_equity": 25.364
+  },
+  "market_stats": {
+    "ticker": "RBC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0156,
+    "short_ratio": 2.09,
+    "putcall_oi_ratio": 5.5,
+    "avg_volume": 270035.0,
+    "beta": 1.414
+  },
+  "momentum": {
+    "ticker": "RBC",
+    "asof": "2026-08-12",
+    "ret_1m": -6.704050243921333,
+    "ret_3m": -9.134314576088897,
+    "ret_6m": 6.828672209535891,
+    "ret_12m": 37.41529896781488,
+    "rsi14": 44.75977620111899,
+    "pct_vs_200dma": 4.079102306277815,
+    "score": 47.7,
+    "components_json": "{\"trend\": 64.27442687716005, \"rsi\": 44.75977620111899, \"vs_200dma\": 58.15820461255563, \"short_squeeze\": 7.799999999999999, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

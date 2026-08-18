@@ -1,0 +1,55 @@
+{
+  "ticker": "CP",
+  "stock": {
+    "ticker": "CP",
+    "name": "Canadian Pacific Kansas City Li",
+    "sector": "Industrials",
+    "industry": "Railroads"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 22.69,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CP",
+    "asof": "2026-08-12",
+    "market_cap": 81024729088.0,
+    "pe": 29.925325,
+    "forward_pe": 21.45302,
+    "ev_ebitda": 12.919,
+    "fcf_yield": 0.026922335940560004,
+    "roe": 0.08154,
+    "gross_margin": 0.53395003,
+    "op_margin": 0.38977,
+    "rev_growth": 0.126,
+    "debt_to_equity": 52.822
+  },
+  "market_stats": {
+    "ticker": "CP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0207,
+    "short_ratio": 7.2,
+    "putcall_oi_ratio": 0.17294827867515092,
+    "avg_volume": 2837125.0,
+    "beta": 1.219
+  },
+  "momentum": {
+    "ticker": "CP",
+    "asof": "2026-08-12",
+    "ret_1m": 2.5351498606303258,
+    "ret_3m": 8.919913703057913,
+    "ret_6m": 17.622194251438827,
+    "ret_12m": 21.858369166780257,
+    "rsi14": 53.28317341336377,
+    "pct_vs_200dma": 14.508709923381957,
+    "score": 64.3,
+    "components_json": "{\"trend\": 66.70598005306113, \"rsi\": 53.28317341336377, \"vs_200dma\": 79.01741984676391, \"short_squeeze\": 10.35, \"options_skew\": 88.51434981236744}",
+    "thesis": null
+  }
+}

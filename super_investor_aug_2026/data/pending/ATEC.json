@@ -1,0 +1,55 @@
+{
+  "ticker": "ATEC",
+  "stock": {
+    "ticker": "ATEC",
+    "name": "Alphatec Holdings, Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 43.06,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ATEC",
+    "asof": "2026-08-12",
+    "market_cap": 1425583360.0,
+    "pe": null,
+    "forward_pe": 15.563087,
+    "ev_ebitda": 50.99,
+    "fcf_yield": 0.0338912148918461,
+    "roe": -3.7344298,
+    "gross_margin": 0.70838,
+    "op_margin": -0.00934,
+    "rev_growth": 0.151,
+    "debt_to_equity": 5236.9
+  },
+  "market_stats": {
+    "ticker": "ATEC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.103,
+    "short_ratio": 6.16,
+    "putcall_oi_ratio": 0.12403100775193798,
+    "avg_volume": 2782651.0,
+    "beta": 0.855
+  },
+  "momentum": {
+    "ticker": "ATEC",
+    "asof": "2026-08-12",
+    "ret_1m": -1.8401702052896707,
+    "ret_3m": 20.451613395444813,
+    "ret_6m": -30.851851569281685,
+    "ret_12m": -38.58552529417245,
+    "rsi14": 64.10595256892032,
+    "pct_vs_200dma": -30.626902924646448,
+    "score": 36.5,
+    "components_json": "{\"trend\": 31.44571843017996, \"rsi\": 64.10595256892032, \"vs_200dma\": 0.0, \"short_squeeze\": 51.49999999999999, \"options_skew\": 91.77713178294574}",
+    "thesis": null
+  }
+}

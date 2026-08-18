@@ -1,0 +1,55 @@
+{
+  "ticker": "FOX",
+  "stock": {
+    "ticker": "FOX",
+    "name": "Fox Corporation",
+    "sector": "Communication Services",
+    "industry": "Entertainment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 1.5,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FOX",
+    "asof": "2026-08-12",
+    "market_cap": 23135311872.0,
+    "pe": 14.356771,
+    "forward_pe": 10.041895,
+    "ev_ebitda": 6.897,
+    "fcf_yield": 0.024005510670126486,
+    "roe": 0.14291,
+    "gross_margin": 0.36629,
+    "op_margin": 0.25214002,
+    "rev_growth": 0.281,
+    "debt_to_equity": 64.06
+  },
+  "market_stats": {
+    "ticker": "FOX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0825,
+    "short_ratio": 7.43,
+    "putcall_oi_ratio": 0.8,
+    "avg_volume": 1744862.0,
+    "beta": 0.541
+  },
+  "momentum": {
+    "ticker": "FOX",
+    "asof": "2026-08-12",
+    "ret_1m": 11.616161616161612,
+    "ret_3m": -7.09601670435821,
+    "ret_6m": -3.3630314348833568,
+    "ret_12m": 12.488353864808222,
+    "rsi14": 74.37751478999857,
+    "pct_vs_200dma": -2.3382195376172477,
+    "score": 52.0,
+    "components_json": "{\"trend\": 51.85762710415082, \"rsi\": 74.37751478999857, \"vs_200dma\": 45.3235609247655, \"short_squeeze\": 41.25, \"options_skew\": 46.69}",
+    "thesis": null
+  }
+}

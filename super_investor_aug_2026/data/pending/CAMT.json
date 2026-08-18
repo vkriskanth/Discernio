@@ -1,0 +1,55 @@
+{
+  "ticker": "CAMT",
+  "stock": {
+    "ticker": "CAMT",
+    "name": "Camtek Ltd.",
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment & Materials"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CAMT",
+    "asof": "2026-08-12",
+    "market_cap": 8135196672.0,
+    "pe": 235.56758,
+    "forward_pe": 35.677444,
+    "ev_ebitda": 50.318,
+    "fcf_yield": null,
+    "roe": 0.07565,
+    "gross_margin": 0.50969005,
+    "op_margin": 0.22412,
+    "rev_growth": 0.025,
+    "debt_to_equity": 71.471
+  },
+  "market_stats": {
+    "ticker": "CAMT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0866,
+    "short_ratio": 4.74,
+    "putcall_oi_ratio": 0.5629510825982358,
+    "avg_volume": 538656.0,
+    "beta": 1.586
+  },
+  "momentum": {
+    "ticker": "CAMT",
+    "asof": "2026-08-12",
+    "ret_1m": 15.50367340856116,
+    "ret_3m": -0.8532356705618582,
+    "ret_6m": 12.428571032239244,
+    "ret_12m": 104.2708766233503,
+    "rsi14": 59.03735784286686,
+    "pct_vs_200dma": 16.00491220032667,
+    "score": 78.0,
+    "components_json": "{\"trend\": 95.18095125784333, \"rsi\": 59.03735784286686, \"vs_200dma\": 82.00982440065334, \"short_squeeze\": 43.3, \"options_skew\": 62.50116279069768}",
+    "thesis": null
+  }
+}

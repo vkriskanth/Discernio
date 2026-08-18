@@ -1,0 +1,55 @@
+{
+  "ticker": "LLY",
+  "stock": {
+    "ticker": "LLY",
+    "name": "Eli Lilly and Company",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 8.7,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LLY",
+    "asof": "2026-08-12",
+    "market_cap": 1084740993024.0,
+    "pe": 40.860935,
+    "forward_pe": 26.08686,
+    "ev_ebitda": 27.069,
+    "fcf_yield": 0.010201421448221388,
+    "roe": 1.02286,
+    "gross_margin": 0.83399004,
+    "op_margin": 0.54222,
+    "rev_growth": 0.477,
+    "debt_to_equity": 162.071
+  },
+  "market_stats": {
+    "ticker": "LLY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.010199999,
+    "short_ratio": 3.69,
+    "putcall_oi_ratio": 0.9637218676519986,
+    "avg_volume": 3022012.0,
+    "beta": 0.506
+  },
+  "momentum": {
+    "ticker": "LLY",
+    "asof": "2026-08-12",
+    "ret_1m": 5.422805098453565,
+    "ret_3m": 22.958735429421328,
+    "ret_6m": 18.942735015107726,
+    "ret_12m": 92.6317486422449,
+    "rsi14": 55.10984539232697,
+    "pct_vs_200dma": 17.103354097999834,
+    "score": 73.3,
+    "components_json": "{\"trend\": 99.62314059025667, \"rsi\": 55.10984539232697, \"vs_200dma\": 84.20670819599967, \"short_squeeze\": 5.0999995, \"options_skew\": 35.769751427611695}",
+    "thesis": null
+  }
+}

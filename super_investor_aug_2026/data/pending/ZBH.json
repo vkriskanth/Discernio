@@ -1,0 +1,87 @@
+{
+  "ticker": "ZBH",
+  "stock": {
+    "ticker": "ZBH",
+    "name": "Zimmer Biomet Holdings",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "add",
+      "share_change_pct": 21.17,
+      "pct_of_portfolio": 0.61,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "add",
+      "share_change_pct": 23.68,
+      "pct_of_portfolio": 0.61,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 10.93,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 5.67,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 0.15,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ZBH",
+    "asof": "2026-08-12",
+    "market_cap": 18296514560.0,
+    "pe": 23.282768,
+    "forward_pe": 10.57947,
+    "ev_ebitda": 10.055,
+    "fcf_yield": 0.05962337604917032,
+    "roe": 0.06413,
+    "gross_margin": 0.69877,
+    "op_margin": 0.17959999,
+    "rev_growth": 0.048,
+    "debt_to_equity": 60.175
+  },
+  "market_stats": {
+    "ticker": "ZBH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0774,
+    "short_ratio": 4.68,
+    "putcall_oi_ratio": 0.3379777070063694,
+    "avg_volume": 2397640.0,
+    "beta": 0.462
+  },
+  "momentum": {
+    "ticker": "ZBH",
+    "asof": "2026-08-12",
+    "ret_1m": 5.4157973978760765,
+    "ret_3m": 15.407202799134168,
+    "ret_6m": 5.55389390656531,
+    "ret_12m": -3.049885145237452,
+    "rsi14": 64.37356275495024,
+    "pct_vs_200dma": 5.990361556057322,
+    "score": 58.8,
+    "components_json": "{\"trend\": 55.068374953614864, \"rsi\": 64.37356275495024, \"vs_200dma\": 61.980723112114646, \"short_squeeze\": 38.699999999999996, \"options_skew\": 77.50688694267517}",
+    "thesis": null
+  }
+}

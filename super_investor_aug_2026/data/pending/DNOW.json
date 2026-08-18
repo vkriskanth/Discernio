@@ -1,0 +1,71 @@
+{
+  "ticker": "DNOW",
+  "stock": {
+    "ticker": "DNOW",
+    "name": "DNOW Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.84,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "GA",
+      "manager_name": "Greenhaven Associates",
+      "action": "add",
+      "share_change_pct": 426.83,
+      "pct_of_portfolio": 0.53,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 69.58,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DNOW",
+    "asof": "2026-08-12",
+    "market_cap": 3009181184.0,
+    "pe": null,
+    "forward_pe": 18.494446,
+    "ev_ebitda": 23.522,
+    "fcf_yield": -0.1773738380520194,
+    "roe": -0.11599,
+    "gross_margin": 0.2023,
+    "op_margin": 0.01071,
+    "rev_growth": 1.081,
+    "debt_to_equity": 30.934
+  },
+  "market_stats": {
+    "ticker": "DNOW",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.118,
+    "short_ratio": 6.92,
+    "putcall_oi_ratio": 0.009601536245799328,
+    "avg_volume": 2938659.0,
+    "beta": 0.862
+  },
+  "momentum": {
+    "ticker": "DNOW",
+    "asof": "2026-08-12",
+    "ret_1m": 26.60061551245785,
+    "ret_3m": 24.326355068804094,
+    "ret_6m": 1.528117302402876,
+    "ret_12m": 15.588035787276077,
+    "rsi14": 72.87786645394917,
+    "pct_vs_200dma": 23.02565046804439,
+    "score": 76.4,
+    "components_json": "{\"trend\": 63.99155602627252, \"rsi\": 72.87786645394917, \"vs_200dma\": 96.05130093608878, \"short_squeeze\": 58.99999999999999, \"options_skew\": 99.4095775324052}",
+    "thesis": null
+  }
+}

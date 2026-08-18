@@ -1,0 +1,63 @@
+{
+  "ticker": "FRMI",
+  "stock": {
+    "ticker": "FRMI",
+    "name": "Fermi Inc.",
+    "sector": "Real Estate",
+    "industry": "REIT - Specialty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 47.65,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FRMI",
+    "asof": "2026-08-12",
+    "market_cap": 4629294592.0,
+    "pe": null,
+    "forward_pe": 19.878347,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": 0.0,
+    "op_margin": 0.0,
+    "rev_growth": null,
+    "debt_to_equity": 43.367
+  },
+  "market_stats": {
+    "ticker": "FRMI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.096999995,
+    "short_ratio": 2.56,
+    "putcall_oi_ratio": 0.18467400884319984,
+    "avg_volume": 19660798.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "FRMI",
+    "asof": "2026-08-12",
+    "ret_1m": 11.053418215066868,
+    "ret_3m": 36.837302022129606,
+    "ret_6m": -20.372335773725137,
+    "ret_12m": null,
+    "rsi14": 58.10716804764735,
+    "pct_vs_200dma": -21.90088030125198,
+    "score": 45.9,
+    "components_json": "{\"trend\": 54.93948987452134, \"rsi\": 58.10716804764735, \"vs_200dma\": 6.198239397496039, \"short_squeeze\": 48.499997500000006, \"options_skew\": 87.73224361015858}",
+    "thesis": null
+  }
+}

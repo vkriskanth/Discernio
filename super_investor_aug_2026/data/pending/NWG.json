@@ -1,0 +1,55 @@
+{
+  "ticker": "NWG",
+  "stock": {
+    "ticker": "NWG",
+    "name": "NatWest Group plc",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 88.27,
+      "pct_of_portfolio": 0.26,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NWG",
+    "asof": "2026-08-12",
+    "market_cap": 76676390912.0,
+    "pe": 9.633,
+    "forward_pe": 8.894737,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.14776,
+    "gross_margin": 0.0,
+    "op_margin": 0.53048,
+    "rev_growth": 0.145,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "NWG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0004,
+    "short_ratio": 0.45,
+    "putcall_oi_ratio": 102.24489795918367,
+    "avg_volume": 4506446.0,
+    "beta": 0.815
+  },
+  "momentum": {
+    "ticker": "NWG",
+    "asof": "2026-08-12",
+    "ret_1m": 11.838657563052646,
+    "ret_3m": 25.61799214132583,
+    "ret_6m": 20.63276852348539,
+    "ret_12m": 39.565418270081885,
+    "rsi14": 67.15169555909199,
+    "pct_vs_200dma": 18.318023740283085,
+    "score": 63.6,
+    "components_json": "{\"trend\": 79.70139550747612, \"rsi\": 67.15169555909199, \"vs_200dma\": 86.63604748056616, \"short_squeeze\": 0.2, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

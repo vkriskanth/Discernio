@@ -1,0 +1,87 @@
+{
+  "ticker": "TSN",
+  "stock": {
+    "ticker": "TSN",
+    "name": "Tyson Foods, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Farm Products"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 31.95,
+      "pct_of_portfolio": 0.56,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 2.05,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 2.55,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 1.02,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 2.7,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TSN",
+    "asof": "2026-08-12",
+    "market_cap": 19676258304.0,
+    "pe": 34.524693,
+    "forward_pe": 12.48995,
+    "ev_ebitda": 9.821,
+    "fcf_yield": 0.060542509129280435,
+    "roe": 0.03263,
+    "gross_margin": 0.06554,
+    "op_margin": 0.02711,
+    "rev_growth": -0.001,
+    "debt_to_equity": 44.025
+  },
+  "market_stats": {
+    "ticker": "TSN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.031,
+    "short_ratio": 2.87,
+    "putcall_oi_ratio": 0.7583518930957683,
+    "avg_volume": 3347550.0,
+    "beta": 0.378
+  },
+  "momentum": {
+    "ticker": "TSN",
+    "asof": "2026-08-12",
+    "ret_1m": -2.3834358782102827,
+    "ret_3m": -16.12374924656843,
+    "ret_6m": -12.191742206717892,
+    "ret_12m": 2.4402307786757227,
+    "rsi14": 47.62963322978084,
+    "pct_vs_200dma": -5.731866299193666,
+    "score": 40.3,
+    "components_json": "{\"trend\": 42.48144487548439, \"rsi\": 47.62963322978084, \"vs_200dma\": 38.53626740161267, \"short_squeeze\": 15.5, \"options_skew\": 49.467928730512256}",
+    "thesis": null
+  }
+}

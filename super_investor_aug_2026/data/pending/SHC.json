@@ -1,0 +1,55 @@
+{
+  "ticker": "SHC",
+  "stock": {
+    "ticker": "SHC",
+    "name": "Sotera Health Company",
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "add",
+      "share_change_pct": 347.82,
+      "pct_of_portfolio": 0.72,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SHC",
+    "asof": "2026-08-12",
+    "market_cap": 5404998656.0,
+    "pe": 33.228073,
+    "forward_pe": 17.620737,
+    "ev_ebitda": 12.773,
+    "fcf_yield": 0.02848606073732944,
+    "roe": 0.27781,
+    "gross_margin": 0.54969,
+    "op_margin": 0.37956002,
+    "rev_growth": 0.092,
+    "debt_to_equity": 340.734
+  },
+  "market_stats": {
+    "ticker": "SHC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0582,
+    "short_ratio": 4.86,
+    "putcall_oi_ratio": 1.0,
+    "avg_volume": 3088961.0,
+    "beta": 1.775
+  },
+  "momentum": {
+    "ticker": "SHC",
+    "asof": "2026-08-12",
+    "ret_1m": 2.8820049169976603,
+    "ret_3m": 20.74026792709911,
+    "ret_6m": 8.735635006249854,
+    "ret_12m": 71.06690197530432,
+    "rsi14": 73.43749441206589,
+    "pct_vs_200dma": 14.281227481219695,
+    "score": 71.8,
+    "components_json": "{\"trend\": 87.26953167012641, \"rsi\": 73.43749441206589, \"vs_200dma\": 78.56245496243939, \"short_squeeze\": 29.1, \"options_skew\": 33.35}",
+    "thesis": null
+  }
+}

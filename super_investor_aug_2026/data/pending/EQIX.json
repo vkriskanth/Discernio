@@ -1,0 +1,55 @@
+{
+  "ticker": "EQIX",
+  "stock": {
+    "ticker": "EQIX",
+    "name": "Equinix, Inc.",
+    "sector": "Real Estate",
+    "industry": "REIT - Specialty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 2.17,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EQIX",
+    "asof": "2026-08-12",
+    "market_cap": 104444477440.0,
+    "pe": 67.89641,
+    "forward_pe": 56.059925,
+    "ev_ebitda": 27.37,
+    "fcf_yield": 0.03615318006803367,
+    "roe": 0.10735,
+    "gross_margin": 0.51979,
+    "op_margin": 0.27021998,
+    "rev_growth": 0.167,
+    "debt_to_equity": 162.217
+  },
+  "market_stats": {
+    "ticker": "EQIX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0221,
+    "short_ratio": 3.2,
+    "putcall_oi_ratio": 1.9166666666666667,
+    "avg_volume": 607295.0,
+    "beta": 0.972
+  },
+  "momentum": {
+    "ticker": "EQIX",
+    "asof": "2026-08-12",
+    "ret_1m": 4.0213351728437985,
+    "ret_3m": -0.9868370266973847,
+    "ret_6m": 25.56873625650624,
+    "ret_12m": 40.188595135249415,
+    "rsi14": 55.38534850916299,
+    "pct_vs_200dma": 13.885303752539002,
+    "score": 58.2,
+    "components_json": "{\"trend\": 73.45000782304243, \"rsi\": 55.38534850916299, \"vs_200dma\": 77.770607505078, \"short_squeeze\": 11.05, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

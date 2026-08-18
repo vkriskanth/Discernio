@@ -1,0 +1,87 @@
+{
+  "ticker": "AAPL",
+  "stock": {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "sector": "Technology",
+    "industry": "Consumer Electronics"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.55,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "RC",
+      "manager_name": "Ruane Cunniff LP",
+      "action": "add",
+      "share_change_pct": 7.86,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 2.78,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 1.65,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AAPL",
+    "asof": "2026-08-12",
+    "market_cap": 4424225783808.0,
+    "pe": 34.764908,
+    "forward_pe": 31.884647,
+    "ev_ebitda": 26.625,
+    "fcf_yield": 0.024348186715570857,
+    "roe": 1.4875101,
+    "gross_margin": 0.48653,
+    "op_margin": 0.32623002,
+    "rev_growth": 0.164,
+    "debt_to_equity": 78.445
+  },
+  "market_stats": {
+    "ticker": "AAPL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0097,
+    "short_ratio": 2.58,
+    "putcall_oi_ratio": 0.4556827677912445,
+    "avg_volume": 56717043.0,
+    "beta": 1.086
+  },
+  "momentum": {
+    "ticker": "AAPL",
+    "asof": "2026-08-12",
+    "ret_1m": -4.392623055938039,
+    "ret_3m": 2.1130928267218074,
+    "ret_6m": 10.094549021053467,
+    "ret_12m": 32.88187847216793,
+    "rsi14": 36.6538337511737,
+    "pct_vs_200dma": 7.582751912645991,
+    "score": 56.0,
+    "components_json": "{\"trend\": 66.81504394319975, \"rsi\": 36.6538337511737, \"vs_200dma\": 65.16550382529198, \"short_squeeze\": 4.85, \"options_skew\": 69.65595938832399}",
+    "thesis": null
+  }
+}

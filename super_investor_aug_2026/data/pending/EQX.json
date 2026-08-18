@@ -1,0 +1,55 @@
+{
+  "ticker": "EQX",
+  "stock": {
+    "ticker": "EQX",
+    "name": "Equinox Gold Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MUHL",
+      "manager_name": "Muhlenkamp",
+      "action": "add",
+      "share_change_pct": 0.23,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EQX",
+    "asof": "2026-08-12",
+    "market_cap": 13513347072.0,
+    "pe": 17.807693,
+    "forward_pe": 7.726299,
+    "ev_ebitda": 8.485,
+    "fcf_yield": 0.017081907448251176,
+    "roe": 0.0847,
+    "gross_margin": 0.58986,
+    "op_margin": 0.32136002,
+    "rev_growth": 1.693,
+    "debt_to_equity": 13.175
+  },
+  "market_stats": {
+    "ticker": "EQX",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 3.53,
+    "putcall_oi_ratio": 0.5600208768267223,
+    "avg_volume": 14098485.0,
+    "beta": 2.4
+  },
+  "momentum": {
+    "ticker": "EQX",
+    "asof": "2026-08-12",
+    "ret_1m": 21.10526436253597,
+    "ret_3m": -22.16951890180909,
+    "ret_6m": -27.25749658834863,
+    "ret_12m": 73.37875282045385,
+    "rsi14": 74.15484921965123,
+    "pct_vs_200dma": -12.534496849249443,
+    "score": 49.4,
+    "components_json": "{\"trend\": 64.52339648113423, \"rsi\": 74.15484921965123, \"vs_200dma\": 24.931006301501114, \"short_squeeze\": 0.0, \"options_skew\": 62.696607515657625}",
+    "thesis": null
+  }
+}

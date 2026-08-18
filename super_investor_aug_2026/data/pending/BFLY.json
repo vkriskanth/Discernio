@@ -1,0 +1,55 @@
+{
+  "ticker": "BFLY",
+  "stock": {
+    "ticker": "BFLY",
+    "name": "Butterfly Network, Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 18.27,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BFLY",
+    "asof": "2026-08-12",
+    "market_cap": 2433873152.0,
+    "pe": null,
+    "forward_pe": -152.33499,
+    "ev_ebitda": -51.04,
+    "fcf_yield": 0.0003803094665140544,
+    "roe": -0.35457,
+    "gross_margin": 0.68158996,
+    "op_margin": -0.30897,
+    "rev_growth": 0.395,
+    "debt_to_equity": 10.083
+  },
+  "market_stats": {
+    "ticker": "BFLY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1528,
+    "short_ratio": 4.05,
+    "putcall_oi_ratio": 0.24812030075187969,
+    "avg_volume": 8251503.0,
+    "beta": 2.084
+  },
+  "momentum": {
+    "ticker": "BFLY",
+    "asof": "2026-08-12",
+    "ret_1m": 19.806449644027225,
+    "ret_3m": 123.19711990345881,
+    "ret_6m": 172.28737870105508,
+    "ret_12m": 582.7205698344227,
+    "rsi14": 69.43836447162064,
+    "pct_vs_200dma": 100.97075982496877,
+    "score": 91.4,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 69.43836447162064, \"vs_200dma\": 100.0, \"short_squeeze\": 76.39999999999999, \"options_skew\": 83.50037593984962}",
+    "thesis": null
+  }
+}

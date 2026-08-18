@@ -1,0 +1,55 @@
+{
+  "ticker": "VICI",
+  "stock": {
+    "ticker": "VICI",
+    "name": "VICI Properties Inc.",
+    "sector": "Real Estate",
+    "industry": "REIT - Diversified"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.82,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VICI",
+    "asof": "2026-08-12",
+    "market_cap": 28666552320.0,
+    "pe": 10.091085,
+    "forward_pe": 8.707357,
+    "ev_ebitda": 12.8,
+    "fcf_yield": 0.009315001993235858,
+    "roe": 0.09849,
+    "gross_margin": 0.99271005,
+    "op_margin": 0.70182997,
+    "rev_growth": 0.057,
+    "debt_to_equity": 60.277
+  },
+  "market_stats": {
+    "ticker": "VICI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.026400002,
+    "short_ratio": 2.76,
+    "putcall_oi_ratio": 0.30652639087018546,
+    "avg_volume": 9682912.0,
+    "beta": 0.687
+  },
+  "momentum": {
+    "ticker": "VICI",
+    "asof": "2026-08-12",
+    "ret_1m": -1.1225268972076319,
+    "ret_3m": -7.454845630639539,
+    "ret_6m": -8.199486458174565,
+    "ret_12m": -15.699965769182311,
+    "rsi14": 44.773808220221575,
+    "pct_vs_200dma": -5.603642506203032,
+    "score": 41.3,
+    "components_json": "{\"trend\": 39.023714065682846, \"rsi\": 44.773808220221575, \"vs_200dma\": 38.79271498759394, \"short_squeeze\": 13.200000999999999, \"options_skew\": 79.60468972895863}",
+    "thesis": null
+  }
+}

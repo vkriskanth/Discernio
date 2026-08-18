@@ -1,0 +1,55 @@
+{
+  "ticker": "BBW",
+  "stock": {
+    "ticker": "BBW",
+    "name": "Build-A-Bear Workshop, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Specialty Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "add",
+      "share_change_pct": 32.99,
+      "pct_of_portfolio": 0.25,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BBW",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 8.4754095,
+    "forward_pe": 8.403244,
+    "ev_ebitda": 6.529,
+    "fcf_yield": null,
+    "roe": 0.35868,
+    "gross_margin": 0.57435,
+    "op_margin": 0.18956,
+    "rev_growth": -0.024,
+    "debt_to_equity": 79.041
+  },
+  "market_stats": {
+    "ticker": "BBW",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2541,
+    "short_ratio": 8.27,
+    "putcall_oi_ratio": 0.8005226480836237,
+    "avg_volume": 372377.0,
+    "beta": 1.033
+  },
+  "momentum": {
+    "ticker": "BBW",
+    "asof": "2026-08-12",
+    "ret_1m": 17.656507141903255,
+    "ret_3m": -1.3613714246289987,
+    "ret_6m": -31.7034857063647,
+    "ret_12m": -27.06976158097354,
+    "rsi14": 66.09339925486796,
+    "pct_vs_200dma": -17.722944704067768,
+    "score": 39.9,
+    "components_json": "{\"trend\": 29.252638228312474, \"rsi\": 66.09339925486796, \"vs_200dma\": 14.554110591864465, \"short_squeeze\": 100.0, \"options_skew\": 46.6551393728223}",
+    "thesis": null
+  }
+}

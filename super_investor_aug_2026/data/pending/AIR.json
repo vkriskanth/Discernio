@@ -1,0 +1,55 @@
+{
+  "ticker": "AIR",
+  "stock": {
+    "ticker": "AIR",
+    "name": "AAR Corp.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 45.37,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AIR",
+    "asof": "2026-08-12",
+    "market_cap": 5945425408.0,
+    "pe": 29.77419,
+    "forward_pe": 22.58104,
+    "ev_ebitda": 19.391,
+    "fcf_yield": -0.008470798394381269,
+    "roe": 0.12876001,
+    "gross_margin": 0.18802999,
+    "op_margin": 0.08384,
+    "rev_growth": 0.23,
+    "debt_to_equity": 59.397
+  },
+  "market_stats": {
+    "ticker": "AIR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0339,
+    "short_ratio": 2.78,
+    "putcall_oi_ratio": 2.985074626865672,
+    "avg_volume": 446119.0,
+    "beta": 1.125
+  },
+  "momentum": {
+    "ticker": "AIR",
+    "asof": "2026-08-12",
+    "ret_1m": 8.999783945351325,
+    "ret_3m": 25.556127029614583,
+    "ret_6m": 30.763117580246615,
+    "ret_12m": 105.21788772275164,
+    "rsi14": 55.8420591279543,
+    "pct_vs_200dma": 35.4984297476884,
+    "score": 75.1,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 55.8420591279543, \"vs_200dma\": 100.0, \"short_squeeze\": 16.95, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

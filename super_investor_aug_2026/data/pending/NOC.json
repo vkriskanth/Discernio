@@ -1,0 +1,63 @@
+{
+  "ticker": "NOC",
+  "stock": {
+    "ticker": "NOC",
+    "name": "Northrop Grumman Corporation",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 1.72,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 0.12,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NOC",
+    "asof": "2026-08-12",
+    "market_cap": 81526415360.0,
+    "pe": 18.25883,
+    "forward_pe": 18.858032,
+    "ev_ebitda": 13.305,
+    "fcf_yield": 0.03039505805643213,
+    "roe": 0.26958,
+    "gross_margin": 0.2006,
+    "op_margin": 0.11604,
+    "rev_growth": 0.051,
+    "debt_to_equity": 95.348
+  },
+  "market_stats": {
+    "ticker": "NOC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0162,
+    "short_ratio": 2.33,
+    "putcall_oi_ratio": 1.32641065830721,
+    "avg_volume": 957000.0,
+    "beta": -0.108
+  },
+  "momentum": {
+    "ticker": "NOC",
+    "asof": "2026-08-12",
+    "ret_1m": 9.017910858213174,
+    "ret_3m": 3.686473363379461,
+    "ret_6m": -15.221083068351593,
+    "ret_12m": 0.8860347285613246,
+    "rsi14": 78.19879447443357,
+    "pct_vs_200dma": -4.214063770637688,
+    "score": 42.8,
+    "components_json": "{\"trend\": 46.89403097993289, \"rsi\": 78.19879447443357, \"vs_200dma\": 41.57187245872463, \"short_squeeze\": 8.1, \"options_skew\": 11.578409090909098}",
+    "thesis": null
+  }
+}

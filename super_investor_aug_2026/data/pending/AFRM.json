@@ -1,0 +1,63 @@
+{
+  "ticker": "AFRM",
+  "stock": {
+    "ticker": "AFRM",
+    "name": "Affirm Holdings, Inc.",
+    "sector": "Financial Services",
+    "industry": "Credit Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "add",
+      "share_change_pct": 53.47,
+      "pct_of_portfolio": 0.93,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 88.07,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AFRM",
+    "asof": "2026-08-12",
+    "market_cap": 25318330368.0,
+    "pe": 67.5,
+    "forward_pe": 20.332582,
+    "ev_ebitda": 52.268,
+    "fcf_yield": 0.011891991755528387,
+    "roe": 0.114870004,
+    "gross_margin": 0.48369,
+    "op_margin": 0.08513,
+    "rev_growth": 0.326,
+    "debt_to_equity": 240.279
+  },
+  "market_stats": {
+    "ticker": "AFRM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.052699998,
+    "short_ratio": 4.24,
+    "putcall_oi_ratio": 0.8286265990827902,
+    "avg_volume": 4174748.0,
+    "beta": 3.616
+  },
+  "momentum": {
+    "ticker": "AFRM",
+    "asof": "2026-08-12",
+    "ret_1m": -10.087879114930642,
+    "ret_3m": 10.857794279366061,
+    "ret_6m": 27.118205255724593,
+    "ret_12m": 1.845705862956959,
+    "rsi14": 49.51018816977672,
+    "pct_vs_200dma": 11.117020248213837,
+    "score": 57.5,
+    "components_json": "{\"trend\": 62.13108220570998, \"rsi\": 49.51018816977672, \"vs_200dma\": 72.23404049642767, \"short_squeeze\": 26.349999, \"options_skew\": 44.780605841177895}",
+    "thesis": null
+  }
+}

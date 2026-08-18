@@ -1,0 +1,63 @@
+{
+  "ticker": "CDW",
+  "stock": {
+    "ticker": "CDW",
+    "name": "CDW Corp.",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 136.56,
+      "pct_of_portfolio": 0.63,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 18.94,
+      "pct_of_portfolio": 0.14,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CDW",
+    "asof": "2026-08-12",
+    "market_cap": 16750459904.0,
+    "pe": 16.103968,
+    "forward_pe": 11.22394,
+    "ev_ebitda": 11.433,
+    "fcf_yield": 0.04040411570063121,
+    "roe": 0.44009998,
+    "gross_margin": 0.21360001,
+    "op_margin": 0.07345,
+    "rev_growth": 0.1,
+    "debt_to_equity": 263.278
+  },
+  "market_stats": {
+    "ticker": "CDW",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.076,
+    "short_ratio": 4.52,
+    "putcall_oi_ratio": 0.2894457099468489,
+    "avg_volume": 2084035.0,
+    "beta": 0.94
+  },
+  "momentum": {
+    "ticker": "CDW",
+    "asof": "2026-08-12",
+    "ret_1m": -2.2600807846551163,
+    "ret_3m": 38.003688306063395,
+    "ret_6m": -3.5849630796265353,
+    "ret_12m": -13.292091871915723,
+    "rsi14": 55.68281269035897,
+    "pct_vs_200dma": 3.6771092855267584,
+    "score": 56.6,
+    "components_json": "{\"trend\": 55.00878081916477, \"rsi\": 55.68281269035897, \"vs_200dma\": 57.354218571053515, \"short_squeeze\": 38.0, \"options_skew\": 80.74397114654519}",
+    "thesis": null
+  }
+}

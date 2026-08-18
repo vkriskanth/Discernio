@@ -1,0 +1,55 @@
+{
+  "ticker": "VTV",
+  "stock": {
+    "ticker": "VTV",
+    "name": "Vanguard Morningstar Value ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 14.73,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VTV",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 22.109585,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VTV",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 2.3375,
+    "avg_volume": 2892425.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VTV",
+    "asof": "2026-08-12",
+    "ret_1m": 3.054338498176512,
+    "ret_3m": 9.087543401032839,
+    "ret_6m": 10.877874064418446,
+    "ret_12m": 29.65927117733578,
+    "rsi14": 73.43092271874082,
+    "pct_vs_200dma": 12.192565784777386,
+    "score": 56.8,
+    "components_json": "{\"trend\": 67.8533337105697, \"rsi\": 73.43092271874082, \"vs_200dma\": 74.38513156955477, \"short_squeeze\": 0.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

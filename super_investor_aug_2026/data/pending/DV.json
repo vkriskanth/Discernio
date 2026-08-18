@@ -1,0 +1,55 @@
+{
+  "ticker": "DV",
+  "stock": {
+    "ticker": "DV",
+    "name": "DoubleVerify Holdings, Inc.",
+    "sector": "Communication Services",
+    "industry": "Advertising Agencies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 82.68,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DV",
+    "asof": "2026-08-12",
+    "market_cap": 2044910336.0,
+    "pe": 38.07143,
+    "forward_pe": 11.248903,
+    "ev_ebitda": 13.619,
+    "fcf_yield": 0.07929290450806348,
+    "roe": 0.05389,
+    "gross_margin": 0.82434,
+    "op_margin": 0.11942001,
+    "rev_growth": 0.025,
+    "debt_to_equity": 10.218
+  },
+  "market_stats": {
+    "ticker": "DV",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.08930001,
+    "short_ratio": 4.9,
+    "putcall_oi_ratio": 2.282051282051282,
+    "avg_volume": 3859325.0,
+    "beta": 0.972
+  },
+  "momentum": {
+    "ticker": "DV",
+    "asof": "2026-08-12",
+    "ret_1m": 14.784475366510996,
+    "ret_3m": 33.01697578353251,
+    "ret_6m": 36.56409826034155,
+    "ret_12m": -10.15519666283481,
+    "rsi14": 82.94051084405851,
+    "pct_vs_200dma": 25.28786892164243,
+    "score": 68.6,
+    "components_json": "{\"trend\": 66.81224354802829, \"rsi\": 82.94051084405851, \"vs_200dma\": 100.0, \"short_squeeze\": 44.65000500000001, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

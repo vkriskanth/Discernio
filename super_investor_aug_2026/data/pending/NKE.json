@@ -1,0 +1,79 @@
+{
+  "ticker": "NKE",
+  "stock": {
+    "ticker": "NKE",
+    "name": "Nike, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Footwear & Accessories"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "add",
+      "share_change_pct": 14.33,
+      "pct_of_portfolio": 0.36,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 68.41,
+      "pct_of_portfolio": 0.3,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "LT",
+      "manager_name": "Lindsell Train",
+      "action": "add",
+      "share_change_pct": 0.96,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 4.38,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NKE",
+    "asof": "2026-08-12",
+    "market_cap": 60207796224.0,
+    "pe": 19.701456,
+    "forward_pe": 17.671083,
+    "ev_ebitda": 12.845,
+    "fcf_yield": 0.03137882743575504,
+    "roe": 0.22138001,
+    "gross_margin": 0.43245,
+    "op_margin": 0.12687,
+    "rev_growth": -0.011,
+    "debt_to_equity": 74.289
+  },
+  "market_stats": {
+    "ticker": "NKE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.060100004,
+    "short_ratio": 2.41,
+    "putcall_oi_ratio": 0.7072336136237035,
+    "avg_volume": 23345858.0,
+    "beta": 1.118
+  },
+  "momentum": {
+    "ticker": "NKE",
+    "asof": "2026-08-12",
+    "ret_1m": -5.049934617905471,
+    "ret_3m": -3.046647654257706,
+    "ret_6m": -34.43483306924382,
+    "ret_12m": -43.51211840351217,
+    "rsi14": 48.412819848389496,
+    "pct_vs_200dma": -23.07343103599685,
+    "score": 25.1,
+    "components_json": "{\"trend\": 21.350708421544674, \"rsi\": 48.412819848389496, \"vs_200dma\": 3.853137928006298, \"short_squeeze\": 30.050002, \"options_skew\": 52.87751797129898}",
+    "thesis": null
+  }
+}

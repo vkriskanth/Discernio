@@ -1,0 +1,87 @@
+{
+  "ticker": "MA",
+  "stock": {
+    "ticker": "MA",
+    "name": "Mastercard Inc.",
+    "sector": "Financial Services",
+    "industry": "Credit Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TFP",
+      "manager_name": "Triple Frond Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 9.11,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VVP",
+      "manager_name": "Vulcan Value Partners",
+      "action": "add",
+      "share_change_pct": 31.26,
+      "pct_of_portfolio": 1.87,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "AKO",
+      "manager_name": "AKO Capital",
+      "action": "add",
+      "share_change_pct": 55.42,
+      "pct_of_portfolio": 0.54,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VFC",
+      "manager_name": "Valley Forge Capital Management",
+      "action": "add",
+      "share_change_pct": 0.01,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MA",
+    "asof": "2026-08-12",
+    "market_cap": 487876198400.0,
+    "pe": 30.61737,
+    "forward_pe": 24.20396,
+    "ev_ebitda": 22.74,
+    "fcf_yield": 0.03476548017637419,
+    "roe": 2.41202,
+    "gross_margin": 1.0,
+    "op_margin": 0.61108,
+    "rev_growth": 0.141,
+    "debt_to_equity": 439.583
+  },
+  "market_stats": {
+    "ticker": "MA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.010299999,
+    "short_ratio": 2.78,
+    "putcall_oi_ratio": 1.0306586608442503,
+    "avg_volume": 3563519.0,
+    "beta": 0.735
+  },
+  "momentum": {
+    "ticker": "MA",
+    "asof": "2026-08-12",
+    "ret_1m": 3.6002368711230526,
+    "ret_3m": 11.707328857796151,
+    "ret_6m": 3.496340396037123,
+    "ret_12m": -2.2187592717767823,
+    "rsi14": 67.22606526403185,
+    "pct_vs_200dma": 5.87126729655294,
+    "score": 50.6,
+    "components_json": "{\"trend\": 53.67359706743927, \"rsi\": 67.22606526403185, \"vs_200dma\": 61.74253459310588, \"short_squeeze\": 5.1499995, \"options_skew\": 31.305067321688508}",
+    "thesis": null
+  }
+}

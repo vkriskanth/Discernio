@@ -1,0 +1,55 @@
+{
+  "ticker": "FMC",
+  "stock": {
+    "ticker": "FMC",
+    "name": "FMC Corporation",
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 42.29,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FMC",
+    "asof": "2026-08-12",
+    "market_cap": 1264791168.0,
+    "pe": null,
+    "forward_pe": 6.262595,
+    "ev_ebitda": 19.51,
+    "fcf_yield": 0.13096035787624982,
+    "roe": -0.88376,
+    "gross_margin": 0.31927,
+    "op_margin": 0.11833,
+    "rev_growth": -0.175,
+    "debt_to_equity": 265.047
+  },
+  "market_stats": {
+    "ticker": "FMC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2823,
+    "short_ratio": 6.24,
+    "putcall_oi_ratio": 0.5399197958439664,
+    "avg_volume": 4015693.0,
+    "beta": 0.405
+  },
+  "momentum": {
+    "ticker": "FMC",
+    "asof": "2026-08-12",
+    "ret_1m": -7.01191017733972,
+    "ret_3m": -23.76252829843327,
+    "ret_6m": -30.456156008583115,
+    "ret_12m": -71.20969675712044,
+    "rsi14": 37.34644160676586,
+    "pct_vs_200dma": -27.98105860714396,
+    "score": 24.1,
+    "components_json": "{\"trend\": 5.250516005046904, \"rsi\": 37.34644160676586, \"vs_200dma\": 0.0, \"short_squeeze\": 100.0, \"options_skew\": 64.03734961720744}",
+    "thesis": null
+  }
+}

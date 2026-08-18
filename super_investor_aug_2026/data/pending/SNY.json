@@ -1,0 +1,63 @@
+{
+  "ticker": "SNY",
+  "stock": {
+    "ticker": "SNY",
+    "name": "Sanofi",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 32.55,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 0.05,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SNY",
+    "asof": "2026-08-12",
+    "market_cap": 104351784960.0,
+    "pe": 23.288769,
+    "forward_pe": 8.123908,
+    "ev_ebitda": 9.006,
+    "fcf_yield": 0.06036312469800612,
+    "roe": 0.05709,
+    "gross_margin": 0.73452,
+    "op_margin": 0.21033001,
+    "rev_growth": 0.146,
+    "debt_to_equity": 33.89
+  },
+  "market_stats": {
+    "ticker": "SNY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0047,
+    "short_ratio": 2.93,
+    "putcall_oi_ratio": 1.0342510652245165,
+    "avg_volume": 3387682.0,
+    "beta": 0.277
+  },
+  "momentum": {
+    "ticker": "SNY",
+    "asof": "2026-08-12",
+    "ret_1m": -0.7061534453666751,
+    "ret_3m": 0.9495133036461878,
+    "ret_6m": -3.120184615713306,
+    "ret_12m": -0.3719684869114004,
+    "rsi14": 47.09389717269248,
+    "pct_vs_200dma": -2.4137625928456474,
+    "score": 41.4,
+    "components_json": "{\"trend\": 49.200011211615305, \"rsi\": 47.09389717269248, \"vs_200dma\": 45.17247481430871, \"short_squeeze\": 2.35, \"options_skew\": 31.065453949524752}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "AMP",
+  "stock": {
+    "ticker": "AMP",
+    "name": "Ameriprise Financial, Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 362.43,
+      "pct_of_portfolio": 0.7,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AMP",
+    "asof": "2026-08-12",
+    "market_cap": 49340727296.0,
+    "pe": 13.498671,
+    "forward_pe": 10.836727,
+    "ev_ebitda": null,
+    "fcf_yield": 0.058838309670302597,
+    "roe": 0.63432,
+    "gross_margin": 0.54932,
+    "op_margin": 0.30719998,
+    "rev_growth": 0.116,
+    "debt_to_equity": 67.578
+  },
+  "market_stats": {
+    "ticker": "AMP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0437,
+    "short_ratio": 4.57,
+    "putcall_oi_ratio": 0.5015974440894568,
+    "avg_volume": 653648.0,
+    "beta": 1.137
+  },
+  "momentum": {
+    "ticker": "AMP",
+    "asof": "2026-08-12",
+    "ret_1m": 11.967172614378828,
+    "ret_3m": 22.050174160502213,
+    "ret_6m": 5.364535575068596,
+    "ret_12m": 11.260712526559246,
+    "rsi14": 70.43105738575983,
+    "pct_vs_200dma": 17.46266140975743,
+    "score": 65.7,
+    "components_json": "{\"trend\": 62.728697931294946, \"rsi\": 70.43105738575983, \"vs_200dma\": 84.92532281951486, \"short_squeeze\": 21.85, \"options_skew\": 66.59345047923323}",
+    "thesis": null
+  }
+}

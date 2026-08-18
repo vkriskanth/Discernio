@@ -1,0 +1,55 @@
+{
+  "ticker": "PROF",
+  "stock": {
+    "ticker": "PROF",
+    "name": "Profound Medical Corp.",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 36.41,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PROF",
+    "asof": "2026-08-12",
+    "market_cap": 254181760.0,
+    "pe": null,
+    "forward_pe": -11.896258,
+    "ev_ebitda": -6.425,
+    "fcf_yield": -0.09764518114911157,
+    "roe": -0.73527,
+    "gross_margin": 0.71786004,
+    "op_margin": -4.45671,
+    "rev_growth": 0.123,
+    "debt_to_equity": 14.817
+  },
+  "market_stats": {
+    "ticker": "PROF",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.056199998,
+    "short_ratio": 16.16,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 83332.0,
+    "beta": 0.528
+  },
+  "momentum": {
+    "ticker": "PROF",
+    "asof": "2026-08-12",
+    "ret_1m": -5.661663931412475,
+    "ret_3m": -3.421786184082587,
+    "ret_6m": 9.414553386558522,
+    "ret_12m": 25.61307571480964,
+    "rsi14": 51.65354375645889,
+    "pct_vs_200dma": 1.4010644970518404,
+    "score": 53.6,
+    "components_json": "{\"trend\": 62.04306044666664, \"rsi\": 51.65354375645889, \"vs_200dma\": 52.80212899410368, \"short_squeeze\": 28.099999000000004, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

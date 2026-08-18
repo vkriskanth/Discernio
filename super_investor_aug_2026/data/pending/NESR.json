@@ -1,0 +1,63 @@
+{
+  "ticker": "NESR",
+  "stock": {
+    "ticker": "NESR",
+    "name": "National Energy Services Reunit",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AIM",
+      "manager_name": "Alex Roepers - Atlantic Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.75,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NESR",
+    "asof": "2026-08-12",
+    "market_cap": 3601255424.0,
+    "pe": 38.815216,
+    "forward_pe": 12.9985,
+    "ev_ebitda": 12.999,
+    "fcf_yield": 0.038211394582824236,
+    "roe": 0.09438,
+    "gross_margin": 0.13281,
+    "op_margin": 0.124510005,
+    "rev_growth": 0.591,
+    "debt_to_equity": 29.256
+  },
+  "market_stats": {
+    "ticker": "NESR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.060100004,
+    "short_ratio": 2.81,
+    "putcall_oi_ratio": 0.22714078374455732,
+    "avg_volume": 2242853.0,
+    "beta": 0.363
+  },
+  "momentum": {
+    "ticker": "NESR",
+    "asof": "2026-08-12",
+    "ret_1m": 21.133487310434028,
+    "ret_3m": 32.190757602567956,
+    "ret_6m": 72.19121732814932,
+    "ret_12m": 425.62962284794554,
+    "rsi14": 72.56532414906361,
+    "pct_vs_200dma": 64.18229644930837,
+    "score": 87.4,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 72.56532414906361, \"vs_200dma\": 100.0, \"short_squeeze\": 30.050002, \"options_skew\": 84.89970972423802}",
+    "thesis": null
+  }
+}

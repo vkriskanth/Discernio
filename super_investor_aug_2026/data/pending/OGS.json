@@ -1,0 +1,55 @@
+{
+  "ticker": "OGS",
+  "stock": {
+    "ticker": "OGS",
+    "name": "ONE Gas, Inc.",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Gas"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 49.88,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "OGS",
+    "asof": "2026-08-12",
+    "market_cap": 5028815872.0,
+    "pe": 17.242456,
+    "forward_pe": 15.842918,
+    "ev_ebitda": 10.681,
+    "fcf_yield": -0.04373358134358036,
+    "roe": 0.085760005,
+    "gross_margin": 0.38094002,
+    "op_margin": 0.19847,
+    "rev_growth": -0.029,
+    "debt_to_equity": 95.903
+  },
+  "market_stats": {
+    "ticker": "OGS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0713,
+    "short_ratio": 6.36,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 659927.0,
+    "beta": 0.66
+  },
+  "momentum": {
+    "ticker": "OGS",
+    "asof": "2026-08-12",
+    "ret_1m": 1.179754260527499,
+    "ret_3m": -5.760554913078031,
+    "ret_6m": -2.0322517647552774,
+    "ret_12m": 11.697870611372663,
+    "rsi14": 51.349021956591464,
+    "pct_vs_200dma": -1.5143625198478672,
+    "score": 48.9,
+    "components_json": "{\"trend\": 52.34130624119907, \"rsi\": 51.349021956591464, \"vs_200dma\": 46.971274960304264, \"short_squeeze\": 35.65, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

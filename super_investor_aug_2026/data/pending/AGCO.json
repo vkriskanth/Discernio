@@ -1,0 +1,63 @@
+{
+  "ticker": "AGCO",
+  "stock": {
+    "ticker": "AGCO",
+    "name": "AGCO Corporation",
+    "sector": "Industrials",
+    "industry": "Farm & Heavy Construction Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.85,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AGCO",
+    "asof": "2026-08-12",
+    "market_cap": 7086860800.0,
+    "pe": 13.996542,
+    "forward_pe": 13.429887,
+    "ev_ebitda": 9.599,
+    "fcf_yield": 0.0635348299771882,
+    "roe": 0.118269995,
+    "gross_margin": 0.25267,
+    "op_margin": 0.057290003,
+    "rev_growth": -0.01,
+    "debt_to_equity": 66.053
+  },
+  "market_stats": {
+    "ticker": "AGCO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0563,
+    "short_ratio": 3.95,
+    "putcall_oi_ratio": 4.833333333333333,
+    "avg_volume": 765645.0,
+    "beta": 1.077
+  },
+  "momentum": {
+    "ticker": "AGCO",
+    "asof": "2026-08-12",
+    "ret_1m": -10.82024073076746,
+    "ret_3m": -13.971710644179925,
+    "ret_6m": -18.388519761534617,
+    "ret_12m": -9.781143616685984,
+    "rsi14": 37.7182477463874,
+    "pct_vs_200dma": -11.617494485278268,
+    "score": 29.7,
+    "components_json": "{\"trend\": 36.379473431611245, \"rsi\": 37.7182477463874, \"vs_200dma\": 26.765011029443464, \"short_squeeze\": 28.15, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

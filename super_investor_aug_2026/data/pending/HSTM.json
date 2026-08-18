@@ -1,0 +1,55 @@
+{
+  "ticker": "HSTM",
+  "stock": {
+    "ticker": "HSTM",
+    "name": "HealthStream, Inc.",
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 39.04,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HSTM",
+    "asof": "2026-08-12",
+    "market_cap": 823543360.0,
+    "pe": 39.118053,
+    "forward_pe": 32.560696,
+    "ev_ebitda": 17.281,
+    "fcf_yield": 0.06111988566090801,
+    "roe": 0.059959996,
+    "gross_margin": 0.65081,
+    "op_margin": 0.099379994,
+    "rev_growth": 0.125,
+    "debt_to_equity": 3.766
+  },
+  "market_stats": {
+    "ticker": "HSTM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0759,
+    "short_ratio": 8.62,
+    "putcall_oi_ratio": 1.2105263157894737,
+    "avg_volume": 217632.0,
+    "beta": 0.439
+  },
+  "momentum": {
+    "ticker": "HSTM",
+    "asof": "2026-08-12",
+    "ret_1m": 0.46395131564169745,
+    "ret_3m": 19.768344806593284,
+    "ret_6m": 39.102905582699954,
+    "ret_12m": 8.496880735455692,
+    "rsi14": 49.27301983180206,
+    "pct_vs_200dma": 18.669088406787026,
+    "score": 63.4,
+    "components_json": "{\"trend\": 71.06012741097024, \"rsi\": 49.27301983180206, \"vs_200dma\": 87.33817681357405, \"short_squeeze\": 37.95, \"options_skew\": 19.30789473684211}",
+    "thesis": null
+  }
+}

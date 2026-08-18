@@ -1,0 +1,55 @@
+{
+  "ticker": "UTHR",
+  "stock": {
+    "ticker": "UTHR",
+    "name": "United Therapeutics Corporation",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "UTHR",
+    "asof": "2026-08-12",
+    "market_cap": 22294151168.0,
+    "pe": 18.617119,
+    "forward_pe": 17.228418,
+    "ev_ebitda": 12.998,
+    "fcf_yield": 0.024990297580815255,
+    "roe": 0.19315,
+    "gross_margin": 0.8614,
+    "op_margin": 0.42231998,
+    "rev_growth": -0.019,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "UTHR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.063200004,
+    "short_ratio": 5.63,
+    "putcall_oi_ratio": 1.4261992619926198,
+    "avg_volume": 508329.0,
+    "beta": 0.564
+  },
+  "momentum": {
+    "ticker": "UTHR",
+    "asof": "2026-08-12",
+    "ret_1m": -5.968271224321331,
+    "ret_3m": -8.944317817557234,
+    "ret_6m": 5.985245728884481,
+    "ret_12m": 71.8021341511579,
+    "rsi14": 38.28994103538349,
+    "pct_vs_200dma": -0.5144710230095884,
+    "score": 52.8,
+    "components_json": "{\"trend\": 77.83313203386133, \"rsi\": 38.28994103538349, \"vs_200dma\": 48.971057953980825, \"short_squeeze\": 31.600002000000003, \"options_skew\": 4.922509225092258}",
+    "thesis": null
+  }
+}

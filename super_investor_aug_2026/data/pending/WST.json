@@ -1,0 +1,55 @@
+{
+  "ticker": "WST",
+  "stock": {
+    "ticker": "WST",
+    "name": "West Pharmaceutical Services, I",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 41.32,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WST",
+    "asof": "2026-08-12",
+    "market_cap": 24701188096.0,
+    "pe": 44.998714,
+    "forward_pe": 35.223125,
+    "ev_ebitda": 26.977,
+    "fcf_yield": 0.01125198929378656,
+    "roe": 0.19087,
+    "gross_margin": 0.36786,
+    "op_margin": 0.22469,
+    "rev_growth": 0.138,
+    "debt_to_equity": 10.585
+  },
+  "market_stats": {
+    "ticker": "WST",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0417,
+    "short_ratio": 2.98,
+    "putcall_oi_ratio": 0.8061538461538461,
+    "avg_volume": 764929.0,
+    "beta": 1.138
+  },
+  "momentum": {
+    "ticker": "WST",
+    "asof": "2026-08-12",
+    "ret_1m": -1.29443532498138,
+    "ret_3m": 13.1221955459484,
+    "ret_6m": 45.05112608507851,
+    "ret_12m": 47.251944490654395,
+    "rsi14": 48.027532552006804,
+    "pct_vs_200dma": 22.697190207907546,
+    "score": 72.3,
+    "components_json": "{\"trend\": 86.35277428556984, \"rsi\": 48.027532552006804, \"vs_200dma\": 95.39438041581509, \"short_squeeze\": 20.85, \"options_skew\": 46.279538461538465}",
+    "thesis": null
+  }
+}

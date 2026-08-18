@@ -1,0 +1,63 @@
+{
+  "ticker": "WULF",
+  "stock": {
+    "ticker": "WULF",
+    "name": "TeraWulf Inc.",
+    "sector": "Financial Services",
+    "industry": "Capital Markets"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.29,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 429.39,
+      "pct_of_portfolio": 0.1,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "WULF",
+    "asof": "2026-08-12",
+    "market_cap": 8517394944.0,
+    "pe": null,
+    "forward_pe": -71.125,
+    "ev_ebitda": -40.515,
+    "fcf_yield": -0.0274868963502651,
+    "roe": -12.118051,
+    "gross_margin": 0.69262004,
+    "op_margin": -3.0703602,
+    "rev_growth": -0.06,
+    "debt_to_equity": 3549.648
+  },
+  "market_stats": {
+    "ticker": "WULF",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.262,
+    "short_ratio": 2.97,
+    "putcall_oi_ratio": 0.4067651934541915,
+    "avg_volume": 31747766.0,
+    "beta": 4.288
+  },
+  "momentum": {
+    "ticker": "WULF",
+    "asof": "2026-08-12",
+    "ret_1m": -11.952600273376813,
+    "ret_3m": -25.04385647167595,
+    "ret_6m": 2.766091491492806,
+    "ret_12m": 216.48147871791915,
+    "rsi14": 38.29113876298137,
+    "pct_vs_200dma": -3.40867262419291,
+    "score": 73.8,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 38.29113876298137, \"vs_200dma\": 43.18265475161418, \"short_squeeze\": 100.0, \"options_skew\": 72.91876159660544}",
+    "thesis": null
+  }
+}

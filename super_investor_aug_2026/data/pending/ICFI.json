@@ -1,0 +1,55 @@
+{
+  "ticker": "ICFI",
+  "stock": {
+    "ticker": "ICFI",
+    "name": "ICF International, Inc.",
+    "sector": "Industrials",
+    "industry": "Consulting Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TA",
+      "manager_name": "Third Avenue Management",
+      "action": "add",
+      "share_change_pct": 35.7,
+      "pct_of_portfolio": 0.2,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ICFI",
+    "asof": "2026-08-12",
+    "market_cap": 1568856192.0,
+    "pe": 18.07438,
+    "forward_pe": 11.355141,
+    "ev_ebitda": 11.084,
+    "fcf_yield": 0.052739615282724396,
+    "roe": 0.08637,
+    "gross_margin": 0.3716,
+    "op_margin": 0.08406,
+    "rev_growth": -0.003,
+    "debt_to_equity": 53.793
+  },
+  "market_stats": {
+    "ticker": "ICFI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0346,
+    "short_ratio": 2.45,
+    "putcall_oi_ratio": 0.4642857142857143,
+    "avg_volume": 278846.0,
+    "beta": 0.516
+  },
+  "momentum": {
+    "ticker": "ICFI",
+    "asof": "2026-08-12",
+    "ret_1m": 15.575068888418953,
+    "ret_3m": 18.671024186471975,
+    "ret_6m": 0.29259167555955035,
+    "ret_12m": -1.9570551855972784,
+    "rsi14": 66.74914337496106,
+    "pct_vs_200dma": 13.472965302120276,
+    "score": 59.8,
+    "components_json": "{\"trend\": 54.906262684370546, \"rsi\": 66.74914337496106, \"vs_200dma\": 76.94593060424054, \"short_squeeze\": 17.3, \"options_skew\": 69.08214285714286}",
+    "thesis": null
+  }
+}

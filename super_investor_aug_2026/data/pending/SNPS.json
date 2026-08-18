@@ -1,0 +1,63 @@
+{
+  "ticker": "SNPS",
+  "stock": {
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 199.4,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HH",
+      "manager_name": "Duan Yongping - H&H International Investment",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SNPS",
+    "asof": "2026-08-12",
+    "market_cap": 79030214656.0,
+    "pe": 94.66399,
+    "forward_pe": 23.884422,
+    "ev_ebitda": 51.311,
+    "fcf_yield": 0.04477981753439817,
+    "roe": 0.03824,
+    "gross_margin": 0.82598996,
+    "op_margin": 0.10383,
+    "rev_growth": 0.419,
+    "debt_to_equity": 35.574
+  },
+  "market_stats": {
+    "ticker": "SNPS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0275,
+    "short_ratio": 2.71,
+    "putcall_oi_ratio": 0.7544827586206897,
+    "avg_volume": 1992308.0,
+    "beta": 1.213
+  },
+  "momentum": {
+    "ticker": "SNPS",
+    "asof": "2026-08-12",
+    "ret_1m": -2.932611038592947,
+    "ret_3m": -19.446233323141183,
+    "ret_6m": -5.4954869983051875,
+    "ret_12m": -32.90105710926038,
+    "rsi14": 72.27249987390829,
+    "pct_vs_200dma": -7.678365234579365,
+    "score": 37.6,
+    "components_json": "{\"trend\": 29.357061059861937, \"rsi\": 72.27249987390829, \"vs_200dma\": 34.643269530841266, \"short_squeeze\": 13.75, \"options_skew\": 49.726}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "IQV",
+  "stock": {
+    "ticker": "IQV",
+    "name": "IQVIA Holdings, Inc.",
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GA",
+      "manager_name": "Greenhaven Associates",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.71,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 7.63,
+      "pct_of_portfolio": 0.2,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VVP",
+      "manager_name": "Vulcan Value Partners",
+      "action": "add",
+      "share_change_pct": 4.74,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IQV",
+    "asof": "2026-08-12",
+    "market_cap": 39751725056.0,
+    "pe": 30.000622,
+    "forward_pe": 16.72338,
+    "ev_ebitda": 17.861,
+    "fcf_yield": 0.05407941449010207,
+    "roe": 0.22818,
+    "gross_margin": 0.32968,
+    "op_margin": 0.13027,
+    "rev_growth": 0.087,
+    "debt_to_equity": 257.975
+  },
+  "market_stats": {
+    "ticker": "IQV",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0322,
+    "short_ratio": 3.09,
+    "putcall_oi_ratio": 0.43366452367036823,
+    "avg_volume": 1581280.0,
+    "beta": 1.175
+  },
+  "momentum": {
+    "ticker": "IQV",
+    "asof": "2026-08-12",
+    "ret_1m": 16.946108909796443,
+    "ret_3m": 36.015044135731934,
+    "ret_6m": 29.645574369402006,
+    "ret_12m": 35.83263406097734,
+    "rsi14": 74.20081075176057,
+    "pct_vs_200dma": 22.444780057349,
+    "score": 77.2,
+    "components_json": "{\"trend\": 84.03123917593112, \"rsi\": 74.20081075176057, \"vs_200dma\": 94.889560114698, \"short_squeeze\": 16.099999999999998, \"options_skew\": 71.12457627118644}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "STX",
+  "stock": {
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings PLC",
+    "sector": "Technology",
+    "industry": "Computer Hardware"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 5.9,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "TGM",
+      "manager_name": "Chase Coleman - Tiger Global Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.15,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "STX",
+    "asof": "2026-08-15",
+    "market_cap": 220624830464.0,
+    "pe": 66.220406,
+    "forward_pe": 17.580194,
+    "ev_ebitda": 49.493,
+    "fcf_yield": 0.008810205142875645,
+    "roe": 3.7152898,
+    "gross_margin": 0.45576,
+    "op_margin": 0.4307,
+    "rev_growth": 0.485,
+    "debt_to_equity": 179.88
+  },
+  "market_stats": {
+    "ticker": "STX",
+    "asof": "2026-08-15",
+    "short_pct_float": 0.040599998,
+    "short_ratio": 1.5,
+    "putcall_oi_ratio": 1.3833393436711143,
+    "avg_volume": 4745032.0,
+    "beta": 2.102
+  },
+  "momentum": {
+    "ticker": "STX",
+    "asof": "2026-08-15",
+    "ret_1m": 30.577206292919623,
+    "ret_3m": 21.046535870744165,
+    "ret_6m": 126.32217408249669,
+    "ret_12m": 525.4636316469164,
+    "rsi14": 66.81281676403665,
+    "pct_vs_200dma": 77.18415144204494,
+    "score": 77.8,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 66.81281676403665, \"vs_200dma\": 100.0, \"short_squeeze\": 20.299999, \"options_skew\": 7.7812657771366744}",
+    "thesis": null
+  }
+}

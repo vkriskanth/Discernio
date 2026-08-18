@@ -1,0 +1,55 @@
+{
+  "ticker": "MPWR",
+  "stock": {
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 0.22,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MPWR",
+    "asof": "2026-08-12",
+    "market_cap": 70337396736.0,
+    "pe": 87.27318,
+    "forward_pe": 41.134613,
+    "ev_ebitda": 67.49,
+    "fcf_yield": 0.0063169259685238064,
+    "roe": 0.21979,
+    "gross_margin": 0.55195,
+    "op_margin": 0.30989,
+    "rev_growth": 0.476,
+    "debt_to_equity": 0.486
+  },
+  "market_stats": {
+    "ticker": "MPWR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0581,
+    "short_ratio": 2.1,
+    "putcall_oi_ratio": 1.0735163861824624,
+    "avg_volume": 943482.0,
+    "beta": 1.686
+  },
+  "momentum": {
+    "ticker": "MPWR",
+    "asof": "2026-08-12",
+    "ret_1m": 3.841878769383422,
+    "ret_3m": -10.506221478441413,
+    "ret_6m": 25.596125346150455,
+    "ret_12m": 80.47313232080282,
+    "rsi14": 52.85770322242287,
+    "pct_vs_200dma": 16.953205846933717,
+    "score": 69.3,
+    "components_json": "{\"trend\": 86.71622408863385, \"rsi\": 52.85770322242287, \"vs_200dma\": 83.90641169386743, \"short_squeeze\": 29.049999999999997, \"options_skew\": 28.44645704162976}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "AAOI",
+  "stock": {
+    "ticker": "AAOI",
+    "name": "Applied Optoelectronics, Inc.",
+    "sector": "Technology",
+    "industry": "Communication Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 29.23,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AAOI",
+    "asof": "2026-08-12",
+    "market_cap": 11333123072.0,
+    "pe": null,
+    "forward_pe": 29.119946,
+    "ev_ebitda": -347.617,
+    "fcf_yield": -0.0782705796420385,
+    "roe": -0.05449,
+    "gross_margin": 0.28916,
+    "op_margin": -0.12884,
+    "rev_growth": 0.864,
+    "debt_to_equity": 17.994
+  },
+  "market_stats": {
+    "ticker": "AAOI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.12810001,
+    "short_ratio": 1.18,
+    "putcall_oi_ratio": 0.7835038308436416,
+    "avg_volume": 12047159.0,
+    "beta": 3.787
+  },
+  "momentum": {
+    "ticker": "AAOI",
+    "asof": "2026-08-12",
+    "ret_1m": 11.111999027913555,
+    "ret_3m": -25.966645265893394,
+    "ret_6m": 187.4613210243465,
+    "ret_12m": 568.2166601686367,
+    "rsi14": 61.516450834395435,
+    "pct_vs_200dma": 48.37021788822338,
+    "score": 85.4,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 61.516450834395435, \"vs_200dma\": 100.0, \"short_squeeze\": 64.05000499999998, \"options_skew\": 47.79029448272911}",
+    "thesis": null
+  }
+}

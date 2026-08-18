@@ -1,0 +1,63 @@
+{
+  "ticker": "ACHC",
+  "stock": {
+    "ticker": "ACHC",
+    "name": "Acadia Healthcare Company, Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "add",
+      "share_change_pct": 9.64,
+      "pct_of_portfolio": 0.29,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 45.14,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ACHC",
+    "asof": "2026-08-12",
+    "market_cap": 2905193984.0,
+    "pe": null,
+    "forward_pe": 17.125467,
+    "ev_ebitda": 10.329,
+    "fcf_yield": -0.03612736381048488,
+    "roe": -0.41445,
+    "gross_margin": 0.41057,
+    "op_margin": 0.10137,
+    "rev_growth": -0.004,
+    "debt_to_equity": 118.057
+  },
+  "market_stats": {
+    "ticker": "ACHC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.35970002,
+    "short_ratio": 6.75,
+    "putcall_oi_ratio": 1.5969908651262763,
+    "avg_volume": 2938348.0,
+    "beta": 0.635
+  },
+  "momentum": {
+    "ticker": "ACHC",
+    "asof": "2026-08-12",
+    "ret_1m": 1.7902795832784868,
+    "ret_3m": 26.449562218802434,
+    "ret_6m": 138.14510415200698,
+    "ret_12m": 74.94504844979721,
+    "rsi14": 41.694919491572,
+    "pct_vs_200dma": 44.01798518468789,
+    "score": 81.3,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 41.694919491572, \"vs_200dma\": 100.0, \"short_squeeze\": 100.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

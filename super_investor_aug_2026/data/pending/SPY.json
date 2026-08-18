@@ -1,0 +1,87 @@
+{
+  "ticker": "SPY",
+  "stock": {
+    "ticker": "SPY",
+    "name": "State Street SPDR S&P 500 ETF T",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 5.1,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 6.95,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 53.11,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 3.72,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 0.47,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SPY",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 26.010454,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "SPY",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.988328196306119,
+    "avg_volume": 52811496.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "SPY",
+    "asof": "2026-08-12",
+    "ret_1m": 2.7639184109931048,
+    "ret_3m": 4.93381434194049,
+    "ret_6m": 12.222717702076725,
+    "ret_12m": 22.841047895175937,
+    "rsi14": 75.25304481971031,
+    "pct_vs_200dma": 10.099329285007208,
+    "score": 58.0,
+    "components_json": "{\"trend\": 64.28337877127554, \"rsi\": 75.25304481971031, \"vs_200dma\": 70.19865857001442, \"short_squeeze\": 0.0, \"options_skew\": 34.128509306381865}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "KN",
+  "stock": {
+    "ticker": "KN",
+    "name": "Knowles Corp.",
+    "sector": "Technology",
+    "industry": "Electronic Components"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KN",
+    "asof": "2026-08-12",
+    "market_cap": 3319472640.0,
+    "pe": 46.26786,
+    "forward_pe": 24.027822,
+    "ev_ebitda": 25.602,
+    "fcf_yield": 0.011842995639210933,
+    "roe": 0.094969995,
+    "gross_margin": 0.45259997,
+    "op_margin": 0.15168001,
+    "rev_growth": 0.143,
+    "debt_to_equity": 18.881
+  },
+  "market_stats": {
+    "ticker": "KN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.08189999,
+    "short_ratio": 4.77,
+    "putcall_oi_ratio": 0.09529343404997094,
+    "avg_volume": 1071174.0,
+    "beta": 1.61
+  },
+  "momentum": {
+    "ticker": "KN",
+    "asof": "2026-08-12",
+    "ret_1m": 4.591834069281009,
+    "ret_3m": 15.202600357505158,
+    "ret_6m": 57.43735296396506,
+    "ret_12m": 99.53893365534172,
+    "rsi14": 60.628463458013314,
+    "pct_vs_200dma": 33.61600477279796,
+    "score": 87.6,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 60.628463458013314, \"vs_200dma\": 100.0, \"short_squeeze\": 40.949995, \"options_skew\": 93.69392794886694}",
+    "thesis": null
+  }
+}

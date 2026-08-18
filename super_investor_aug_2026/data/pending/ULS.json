@@ -1,0 +1,55 @@
+{
+  "ticker": "ULS",
+  "stock": {
+    "ticker": "ULS",
+    "name": "UL Solutions Inc.",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DCP",
+      "manager_name": "Henry Ellenbogen - Durable Capital Partners",
+      "action": "add",
+      "share_change_pct": 28.4,
+      "pct_of_portfolio": 0.64,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ULS",
+    "asof": "2026-08-12",
+    "market_cap": 15551207424.0,
+    "pe": 31.058468,
+    "forward_pe": 29.618393,
+    "ev_ebitda": 21.669,
+    "fcf_yield": 0.027039701068551577,
+    "roe": 0.38712,
+    "gross_margin": 0.50413,
+    "op_margin": 0.18382,
+    "rev_growth": 0.052,
+    "debt_to_equity": 29.383
+  },
+  "market_stats": {
+    "ticker": "ULS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0718,
+    "short_ratio": 5.55,
+    "putcall_oi_ratio": 1.990990990990991,
+    "avg_volume": 1029320.0,
+    "beta": 0.7
+  },
+  "momentum": {
+    "ticker": "ULS",
+    "asof": "2026-08-12",
+    "ret_1m": -12.460023226261574,
+    "ret_3m": -21.06756899980037,
+    "ret_6m": 4.860994850192157,
+    "ret_12m": 16.509135837173616,
+    "rsi14": 32.174855530831934,
+    "pct_vs_200dma": -10.365476238282778,
+    "score": 36.4,
+    "components_json": "{\"trend\": 51.74168208998698, \"rsi\": 32.174855530831934, \"vs_200dma\": 29.269047523434445, \"short_squeeze\": 35.900000000000006, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

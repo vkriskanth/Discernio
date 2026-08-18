@@ -1,0 +1,55 @@
+{
+  "ticker": "COCO",
+  "stock": {
+    "ticker": "COCO",
+    "name": "The Vita Coco Company, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Non-Alcoholic"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 31.37,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "COCO",
+    "asof": "2026-08-12",
+    "market_cap": 3757408512.0,
+    "pe": 34.91129,
+    "forward_pe": 27.75,
+    "ev_ebitda": 25.147,
+    "fcf_yield": 0.027837603408292912,
+    "roe": 0.31370002,
+    "gross_margin": 0.41127998,
+    "op_margin": 0.29209998,
+    "rev_growth": 0.281,
+    "debt_to_equity": 3.508
+  },
+  "market_stats": {
+    "ticker": "COCO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.115,
+    "short_ratio": 4.21,
+    "putcall_oi_ratio": 0.3028169014084507,
+    "avg_volume": 1140617.0,
+    "beta": 0.767
+  },
+  "momentum": {
+    "ticker": "COCO",
+    "asof": "2026-08-12",
+    "ret_1m": -11.387276028881011,
+    "ret_3m": -12.076131969606763,
+    "ret_6m": 15.983021360213368,
+    "ret_12m": 101.22699860307182,
+    "rsi14": 40.84505841916249,
+    "pct_vs_200dma": 10.547464397666584,
+    "score": 74.3,
+    "components_json": "{\"trend\": 91.66286625841072, \"rsi\": 40.84505841916249, \"vs_200dma\": 71.09492879533317, \"short_squeeze\": 57.5, \"options_skew\": 79.85211267605634}",
+    "thesis": null
+  }
+}

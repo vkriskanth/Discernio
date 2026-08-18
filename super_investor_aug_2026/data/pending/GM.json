@@ -1,0 +1,63 @@
+{
+  "ticker": "GM",
+  "stock": {
+    "ticker": "GM",
+    "name": "General Motors",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 34.83,
+      "pct_of_portfolio": 0.49,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "GA",
+      "manager_name": "Greenhaven Associates",
+      "action": "add",
+      "share_change_pct": 2.77,
+      "pct_of_portfolio": 0.31,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GM",
+    "asof": "2026-08-12",
+    "market_cap": 78741544960.0,
+    "pe": 38.86607,
+    "forward_pe": 5.919622,
+    "ev_ebitda": 11.183,
+    "fcf_yield": 0.27855372006152723,
+    "roe": 0.03164,
+    "gross_margin": 0.10177,
+    "op_margin": 0.03202,
+    "rev_growth": 0.019,
+    "debt_to_equity": 202.341
+  },
+  "market_stats": {
+    "ticker": "GM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0229,
+    "short_ratio": 2.7,
+    "putcall_oi_ratio": 0.7001697443547142,
+    "avg_volume": 7861701.0,
+    "beta": 1.329
+  },
+  "momentum": {
+    "ticker": "GM",
+    "asof": "2026-08-12",
+    "ret_1m": 13.39923904558631,
+    "ret_3m": 14.28433965263023,
+    "ret_6m": 9.089077645083222,
+    "ret_12m": 62.87265406874223,
+    "rsi14": 65.14445006161108,
+    "pct_vs_200dma": 11.419553861061127,
+    "score": 67.3,
+    "components_json": "{\"trend\": 82.16108681681092, \"rsi\": 65.14445006161108, \"vs_200dma\": 72.83910772212225, \"short_squeeze\": 11.45, \"options_skew\": 53.34867805154056}",
+    "thesis": null
+  }
+}

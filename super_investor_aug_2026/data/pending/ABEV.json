@@ -1,0 +1,55 @@
+{
+  "ticker": "ABEV",
+  "stock": {
+    "ticker": "ABEV",
+    "name": "Ambev S.A.",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Brewers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 3.37,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ABEV",
+    "asof": "2026-08-12",
+    "market_cap": 43869896704.0,
+    "pe": 14.225,
+    "forward_pe": 13.207986,
+    "ev_ebitda": 1.085,
+    "fcf_yield": 0.4526815184907712,
+    "roe": 0.184,
+    "gross_margin": 0.51903,
+    "op_margin": 0.23743,
+    "rev_growth": 0.003,
+    "debt_to_equity": 3.317
+  },
+  "market_stats": {
+    "ticker": "ABEV",
+    "asof": "2026-08-08",
+    "short_pct_float": null,
+    "short_ratio": 5.47,
+    "putcall_oi_ratio": 23.0,
+    "avg_volume": 27387537.0,
+    "beta": 0.262
+  },
+  "momentum": {
+    "ticker": "ABEV",
+    "asof": "2026-08-08",
+    "ret_1m": -1.3157882353605488,
+    "ret_3m": -8.275345008632728,
+    "ret_6m": 3.3872353543927813,
+    "ret_12m": 34.49121498907217,
+    "rsi14": 39.4737106280563,
+    "pct_vs_200dma": 4.997983003261908,
+    "score": 45.9,
+    "components_json": "{\"trend\": 62.33005309935689, \"rsi\": 39.4737106280563, \"vs_200dma\": 59.995966006523815, \"short_squeeze\": 0.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

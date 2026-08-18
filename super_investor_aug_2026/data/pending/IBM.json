@@ -1,0 +1,71 @@
+{
+  "ticker": "IBM",
+  "stock": {
+    "ticker": "IBM",
+    "name": "International Business Machines",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 0.18,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 0.55,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "IBM",
+    "asof": "2026-08-12",
+    "market_cap": 219451359232.0,
+    "pe": 20.704887,
+    "forward_pe": 17.679817,
+    "ev_ebitda": 17.11,
+    "fcf_yield": 0.05490852304660926,
+    "roe": 0.34460998,
+    "gross_margin": 0.58098,
+    "op_margin": 0.16548,
+    "rev_growth": 0.011,
+    "debt_to_equity": 188.97
+  },
+  "market_stats": {
+    "ticker": "IBM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.026199998,
+    "short_ratio": 1.67,
+    "putcall_oi_ratio": 0.5581635680885678,
+    "avg_volume": 11348274.0,
+    "beta": 0.705
+  },
+  "momentum": {
+    "ticker": "IBM",
+    "asof": "2026-08-12",
+    "ret_1m": 8.49838547377384,
+    "ret_3m": 7.43428640491246,
+    "ret_6m": -18.682881268460918,
+    "ret_12m": 1.5315659768697865,
+    "rsi14": 76.39036057505206,
+    "pct_vs_200dma": -11.648846190388461,
+    "score": 44.6,
+    "components_json": "{\"trend\": 47.238047931683376, \"rsi\": 76.39036057505206, \"vs_200dma\": 26.702307619223077, \"short_squeeze\": 13.099999, \"options_skew\": 62.82049000849253}",
+    "thesis": null
+  }
+}

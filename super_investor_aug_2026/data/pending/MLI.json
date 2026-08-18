@@ -1,0 +1,55 @@
+{
+  "ticker": "MLI",
+  "stock": {
+    "ticker": "MLI",
+    "name": "Mueller Industries, Inc.",
+    "sector": "Industrials",
+    "industry": "Metal Fabrication"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 86.78,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MLI",
+    "asof": "2026-08-12",
+    "market_cap": 15060240384.0,
+    "pe": 17.73177,
+    "forward_pe": 15.545661,
+    "ev_ebitda": 12.644,
+    "fcf_yield": 0.03485600034363967,
+    "roe": 0.26325,
+    "gross_margin": 0.28776,
+    "op_margin": 0.2181,
+    "rev_growth": 0.255,
+    "debt_to_equity": 0.691
+  },
+  "market_stats": {
+    "ticker": "MLI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.021300001,
+    "short_ratio": 2.66,
+    "putcall_oi_ratio": 0.35086168802474593,
+    "avg_volume": 1438309.0,
+    "beta": 1.122
+  },
+  "momentum": {
+    "ticker": "MLI",
+    "asof": "2026-08-12",
+    "ret_1m": 17.490498859019187,
+    "ret_3m": -1.045377234808964,
+    "ret_6m": 18.64627052418928,
+    "ret_12m": 57.343012367026304,
+    "rsi14": 80.2959304559837,
+    "pct_vs_200dma": 12.303564645484322,
+    "score": 70.7,
+    "components_json": "{\"trend\": 78.21747293362462, \"rsi\": 80.2959304559837, \"vs_200dma\": 74.60712929096864, \"short_squeeze\": 10.650000499999999, \"options_skew\": 76.64752540874944}",
+    "thesis": null
+  }
+}

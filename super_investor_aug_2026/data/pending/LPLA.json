@@ -1,0 +1,55 @@
+{
+  "ticker": "LPLA",
+  "stock": {
+    "ticker": "LPLA",
+    "name": "LPL Financial Holdings Inc.",
+    "sector": "Financial Services",
+    "industry": "Capital Markets"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 5.0,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LPLA",
+    "asof": "2026-08-12",
+    "market_cap": 29331503104.0,
+    "pe": 29.87169,
+    "forward_pe": 12.475656,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.18591999,
+    "gross_margin": 0.2989,
+    "op_margin": 0.11099,
+    "rev_growth": 0.364,
+    "debt_to_equity": 135.371
+  },
+  "market_stats": {
+    "ticker": "LPLA",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0369,
+    "short_ratio": 3.79,
+    "putcall_oi_ratio": 0.10032362459546926,
+    "avg_volume": 962435.0,
+    "beta": 0.479
+  },
+  "momentum": {
+    "ticker": "LPLA",
+    "asof": "2026-08-12",
+    "ret_1m": 19.631100514988418,
+    "ret_3m": 20.473247699238193,
+    "ret_6m": 0.27591413186915936,
+    "ret_12m": -1.2567479439150708,
+    "rsi14": 78.27160198048344,
+    "pct_vs_200dma": 12.738526881908662,
+    "score": 64.1,
+    "components_json": "{\"trend\": 55.722049371766175, \"rsi\": 78.27160198048344, \"vs_200dma\": 75.47705376381732, \"short_squeeze\": 18.450000000000003, \"options_skew\": 93.3584142394822}",
+    "thesis": null
+  }
+}

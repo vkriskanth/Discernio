@@ -1,0 +1,55 @@
+{
+  "ticker": "LNC",
+  "stock": {
+    "ticker": "LNC",
+    "name": "Lincoln National Corporation",
+    "sector": "Financial Services",
+    "industry": "Insurance - Life"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "add",
+      "share_change_pct": 13.06,
+      "pct_of_portfolio": 0.61,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LNC",
+    "asof": "2026-08-12",
+    "market_cap": 8424640000.0,
+    "pe": 3.7072453,
+    "forward_pe": 5.1023664,
+    "ev_ebitda": null,
+    "fcf_yield": 0.24563363847001177,
+    "roe": 0.22587,
+    "gross_margin": 0.27076998,
+    "op_margin": 0.046079997,
+    "rev_growth": 0.126,
+    "debt_to_equity": 63.803
+  },
+  "market_stats": {
+    "ticker": "LNC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0007,
+    "short_ratio": 0.06,
+    "putcall_oi_ratio": 0.6168498168498169,
+    "avg_volume": 1902964.0,
+    "beta": 1.125
+  },
+  "momentum": {
+    "ticker": "LNC",
+    "asof": "2026-08-12",
+    "ret_1m": 6.446921850755105,
+    "ret_3m": 26.606214009970273,
+    "ret_6m": 14.433251285507055,
+    "ret_12m": 20.336446429607278,
+    "rsi14": 61.71340320677449,
+    "pct_vs_200dma": 14.444620269767917,
+    "score": 63.1,
+    "components_json": "{\"trend\": 70.4464181604861, \"rsi\": 61.71340320677449, \"vs_200dma\": 78.88924053953583, \"short_squeeze\": 0.35, \"options_skew\": 58.90611721611722}",
+    "thesis": null
+  }
+}

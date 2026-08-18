@@ -1,0 +1,55 @@
+{
+  "ticker": "GSHD",
+  "stock": {
+    "ticker": "GSHD",
+    "name": "Goosehead Insurance, Inc.",
+    "sector": "Financial Services",
+    "industry": "Insurance Brokers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AC",
+      "manager_name": "Chuck Akre - Akre Capital Management",
+      "action": "add",
+      "share_change_pct": 19.48,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GSHD",
+    "asof": "2026-08-12",
+    "market_cap": 3034510336.0,
+    "pe": 46.007195,
+    "forward_pe": 23.66345,
+    "ev_ebitda": 17.292,
+    "fcf_yield": 0.012151507794369892,
+    "roe": null,
+    "gross_margin": 0.49583,
+    "op_margin": 0.23388,
+    "rev_growth": 0.207,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "GSHD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.097799994,
+    "short_ratio": 2.63,
+    "putcall_oi_ratio": 0.1324561403508772,
+    "avg_volume": 582145.0,
+    "beta": 1.346
+  },
+  "momentum": {
+    "ticker": "GSHD",
+    "asof": "2026-08-12",
+    "ret_1m": 29.532802718794706,
+    "ret_3m": 64.32533738181895,
+    "ret_6m": 30.25789320876362,
+    "ret_12m": -24.75458882680894,
+    "rsi14": 65.19919166509202,
+    "pct_vs_200dma": 17.057559924994425,
+    "score": 72.2,
+    "components_json": "{\"trend\": 68.4731336464512, \"rsi\": 65.19919166509202, \"vs_200dma\": 84.11511984998884, \"short_squeeze\": 48.899997, \"options_skew\": 91.21517543859649}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "GSK",
+  "stock": {
+    "ticker": "GSK",
+    "name": "GSK plc",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 30.2,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GSK",
+    "asof": "2026-08-12",
+    "market_cap": 100580900864.0,
+    "pe": 15.792453,
+    "forward_pe": 9.77722,
+    "ev_ebitda": 10.787,
+    "fcf_yield": 0.03462511266138902,
+    "roe": 0.33383,
+    "gross_margin": 0.73493,
+    "op_margin": 0.30943,
+    "rev_growth": 0.053,
+    "debt_to_equity": 106.497
+  },
+  "market_stats": {
+    "ticker": "GSK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0073,
+    "short_ratio": 3.24,
+    "putcall_oi_ratio": 1.9855685681904043,
+    "avg_volume": 3977338.0,
+    "beta": 0.295
+  },
+  "momentum": {
+    "ticker": "GSK",
+    "asof": "2026-08-12",
+    "ret_1m": -1.7170752548589907,
+    "ret_3m": -0.13787940849574465,
+    "ret_6m": -12.888368115022619,
+    "ret_12m": 38.575734299501185,
+    "rsi14": 48.02137536382427,
+    "pct_vs_200dma": -1.9810437925124824,
+    "score": 43.7,
+    "components_json": "{\"trend\": 61.52241946274496, \"rsi\": 48.02137536382427, \"vs_200dma\": 46.03791241497503, \"short_squeeze\": 3.65, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

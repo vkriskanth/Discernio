@@ -1,0 +1,55 @@
+{
+  "ticker": "AMD",
+  "stock": {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.6,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AMD",
+    "asof": "2026-08-12",
+    "market_cap": 791799332864.0,
+    "pe": 123.10406,
+    "forward_pe": 31.373484,
+    "ev_ebitda": 80.054,
+    "fcf_yield": 0.011166338844994484,
+    "roe": 0.10196,
+    "gross_margin": 0.55724,
+    "op_margin": 0.1725,
+    "rev_growth": 0.501,
+    "debt_to_equity": 6.361
+  },
+  "market_stats": {
+    "ticker": "AMD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0232,
+    "short_ratio": 1.34,
+    "putcall_oi_ratio": 1.3915851678204705,
+    "avg_volume": 30281243.0,
+    "beta": 2.489
+  },
+  "momentum": {
+    "ticker": "AMD",
+    "asof": "2026-08-12",
+    "ret_1m": -11.193514392529114,
+    "ret_3m": 8.584841200560911,
+    "ret_6m": 127.92291857606929,
+    "ret_12m": 182.54875629531338,
+    "rsi14": 41.13131816966817,
+    "pct_vs_200dma": 51.20730734867212,
+    "score": 73.1,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 41.13131816966817, \"vs_200dma\": 100.0, \"short_squeeze\": 11.6, \"options_skew\": 7.231269306374619}",
+    "thesis": null
+  }
+}

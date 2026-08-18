@@ -1,0 +1,63 @@
+{
+  "ticker": "BTI",
+  "stock": {
+    "ticker": "BTI",
+    "name": "British American Tobacco  Indus",
+    "sector": "Consumer Defensive",
+    "industry": "Tobacco"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 3.67,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 15.46,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BTI",
+    "asof": "2026-08-12",
+    "market_cap": 121434963968.0,
+    "pe": 14.334605,
+    "forward_pe": 10.789252,
+    "ev_ebitda": 57.837,
+    "fcf_yield": 0.029030971483048253,
+    "roe": 0.13424,
+    "gross_margin": 0.82716006,
+    "op_margin": 0.34908,
+    "rev_growth": 0.014,
+    "debt_to_equity": 72.154
+  },
+  "market_stats": {
+    "ticker": "BTI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0036000002,
+    "short_ratio": 1.34,
+    "putcall_oi_ratio": 0.3076535908647645,
+    "avg_volume": 4220132.0,
+    "beta": 0.125
+  },
+  "momentum": {
+    "ticker": "BTI",
+    "asof": "2026-08-12",
+    "ret_1m": -6.887480886006092,
+    "ret_3m": -2.414616062128072,
+    "ret_6m": -7.195411992146439,
+    "ret_12m": 4.810037530664912,
+    "rsi14": 27.781717684384404,
+    "pct_vs_200dma": -2.6554067062044995,
+    "score": 43.1,
+    "components_json": "{\"trend\": 49.04100659598361, \"rsi\": 27.781717684384404, \"vs_200dma\": 44.689186587591, \"short_squeeze\": 1.8000000999999999, \"options_skew\": 79.52950548932021}",
+    "thesis": null
+  }
+}

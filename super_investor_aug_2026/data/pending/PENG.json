@@ -1,0 +1,55 @@
+{
+  "ticker": "PENG",
+  "stock": {
+    "ticker": "PENG",
+    "name": "Penguin Solutions, Inc.",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PENG",
+    "asof": "2026-08-12",
+    "market_cap": 3107613440.0,
+    "pe": 42.114582,
+    "forward_pe": 18.134706,
+    "ev_ebitda": 18.534,
+    "fcf_yield": -0.03461434379689129,
+    "roe": 0.16194999,
+    "gross_margin": 0.27924,
+    "op_margin": 0.108260006,
+    "rev_growth": 0.476,
+    "debt_to_equity": 77.496
+  },
+  "market_stats": {
+    "ticker": "PENG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1879,
+    "short_ratio": 1.4,
+    "putcall_oi_ratio": 0.5311087550917918,
+    "avg_volume": 3749446.0,
+    "beta": 2.874
+  },
+  "momentum": {
+    "ticker": "PENG",
+    "asof": "2026-08-12",
+    "ret_1m": -22.94344677203076,
+    "ret_3m": 35.848627491320116,
+    "ret_6m": 220.75975949650893,
+    "ret_12m": 156.5254540440401,
+    "rsi14": 51.84387073365503,
+    "pct_vs_200dma": 76.66946542716029,
+    "score": 88.6,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 51.84387073365503, \"vs_200dma\": 100.0, \"short_squeeze\": 93.95000000000002, \"options_skew\": 64.6250460353775}",
+    "thesis": null
+  }
+}

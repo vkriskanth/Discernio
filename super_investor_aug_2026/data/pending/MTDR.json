@@ -1,0 +1,55 @@
+{
+  "ticker": "MTDR",
+  "stock": {
+    "ticker": "MTDR",
+    "name": "Matador Resources Company",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 33.99,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MTDR",
+    "asof": "2026-08-12",
+    "market_cap": 6479770624.0,
+    "pe": 8.9811325,
+    "forward_pe": 6.063231,
+    "ev_ebitda": 4.635,
+    "fcf_yield": -0.140091991009341,
+    "roe": 0.13592,
+    "gross_margin": 0.8239,
+    "op_margin": 0.492,
+    "rev_growth": 0.268,
+    "debt_to_equity": 69.104
+  },
+  "market_stats": {
+    "ticker": "MTDR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1252,
+    "short_ratio": 7.59,
+    "putcall_oi_ratio": 0.21287128712871287,
+    "avg_volume": 1907053.0,
+    "beta": 0.771
+  },
+  "momentum": {
+    "ticker": "MTDR",
+    "asof": "2026-08-12",
+    "ret_1m": 2.686543472401093,
+    "ret_3m": -4.597773271607297,
+    "ret_6m": 12.949602604369481,
+    "ret_12m": 17.95228345419202,
+    "rsi14": 52.625390830771124,
+    "pct_vs_200dma": 5.962563449768821,
+    "score": 62.1,
+    "components_json": "{\"trend\": 59.68646218150546, \"rsi\": 52.625390830771124, \"vs_200dma\": 61.925126899537645, \"short_squeeze\": 62.60000000000001, \"options_skew\": 85.85148514851485}",
+    "thesis": null
+  }
+}

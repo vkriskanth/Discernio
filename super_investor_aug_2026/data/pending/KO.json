@@ -1,0 +1,63 @@
+{
+  "ticker": "KO",
+  "stock": {
+    "ticker": "KO",
+    "name": "Coca-Cola Company (The)",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Non-Alcoholic"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 1.38,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "JIM",
+      "manager_name": "Jensen Investment Management",
+      "action": "add",
+      "share_change_pct": 0.02,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KO",
+    "asof": "2026-08-12",
+    "market_cap": 372557709312.0,
+    "pe": 26.003002,
+    "forward_pe": 24.554924,
+    "ev_ebitda": 23.658,
+    "fcf_yield": 0.014007896821239945,
+    "roe": 0.42054,
+    "gross_margin": 0.61888003,
+    "op_margin": 0.34873,
+    "rev_growth": 0.067,
+    "debt_to_equity": 115.519
+  },
+  "market_stats": {
+    "ticker": "KO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0105,
+    "short_ratio": 2.56,
+    "putcall_oi_ratio": 0.7958824734071388,
+    "avg_volume": 17872050.0,
+    "beta": 0.342
+  },
+  "momentum": {
+    "ticker": "KO",
+    "asof": "2026-08-12",
+    "ret_1m": 4.74843477115765,
+    "ret_3m": 9.442535415540476,
+    "ret_6m": 14.814621330026956,
+    "ret_12m": 26.487087030543186,
+    "rsi14": 74.32487687430307,
+    "pct_vs_200dma": 14.325037300896248,
+    "score": 63.2,
+    "components_json": "{\"trend\": 67.87198183588751, \"rsi\": 74.32487687430307, \"vs_200dma\": 78.6500746017925, \"short_squeeze\": 5.25, \"options_skew\": 46.96463902374384}",
+    "thesis": null
+  }
+}

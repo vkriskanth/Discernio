@@ -1,0 +1,55 @@
+{
+  "ticker": "OSIS",
+  "stock": {
+    "ticker": "OSIS",
+    "name": "OSI Systems, Inc.",
+    "sector": "Technology",
+    "industry": "Electronic Components"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 111.51,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "OSIS",
+    "asof": "2026-08-12",
+    "market_cap": 3773015808.0,
+    "pe": 26.130707,
+    "forward_pe": 20.010035,
+    "ev_ebitda": 17.123,
+    "fcf_yield": 0.009800582314443354,
+    "roe": 0.17165,
+    "gross_margin": 0.32839,
+    "op_margin": 0.13101,
+    "rev_growth": 0.02,
+    "debt_to_equity": 116.873
+  },
+  "market_stats": {
+    "ticker": "OSIS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.15630001,
+    "short_ratio": 11.23,
+    "putcall_oi_ratio": 1.1515151515151516,
+    "avg_volume": 238524.0,
+    "beta": 1.213
+  },
+  "momentum": {
+    "ticker": "OSIS",
+    "asof": "2026-08-12",
+    "ret_1m": 8.87856615534628,
+    "ret_3m": 1.0553598600923086,
+    "ret_6m": -16.158339131227695,
+    "ret_12m": 2.493085499713432,
+    "rsi14": 66.25209993216532,
+    "pct_vs_200dma": -10.1647601171463,
+    "score": 46.1,
+    "components_json": "{\"trend\": 46.46634041854476, \"rsi\": 66.25209993216532, \"vs_200dma\": 29.6704797657074, \"short_squeeze\": 78.150005, \"options_skew\": 23.24393939393939}",
+    "thesis": null
+  }
+}

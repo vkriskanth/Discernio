@@ -1,0 +1,55 @@
+{
+  "ticker": "TRGP",
+  "stock": {
+    "ticker": "TRGP",
+    "name": "Targa Resources, Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 380.95,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TRGP",
+    "asof": "2026-08-12",
+    "market_cap": 57496465408.0,
+    "pe": 25.634321,
+    "forward_pe": 22.303677,
+    "ev_ebitda": 13.916,
+    "fcf_yield": 0.0011450703888110563,
+    "roe": 0.70839995,
+    "gross_margin": 0.43192002,
+    "op_margin": 0.27803,
+    "rev_growth": 0.042,
+    "debt_to_equity": 515.794
+  },
+  "market_stats": {
+    "ticker": "TRGP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0251,
+    "short_ratio": 3.75,
+    "putcall_oi_ratio": 0.14132066033016508,
+    "avg_volume": 1230464.0,
+    "beta": 0.716
+  },
+  "momentum": {
+    "ticker": "TRGP",
+    "asof": "2026-08-12",
+    "ret_1m": -4.416251972756225,
+    "ret_3m": 5.4882614550389786,
+    "ret_6m": 24.627135400459288,
+    "ret_12m": 64.75279644125891,
+    "rsi14": 39.258332236599244,
+    "pct_vs_200dma": 19.01567423262356,
+    "score": 72.2,
+    "components_json": "{\"trend\": 84.93573763315305, \"rsi\": 39.258332236599244, \"vs_200dma\": 88.03134846524712, \"short_squeeze\": 12.55, \"options_skew\": 90.62391195597799}",
+    "thesis": null
+  }
+}

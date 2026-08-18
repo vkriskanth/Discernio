@@ -1,0 +1,71 @@
+{
+  "ticker": "UNP",
+  "stock": {
+    "ticker": "UNP",
+    "name": "Union Pacific Corporation",
+    "sector": "Industrials",
+    "industry": "Railroads"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 3.44,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 7.15,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 10.62,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "UNP",
+    "asof": "2026-08-12",
+    "market_cap": 174474035200.0,
+    "pe": 23.761328,
+    "forward_pe": 20.74819,
+    "ev_ebitda": 15.759,
+    "fcf_yield": 0.027057035017208107,
+    "roe": 0.39696,
+    "gross_margin": 0.56285,
+    "op_margin": 0.40982,
+    "rev_growth": 0.115,
+    "debt_to_equity": 150.772
+  },
+  "market_stats": {
+    "ticker": "UNP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.049200002,
+    "short_ratio": 8.42,
+    "putcall_oi_ratio": 0.5967885816235504,
+    "avg_volume": 2993937.0,
+    "beta": 0.965
+  },
+  "momentum": {
+    "ticker": "UNP",
+    "asof": "2026-08-12",
+    "ret_1m": 1.7950116301298946,
+    "ret_3m": 11.069173978234259,
+    "ret_6m": 13.478244451813048,
+    "ret_12m": 36.644131333453345,
+    "rsi14": 34.44179670619029,
+    "pct_vs_200dma": 16.54668753330162,
+    "score": 63.2,
+    "components_json": "{\"trend\": 72.02187806239553, \"rsi\": 34.44179670619029, \"vs_200dma\": 83.09337506660324, \"short_squeeze\": 24.600001, \"options_skew\": 60.244201605709186}",
+    "thesis": null
+  }
+}

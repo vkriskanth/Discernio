@@ -1,0 +1,207 @@
+{
+  "ticker": "V",
+  "stock": {
+    "ticker": "V",
+    "name": "Visa Inc.",
+    "sector": "Financial Services",
+    "industry": "Credit Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "psc",
+      "manager_name": "Bill Ackman - Pershing Square Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 5.76,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 4.14,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VA",
+      "manager_name": "ValueAct Capital",
+      "action": "add",
+      "share_change_pct": 34.8,
+      "pct_of_portfolio": 3.17,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 58.83,
+      "pct_of_portfolio": 1.98,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "tci",
+      "manager_name": "Chris Hohn - TCI Fund Management",
+      "action": "add",
+      "share_change_pct": 9.9,
+      "pct_of_portfolio": 1.84,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TGM",
+      "manager_name": "Chase Coleman - Tiger Global Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.14,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 630554.95,
+      "pct_of_portfolio": 0.97,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "add",
+      "share_change_pct": 3.74,
+      "pct_of_portfolio": 0.51,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "WP",
+      "manager_name": "David Rolfe - Wedgewood Partners",
+      "action": "add",
+      "share_change_pct": 7.44,
+      "pct_of_portfolio": 0.44,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "add",
+      "share_change_pct": 509.68,
+      "pct_of_portfolio": 0.18,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "add",
+      "share_change_pct": 78.88,
+      "pct_of_portfolio": 0.15,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 4.78,
+      "pct_of_portfolio": 0.12,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 11.2,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 3.87,
+      "pct_of_portfolio": 0.11,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 1.03,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 1.32,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 0.95,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "tci",
+      "manager_name": "Chris Hohn - TCI Fund Management",
+      "action": "add",
+      "share_change_pct": 0.09,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "LT",
+      "manager_name": "Lindsell Train",
+      "action": "add",
+      "share_change_pct": 1.94,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "CCM",
+      "manager_name": "Glenn Greenberg - Brave Warrior Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "V",
+    "asof": "2026-08-15",
+    "market_cap": 679885275136.0,
+    "pe": 31.04433,
+    "forward_pe": 24.315084,
+    "ev_ebitda": 21.942,
+    "fcf_yield": 0.030010946720266166,
+    "roe": 0.6119,
+    "gross_margin": 0.97725,
+    "op_margin": 0.66130996,
+    "rev_growth": 0.144,
+    "debt_to_equity": 67.821
+  },
+  "market_stats": {
+    "ticker": "V",
+    "asof": "2026-08-14",
+    "short_pct_float": 0.012200001,
+    "short_ratio": 2.58,
+    "putcall_oi_ratio": 0.9459414225941423,
+    "avg_volume": 8122724.0,
+    "beta": 0.759
+  },
+  "momentum": {
+    "ticker": "V",
+    "asof": "2026-08-14",
+    "ret_1m": 0.23241772122115645,
+    "ret_3m": 13.47782075922257,
+    "ret_6m": 13.130784076547064,
+    "ret_12m": 7.497194363420667,
+    "rsi14": 54.66480827041315,
+    "pct_vs_200dma": 10.70693968755716,
+    "score": 54.8,
+    "components_json": "{\"trend\": 60.98145919609916, \"rsi\": 54.66480827041315, \"vs_200dma\": 71.41387937511432, \"short_squeeze\": 6.1000005, \"options_skew\": 36.955707112970714}",
+    "thesis": null
+  }
+}

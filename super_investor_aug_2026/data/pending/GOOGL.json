@@ -1,0 +1,95 @@
+{
+  "ticker": "GOOGL",
+  "stock": {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "BRK",
+      "manager_name": "Warren Buffett - Berkshire Hathaway",
+      "action": "add",
+      "share_change_pct": 203.99,
+      "pct_of_portfolio": 3.98,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "tp",
+      "manager_name": "Daniel Loeb - Third Point",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.42,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "tci",
+      "manager_name": "Chris Hohn - TCI Fund Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.56,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.43,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 11.8,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 319.61,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GOOGL",
+    "asof": "2026-08-12",
+    "market_cap": 4204284608512.0,
+    "pe": 17.24022,
+    "forward_pe": 23.323929,
+    "ev_ebitda": 23.683,
+    "fcf_yield": 0.005390929271085123,
+    "roe": 0.48676,
+    "gross_margin": 0.60897,
+    "op_margin": 0.34033,
+    "rev_growth": 0.242,
+    "debt_to_equity": 18.859
+  },
+  "market_stats": {
+    "ticker": "GOOGL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.012,
+    "short_ratio": 2.36,
+    "putcall_oi_ratio": 0.5428618134263296,
+    "avg_volume": 33035696.0,
+    "beta": 1.237
+  },
+  "momentum": {
+    "ticker": "GOOGL",
+    "asof": "2026-08-12",
+    "ret_1m": -4.629918244029252,
+    "ret_3m": -11.431577878564381,
+    "ret_6m": 7.762982441971533,
+    "ret_12m": 71.06622295524477,
+    "rsi14": 61.73276510917038,
+    "pct_vs_200dma": 3.8103577010311973,
+    "score": 61.6,
+    "components_json": "{\"trend\": 77.32591055112006, \"rsi\": 61.73276510917038, \"vs_200dma\": 57.620715402062395, \"short_squeeze\": 6.0, \"options_skew\": 63.84111704446382}",
+    "thesis": null
+  }
+}

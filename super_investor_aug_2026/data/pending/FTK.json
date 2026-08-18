@@ -1,0 +1,55 @@
+{
+  "ticker": "FTK",
+  "stock": {
+    "ticker": "FTK",
+    "name": "Flotek Industries, Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 607.27,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FTK",
+    "asof": "2026-08-12",
+    "market_cap": 1387604608.0,
+    "pe": 36.83654,
+    "forward_pe": 43.044945,
+    "ev_ebitda": 35.785,
+    "fcf_yield": -0.016468488118482814,
+    "roe": 0.37796003,
+    "gross_margin": 0.24679,
+    "op_margin": 0.14981,
+    "rev_growth": 0.703,
+    "debt_to_equity": 44.259
+  },
+  "market_stats": {
+    "ticker": "FTK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.19690001,
+    "short_ratio": 8.83,
+    "putcall_oi_ratio": 0.4494535519125683,
+    "avg_volume": 373109.0,
+    "beta": 1.477
+  },
+  "momentum": {
+    "ticker": "FTK",
+    "asof": "2026-08-12",
+    "ret_1m": 50.72231644582268,
+    "ret_3m": 131.85184940988756,
+    "ret_6m": 133.00247777826556,
+    "ret_12m": 212.47920085586318,
+    "rsi14": 74.11146725388755,
+    "pct_vs_200dma": 98.434613956555,
+    "score": 93.0,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 74.11146725388755, \"vs_200dma\": 100.0, \"short_squeeze\": 98.45000499999999, \"options_skew\": 70.0714480874317}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "SMTC",
+  "stock": {
+    "ticker": "SMTC",
+    "name": "Semtech Corporation",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 103.77,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SMTC",
+    "asof": "2026-08-12",
+    "market_cap": 13022998528.0,
+    "pe": null,
+    "forward_pe": 35.648533,
+    "ev_ebitda": 82.88,
+    "fcf_yield": 0.010175181676869188,
+    "roe": -0.05806,
+    "gross_margin": 0.52394,
+    "op_margin": 0.09267,
+    "rev_growth": 0.159,
+    "debt_to_equity": 90.284
+  },
+  "market_stats": {
+    "ticker": "SMTC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0913,
+    "short_ratio": 2.84,
+    "putcall_oi_ratio": 0.22355611601513242,
+    "avg_volume": 3484653.0,
+    "beta": 2.345
+  },
+  "momentum": {
+    "ticker": "SMTC",
+    "asof": "2026-08-12",
+    "ret_1m": -0.6366680055167384,
+    "ret_3m": 6.344643221258783,
+    "ret_6m": 58.5506406142511,
+    "ret_12m": 189.25041750744893,
+    "rsi14": 50.85298727249834,
+    "pct_vs_200dma": 37.857734926007794,
+    "score": 85.7,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 50.85298727249834, \"vs_200dma\": 100.0, \"short_squeeze\": 45.650000000000006, \"options_skew\": 85.13880706179067}",
+    "thesis": null
+  }
+}

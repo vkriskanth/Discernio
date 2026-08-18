@@ -1,0 +1,55 @@
+{
+  "ticker": "ST",
+  "stock": {
+    "ticker": "ST",
+    "name": "Sensata Technologies Holding pl",
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 0.26,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ST",
+    "asof": "2026-08-12",
+    "market_cap": 6715024384.0,
+    "pe": 74.41935,
+    "forward_pe": 11.265583,
+    "ev_ebitda": 11.352,
+    "fcf_yield": 0.07506294470069344,
+    "roe": 0.03079,
+    "gross_margin": 0.29497,
+    "op_margin": 0.16394,
+    "rev_growth": 0.05,
+    "debt_to_equity": 82.598
+  },
+  "market_stats": {
+    "ticker": "ST",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0584,
+    "short_ratio": 4.17,
+    "putcall_oi_ratio": 0.07252696809731467,
+    "avg_volume": 2059908.0,
+    "beta": 1.265
+  },
+  "momentum": {
+    "ticker": "ST",
+    "asof": "2026-08-12",
+    "ret_1m": 3.178871819676421,
+    "ret_3m": 3.8296931433071446,
+    "ret_6m": 27.735198968156638,
+    "ret_12m": 58.65957521966314,
+    "rsi14": 51.95345621973688,
+    "pct_vs_200dma": 17.7047550886952,
+    "score": 74.8,
+    "components_json": "{\"trend\": 82.9332977213044, \"rsi\": 51.95345621973688, \"vs_200dma\": 85.4095101773904, \"short_squeeze\": 29.2, \"options_skew\": 95.21245122790911}",
+    "thesis": null
+  }
+}

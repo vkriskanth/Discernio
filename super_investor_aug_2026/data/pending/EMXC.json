@@ -1,0 +1,55 @@
+{
+  "ticker": "EMXC",
+  "stock": {
+    "ticker": "EMXC",
+    "name": "iShares MSCI Emerging Markets e",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EMXC",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 19.397234,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "EMXC",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.13716814159292035,
+    "avg_volume": 2811769.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "EMXC",
+    "asof": "2026-08-12",
+    "ret_1m": -1.3674827707962134,
+    "ret_3m": 1.7297359369968568,
+    "ret_6m": 22.016943526906594,
+    "ret_12m": 56.41628772447067,
+    "rsi14": 60.15498376575391,
+    "pct_vs_200dma": 15.425445337249123,
+    "score": 70.2,
+    "components_json": "{\"trend\": 79.6905189289593, \"rsi\": 60.15498376575391, \"vs_200dma\": 80.85089067449825, \"short_squeeze\": 0.0, \"options_skew\": 90.9008849557522}",
+    "thesis": null
+  }
+}

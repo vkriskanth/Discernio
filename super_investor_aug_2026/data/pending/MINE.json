@@ -1,0 +1,55 @@
+{
+  "ticker": "MINE",
+  "stock": {
+    "ticker": "MINE",
+    "name": "Mayfair Gold Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oc",
+      "manager_name": "Howard Marks - Oaktree Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.32,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MINE",
+    "asof": "2026-08-12",
+    "market_cap": 181273936.0,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": -9.364,
+    "fcf_yield": -0.047432417421553644,
+    "roe": -0.45194,
+    "gross_margin": 0.0,
+    "op_margin": 0.0,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "MINE",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 3.41,
+    "putcall_oi_ratio": null,
+    "avg_volume": 46696.0,
+    "beta": 0.334
+  },
+  "momentum": {
+    "ticker": "MINE",
+    "asof": "2026-08-12",
+    "ret_1m": 14.042560660283531,
+    "ret_3m": -12.987008664193311,
+    "ret_6m": -27.76280217787337,
+    "ret_12m": null,
+    "rsi14": 68.75000620881693,
+    "pct_vs_200dma": null,
+    "score": 42.9,
+    "components_json": "{\"trend\": 37.77505674738, \"rsi\": 68.75000620881693, \"vs_200dma\": 50, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

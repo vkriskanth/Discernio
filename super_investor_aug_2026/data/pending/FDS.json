@@ -1,0 +1,71 @@
+{
+  "ticker": "FDS",
+  "stock": {
+    "ticker": "FDS",
+    "name": "FactSet Research Systems",
+    "sector": "Financial Services",
+    "industry": "Financial Data & Stock Exchanges"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.65,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 79.41,
+      "pct_of_portfolio": 0.24,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "YAM",
+      "manager_name": "Yacktman Asset Management",
+      "action": "add",
+      "share_change_pct": 1.66,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FDS",
+    "asof": "2026-08-12",
+    "market_cap": 9892912128.0,
+    "pe": 18.33619,
+    "forward_pe": 14.119182,
+    "ev_ebitda": 12.149,
+    "fcf_yield": 0.06278852333499671,
+    "roe": 0.27032,
+    "gross_margin": 0.51382,
+    "op_margin": 0.30542,
+    "rev_growth": 0.064,
+    "debt_to_equity": 77.284
+  },
+  "market_stats": {
+    "ticker": "FDS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.128,
+    "short_ratio": 3.91,
+    "putcall_oi_ratio": 1.084149855907781,
+    "avg_volume": 956641.0,
+    "beta": 0.687
+  },
+  "momentum": {
+    "ticker": "FDS",
+    "asof": "2026-08-12",
+    "ret_1m": 15.134359980516177,
+    "ret_3m": 24.952649255905147,
+    "ret_6m": 34.483751775041085,
+    "ret_12m": -27.722632544573557,
+    "rsi14": 60.41438214984696,
+    "pct_vs_200dma": 13.08124065232188,
+    "score": 60.0,
+    "components_json": "{\"trend\": 56.74186729145445, \"rsi\": 60.41438214984696, \"vs_200dma\": 76.16248130464376, \"short_squeeze\": 64.0, \"options_skew\": 27.737204610951014}",
+    "thesis": null
+  }
+}

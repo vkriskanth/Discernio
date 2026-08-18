@@ -1,0 +1,55 @@
+{
+  "ticker": "SYK",
+  "stock": {
+    "ticker": "SYK",
+    "name": "Stryker Corporation",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AKO",
+      "manager_name": "AKO Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.61,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SYK",
+    "asof": "2026-08-12",
+    "market_cap": 131868581888.0,
+    "pe": 35.66286,
+    "forward_pe": 20.511024,
+    "ev_ebitda": 19.728,
+    "fcf_yield": 0.031149382978037415,
+    "roe": 0.16508,
+    "gross_margin": 0.65588,
+    "op_margin": 0.27015,
+    "rev_growth": 0.094,
+    "debt_to_equity": 64.391
+  },
+  "market_stats": {
+    "ticker": "SYK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0227,
+    "short_ratio": 3.3,
+    "putcall_oi_ratio": 0.4697998570407434,
+    "avg_volume": 2678156.0,
+    "beta": 0.771
+  },
+  "momentum": {
+    "ticker": "SYK",
+    "asof": "2026-08-12",
+    "ret_1m": 10.868935211537334,
+    "ret_3m": 17.439523367767706,
+    "ret_6m": -3.9671063723330735,
+    "ret_12m": -7.507543587811227,
+    "rsi14": 63.49057793995063,
+    "pct_vs_200dma": 1.362484029214639,
+    "score": 51.1,
+    "components_json": "{\"trend\": 51.038707663505896, \"rsi\": 63.49057793995063, \"vs_200dma\": 52.724968058429276, \"short_squeeze\": 11.35, \"options_skew\": 68.71434953538242}",
+    "thesis": null
+  }
+}

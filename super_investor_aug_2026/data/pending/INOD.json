@@ -1,0 +1,55 @@
+{
+  "ticker": "INOD",
+  "stock": {
+    "ticker": "INOD",
+    "name": "Innodata Inc.",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HH",
+      "manager_name": "Duan Yongping - H&H International Investment",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "INOD",
+    "asof": "2026-08-12",
+    "market_cap": 2033775616.0,
+    "pe": 48.27907,
+    "forward_pe": 29.8323,
+    "ev_ebitda": 32.228,
+    "fcf_yield": 0.08347688243696595,
+    "roe": 0.37765998,
+    "gross_margin": 0.43273,
+    "op_margin": 0.17212999,
+    "rev_growth": 0.578,
+    "debt_to_equity": 2.402
+  },
+  "market_stats": {
+    "ticker": "INOD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.14060001,
+    "short_ratio": 4.35,
+    "putcall_oi_ratio": 2.917525773195876,
+    "avg_volume": 1544514.0,
+    "beta": 2.915
+  },
+  "momentum": {
+    "ticker": "INOD",
+    "asof": "2026-08-12",
+    "ret_1m": -6.821563982712164,
+    "ret_3m": -32.06645253437743,
+    "ret_6m": 31.566776818224728,
+    "ret_12m": 56.12678275455989,
+    "rsi14": 53.63559114441814,
+    "pct_vs_200dma": 1.719940497193262,
+    "score": 57.4,
+    "components_json": "{\"trend\": 72.30081038697814, \"rsi\": 53.63559114441814, \"vs_200dma\": 53.43988099438653, \"short_squeeze\": 70.300005, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

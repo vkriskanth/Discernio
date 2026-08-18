@@ -1,0 +1,55 @@
+{
+  "ticker": "RXT",
+  "stock": {
+    "ticker": "RXT",
+    "name": "Rackspace Technology, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RXT",
+    "asof": "2026-08-12",
+    "market_cap": 1138007296.0,
+    "pe": null,
+    "forward_pe": 30.012772,
+    "ev_ebitda": 17.379,
+    "fcf_yield": 0.16400378508645344,
+    "roe": null,
+    "gross_margin": 0.18552,
+    "op_margin": -0.021340001,
+    "rev_growth": 0.006,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "RXT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.23889999,
+    "short_ratio": 1.95,
+    "putcall_oi_ratio": 0.9556531284302964,
+    "avg_volume": 18777412.0,
+    "beta": 3.103
+  },
+  "momentum": {
+    "ticker": "RXT",
+    "asof": "2026-08-12",
+    "ret_1m": -2.4731235612208136,
+    "ret_3m": -28.357031562853763,
+    "ret_6m": 933.0295533127554,
+    "ret_12m": 274.7933640032882,
+    "rsi14": 58.428802210151716,
+    "pct_vs_200dma": 76.58659629395999,
+    "score": 87.4,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 58.428802210151716, \"vs_200dma\": 100.0, \"short_squeeze\": 100.0, \"options_skew\": 36.30793633369923}",
+    "thesis": null
+  }
+}

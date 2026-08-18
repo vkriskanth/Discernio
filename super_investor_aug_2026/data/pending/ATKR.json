@@ -1,0 +1,55 @@
+{
+  "ticker": "ATKR",
+  "stock": {
+    "ticker": "ATKR",
+    "name": "Atkore International Group Inc.",
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "ca",
+      "manager_name": "Francis Chou - Chou Associates",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.24,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ATKR",
+    "asof": "2026-08-12",
+    "market_cap": 3169216256.0,
+    "pe": null,
+    "forward_pe": 14.675065,
+    "ev_ebitda": 12.765,
+    "fcf_yield": 0.0981174318449539,
+    "roe": -0.11868,
+    "gross_margin": 0.2059,
+    "op_margin": 0.09663,
+    "rev_growth": 0.081,
+    "debt_to_equity": 71.58
+  },
+  "market_stats": {
+    "ticker": "ATKR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.041500002,
+    "short_ratio": 3.64,
+    "putcall_oi_ratio": 1.7316715542521994,
+    "avg_volume": 704190.0,
+    "beta": 1.651
+  },
+  "momentum": {
+    "ticker": "ATKR",
+    "asof": "2026-08-12",
+    "ret_1m": 27.5210648220634,
+    "ret_3m": 27.275376582276834,
+    "ret_6m": 41.45207968205939,
+    "ret_12m": 77.8034379563099,
+    "rsi14": 78.45017118093537,
+    "pct_vs_200dma": 34.21184109179664,
+    "score": 78.8,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 78.45017118093537, \"vs_200dma\": 100.0, \"short_squeeze\": 20.750001, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

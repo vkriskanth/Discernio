@@ -1,0 +1,55 @@
+{
+  "ticker": "DKS",
+  "stock": {
+    "ticker": "DKS",
+    "name": "Dick's Sporting Goods Inc",
+    "sector": "Consumer Cyclical",
+    "industry": "Specialty Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 25.25,
+      "pct_of_portfolio": 0.49,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DKS",
+    "asof": "2026-08-12",
+    "market_cap": 18053556224.0,
+    "pe": 19.640701,
+    "forward_pe": 12.339887,
+    "ev_ebitda": 11.34,
+    "fcf_yield": -0.029762078636103292,
+    "roe": 0.20903999,
+    "gross_margin": 0.33565,
+    "op_margin": 0.105950005,
+    "rev_growth": 0.627,
+    "debt_to_equity": 138.992
+  },
+  "market_stats": {
+    "ticker": "DKS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1508,
+    "short_ratio": 6.76,
+    "putcall_oi_ratio": 3.8995448634590377,
+    "avg_volume": 1277941.0,
+    "beta": 1.186
+  },
+  "momentum": {
+    "ticker": "DKS",
+    "asof": "2026-08-12",
+    "ret_1m": -6.363887983135285,
+    "ret_3m": -7.906306956809561,
+    "ret_6m": 0.21445991405371068,
+    "ret_12m": -3.969020752564445,
+    "rsi14": 40.74516933189134,
+    "pct_vs_200dma": -3.5282552347729035,
+    "score": 42.8,
+    "components_json": "{\"trend\": 46.10483758614747, \"rsi\": 40.74516933189134, \"vs_200dma\": 42.943489530454194, \"short_squeeze\": 75.39999999999999, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

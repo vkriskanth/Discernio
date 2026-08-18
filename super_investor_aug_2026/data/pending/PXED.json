@@ -1,0 +1,55 @@
+{
+  "ticker": "PXED",
+  "stock": {
+    "ticker": "PXED",
+    "name": "Phoenix Education Partners, Inc",
+    "sector": "Consumer Defensive",
+    "industry": "Education & Training Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 50.65,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PXED",
+    "asof": "2026-08-12",
+    "market_cap": 970034880.0,
+    "pe": 12.344036,
+    "forward_pe": 5.8391213,
+    "ev_ebitda": 4.776,
+    "fcf_yield": 0.18270077875962562,
+    "roe": 0.25325,
+    "gross_margin": 0.56496,
+    "op_margin": 0.22794001,
+    "rev_growth": 0.0,
+    "debt_to_equity": 20.127
+  },
+  "market_stats": {
+    "ticker": "PXED",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1409,
+    "short_ratio": 5.11,
+    "putcall_oi_ratio": null,
+    "avg_volume": 119577.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "PXED",
+    "asof": "2026-08-12",
+    "ret_1m": -21.696600755516073,
+    "ret_3m": -12.679076112835386,
+    "ret_6m": -5.6217966310138205,
+    "ret_12m": null,
+    "rsi14": 42.972748957076405,
+    "pct_vs_200dma": -11.146560954531981,
+    "score": 43.2,
+    "components_json": "{\"trend\": 44.50973817684524, \"rsi\": 42.972748957076405, \"vs_200dma\": 27.706878090936037, \"short_squeeze\": 70.45, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

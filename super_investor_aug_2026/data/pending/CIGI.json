@@ -1,0 +1,71 @@
+{
+  "ticker": "CIGI",
+  "stock": {
+    "ticker": "CIGI",
+    "name": "Colliers International Group In",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VVP",
+      "manager_name": "Vulcan Value Partners",
+      "action": "add",
+      "share_change_pct": 38.46,
+      "pct_of_portfolio": 0.2,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 331.54,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FFH",
+      "manager_name": "Prem Watsa - Fairfax Financial Holdings",
+      "action": "add",
+      "share_change_pct": 13.64,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CIGI",
+    "asof": "2026-08-12",
+    "market_cap": 5235458560.0,
+    "pe": 48.55332,
+    "forward_pe": 12.037042,
+    "ev_ebitda": 13.822,
+    "fcf_yield": 0.06588682539395364,
+    "roe": 0.07839,
+    "gross_margin": 0.4001,
+    "op_margin": 0.08053,
+    "rev_growth": 0.167,
+    "debt_to_equity": 115.958
+  },
+  "market_stats": {
+    "ticker": "CIGI",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 3.95,
+    "putcall_oi_ratio": 100.5,
+    "avg_volume": 241882.0,
+    "beta": 1.25
+  },
+  "momentum": {
+    "ticker": "CIGI",
+    "asof": "2026-08-12",
+    "ret_1m": 2.254570463021155,
+    "ret_3m": -2.1314137146465795,
+    "ret_6m": -24.47906329264494,
+    "ret_12m": -35.27043199685937,
+    "rsi14": 52.07398458298141,
+    "pct_vs_200dma": -15.616388700168148,
+    "score": 23.7,
+    "components_json": "{\"trend\": 27.908684099068793, \"rsi\": 52.07398458298141, \"vs_200dma\": 18.767222599663704, \"short_squeeze\": 0.0, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

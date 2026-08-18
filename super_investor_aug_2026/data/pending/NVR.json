@@ -1,0 +1,55 @@
+{
+  "ticker": "NVR",
+  "stock": {
+    "ticker": "NVR",
+    "name": "NVR, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Residential Construction"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 0.08,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NVR",
+    "asof": "2026-08-12",
+    "market_cap": 16862776320.0,
+    "pe": 16.375177,
+    "forward_pe": 15.296537,
+    "ev_ebitda": 11.149,
+    "fcf_yield": 0.054458012285369624,
+    "roe": 0.31544,
+    "gross_margin": 0.2184,
+    "op_margin": 0.13889,
+    "rev_growth": -0.109,
+    "debt_to_equity": 32.15
+  },
+  "market_stats": {
+    "ticker": "NVR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0654,
+    "short_ratio": 3.8,
+    "putcall_oi_ratio": null,
+    "avg_volume": 32019.0,
+    "beta": 0.913
+  },
+  "momentum": {
+    "ticker": "NVR",
+    "asof": "2026-08-12",
+    "ret_1m": -2.5472650299630084,
+    "ret_3m": 4.955109752257525,
+    "ret_6m": -21.606465995740397,
+    "ret_12m": -19.86741050627956,
+    "rsi14": 45.994763052711306,
+    "pct_vs_200dma": -8.714396925924017,
+    "score": 38.1,
+    "components_json": "{\"trend\": 37.057628924443314, \"rsi\": 45.994763052711306, \"vs_200dma\": 32.571206148151965, \"short_squeeze\": 32.7, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

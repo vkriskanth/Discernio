@@ -1,0 +1,63 @@
+{
+  "ticker": "DGX",
+  "stock": {
+    "ticker": "DGX",
+    "name": "Quest Diagnostics Incorporated",
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 1.76,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 153.53,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DGX",
+    "asof": "2026-08-12",
+    "market_cap": 26150758400.0,
+    "pe": 25.125132,
+    "forward_pe": 19.649668,
+    "ev_ebitda": 14.287,
+    "fcf_yield": 0.034783886956028014,
+    "roe": 0.14602,
+    "gross_margin": 0.33192003,
+    "op_margin": 0.15248,
+    "rev_growth": 0.102,
+    "debt_to_equity": 81.074
+  },
+  "market_stats": {
+    "ticker": "DGX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0335,
+    "short_ratio": 3.36,
+    "putcall_oi_ratio": 0.33670653173873044,
+    "avg_volume": 938648.0,
+    "beta": 0.548
+  },
+  "momentum": {
+    "ticker": "DGX",
+    "asof": "2026-08-12",
+    "ret_1m": 14.18408751452629,
+    "ret_3m": 24.987361761108584,
+    "ret_6m": 24.579466047490172,
+    "ret_12m": 39.727880899429024,
+    "rsi14": 87.4124127755346,
+    "pct_vs_200dma": 22.345055110017075,
+    "score": 78.5,
+    "components_json": "{\"trend\": 80.76120070235123, \"rsi\": 87.4124127755346, \"vs_200dma\": 94.69011022003414, \"short_squeeze\": 16.75, \"options_skew\": 77.59167433302669}",
+    "thesis": null
+  }
+}

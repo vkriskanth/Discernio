@@ -1,0 +1,55 @@
+{
+  "ticker": "LAZ",
+  "stock": {
+    "ticker": "LAZ",
+    "name": "Lazard Inc.",
+    "sector": "Financial Services",
+    "industry": "Capital Markets"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 10.0,
+      "pct_of_portfolio": 0.25,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LAZ",
+    "asof": "2026-08-12",
+    "market_cap": 4223020544.0,
+    "pe": 21.34729,
+    "forward_pe": 11.261431,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": 0.25665,
+    "gross_margin": 0.89509004,
+    "op_margin": 0.04829,
+    "rev_growth": 0.001,
+    "debt_to_equity": 225.799
+  },
+  "market_stats": {
+    "ticker": "LAZ",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1093,
+    "short_ratio": 5.01,
+    "putcall_oi_ratio": 0.5605849582172702,
+    "avg_volume": 2120595.0,
+    "beta": 1.421
+  },
+  "momentum": {
+    "ticker": "LAZ",
+    "asof": "2026-08-12",
+    "ret_1m": 3.7649872088720615,
+    "ret_3m": -5.846879724580456,
+    "ret_6m": -18.99921391260433,
+    "ret_12m": -13.75834315842951,
+    "rsi14": 54.3832458774497,
+    "pct_vs_200dma": -7.581245848786411,
+    "score": 43.4,
+    "components_json": "{\"trend\": 37.04283464547276, \"rsi\": 54.3832458774497, \"vs_200dma\": 34.83750830242718, \"short_squeeze\": 54.65, \"options_skew\": 62.65898328690808}",
+    "thesis": null
+  }
+}

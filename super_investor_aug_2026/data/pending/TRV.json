@@ -1,0 +1,55 @@
+{
+  "ticker": "TRV",
+  "stock": {
+    "ticker": "TRV",
+    "name": "The Travelers Companies, Inc.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Property & Casualty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 25.14,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TRV",
+    "asof": "2026-08-12",
+    "market_cap": 78100922368.0,
+    "pe": 10.0604515,
+    "forward_pe": 12.395461,
+    "ev_ebitda": 7.173,
+    "fcf_yield": 0.1891799039501966,
+    "roe": 0.26511,
+    "gross_margin": 0.34730998,
+    "op_margin": 0.23698,
+    "rev_growth": 0.003,
+    "debt_to_equity": 27.378
+  },
+  "market_stats": {
+    "ticker": "TRV",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0401,
+    "short_ratio": 3.63,
+    "putcall_oi_ratio": 1.0552763819095476,
+    "avg_volume": 1932470.0,
+    "beta": 0.457
+  },
+  "momentum": {
+    "ticker": "TRV",
+    "asof": "2026-08-12",
+    "ret_1m": 10.916492294952217,
+    "ret_3m": 25.783506007328903,
+    "ret_6m": 26.093561043770453,
+    "ret_12m": 43.62511388878916,
+    "rsi14": 47.98780360739747,
+    "pct_vs_200dma": 23.25741691504055,
+    "score": 69.5,
+    "components_json": "{\"trend\": 83.01316567084547, \"rsi\": 47.98780360739747, \"vs_200dma\": 96.5148338300811, \"short_squeeze\": 20.049999999999997, \"options_skew\": 29.663065326633173}",
+    "thesis": null
+  }
+}

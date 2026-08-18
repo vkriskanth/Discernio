@@ -1,0 +1,55 @@
+{
+  "ticker": "RTLLF",
+  "stock": {
+    "ticker": "RTLLF",
+    "name": "Rational AG",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GR",
+      "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+      "action": "add",
+      "share_change_pct": 125.64,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RTLLF",
+    "asof": "2026-08-12",
+    "market_cap": 8992280576.0,
+    "pe": 28.899855,
+    "forward_pe": null,
+    "ev_ebitda": 22.753,
+    "fcf_yield": 0.02412555326387538,
+    "roe": 0.32166,
+    "gross_margin": 0.59398997,
+    "op_margin": 0.29018998,
+    "rev_growth": 0.042,
+    "debt_to_equity": 3.267
+  },
+  "market_stats": {
+    "ticker": "RTLLF",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": null,
+    "avg_volume": 25.0,
+    "beta": 1.265
+  },
+  "momentum": {
+    "ticker": "RTLLF",
+    "asof": "2026-08-12",
+    "ret_1m": 6.534892501678957,
+    "ret_3m": 5.220463362316741,
+    "ret_6m": 0.011513268944884913,
+    "ret_12m": 0.8173402822666542,
+    "rsi14": 71.93418803084859,
+    "pct_vs_200dma": 1.7199017382373727,
+    "score": 49.9,
+    "components_json": "{\"trend\": 51.89652910228515, \"rsi\": 71.93418803084859, \"vs_200dma\": 53.439803476474744, \"short_squeeze\": 0.0, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

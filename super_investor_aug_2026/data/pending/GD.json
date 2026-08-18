@@ -1,0 +1,55 @@
+{
+  "ticker": "GD",
+  "stock": {
+    "ticker": "GD",
+    "name": "General Dynamics Corporation",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 1.03,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GD",
+    "asof": "2026-08-12",
+    "market_cap": 105763512320.0,
+    "pe": 23.86508,
+    "forward_pe": 21.07585,
+    "ev_ebitda": 16.737,
+    "fcf_yield": 0.04160343044099086,
+    "roe": 0.17803,
+    "gross_margin": 0.15375,
+    "op_margin": 0.1038,
+    "rev_growth": 0.081,
+    "debt_to_equity": 35.335
+  },
+  "market_stats": {
+    "ticker": "GD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0101,
+    "short_ratio": 2.04,
+    "putcall_oi_ratio": 0.8419354838709677,
+    "avg_volume": 1184340.0,
+    "beta": 0.328
+  },
+  "momentum": {
+    "ticker": "GD",
+    "asof": "2026-08-12",
+    "ret_1m": 6.265221622864514,
+    "ret_3m": 13.830774069488294,
+    "ret_6m": 10.417177644545461,
+    "ret_12m": 26.87807103319251,
+    "rsi14": 61.12246020593398,
+    "pct_vs_200dma": 12.514511056136568,
+    "score": 60.0,
+    "components_json": "{\"trend\": 68.02561392748713, \"rsi\": 61.12246020593398, \"vs_200dma\": 75.02902211227314, \"short_squeeze\": 5.05, \"options_skew\": 43.89290322580646}",
+    "thesis": null
+  }
+}

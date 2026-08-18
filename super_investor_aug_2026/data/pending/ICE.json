@@ -1,0 +1,63 @@
+{
+  "ticker": "ICE",
+  "stock": {
+    "ticker": "ICE",
+    "name": "Intercontinental Exchange Inc.",
+    "sector": "Financial Services",
+    "industry": "Financial Data & Stock Exchanges"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 4.86,
+      "pct_of_portfolio": 0.16,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 0.7,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ICE",
+    "asof": "2026-08-12",
+    "market_cap": 84680744960.0,
+    "pe": 21.275034,
+    "forward_pe": 17.108286,
+    "ev_ebitda": 15.56,
+    "fcf_yield": 0.04290969676419814,
+    "roe": 0.14094,
+    "gross_margin": 1.0,
+    "op_margin": 0.52626,
+    "rev_growth": 0.048,
+    "debt_to_equity": 69.226
+  },
+  "market_stats": {
+    "ticker": "ICE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0159,
+    "short_ratio": 1.75,
+    "putcall_oi_ratio": 0.5721852505772104,
+    "avg_volume": 4588324.0,
+    "beta": 0.93
+  },
+  "momentum": {
+    "ticker": "ICE",
+    "asof": "2026-08-12",
+    "ret_1m": 10.05377999600594,
+    "ret_3m": -2.4404868391822543,
+    "ret_6m": -7.470103355552404,
+    "ret_12m": -17.50611487554645,
+    "rsi14": 68.2553706791867,
+    "pct_vs_200dma": -1.469189039609542,
+    "score": 45.0,
+    "components_json": "{\"trend\": 40.024376991361024, \"rsi\": 68.2553706791867, \"vs_200dma\": 47.061621920780915, \"short_squeeze\": 7.95, \"options_skew\": 61.88524378650007}",
+    "thesis": null
+  }
+}

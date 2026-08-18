@@ -1,0 +1,55 @@
+{
+  "ticker": "TEL",
+  "stock": {
+    "ticker": "TEL",
+    "name": "TE Connectivity plc",
+    "sector": "Technology",
+    "industry": "Electronic Components"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 132.49,
+      "pct_of_portfolio": 0.71,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TEL",
+    "asof": "2026-08-12",
+    "market_cap": 61773434880.0,
+    "pe": 20.898138,
+    "forward_pe": 16.53253,
+    "ev_ebitda": 13.743,
+    "fcf_yield": 0.03782977282289018,
+    "roe": 0.23290001,
+    "gross_margin": 0.36119,
+    "op_margin": 0.20775,
+    "rev_growth": 0.138,
+    "debt_to_equity": 43.441
+  },
+  "market_stats": {
+    "ticker": "TEL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.037,
+    "short_ratio": 3.43,
+    "putcall_oi_ratio": 0.3522430572038927,
+    "avg_volume": 2615322.0,
+    "beta": 1.162
+  },
+  "momentum": {
+    "ticker": "TEL",
+    "asof": "2026-08-12",
+    "ret_1m": 8.343427325259988,
+    "ret_3m": 4.57256121423284,
+    "ret_6m": -4.528179684752709,
+    "ret_12m": 7.423802075102803,
+    "rsi14": 65.16811115732784,
+    "pct_vs_200dma": -1.7347129092687985,
+    "score": 52.1,
+    "components_json": "{\"trend\": 52.98283528888516, \"rsi\": 65.16811115732784, \"vs_200dma\": 46.530574181462406, \"short_squeeze\": 18.5, \"options_skew\": 76.55538808450035}",
+    "thesis": null
+  }
+}

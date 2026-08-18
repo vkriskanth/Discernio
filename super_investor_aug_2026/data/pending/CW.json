@@ -1,0 +1,63 @@
+{
+  "ticker": "CW",
+  "stock": {
+    "ticker": "CW",
+    "name": "Curtiss-Wright Corporation",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 74.92,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CW",
+    "asof": "2026-08-12",
+    "market_cap": 26521516032.0,
+    "pe": 49.385834,
+    "forward_pe": 41.919296,
+    "ev_ebitda": 31.724,
+    "fcf_yield": 0.02085251293073592,
+    "roe": 0.19746,
+    "gross_margin": 0.37727,
+    "op_margin": 0.19395,
+    "rev_growth": 0.054,
+    "debt_to_equity": 41.482
+  },
+  "market_stats": {
+    "ticker": "CW",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.022,
+    "short_ratio": 3.18,
+    "putcall_oi_ratio": 0.8221797323135756,
+    "avg_volume": 283327.0,
+    "beta": 0.878
+  },
+  "momentum": {
+    "ticker": "CW",
+    "asof": "2026-08-12",
+    "ret_1m": -4.805782299781103,
+    "ret_3m": -0.13553319471824032,
+    "ret_6m": 16.98926423465883,
+    "ret_12m": 42.21717181416204,
+    "rsi14": 52.46763057119447,
+    "pct_vs_200dma": 8.06609734986472,
+    "score": 58.8,
+    "components_json": "{\"trend\": 71.942988037647, \"rsi\": 52.46763057119447, \"vs_200dma\": 66.13219469972944, \"short_squeeze\": 10.999999999999998, \"options_skew\": 45.210611854684515}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "DECK",
+  "stock": {
+    "ticker": "DECK",
+    "name": "Deckers Outdoor Corporation",
+    "sector": "Consumer Cyclical",
+    "industry": "Footwear & Accessories"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "add",
+      "share_change_pct": 61.12,
+      "pct_of_portfolio": 0.57,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "SA",
+      "manager_name": "Christopher Bloomstran - Semper Augustus",
+      "action": "add",
+      "share_change_pct": 3.33,
+      "pct_of_portfolio": 0.25,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DECK",
+    "asof": "2026-08-12",
+    "market_cap": 12655379456.0,
+    "pe": 13.219061,
+    "forward_pe": 11.111974,
+    "ev_ebitda": 8.795,
+    "fcf_yield": 0.06885770237310852,
+    "roe": 0.42558,
+    "gross_margin": 0.57804,
+    "op_margin": 0.15233,
+    "rev_growth": 0.057,
+    "debt_to_equity": 20.521
+  },
+  "market_stats": {
+    "ticker": "DECK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.067,
+    "short_ratio": 2.73,
+    "putcall_oi_ratio": 0.6037908198218771,
+    "avg_volume": 2285382.0,
+    "beta": 1.167
+  },
+  "momentum": {
+    "ticker": "DECK",
+    "asof": "2026-08-12",
+    "ret_1m": -13.414630044140985,
+    "ret_3m": -2.7294723938771193,
+    "ret_6m": -20.093497234204182,
+    "ret_12m": -8.13177870974463,
+    "rsi14": 42.345151115178275,
+    "pct_vs_200dma": -9.563176324741907,
+    "score": 39.4,
+    "components_json": "{\"trend\": 39.90039762767776, \"rsi\": 42.345151115178275, \"vs_200dma\": 30.873647350516187, \"short_squeeze\": 33.5, \"options_skew\": 59.7771523178808}",
+    "thesis": null
+  }
+}

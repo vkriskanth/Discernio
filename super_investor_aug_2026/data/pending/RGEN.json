@@ -1,0 +1,63 @@
+{
+  "ticker": "RGEN",
+  "stock": {
+    "ticker": "RGEN",
+    "name": "Repligen Corp.",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.08,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "WIM",
+      "manager_name": "Wallace Weitz - Weitz Investment Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.21,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RGEN",
+    "asof": "2026-08-12",
+    "market_cap": 9364926464.0,
+    "pe": 230.47221,
+    "forward_pe": 62.87059,
+    "ev_ebitda": 63.701,
+    "fcf_yield": 0.0121113339689327,
+    "roe": 0.0199,
+    "gross_margin": 0.53836,
+    "op_margin": 0.09309,
+    "rev_growth": 0.119,
+    "debt_to_equity": 32.715
+  },
+  "market_stats": {
+    "ticker": "RGEN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.109,
+    "short_ratio": 5.12,
+    "putcall_oi_ratio": 0.03900709219858156,
+    "avg_volume": 1198567.0,
+    "beta": 1.012
+  },
+  "momentum": {
+    "ticker": "RGEN",
+    "asof": "2026-08-12",
+    "ret_1m": 14.531330183616408,
+    "ret_3m": 33.80851949886261,
+    "ret_6m": 16.190747966174392,
+    "ret_12m": 45.5250192331047,
+    "rsi14": 77.67313201830935,
+    "pct_vs_200dma": 17.888467111407348,
+    "score": 81.6,
+    "components_json": "{\"trend\": 83.20978793275299, \"rsi\": 77.67313201830935, \"vs_200dma\": 85.7769342228147, \"short_squeeze\": 54.5, \"options_skew\": 97.44822695035462}",
+    "thesis": null
+  }
+}

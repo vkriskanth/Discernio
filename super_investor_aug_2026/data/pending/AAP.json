@@ -1,0 +1,63 @@
+{
+  "ticker": "AAP",
+  "stock": {
+    "ticker": "AAP",
+    "name": "Advance Auto Parts Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 2.06,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 12.19,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AAP",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 49.268867,
+    "forward_pe": 13.030643,
+    "ev_ebitda": 10.328,
+    "fcf_yield": null,
+    "roe": 0.030840002,
+    "gross_margin": 0.44509,
+    "op_margin": 0.03787,
+    "rev_growth": 0.012,
+    "debt_to_equity": 255.31
+  },
+  "market_stats": {
+    "ticker": "AAP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.29659998,
+    "short_ratio": 6.59,
+    "putcall_oi_ratio": 0.09867049522086299,
+    "avg_volume": 1924219.0,
+    "beta": 1.065
+  },
+  "momentum": {
+    "ticker": "AAP",
+    "asof": "2026-08-12",
+    "ret_1m": -4.096734279037706,
+    "ret_3m": 1.4493511438123496,
+    "ret_6m": -5.26541068233869,
+    "ret_12m": -8.680465486463563,
+    "rsi14": 49.274614676106566,
+    "pct_vs_200dma": 1.805567875444991,
+    "score": 58.3,
+    "components_json": "{\"trend\": 45.38299594385667, \"rsi\": 49.274614676106566, \"vs_200dma\": 53.611135750889986, \"short_squeeze\": 100.0, \"options_skew\": 93.46867796876845}",
+    "thesis": null
+  }
+}

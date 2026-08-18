@@ -1,0 +1,71 @@
+{
+  "ticker": "VTRS",
+  "stock": {
+    "ticker": "VTRS",
+    "name": "Viatris Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.77,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "add",
+      "share_change_pct": 18.2,
+      "pct_of_portfolio": 0.4,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 0.04,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VTRS",
+    "asof": "2026-08-12",
+    "market_cap": 18681829376.0,
+    "pe": null,
+    "forward_pe": 6.109769,
+    "ev_ebitda": 7.178,
+    "fcf_yield": 0.14331238906611027,
+    "roe": -0.02754,
+    "gross_margin": 0.40307,
+    "op_margin": 0.12550999,
+    "rev_growth": 0.049,
+    "debt_to_equity": 95.535
+  },
+  "market_stats": {
+    "ticker": "VTRS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0397,
+    "short_ratio": 4.79,
+    "putcall_oi_ratio": 0.7915460335842501,
+    "avg_volume": 10230795.0,
+    "beta": 0.893
+  },
+  "momentum": {
+    "ticker": "VTRS",
+    "asof": "2026-08-12",
+    "ret_1m": -0.3678692085040902,
+    "ret_3m": -4.66313265437207,
+    "ret_6m": 3.506260480858092,
+    "ret_12m": 71.30273789053263,
+    "rsi14": 31.80213204900869,
+    "pct_vs_200dma": 15.395746423592872,
+    "score": 62.9,
+    "components_json": "{\"trend\": 78.17403350415886, \"rsi\": 31.80213204900869, \"vs_200dma\": 80.79149284718574, \"short_squeeze\": 19.849999999999998, \"options_skew\": 47.25387955993052}",
+    "thesis": null
+  }
+}

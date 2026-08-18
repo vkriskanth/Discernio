@@ -1,0 +1,55 @@
+{
+  "ticker": "BZH",
+  "stock": {
+    "ticker": "BZH",
+    "name": "Beazer Homes USA, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Residential Construction"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 7.74,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BZH",
+    "asof": "2026-08-12",
+    "market_cap": 874075200.0,
+    "pe": null,
+    "forward_pe": 21.828947,
+    "ev_ebitda": -209.794,
+    "fcf_yield": -0.1548106249897034,
+    "roe": -0.00653,
+    "gross_margin": 0.12825,
+    "op_margin": -0.01748,
+    "rev_growth": -0.053,
+    "debt_to_equity": 125.152
+  },
+  "market_stats": {
+    "ticker": "BZH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1001,
+    "short_ratio": 6.7,
+    "putcall_oi_ratio": 3.5,
+    "avg_volume": 609903.0,
+    "beta": 2.182
+  },
+  "momentum": {
+    "ticker": "BZH",
+    "asof": "2026-08-12",
+    "ret_1m": 5.555552181986201,
+    "ret_3m": 77.96564827076776,
+    "ret_6m": 34.99592630396133,
+    "ret_12m": 42.29613675935726,
+    "rsi14": 56.725768688259706,
+    "pct_vs_200dma": 37.07478853595543,
+    "score": 78.5,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 56.725768688259706, \"vs_200dma\": 100.0, \"short_squeeze\": 50.05, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

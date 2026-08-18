@@ -1,0 +1,55 @@
+{
+  "ticker": "PSKY",
+  "stock": {
+    "ticker": "PSKY",
+    "name": "Paramount Skydance Corp.",
+    "sector": "Communication Services",
+    "industry": "Entertainment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.11,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PSKY",
+    "asof": "2026-08-12",
+    "market_cap": 10518241280.0,
+    "pe": 312.5,
+    "forward_pe": 10.903825,
+    "ev_ebitda": 7.897,
+    "fcf_yield": 1.672629900347751,
+    "roe": -0.00896,
+    "gross_margin": 0.33328998,
+    "op_margin": 0.09345,
+    "rev_growth": 0.009,
+    "debt_to_equity": 126.479
+  },
+  "market_stats": {
+    "ticker": "PSKY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1608,
+    "short_ratio": 8.2,
+    "putcall_oi_ratio": 0.4468519694167656,
+    "avg_volume": 9856061.0,
+    "beta": 1.471
+  },
+  "momentum": {
+    "ticker": "PSKY",
+    "asof": "2026-08-12",
+    "ret_1m": 3.673246078406467,
+    "ret_3m": -11.128443482986839,
+    "ret_6m": -11.90505640081848,
+    "ret_12m": -5.023156763312442,
+    "rsi14": 70.06237546221486,
+    "pct_vs_200dma": -16.70805868222409,
+    "score": 46.2,
+    "components_json": "{\"trend\": 41.080687329533426, \"rsi\": 70.06237546221486, \"vs_200dma\": 16.583882635551817, \"short_squeeze\": 80.39999999999999, \"options_skew\": 70.24497363990173}",
+    "thesis": null
+  }
+}

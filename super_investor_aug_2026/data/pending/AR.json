@@ -1,0 +1,55 @@
+{
+  "ticker": "AR",
+  "stock": {
+    "ticker": "AR",
+    "name": "Antero Resources Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AR",
+    "asof": "2026-08-12",
+    "market_cap": 11721112576.0,
+    "pe": 10.70927,
+    "forward_pe": 8.742602,
+    "ev_ebitda": null,
+    "fcf_yield": 0.03337744036355888,
+    "roe": 0.14216,
+    "gross_margin": 0.67154,
+    "op_margin": 0.26017,
+    "rev_growth": 0.126,
+    "debt_to_equity": 55.493
+  },
+  "market_stats": {
+    "ticker": "AR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0448,
+    "short_ratio": 2.85,
+    "putcall_oi_ratio": 4.64246607950488,
+    "avg_volume": 4760170.0,
+    "beta": 0.344
+  },
+  "momentum": {
+    "ticker": "AR",
+    "asof": "2026-08-12",
+    "ret_1m": 10.731142101529434,
+    "ret_3m": 3.3856302786776427,
+    "ret_6m": 11.124266926336945,
+    "ret_12m": 15.925924704943784,
+    "rsi14": 61.77862276121194,
+    "pct_vs_200dma": 4.80920000975078,
+    "score": 50.7,
+    "components_json": "{\"trend\": 60.723339043481886, \"rsi\": 61.77862276121194, \"vs_200dma\": 59.618400019501564, \"short_squeeze\": 22.4, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

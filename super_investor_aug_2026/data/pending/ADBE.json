@@ -1,0 +1,103 @@
+{
+  "ticker": "ADBE",
+  "stock": {
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.69,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "add",
+      "share_change_pct": 122.86,
+      "pct_of_portfolio": 1.51,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.74,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 15.3,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 50.41,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 8.32,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ADBE",
+    "asof": "2026-08-12",
+    "market_cap": 102664306688.0,
+    "pe": 15.3006525,
+    "forward_pe": 9.396304,
+    "ev_ebitda": 10.924,
+    "fcf_yield": 0.0897914275505208,
+    "roe": 0.62953997,
+    "gross_margin": 0.89404,
+    "op_margin": 0.35327998,
+    "rev_growth": 0.127,
+    "debt_to_equity": 61.443
+  },
+  "market_stats": {
+    "ticker": "ADBE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0545,
+    "short_ratio": 3.33,
+    "putcall_oi_ratio": 0.43909205891552994,
+    "avg_volume": 6497519.0,
+    "beta": 1.397
+  },
+  "momentum": {
+    "ticker": "ADBE",
+    "asof": "2026-08-12",
+    "ret_1m": 16.025004564919932,
+    "ret_3m": 6.365486739400872,
+    "ret_6m": -3.215328270631068,
+    "ret_12m": -23.224933808455706,
+    "rsi14": 70.24390894721357,
+    "pct_vs_200dma": -6.233103188580092,
+    "score": 46.4,
+    "components_json": "{\"trend\": 41.65507401724866, \"rsi\": 70.24390894721357, \"vs_200dma\": 37.533793622839816, \"short_squeeze\": 27.25, \"options_skew\": 70.76255967033417}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "MRVL",
+  "stock": {
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "add",
+      "share_change_pct": 13.19,
+      "pct_of_portfolio": 0.44,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.22,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MRVL",
+    "asof": "2026-08-12",
+    "market_cap": 199703642112.0,
+    "pe": 76.46048,
+    "forward_pe": 35.642887,
+    "ev_ebitda": 69.013,
+    "fcf_yield": 0.01136534152305085,
+    "roe": 0.16028,
+    "gross_margin": 0.51502997,
+    "op_margin": 0.14479999,
+    "rev_growth": 0.276,
+    "debt_to_equity": 28.97
+  },
+  "market_stats": {
+    "ticker": "MRVL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0479,
+    "short_ratio": 1.36,
+    "putcall_oi_ratio": 0.696168816660591,
+    "avg_volume": 41570406.0,
+    "beta": 2.246
+  },
+  "momentum": {
+    "ticker": "MRVL",
+    "asof": "2026-08-12",
+    "ret_1m": -0.23377282267289523,
+    "ret_3m": 34.93905602080829,
+    "ret_6m": 170.80338513797403,
+    "ret_12m": 187.77538015785774,
+    "rsi14": 54.47252167411605,
+    "pct_vs_200dma": 58.46147659393286,
+    "score": 80.9,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 54.47252167411605, \"vs_200dma\": 100.0, \"short_squeeze\": 23.95, \"options_skew\": 53.61553992873858}",
+    "thesis": null
+  }
+}

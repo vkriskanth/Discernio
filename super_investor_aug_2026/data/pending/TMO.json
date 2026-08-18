@@ -1,0 +1,143 @@
+{
+  "ticker": "TMO",
+  "stock": {
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc",
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.55,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 110.29,
+      "pct_of_portfolio": 1.2,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 11767.36,
+      "pct_of_portfolio": 0.79,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 16.15,
+      "pct_of_portfolio": 0.39,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 22.71,
+      "pct_of_portfolio": 0.21,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 11.87,
+      "pct_of_portfolio": 0.17,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 1.79,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "add",
+      "share_change_pct": 14.33,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 8.94,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 1.52,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 1.01,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "add",
+      "share_change_pct": 3.47,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TMO",
+    "asof": "2026-08-15",
+    "market_cap": 217518620672.0,
+    "pe": 32.0594,
+    "forward_pe": 21.384523,
+    "ev_ebitda": 22.058,
+    "fcf_yield": 0.028674556820610105,
+    "roe": 0.13515,
+    "gross_margin": 0.40987998,
+    "op_margin": 0.18751,
+    "rev_growth": 0.105,
+    "debt_to_equity": 80.575
+  },
+  "market_stats": {
+    "ticker": "TMO",
+    "asof": "2026-08-14",
+    "short_pct_float": 0.0135,
+    "short_ratio": 2.22,
+    "putcall_oi_ratio": 0.5796167542818382,
+    "avg_volume": 2263070.0,
+    "beta": 0.847
+  },
+  "momentum": {
+    "ticker": "TMO",
+    "asof": "2026-08-14",
+    "ret_1m": 9.110990631627747,
+    "ret_3m": 32.36521465676978,
+    "ret_6m": 16.484369236416452,
+    "ret_12m": 22.700676994506797,
+    "rsi14": 70.25538094566805,
+    "pct_vs_200dma": 11.432606194096518,
+    "score": 65.1,
+    "components_json": "{\"trend\": 73.73514596575859, \"rsi\": 70.25538094566805, \"vs_200dma\": 72.86521238819304, \"short_squeeze\": 6.75, \"options_skew\": 61.38956248940139}",
+    "thesis": null
+  }
+}

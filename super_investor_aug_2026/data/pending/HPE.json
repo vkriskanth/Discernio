@@ -1,0 +1,55 @@
+{
+  "ticker": "HPE",
+  "stock": {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise",
+    "sector": "Technology",
+    "industry": "Communication Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 25.57,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "HPE",
+    "asof": "2026-08-12",
+    "market_cap": 74605625344.0,
+    "pe": 52.6542,
+    "forward_pe": 13.956496,
+    "ev_ebitda": 15.643,
+    "fcf_yield": 0.05141703433638603,
+    "roe": 0.06315,
+    "gross_margin": 0.33776,
+    "op_margin": 0.087,
+    "rev_growth": 0.4,
+    "debt_to_equity": 84.03
+  },
+  "market_stats": {
+    "ticker": "HPE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0561,
+    "short_ratio": 3.73,
+    "putcall_oi_ratio": 0.4933770006393073,
+    "avg_volume": 26573666.0,
+    "beta": 1.436
+  },
+  "momentum": {
+    "ticker": "HPE",
+    "asof": "2026-08-12",
+    "ret_1m": 14.507664300800105,
+    "ret_3m": 88.40130552813051,
+    "ret_6m": 138.97803753533466,
+    "ret_12m": 181.3602879292508,
+    "rsi14": 74.24161832483841,
+    "pct_vs_200dma": 86.13567689836077,
+    "score": 85.7,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 74.24161832483841, \"vs_200dma\": 100.0, \"short_squeeze\": 28.049999999999997, \"options_skew\": 67.14175405735821}",
+    "thesis": null
+  }
+}

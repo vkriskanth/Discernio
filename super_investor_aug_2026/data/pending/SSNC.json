@@ -1,0 +1,55 @@
+{
+  "ticker": "SSNC",
+  "stock": {
+    "ticker": "SSNC",
+    "name": "SS&C Technologies Holdings, Inc",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 13.79,
+      "pct_of_portfolio": 0.24,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SSNC",
+    "asof": "2026-08-12",
+    "market_cap": 18648033280.0,
+    "pe": 22.836206,
+    "forward_pe": 10.280991,
+    "ev_ebitda": 12.393,
+    "fcf_yield": 0.06980628983519274,
+    "roe": 0.12624,
+    "gross_margin": 0.48104,
+    "op_margin": 0.24598,
+    "rev_growth": 0.103,
+    "debt_to_equity": 115.897
+  },
+  "market_stats": {
+    "ticker": "SSNC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0423,
+    "short_ratio": 3.1,
+    "putcall_oi_ratio": 1.85,
+    "avg_volume": 2206762.0,
+    "beta": 1.087
+  },
+  "momentum": {
+    "ticker": "SSNC",
+    "asof": "2026-08-12",
+    "ret_1m": 19.149574397675927,
+    "ret_3m": 19.77140949066971,
+    "ret_6m": 6.51842245006331,
+    "ret_12m": -5.664100778249848,
+    "rsi14": 80.52204451825968,
+    "pct_vs_200dma": 5.932041021001289,
+    "score": 51.9,
+    "components_json": "{\"trend\": 55.621309270919966, \"rsi\": 80.52204451825968, \"vs_200dma\": 61.86408204200258, \"short_squeeze\": 21.15, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

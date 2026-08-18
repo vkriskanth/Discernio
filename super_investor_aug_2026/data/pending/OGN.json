@@ -1,0 +1,55 @@
+{
+  "ticker": "OGN",
+  "stock": {
+    "ticker": "OGN",
+    "name": "Organon & Co.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "KB",
+      "manager_name": "Kahn Brothers Group",
+      "action": "add",
+      "share_change_pct": 52.56,
+      "pct_of_portfolio": 2.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "OGN",
+    "asof": "2026-08-12",
+    "market_cap": 3587244800.0,
+    "pe": 17.512821,
+    "forward_pe": 3.7544181,
+    "ev_ebitda": 7.037,
+    "fcf_yield": 0.13680416123259834,
+    "roe": 0.24037,
+    "gross_margin": 0.53403,
+    "op_margin": 0.20732,
+    "rev_growth": -0.023,
+    "debt_to_equity": 850.199
+  },
+  "market_stats": {
+    "ticker": "OGN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0728,
+    "short_ratio": 6.46,
+    "putcall_oi_ratio": 0.21164897747864353,
+    "avg_volume": 2693304.0,
+    "beta": 1.52
+  },
+  "momentum": {
+    "ticker": "OGN",
+    "asof": "2026-08-12",
+    "ret_1m": 1.3703734786422173,
+    "ret_3m": 2.8174304145574203,
+    "ret_6m": 75.92135119146388,
+    "ret_12m": 53.22803954993138,
+    "rsi14": 71.92998306797571,
+    "pct_vs_200dma": 41.0103890287139,
+    "score": 86.0,
+    "components_json": "{\"trend\": 94.91285030177895, \"rsi\": 71.92998306797571, \"vs_200dma\": 100.0, \"short_squeeze\": 36.4, \"options_skew\": 85.93301320217448}",
+    "thesis": null
+  }
+}

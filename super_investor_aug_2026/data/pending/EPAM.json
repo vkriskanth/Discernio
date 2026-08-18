@@ -1,0 +1,55 @@
+{
+  "ticker": "EPAM",
+  "stock": {
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "GA",
+      "manager_name": "Greenhaven Associates",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.54,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EPAM",
+    "asof": "2026-08-12",
+    "market_cap": 5086992384.0,
+    "pe": 13.379919,
+    "forward_pe": 7.014267,
+    "ev_ebitda": 5.996,
+    "fcf_yield": 0.12780756229258786,
+    "roe": 0.111770004,
+    "gross_margin": 0.29451,
+    "op_margin": 0.10936,
+    "rev_growth": 0.045,
+    "debt_to_equity": 4.326
+  },
+  "market_stats": {
+    "ticker": "EPAM",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2233,
+    "short_ratio": 5.11,
+    "putcall_oi_ratio": 1.0274914089347078,
+    "avg_volume": 2023193.0,
+    "beta": 1.37
+  },
+  "momentum": {
+    "ticker": "EPAM",
+    "asof": "2026-08-12",
+    "ret_1m": 16.78106544991216,
+    "ret_3m": 3.720833443596283,
+    "ret_6m": -48.49955639536453,
+    "ret_12m": -34.9934134905585,
+    "rsi14": 60.53073894560819,
+    "pct_vs_200dma": -31.12992817123308,
+    "score": 31.3,
+    "components_json": "{\"trend\": 22.569017718246126, \"rsi\": 60.53073894560819, \"vs_200dma\": 0.0, \"short_squeeze\": 100.0, \"options_skew\": 31.51632302405499}",
+    "thesis": null
+  }
+}

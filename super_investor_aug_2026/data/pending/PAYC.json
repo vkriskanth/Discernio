@@ -1,0 +1,63 @@
+{
+  "ticker": "PAYC",
+  "stock": {
+    "ticker": "PAYC",
+    "name": "Paycom Software, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "RVC",
+      "manager_name": "Robert Vinall - RV Capital GmbH",
+      "action": "add",
+      "share_change_pct": 72.61,
+      "pct_of_portfolio": 0.29,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 1.5,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PAYC",
+    "asof": "2026-08-12",
+    "market_cap": 9280697344.0,
+    "pe": 21.812502,
+    "forward_pe": 14.869876,
+    "ev_ebitda": 13.853,
+    "fcf_yield": 0.04565658983308399,
+    "roe": 0.41089,
+    "gross_margin": 0.88055,
+    "op_margin": 0.31721002,
+    "rev_growth": 0.098,
+    "debt_to_equity": 171.969
+  },
+  "market_stats": {
+    "ticker": "PAYC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0845,
+    "short_ratio": 4.08,
+    "putcall_oi_ratio": 0.9766606822262118,
+    "avg_volume": 984964.0,
+    "beta": 0.725
+  },
+  "momentum": {
+    "ticker": "PAYC",
+    "asof": "2026-08-12",
+    "ret_1m": 48.129836159350916,
+    "ret_3m": 49.746525544185886,
+    "ret_6m": 57.959495373989526,
+    "ret_12m": -6.532591173320046,
+    "rsi14": 75.15883574315899,
+    "pct_vs_200dma": 42.43595009801737,
+    "score": 75.9,
+    "components_json": "{\"trend\": 79.6987698061246, \"rsi\": 75.15883574315899, \"vs_200dma\": 100.0, \"short_squeeze\": 42.25000000000001, \"options_skew\": 34.906732495511676}",
+    "thesis": null
+  }
+}

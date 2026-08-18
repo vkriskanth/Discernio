@@ -1,0 +1,55 @@
+{
+  "ticker": "MNDY",
+  "stock": {
+    "ticker": "MNDY",
+    "name": "monday.com Ltd.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CM",
+      "manager_name": "Greg Alexander - Conifer Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 5.28,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MNDY",
+    "asof": "2026-08-12",
+    "market_cap": 3584422656.0,
+    "pe": 35.927967,
+    "forward_pe": 12.687113,
+    "ev_ebitda": 56.339,
+    "fcf_yield": 0.07940835869998474,
+    "roe": 0.13394,
+    "gross_margin": 0.88738,
+    "op_margin": 0.05456,
+    "rev_growth": 0.219,
+    "debt_to_equity": 38.43
+  },
+  "market_stats": {
+    "ticker": "MNDY",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.133,
+    "short_ratio": 3.34,
+    "putcall_oi_ratio": 0.23960021609940574,
+    "avg_volume": 1664432.0,
+    "beta": 1.125
+  },
+  "momentum": {
+    "ticker": "MNDY",
+    "asof": "2026-08-12",
+    "ret_1m": 2.6797611880207794,
+    "ret_3m": 17.49687895622005,
+    "ret_6m": -13.591836423290015,
+    "ret_12m": -65.7720281348887,
+    "rsi14": 62.442208291475616,
+    "pct_vs_200dma": -18.36775954312353,
+    "score": 37.7,
+    "components_json": "{\"trend\": 24.86270150592353, \"rsi\": 62.442208291475616, \"vs_200dma\": 13.26448091375294, \"short_squeeze\": 66.5, \"options_skew\": 84.06866558616964}",
+    "thesis": null
+  }
+}

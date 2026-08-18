@@ -1,0 +1,175 @@
+{
+  "ticker": "AMZN",
+  "stock": {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Internet Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AM",
+      "manager_name": "David Tepper - Appaloosa Management",
+      "action": "add",
+      "share_change_pct": 98.22,
+      "pct_of_portfolio": 7.51,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "SP",
+      "manager_name": "Dennis Hong - ShawSpring Partners",
+      "action": "add",
+      "share_change_pct": 57.47,
+      "pct_of_portfolio": 5.3,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "BAUPOST",
+      "manager_name": "Seth Klarman - Baupost Group",
+      "action": "add",
+      "share_change_pct": 47.01,
+      "pct_of_portfolio": 4.06,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "psc",
+      "manager_name": "Bill Ackman - Pershing Square Capital Management",
+      "action": "add",
+      "share_change_pct": 19.19,
+      "pct_of_portfolio": 2.8,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "EC",
+      "manager_name": "John Armitage - Egerton Capital",
+      "action": "add",
+      "share_change_pct": 51.2,
+      "pct_of_portfolio": 2.79,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.64,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "WP",
+      "manager_name": "David Rolfe - Wedgewood Partners",
+      "action": "add",
+      "share_change_pct": 71.47,
+      "pct_of_portfolio": 1.79,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AP",
+      "manager_name": "AltaRock Partners",
+      "action": "add",
+      "share_change_pct": 3.46,
+      "pct_of_portfolio": 1.28,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "oa",
+      "manager_name": "Leon Cooperman",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.16,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 24.84,
+      "pct_of_portfolio": 0.87,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 16.33,
+      "pct_of_portfolio": 0.71,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 6.67,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CHE",
+      "manager_name": "Steven Check - Check Capital Management",
+      "action": "add",
+      "share_change_pct": 0.97,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 0.39,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 18.65,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "add",
+      "share_change_pct": 0.36,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AMZN",
+    "asof": "2026-08-12",
+    "market_cap": 2916079894528.0,
+    "pe": 21.732317,
+    "forward_pe": 26.16998,
+    "ev_ebitda": 18.148,
+    "fcf_yield": 0.0011039220832188656,
+    "roe": 0.30558002,
+    "gross_margin": 0.5077,
+    "op_margin": 0.13689,
+    "rev_growth": 0.196,
+    "debt_to_equity": 45.617
+  },
+  "market_stats": {
+    "ticker": "AMZN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.01,
+    "short_ratio": 2.1,
+    "putcall_oi_ratio": 0.5429164954572433,
+    "avg_volume": 50372293.0,
+    "beta": 1.454
+  },
+  "momentum": {
+    "ticker": "AMZN",
+    "asof": "2026-08-12",
+    "ret_1m": 8.267003216189405,
+    "ret_3m": 0.801295923603873,
+    "ret_6m": 29.469464396319744,
+    "ret_12m": 21.07998577133454,
+    "rsi14": 68.61362792258716,
+    "pct_vs_200dma": 12.905296940931855,
+    "score": 63.1,
+    "components_json": "{\"trend\": 67.5132224045109, \"rsi\": 68.61362792258716, \"vs_200dma\": 75.81059388186371, \"short_squeeze\": 5.0, \"options_skew\": 63.837469753001876}",
+    "thesis": null
+  }
+}

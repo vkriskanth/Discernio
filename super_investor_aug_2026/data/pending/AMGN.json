@@ -1,0 +1,63 @@
+{
+  "ticker": "AMGN",
+  "stock": {
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 10.66,
+      "pct_of_portfolio": 0.31,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 3.01,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AMGN",
+    "asof": "2026-08-12",
+    "market_cap": 223784648704.0,
+    "pe": 25.660667,
+    "forward_pe": 17.078402,
+    "ev_ebitda": 15.479,
+    "fcf_yield": 0.038633681452544893,
+    "roe": 0.91473,
+    "gross_margin": 0.71891,
+    "op_margin": 0.35548002,
+    "rev_growth": 0.095,
+    "debt_to_equity": 490.281
+  },
+  "market_stats": {
+    "ticker": "AMGN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.024600001,
+    "short_ratio": 5.66,
+    "putcall_oi_ratio": 1.2239141044411908,
+    "avg_volume": 2714254.0,
+    "beta": 0.413
+  },
+  "momentum": {
+    "ticker": "AMGN",
+    "asof": "2026-08-12",
+    "ret_1m": 15.93008211001974,
+    "ret_3m": 27.74220873845281,
+    "ret_6m": 12.804759548222865,
+    "ret_12m": 49.335688485597906,
+    "rsi14": 76.7755980689241,
+    "pct_vs_200dma": 21.165023470039902,
+    "score": 70.4,
+    "components_json": "{\"trend\": 81.89836588024187, \"rsi\": 76.7755980689241, \"vs_200dma\": 92.3300469400798, \"short_squeeze\": 12.3000005, \"options_skew\": 18.41492923377258}",
+    "thesis": null
+  }
+}

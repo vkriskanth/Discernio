@@ -1,0 +1,79 @@
+{
+  "ticker": "PGR",
+  "stock": {
+    "ticker": "PGR",
+    "name": "Progressive Corp.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Property & Casualty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "WP",
+      "manager_name": "David Rolfe - Wedgewood Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 3.41,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "fairx",
+      "manager_name": "Bruce Berkowitz - Fairholme Capital",
+      "action": "add",
+      "share_change_pct": 159.38,
+      "pct_of_portfolio": 0.53,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 21.41,
+      "pct_of_portfolio": 0.16,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CCM",
+      "manager_name": "Glenn Greenberg - Brave Warrior Advisors",
+      "action": "add",
+      "share_change_pct": 2.46,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PGR",
+    "asof": "2026-08-12",
+    "market_cap": 121800294400.0,
+    "pe": 10.50677,
+    "forward_pe": 12.877653,
+    "ev_ebitda": 8.422,
+    "fcf_yield": 0.1240924758881371,
+    "roe": 0.34943,
+    "gross_margin": 0.18521,
+    "op_margin": 0.18208,
+    "rev_growth": 0.073,
+    "debt_to_equity": 24.428
+  },
+  "market_stats": {
+    "ticker": "PGR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0139,
+    "short_ratio": 2.63,
+    "putcall_oi_ratio": 1.1064164807768009,
+    "avg_volume": 3222279.0,
+    "beta": 0.257
+  },
+  "momentum": {
+    "ticker": "PGR",
+    "asof": "2026-08-12",
+    "ret_1m": -9.500692637383,
+    "ret_3m": 7.676658975392625,
+    "ret_6m": 3.3174276582975004,
+    "ret_12m": -9.35310821889569,
+    "rsi14": 52.553877703458525,
+    "pct_vs_200dma": 0.7931590993979443,
+    "score": 43.9,
+    "components_json": "{\"trend\": 49.55698270254876, \"rsi\": 52.553877703458525, \"vs_200dma\": 51.58631819879589, \"short_squeeze\": 6.949999999999999, \"options_skew\": 26.252020732187383}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "CNS",
+  "stock": {
+    "ticker": "CNS",
+    "name": "Cohen & Steers Inc",
+    "sector": "Financial Services",
+    "industry": "Asset Management"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 345.9,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CNS",
+    "asof": "2026-08-12",
+    "market_cap": 4335863808.0,
+    "pe": 25.944614,
+    "forward_pe": 21.473665,
+    "ev_ebitda": 21.147,
+    "fcf_yield": 0.03619590073618844,
+    "roe": 0.27329,
+    "gross_margin": 0.47300997,
+    "op_margin": 0.34554002,
+    "rev_growth": 0.122,
+    "debt_to_equity": 19.326
+  },
+  "market_stats": {
+    "ticker": "CNS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0385,
+    "short_ratio": 3.98,
+    "putcall_oi_ratio": 0.09193954659949623,
+    "avg_volume": 282301.0,
+    "beta": 1.202
+  },
+  "momentum": {
+    "ticker": "CNS",
+    "asof": "2026-08-12",
+    "ret_1m": 11.598950578598831,
+    "ret_3m": 19.02754733002694,
+    "ret_6m": 33.87264764260429,
+    "ret_12m": 20.67417670255867,
+    "rsi14": 73.65937073329141,
+    "pct_vs_200dma": 25.857722744246004,
+    "score": 77.0,
+    "components_json": "{\"trend\": 74.13972917281284, \"rsi\": 73.65937073329141, \"vs_200dma\": 100.0, \"short_squeeze\": 19.25, \"options_skew\": 93.91763224181359}",
+    "thesis": null
+  }
+}

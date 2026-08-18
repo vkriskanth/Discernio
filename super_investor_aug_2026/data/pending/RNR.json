@@ -1,0 +1,63 @@
+{
+  "ticker": "RNR",
+  "stock": {
+    "ticker": "RNR",
+    "name": "RenaissanceRe Holdings Ltd.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Reinsurance"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 11.95,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 39.61,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RNR",
+    "asof": "2026-08-12",
+    "market_cap": 13271673856.0,
+    "pe": 5.5384083,
+    "forward_pe": 7.7901793,
+    "ev_ebitda": null,
+    "fcf_yield": 0.21001795901877834,
+    "roe": 0.21475,
+    "gross_margin": 0.45349,
+    "op_margin": 0.41674,
+    "rev_growth": -0.132,
+    "debt_to_equity": 12.211
+  },
+  "market_stats": {
+    "ticker": "RNR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.041100003,
+    "short_ratio": 3.26,
+    "putcall_oi_ratio": 19.6,
+    "avg_volume": 365811.0,
+    "beta": 0.17
+  },
+  "momentum": {
+    "ticker": "RNR",
+    "asof": "2026-08-12",
+    "ret_1m": -0.4688671971248337,
+    "ret_3m": 7.5975249444764525,
+    "ret_6m": 8.051783731713936,
+    "ret_12m": 33.02044041243528,
+    "rsi14": 51.066535358470084,
+    "pct_vs_200dma": 9.14710988974685,
+    "score": 53.9,
+    "components_json": "{\"trend\": 67.90296876783123, \"rsi\": 51.066535358470084, \"vs_200dma\": 68.2942197794937, \"short_squeeze\": 20.5500015, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

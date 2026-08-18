@@ -1,0 +1,63 @@
+{
+  "ticker": "SW",
+  "stock": {
+    "ticker": "SW",
+    "name": "Smurfit WestRock plc",
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 3.09,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SW",
+    "asof": "2026-08-12",
+    "market_cap": 25659660288.0,
+    "pe": 52.042553,
+    "forward_pe": 14.531369,
+    "ev_ebitda": 8.633,
+    "fcf_yield": 0.04735059039609371,
+    "roe": 0.02715,
+    "gross_margin": 0.18160999,
+    "op_margin": 0.05466,
+    "rev_growth": 0.011,
+    "debt_to_equity": 78.427
+  },
+  "market_stats": {
+    "ticker": "SW",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0548,
+    "short_ratio": 4.54,
+    "putcall_oi_ratio": 0.05795918367346939,
+    "avg_volume": 5481458.0,
+    "beta": 0.93
+  },
+  "momentum": {
+    "ticker": "SW",
+    "asof": "2026-08-12",
+    "ret_1m": 14.332327074687257,
+    "ret_3m": 22.278041582835417,
+    "ret_6m": 9.41918295574391,
+    "ret_12m": 16.43871211434633,
+    "rsi14": 62.92896234104883,
+    "pct_vs_200dma": 19.512529635067956,
+    "score": 70.5,
+    "components_json": "{\"trend\": 66.08465220731233, \"rsi\": 62.92896234104883, \"vs_200dma\": 89.02505927013591, \"short_squeeze\": 27.400000000000002, \"options_skew\": 96.1841224489796}",
+    "thesis": null
+  }
+}

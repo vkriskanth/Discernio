@@ -1,0 +1,63 @@
+{
+  "ticker": "AFL",
+  "stock": {
+    "ticker": "AFL",
+    "name": "AFLAC Inc.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Life"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AI",
+      "manager_name": "John Rogers - Ariel Investments",
+      "action": "add",
+      "share_change_pct": 12.82,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 0.18,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "AFL",
+    "asof": "2026-08-12",
+    "market_cap": 60433825792.0,
+    "pe": 13.003646,
+    "forward_pe": 15.920624,
+    "ev_ebitda": 11.202,
+    "fcf_yield": 0.08525440493760757,
+    "roe": 0.16908,
+    "gross_margin": 0.50888,
+    "op_margin": 0.25722998,
+    "rev_growth": -0.01,
+    "debt_to_equity": 53.365
+  },
+  "market_stats": {
+    "ticker": "AFL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0319,
+    "short_ratio": 6.51,
+    "putcall_oi_ratio": 0.311220958971824,
+    "avg_volume": 2421846.0,
+    "beta": 0.595
+  },
+  "momentum": {
+    "ticker": "AFL",
+    "asof": "2026-08-12",
+    "ret_1m": -0.4757622948336926,
+    "ret_3m": 7.832253799276168,
+    "ret_6m": 4.657495553873159,
+    "ret_12m": 21.155910460082605,
+    "rsi14": 41.25511137749185,
+    "pct_vs_200dma": 7.283719198390393,
+    "score": 56.7,
+    "components_json": "{\"trend\": 62.209288989977836, \"rsi\": 41.25511137749185, \"vs_200dma\": 64.56743839678079, \"short_squeeze\": 15.95, \"options_skew\": 79.29156203657934}",
+    "thesis": null
+  }
+}

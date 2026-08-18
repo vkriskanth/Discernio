@@ -1,0 +1,55 @@
+{
+  "ticker": "MRVI",
+  "stock": {
+    "ticker": "MRVI",
+    "name": "Maravai LifeSciences Holdings, ",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 45.44,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MRVI",
+    "asof": "2026-08-12",
+    "market_cap": 2166592512.0,
+    "pe": null,
+    "forward_pe": -58.377403,
+    "ev_ebitda": -58.982,
+    "fcf_yield": -0.0016722687722461767,
+    "roe": -0.33046,
+    "gross_margin": 0.35707,
+    "op_margin": -0.29396,
+    "rev_growth": 0.085,
+    "debt_to_equity": 61.335
+  },
+  "market_stats": {
+    "ticker": "MRVI",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0677,
+    "short_ratio": 3.07,
+    "putcall_oi_ratio": 0.01649344780840488,
+    "avg_volume": 2839774.0,
+    "beta": 0.582
+  },
+  "momentum": {
+    "ticker": "MRVI",
+    "asof": "2026-08-12",
+    "ret_1m": -1.6750403374697242,
+    "ret_3m": 48.984766505312564,
+    "ret_6m": 89.96763911357976,
+    "ret_12m": 188.4520706623432,
+    "rsi14": 22.549021899448135,
+    "pct_vs_200dma": 43.60504699831649,
+    "score": 81.7,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 22.549021899448135, \"vs_200dma\": 100.0, \"short_squeeze\": 33.849999999999994, \"options_skew\": 98.9498870311794}",
+    "thesis": null
+  }
+}

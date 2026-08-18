@@ -1,0 +1,63 @@
+{
+  "ticker": "ABNB",
+  "stock": {
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Travel Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.53,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 2.5,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ABNB",
+    "asof": "2026-08-12",
+    "market_cap": 108847259648.0,
+    "pe": 41.50228,
+    "forward_pe": 29.680742,
+    "ev_ebitda": 36.034,
+    "fcf_yield": 0.0294621554127378,
+    "roe": 0.34542,
+    "gross_margin": 0.82901,
+    "op_margin": 0.21009001,
+    "rev_growth": 0.165,
+    "debt_to_equity": 32.004
+  },
+  "market_stats": {
+    "ticker": "ABNB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0312,
+    "short_ratio": 3.87,
+    "putcall_oi_ratio": 0.504885430177259,
+    "avg_volume": 4100448.0,
+    "beta": 1.137
+  },
+  "momentum": {
+    "ticker": "ABNB",
+    "asof": "2026-08-12",
+    "ret_1m": 22.990312532377022,
+    "ret_3m": 33.030706680856234,
+    "ret_6m": 49.79221757369401,
+    "ret_12m": 52.34995019288888,
+    "rsi14": 85.40835367965006,
+    "pct_vs_200dma": 34.32219536939583,
+    "score": 84.3,
+    "components_json": "{\"trend\": 95.78685735352062, \"rsi\": 85.40835367965006, \"vs_200dma\": 100.0, \"short_squeeze\": 15.599999999999998, \"options_skew\": 66.37414180717683}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "MBUU",
+  "stock": {
+    "ticker": "MBUU",
+    "name": "Malibu Boats, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Recreational Vehicles"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 5.7,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "MBUU",
+    "asof": "2026-08-12",
+    "market_cap": 561815744.0,
+    "pe": null,
+    "forward_pe": 11.320516,
+    "ev_ebitda": 12.623,
+    "fcf_yield": 0.10668199430167624,
+    "roe": -0.0016699999,
+    "gross_margin": 0.15471,
+    "op_margin": 0.044239998,
+    "rev_growth": 0.031,
+    "debt_to_equity": 34.123
+  },
+  "market_stats": {
+    "ticker": "MBUU",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0687,
+    "short_ratio": 5.77,
+    "putcall_oi_ratio": 0.5135135135135135,
+    "avg_volume": 276706.0,
+    "beta": 1.153
+  },
+  "momentum": {
+    "ticker": "MBUU",
+    "asof": "2026-08-12",
+    "ret_1m": 11.056041437822394,
+    "ret_3m": 14.685037788406706,
+    "ret_6m": -5.144903845031113,
+    "ret_12m": -12.179678116355975,
+    "rsi14": 58.4112142591243,
+    "pct_vs_200dma": 3.239111020797769,
+    "score": 52.1,
+    "components_json": "{\"trend\": 47.99016893647029, \"rsi\": 58.4112142591243, \"vs_200dma\": 56.47822204159554, \"short_squeeze\": 34.35, \"options_skew\": 65.79864864864865}",
+    "thesis": null
+  }
+}

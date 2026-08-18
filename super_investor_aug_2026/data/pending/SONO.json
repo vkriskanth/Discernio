@@ -1,0 +1,55 @@
+{
+  "ticker": "SONO",
+  "stock": {
+    "ticker": "SONO",
+    "name": "Sonos, Inc.",
+    "sector": "Technology",
+    "industry": "Consumer Electronics"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 48.93,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SONO",
+    "asof": "2026-08-12",
+    "market_cap": 1796648832.0,
+    "pe": 33.75111,
+    "forward_pe": 14.963547,
+    "ev_ebitda": 11.728,
+    "fcf_yield": 0.062288116635137745,
+    "roe": 0.14175999,
+    "gross_margin": 0.46567002,
+    "op_margin": 0.10587,
+    "rev_growth": 0.088,
+    "debt_to_equity": 14.081
+  },
+  "market_stats": {
+    "ticker": "SONO",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1363,
+    "short_ratio": 4.3,
+    "putcall_oi_ratio": 1.6545893719806763,
+    "avg_volume": 1975953.0,
+    "beta": 1.93
+  },
+  "momentum": {
+    "ticker": "SONO",
+    "asof": "2026-08-12",
+    "ret_1m": 8.62068965517242,
+    "ret_3m": 4.581670392814385,
+    "ret_6m": -7.786884833998686,
+    "ret_12m": 43.57337845595002,
+    "rsi14": 55.1366630251477,
+    "pct_vs_200dma": 1.2568710764597313,
+    "score": 54.8,
+    "components_json": "{\"trend\": 66.46778705002473, \"rsi\": 55.1366630251477, \"vs_200dma\": 52.51374215291946, \"short_squeeze\": 68.15, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

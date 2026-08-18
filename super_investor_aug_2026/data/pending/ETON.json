@@ -1,0 +1,55 @@
+{
+  "ticker": "ETON",
+  "stock": {
+    "ticker": "ETON",
+    "name": "Eton Pharmaceuticals, Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 50.57,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ETON",
+    "asof": "2026-08-12",
+    "market_cap": 1154861824.0,
+    "pe": null,
+    "forward_pe": 19.339449,
+    "ev_ebitda": 104.957,
+    "fcf_yield": 0.00211161625514084,
+    "roe": -0.05357,
+    "gross_margin": 0.59719,
+    "op_margin": 0.113900006,
+    "rev_growth": 0.404,
+    "debt_to_equity": 102.113
+  },
+  "market_stats": {
+    "ticker": "ETON",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0674,
+    "short_ratio": 2.47,
+    "putcall_oi_ratio": 0.29411764705882354,
+    "avg_volume": 465785.0,
+    "beta": 0.869
+  },
+  "momentum": {
+    "ticker": "ETON",
+    "asof": "2026-08-12",
+    "ret_1m": 14.385209398563404,
+    "ret_3m": 37.65312744298337,
+    "ret_6m": 197.56097301626772,
+    "ret_12m": 179.81651456415645,
+    "rsi14": 53.8209123762347,
+    "pct_vs_200dma": 75.71004420115861,
+    "score": 84.5,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 53.8209123762347, \"vs_200dma\": 100.0, \"short_squeeze\": 33.7, \"options_skew\": 80.43235294117648}",
+    "thesis": null
+  }
+}

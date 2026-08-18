@@ -1,0 +1,55 @@
+{
+  "ticker": "SCHD",
+  "stock": {
+    "ticker": "SCHD",
+    "name": "Schwab US Dividend Equity ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 0.18,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SCHD",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 19.730698,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "SCHD",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.5708321336020732,
+    "avg_volume": 21373498.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "SCHD",
+    "asof": "2026-08-12",
+    "ret_1m": 6.228263186146443,
+    "ret_3m": 8.557690613922574,
+    "ret_6m": 11.084858487629612,
+    "ret_12m": 32.369003944970444,
+    "rsi14": 74.11225913525598,
+    "pct_vs_200dma": 13.663664973955925,
+    "score": 64.2,
+    "components_json": "{\"trend\": 68.84036630845384, \"rsi\": 74.11225913525598, \"vs_200dma\": 77.32732994791185, \"short_squeeze\": 0.0, \"options_skew\": 61.97549668874172}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "RYN",
+  "stock": {
+    "ticker": "RYN",
+    "name": "Rayonier Inc. REIT",
+    "sector": "Real Estate",
+    "industry": "REIT - Specialty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SE",
+      "manager_name": "Mason Hawkins - Southeastern Asset Management",
+      "action": "add",
+      "share_change_pct": 89.52,
+      "pct_of_portfolio": 5.16,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RYN",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 46.608696,
+    "forward_pe": 34.86179,
+    "ev_ebitda": 23.206,
+    "fcf_yield": null,
+    "roe": 0.02015,
+    "gross_margin": 0.24815,
+    "op_margin": 0.1179,
+    "rev_growth": 2.721,
+    "debt_to_equity": 36.025
+  },
+  "market_stats": {
+    "ticker": "RYN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0397,
+    "short_ratio": 5.41,
+    "putcall_oi_ratio": 1.4429223744292237,
+    "avg_volume": 2676714.0,
+    "beta": 0.904
+  },
+  "momentum": {
+    "ticker": "RYN",
+    "asof": "2026-08-12",
+    "ret_1m": 0.8227514494324906,
+    "ret_3m": 6.302720669726591,
+    "ret_6m": -2.0986432693054557,
+    "ret_12m": -7.552103589673598,
+    "rsi14": 52.67488979776372,
+    "pct_vs_200dma": 0.9947729889334234,
+    "score": 42.6,
+    "components_json": "{\"trend\": 48.240381784256904, \"rsi\": 52.67488979776372, \"vs_200dma\": 51.98954597786685, \"short_squeeze\": 19.849999999999998, \"options_skew\": 3.807077625570782}",
+    "thesis": null
+  }
+}

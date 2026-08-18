@@ -15,10 +15,12 @@ What this script does with real data:
      IWM holdings CSV (public, daily).
   2. Profit concentration map - who actually earns the index's profits;
      % unprofitable; top-25/50/100 earner concentration.
-  3. Graduation screen - S&P eligibility mechanics: market cap in the
-     MidCap 400 band ($8.0-22.7B) or approaching the S&P 500 threshold
-     ($22.7B), positive TTM GAAP earnings, US domicile and listing.
-     Cohorts: 400-ready and 500-track.
+  3. Graduation screen - S&P eligibility mechanics: positive TTM GAAP
+     earnings, US domicile and listing, market cap >= $1.5B, tagged into
+     three zones: in-band ($8.0-22.7B, the MidCap 400 addition range),
+     approaching ($4-8B - the backtest's +95% cohort), and far-below
+     ($1.5-4B, needs TTM NI >= $50M). In-band cohorts: 400-ready,
+     500-track, in-400.
   4. Moat test - ROE level/stability, gross margin, revenue growth, FCF
      conversion across ~4 fiscal years -> moat score 0-10.
   5. Management test - dilution, cash returned vs FCF, debt trajectory,
@@ -27,7 +29,7 @@ What this script does with real data:
      multiple it would re-rate toward -> value score 0-10; no name is
      dropped on price.
   7. Composite shortlist - moat 35%, management 25%, model/growth 20%,
-     value 20%; ranked table saved to data/shortlist.csv.
+     value 20%; ranked per zone, full table saved to data/shortlist.csv.
 
 Caching: every expensive fetch lands in data/ and is reused if < 7 days
 old. --refresh forces a refetch of everything. Run:
@@ -58,6 +60,12 @@ SP500_MIN_CAP = 22.7e9
 SP400_MIN_CAP = 8.0e9
 SP400_MAX_CAP = 22.7e9
 SP500_TRACK_FRAC = 0.70  # >= 70% of the 500 threshold = "500-track"
+# Zones below the S&P 400 floor, from the backtest.py autopsy: names
+# $4-8B a year before their 400 add averaged +95%; the in-band cohort
+# only +11% (promotion already priced). Smallest graduate was ~$1.6B.
+APPROACH_MIN = 4.0e9
+FARBELOW_MIN = 1.5e9
+FARBELOW_MIN_NI = 50e6  # <$4B names must show real earnings power
 # GAAP earnings rule (unchanged): positive earnings in the most recent
 # quarter AND positive sum of the trailing four quarters.
 
@@ -258,10 +266,21 @@ def graduation_screen(funda: pd.DataFrame, refresh: bool) -> pd.DataFrame:
         return table
     cand = funda.dropna(subset=["mkt_cap", "ni_ttm"]).copy()
     cand = cand[cand["ni_ttm"] > 0]
-    cand = cand[cand["mkt_cap"] >= SP400_MIN_CAP]
+    cand = cand[cand["mkt_cap"] >= FARBELOW_MIN]
     cand = cand[cand["country"] == "United States"]
     cand = cand[cand["exchange"].isin(US_EXCHANGES)]
-    cand["cohort"] = "400-ready"
+    # the far-below tail must show real earnings power, or the list
+    # would swallow half the index
+    far = cand["mkt_cap"] < APPROACH_MIN
+    cand = cand[~far | (cand["ni_ttm"] >= FARBELOW_MIN_NI)]
+
+    cand["zone"] = "far-below (1.5-4B)"
+    cand.loc[cand["mkt_cap"] >= APPROACH_MIN, "zone"] = "approaching (4-8B)"
+    cand.loc[cand["mkt_cap"] >= SP400_MIN_CAP, "zone"] = "in-band (8B+)"
+
+    cand["cohort"] = cand["zone"]
+    in_band = cand["mkt_cap"] >= SP400_MIN_CAP
+    cand.loc[in_band, "cohort"] = "400-ready"
     on_track = cand["mkt_cap"] >= SP500_MIN_CAP * SP500_TRACK_FRAC
     cand.loc[on_track, "cohort"] = "400-ready+500-track"
     cand.loc[cand["mkt_cap"] >= SP500_MIN_CAP, "cohort"] = "500-eligible"
@@ -284,20 +303,25 @@ def graduation_screen(funda: pd.DataFrame, refresh: bool) -> pd.DataFrame:
     cand = cand.sort_values("mkt_cap", ascending=False)
     cand.to_csv(path, index=False)
 
-    show = cand[
+    print(f"\ncandidates: {len(cand)}  (cap >= ${FARBELOW_MIN / 1e9:.1f}B,"
+          " TTM GAAP profit, US-domiciled, US-listed, last quarter not a"
+          f" loss; <$4B names also need TTM NI >= ${FARBELOW_MIN_NI / 1e6:.0f}M)")
+    print(cand["zone"].value_counts().to_string())
+    show = cand[in_band.reindex(cand.index, fill_value=False)][
         ["Ticker", "Name", "Sector", "mkt_cap", "ni_ttm", "cohort",
          "in_sp600", "in_sp400", "last_q_positive"]
     ].copy()
     show["mkt_cap_$B"] = (show.pop("mkt_cap") / 1e9).round(1)
     show["ni_ttm_$M"] = (show.pop("ni_ttm") / 1e6).round(0)
-    print(f"\ncandidates: {len(cand)}  (cap >= ${SP400_MIN_CAP / 1e9:.1f}B,"
-          " TTM GAAP profit, US-domiciled, US-listed, last quarter not a loss)")
+    print("\nin-band names (full list; lower zones ranked after scoring):")
     print(show.to_string(index=False))
     print(
         "\n  Read: mechanics only - the committee also weighs sector"
         "\n  balance, float and seasoning, so this is a probability tilt,"
         "\n  not a certainty. Names already in the S&P 600 get promoted"
-        "\n  from within the family more often than outsiders."
+        "\n  from within the family more often than outsiders. The"
+        "\n  backtest says in-band adds were ~priced (+11% avg) while the"
+        "\n  approaching zone paid (+95% avg, selection-bias caveat)."
     )
     return cand
 
@@ -311,14 +335,24 @@ def yearly_series(frame: pd.DataFrame, label: str) -> pd.Series:
     return ser.sort_index()
 
 
-def statement_metrics(tkr: str) -> dict[str, float | None]:
-    """Per-name metrics from ~4 fiscal years of statements (Steps 4-5)."""
-    # pylint: disable=too-many-locals
+def statement_metrics(tkr: str, until: int | None = None) -> dict[str, float | None]:
+    """Per-name metrics from ~4 fiscal years of statements (Steps 4-5).
+
+    `until` drops fiscal years after that year - used by backtest.py to
+    score with only the data an analyst would have had at the time.
+    """
+    # pylint: disable=too-many-locals,too-many-statements
     tik = yf.Ticker(tkr)
     try:
         inc, bal, cfs = tik.income_stmt, tik.balance_sheet, tik.cashflow
     except Exception:  # pylint: disable=broad-exception-caught
         return {}
+    if until is not None:
+        inc, bal, cfs = (
+            frame.loc[:, [col for col in frame.columns if col.year <= until]]
+            if frame is not None and not frame.empty else frame
+            for frame in (inc, bal, cfs)
+        )
     rev = yearly_series(inc, "Total Revenue")
     gross = yearly_series(inc, "Gross Profit")
     opinc = yearly_series(inc, "Operating Income")
@@ -383,16 +417,24 @@ def statement_metrics(tkr: str) -> dict[str, float | None]:
 def fetch_metrics(cand: pd.DataFrame, refresh: bool) -> pd.DataFrame:
     """Statement metrics for every candidate, cached."""
     path = DATA_DIR / "quality_metrics.csv"
-    if cache_ok(path, refresh):
-        return pd.read_csv(path)
-    print(f"(pulling ~4yr statements for {len(cand)} candidates...)")
+    have = pd.DataFrame()
+    if path.exists() and not refresh:
+        have = pd.read_csv(path)
+    todo = cand[~cand["yf_ticker"].isin(set(have.get("yf_ticker", [])))]
+    if todo.empty:
+        return have
+    print(f"(pulling ~4yr statements for {len(todo)} candidates...)")
     rows = []
-    for _, cand_row in cand.iterrows():
-        met = statement_metrics(cand_row["yf_ticker"])
-        met["yf_ticker"] = cand_row["yf_ticker"]
+    for count, tkr in enumerate(todo["yf_ticker"], 1):
+        met = statement_metrics(tkr)
+        met["yf_ticker"] = tkr
         rows.append(met)
+        if count % 25 == 0:  # checkpoint so a crash never loses the batch
+            pd.concat([have, pd.DataFrame(rows)], ignore_index=True).to_csv(
+                path, index=False
+            )
         time.sleep(0.15)
-    table = pd.DataFrame(rows)
+    table = pd.concat([have, pd.DataFrame(rows)], ignore_index=True)
     table.to_csv(path, index=False)
     return table
 
@@ -517,19 +559,32 @@ def shortlist_section(cand: pd.DataFrame, metrics: pd.DataFrame) -> None:
     full = full.sort_values("composite", ascending=False)
     full.to_csv(DATA_DIR / "shortlist.csv", index=False)
 
-    show = full.head(15)[
-        ["Ticker", "Name", "Sector", "cohort", "mkt_cap", "pe_ttm",
-         "rev_cagr", "roe_avg", "moat", "mgmt", "growth_s", "value",
-         "composite"]
-    ].copy()
-    show["mkt_cap_$B"] = (show.pop("mkt_cap") / 1e9).round(1)
-    show["pe_ttm"] = show["pe_ttm"].round(1)
-    print(show.to_string(index=False))
+    cols = [
+        "Ticker", "Name", "Sector", "cohort", "mkt_cap", "pe_ttm",
+        "rev_cagr", "roe_avg", "moat", "mgmt", "growth_s", "value",
+        "composite",
+    ]
+    zone_order = ["in-band (8B+)", "approaching (4-8B)", "far-below (1.5-4B)"]
+    per_zone = {"in-band (8B+)": 15, "approaching (4-8B)": 15,
+                "far-below (1.5-4B)": 20}
+    for zone in zone_order:
+        sub = full[full["zone"] == zone]
+        if sub.empty:
+            continue
+        top_n = per_zone[zone]
+        print(f"\n--- {zone}: top {min(top_n, len(sub))} of {len(sub)}"
+              " by composite ---")
+        show = sub.head(top_n)[cols].copy()
+        show["mkt_cap_$B"] = (show.pop("mkt_cap") / 1e9).round(1)
+        show["pe_ttm"] = show["pe_ttm"].round(1)
+        print(show.to_string(index=False))
     print(
         "\n  Read: a probability tilt, not a promotion list - S&P adds are"
-        "\n  committee calls weighing sector balance and seasoning, and the"
-        "\n  index-inclusion pop has shrunk even though the anticipation"
-        "\n  run-up is still real. The top ~5 names each deserve a full"
+        "\n  committee calls weighing sector balance and seasoning. Per the"
+        "\n  backtest, the in-band zone is a 0-2 quarter catalyst trade"
+        "\n  (mostly priced), the approaching zone is the 1-year-early"
+        "\n  hold where returns concentrated, and far-below is a 2+ year"
+        "\n  quality watchlist. Top names per zone deserve a full"
         "\n  single-name workup (analysis-001 style) before any position."
     )
 

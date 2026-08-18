@@ -1,0 +1,55 @@
+{
+  "ticker": "FRDM",
+  "stock": {
+    "ticker": "FRDM",
+    "name": "Freedom 100 Emerging Markets ET",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MUHL",
+      "manager_name": "Muhlenkamp",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 3.41,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FRDM",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 16.848612,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "FRDM",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.5675675675675675,
+    "avg_volume": 342477.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "FRDM",
+    "asof": "2026-08-12",
+    "ret_1m": -0.014698215697150907,
+    "ret_3m": 2.601089202076712,
+    "ret_6m": 15.38574699009365,
+    "ret_12m": 66.83222108909361,
+    "rsi14": 55.782332696857985,
+    "pct_vs_200dma": 14.955178421933502,
+    "score": 67.4,
+    "components_json": "{\"trend\": 82.12893929328855, \"rsi\": 55.782332696857985, \"vs_200dma\": 79.910356843867, \"short_squeeze\": 0.0, \"options_skew\": 62.193243243243245}",
+    "thesis": null
+  }
+}

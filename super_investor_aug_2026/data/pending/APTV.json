@@ -1,0 +1,63 @@
+{
+  "ticker": "APTV",
+  "stock": {
+    "ticker": "APTV",
+    "name": "Aptiv PLC",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AIM",
+      "manager_name": "Alex Roepers - Atlantic Investment Management",
+      "action": "add",
+      "share_change_pct": 17.03,
+      "pct_of_portfolio": 1.9,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 2.22,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "APTV",
+    "asof": "2026-08-12",
+    "market_cap": 10328719360.0,
+    "pe": 22.509048,
+    "forward_pe": 7.617089,
+    "ev_ebitda": 4.709,
+    "fcf_yield": 0.15644484932544436,
+    "roe": 0.05158,
+    "gross_margin": 0.19251,
+    "op_margin": 0.12675999,
+    "rev_growth": 0.023,
+    "debt_to_equity": 64.938
+  },
+  "market_stats": {
+    "ticker": "APTV",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.073,
+    "short_ratio": 4.65,
+    "putcall_oi_ratio": 0.7982905982905983,
+    "avg_volume": 3679798.0,
+    "beta": 1.36
+  },
+  "momentum": {
+    "ticker": "APTV",
+    "asof": "2026-08-12",
+    "ret_1m": -18.133978335374724,
+    "ret_3m": -14.191909395229885,
+    "ret_6m": -38.52859970179136,
+    "ret_12m": -24.746623155375445,
+    "rsi14": 31.265515218854944,
+    "pct_vs_200dma": -29.789671849741783,
+    "score": 22.7,
+    "components_json": "{\"trend\": 24.28519800874345, \"rsi\": 31.265515218854944, \"vs_200dma\": 0.0, \"short_squeeze\": 36.5, \"options_skew\": 46.80401709401709}",
+    "thesis": null
+  }
+}

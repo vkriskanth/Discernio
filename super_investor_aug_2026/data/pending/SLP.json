@@ -1,0 +1,55 @@
+{
+  "ticker": "SLP",
+  "stock": {
+    "ticker": "SLP",
+    "name": "Simulations Plus, Inc.",
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 44.27,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SLP",
+    "asof": "2026-08-12",
+    "market_cap": 370316768.0,
+    "pe": 45.774998,
+    "forward_pe": 20.747875,
+    "ev_ebitda": 21.365,
+    "fcf_yield": 0.04970507843706391,
+    "roe": 0.061680004,
+    "gross_margin": 0.63376,
+    "op_margin": 0.22840999,
+    "rev_growth": 0.075,
+    "debt_to_equity": 0.35
+  },
+  "market_stats": {
+    "ticker": "SLP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1983,
+    "short_ratio": 5.73,
+    "putcall_oi_ratio": 1.3134328358208955,
+    "avg_volume": 436474.0,
+    "beta": 1.334
+  },
+  "momentum": {
+    "ticker": "SLP",
+    "asof": "2026-08-12",
+    "ret_1m": -0.08178511190645166,
+    "ret_3m": 14.103370935972581,
+    "ret_6m": 29.59689050922094,
+    "ret_12m": 40.52914736615849,
+    "rsi14": 65.33324517323459,
+    "pct_vs_200dma": 12.83259549836484,
+    "score": 71.6,
+    "components_json": "{\"trend\": 79.32173738002146, \"rsi\": 65.33324517323459, \"vs_200dma\": 75.66519099672968, \"short_squeeze\": 99.15, \"options_skew\": 12.444029850746269}",
+    "thesis": null
+  }
+}

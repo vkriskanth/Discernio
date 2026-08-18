@@ -1,0 +1,63 @@
+{
+  "ticker": "BKD",
+  "stock": {
+    "ticker": "BKD",
+    "name": "Brookdale Senior Living Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TA",
+      "manager_name": "Third Avenue Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 7.3,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BKD",
+    "asof": "2026-08-12",
+    "market_cap": 3067607552.0,
+    "pe": null,
+    "forward_pe": 67.60526,
+    "ev_ebitda": 17.421,
+    "fcf_yield": 0.007484986136844665,
+    "roe": -3.49582,
+    "gross_margin": 0.28259,
+    "op_margin": 0.06806,
+    "rev_growth": -0.089,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "BKD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.16319999,
+    "short_ratio": 7.92,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 4923675.0,
+    "beta": 0.609
+  },
+  "momentum": {
+    "ticker": "BKD",
+    "asof": "2026-08-12",
+    "ret_1m": -14.56151483428566,
+    "ret_3m": -3.7241895192743124,
+    "ret_6m": -15.556272490536504,
+    "ret_12m": 67.37179469153098,
+    "rsi14": 32.05742412771235,
+    "pct_vs_200dma": 0.26169674226799167,
+    "score": 59.1,
+    "components_json": "{\"trend\": 71.16457927366915, \"rsi\": 32.05742412771235, \"vs_200dma\": 50.52339348453599, \"short_squeeze\": 81.59999499999999, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

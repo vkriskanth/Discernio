@@ -1,0 +1,71 @@
+{
+  "ticker": "CNC",
+  "stock": {
+    "ticker": "CNC",
+    "name": "Centene Corporation",
+    "sector": "Healthcare",
+    "industry": "Healthcare Plans"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 55.73,
+      "pct_of_portfolio": 0.22,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "add",
+      "share_change_pct": 3.5,
+      "pct_of_portfolio": 0.09,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TB",
+      "manager_name": "Tweedy Browne",
+      "action": "add",
+      "share_change_pct": 32.53,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CNC",
+    "asof": "2026-08-12",
+    "market_cap": 32741988352.0,
+    "pe": null,
+    "forward_pe": 12.5029,
+    "ev_ebitda": 4.601,
+    "fcf_yield": 0.2944117076937136,
+    "roe": -0.20358999,
+    "gross_margin": 0.11415,
+    "op_margin": 0.0376,
+    "rev_growth": 0.046,
+    "debt_to_equity": 71.082
+  },
+  "market_stats": {
+    "ticker": "CNC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0315,
+    "short_ratio": 2.79,
+    "putcall_oi_ratio": 0.6108415749206941,
+    "avg_volume": 5105979.0,
+    "beta": 1.105
+  },
+  "momentum": {
+    "ticker": "CNC",
+    "asof": "2026-08-12",
+    "ret_1m": -2.5902193650727434,
+    "ret_3m": 12.864611180992558,
+    "ret_6m": 68.9977314060236,
+    "ret_12m": 165.10892056002479,
+    "rsi14": 58.29015119037241,
+    "pct_vs_200dma": 40.07965017267647,
+    "score": 81.2,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 58.29015119037241, \"vs_200dma\": 100.0, \"short_squeeze\": 15.75, \"options_skew\": 59.306866952789704}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "TDG",
+  "stock": {
+    "ticker": "TDG",
+    "name": "TransDigm Group Inc.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "tp",
+      "manager_name": "Daniel Loeb - Third Point",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.39,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "TFP",
+      "manager_name": "Triple Frond Partners",
+      "action": "add",
+      "share_change_pct": 2.55,
+      "pct_of_portfolio": 0.32,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LPC",
+      "manager_name": "Stephen Mandel - Lone Pine Capital",
+      "action": "add",
+      "share_change_pct": 85.55,
+      "pct_of_portfolio": 0.15,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TDG",
+    "asof": "2026-08-12",
+    "market_cap": 69129650176.0,
+    "pe": 38.001064,
+    "forward_pe": 25.863932,
+    "ev_ebitda": 19.519,
+    "fcf_yield": 0.021081764080819295,
+    "roe": null,
+    "gross_margin": 0.59824,
+    "op_margin": 0.46005002,
+    "rev_growth": 0.225,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "TDG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0233,
+    "short_ratio": 2.86,
+    "putcall_oi_ratio": 1.4943181818181819,
+    "avg_volume": 408869.0,
+    "beta": 0.906
+  },
+  "momentum": {
+    "ticker": "TDG",
+    "asof": "2026-08-12",
+    "ret_1m": -3.624264870474758,
+    "ret_3m": 0.5450989257246297,
+    "ret_6m": -1.1486162510849218,
+    "ret_12m": -4.75333001063939,
+    "rsi14": 57.36071444317619,
+    "pct_vs_200dma": -2.5018626155196344,
+    "score": 40.2,
+    "components_json": "{\"trend\": 47.917612798136155, \"rsi\": 57.36071444317619, \"vs_200dma\": 44.99627476896073, \"short_squeeze\": 11.65, \"options_skew\": 0.3789772727272687}",
+    "thesis": null
+  }
+}

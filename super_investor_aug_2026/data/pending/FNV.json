@@ -1,0 +1,63 @@
+{
+  "ticker": "FNV",
+  "stock": {
+    "ticker": "FNV",
+    "name": "Franco-Nevada Corporation",
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MKL",
+      "manager_name": "Thomas Gayner - Markel Group",
+      "action": "add",
+      "share_change_pct": 9.17,
+      "pct_of_portfolio": 0.1,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "FNV",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 33.10986,
+    "forward_pe": 24.622154,
+    "ev_ebitda": 23.881,
+    "fcf_yield": null,
+    "roe": 0.19041,
+    "gross_margin": 0.91823995,
+    "op_margin": 0.79260004,
+    "rev_growth": 0.777,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "FNV",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 5.28,
+    "putcall_oi_ratio": 1.3240384615384615,
+    "avg_volume": 845062.0,
+    "beta": 0.909
+  },
+  "momentum": {
+    "ticker": "FNV",
+    "asof": "2026-08-12",
+    "ret_1m": 15.16640595609504,
+    "ret_3m": 2.1888929601815654,
+    "ret_6m": 2.371617358616085,
+    "ret_12m": 38.56528704496254,
+    "rsi14": 71.44758281101034,
+    "pct_vs_200dma": 4.585386807691982,
+    "score": 53.4,
+    "components_json": "{\"trend\": 66.79426791362431, \"rsi\": 71.44758281101034, \"vs_200dma\": 59.170773615383965, \"short_squeeze\": 0.0, \"options_skew\": 11.736634615384618}",
+    "thesis": null
+  }
+}

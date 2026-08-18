@@ -1,0 +1,55 @@
+{
+  "ticker": "CHTR",
+  "stock": {
+    "ticker": "CHTR",
+    "name": "Charter Communications",
+    "sector": "Communication Services",
+    "industry": "Telecom Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 0.12,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CHTR",
+    "asof": "2026-08-12",
+    "market_cap": 20309620736.0,
+    "pe": 3.9211555,
+    "forward_pe": 3.416797,
+    "ev_ebitda": 5.499,
+    "fcf_yield": 0.10824303124987711,
+    "roe": 0.27201998,
+    "gross_margin": 0.55189997,
+    "op_margin": 0.23503,
+    "rev_growth": -0.017,
+    "debt_to_equity": 441.578
+  },
+  "market_stats": {
+    "ticker": "CHTR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.504,
+    "short_ratio": 7.18,
+    "putcall_oi_ratio": 0.5785484722022354,
+    "avg_volume": 3363948.0,
+    "beta": 0.678
+  },
+  "momentum": {
+    "ticker": "CHTR",
+    "asof": "2026-08-12",
+    "ret_1m": 17.34813681971581,
+    "ret_3m": 1.4737749875310513,
+    "ret_6m": -39.5221384314415,
+    "ret_12m": -41.994816834967196,
+    "rsi14": 68.71235207605298,
+    "pct_vs_200dma": -20.266744690848636,
+    "score": 37.5,
+    "components_json": "{\"trend\": 21.787564232839983, \"rsi\": 68.71235207605298, \"vs_200dma\": 9.466510618302728, \"short_squeeze\": 100.0, \"options_skew\": 61.46081690411091}",
+    "thesis": null
+  }
+}

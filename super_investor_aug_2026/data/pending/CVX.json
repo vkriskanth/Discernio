@@ -1,0 +1,87 @@
+{
+  "ticker": "CVX",
+  "stock": {
+    "ticker": "CVX",
+    "name": "Chevron Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Integrated"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SSHFX",
+      "manager_name": "Harry Burn - Sound Shore",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.07,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 80.53,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 13.77,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "FPA",
+      "manager_name": "First Pacific Advisors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 0.16,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CVX",
+    "asof": "2026-08-12",
+    "market_cap": 385827766272.0,
+    "pe": 18.94894,
+    "forward_pe": 15.010825,
+    "ev_ebitda": 8.29,
+    "fcf_yield": 0.05684920071962114,
+    "roe": 0.12231,
+    "gross_margin": 0.44267,
+    "op_margin": 0.21866,
+    "rev_growth": 0.535,
+    "debt_to_equity": 18.959
+  },
+  "market_stats": {
+    "ticker": "CVX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0104,
+    "short_ratio": 2.45,
+    "putcall_oi_ratio": 0.4072175340571988,
+    "avg_volume": 8953919.0,
+    "beta": 0.488
+  },
+  "momentum": {
+    "ticker": "CVX",
+    "asof": "2026-08-12",
+    "ret_1m": 8.082087855066344,
+    "ret_3m": 6.614320160943188,
+    "ret_6m": 9.836866678604817,
+    "ret_12m": 33.38408841226013,
+    "rsi14": 52.35772282800557,
+    "pct_vs_200dma": 12.221345901264646,
+    "score": 61.6,
+    "components_json": "{\"trend\": 68.28899141676845, \"rsi\": 52.35772282800557, \"vs_200dma\": 74.4426918025293, \"short_squeeze\": 5.2, \"options_skew\": 72.88859047838484}",
+    "thesis": null
+  }
+}

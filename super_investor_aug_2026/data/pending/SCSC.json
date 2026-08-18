@@ -1,0 +1,55 @@
+{
+  "ticker": "SCSC",
+  "stock": {
+    "ticker": "SCSC",
+    "name": "ScanSource, Inc.",
+    "sector": "Technology",
+    "industry": "Electronics & Computer Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 21.52,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SCSC",
+    "asof": "2026-08-12",
+    "market_cap": 1049965120.0,
+    "pe": 15.702127,
+    "forward_pe": 11.706322,
+    "ev_ebitda": 8.594,
+    "fcf_yield": 0.10203862772127135,
+    "roe": 0.08113,
+    "gross_margin": 0.13695,
+    "op_margin": 0.03093,
+    "rev_growth": 0.088,
+    "debt_to_equity": 12.431
+  },
+  "market_stats": {
+    "ticker": "SCSC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0729,
+    "short_ratio": 5.36,
+    "putcall_oi_ratio": 3.1578947368421053,
+    "avg_volume": 225193.0,
+    "beta": 1.242
+  },
+  "momentum": {
+    "ticker": "SCSC",
+    "asof": "2026-08-12",
+    "ret_1m": -3.441826008415172,
+    "ret_3m": 19.242314253150326,
+    "ret_6m": 41.96919159893726,
+    "ret_12m": 30.71662886262232,
+    "rsi14": 40.92796986284,
+    "pct_vs_200dma": 20.502456824778715,
+    "score": 64.8,
+    "components_json": "{\"trend\": 80.6501033006752, \"rsi\": 40.92796986284, \"vs_200dma\": 91.00491364955744, \"short_squeeze\": 36.45, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

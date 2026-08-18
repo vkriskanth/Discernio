@@ -1,0 +1,55 @@
+{
+  "ticker": "BLMN",
+  "stock": {
+    "ticker": "BLMN",
+    "name": "Bloomin' Brands, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.87,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BLMN",
+    "asof": "2026-08-12",
+    "market_cap": 944398720.0,
+    "pe": 34.46875,
+    "forward_pe": 10.62559,
+    "ev_ebitda": 8.876,
+    "fcf_yield": 0.2924483760418481,
+    "roe": 0.08071999,
+    "gross_margin": 0.13574,
+    "op_margin": 0.0444,
+    "rev_growth": 0.013,
+    "debt_to_equity": 441.871
+  },
+  "market_stats": {
+    "ticker": "BLMN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.1251,
+    "short_ratio": 5.26,
+    "putcall_oi_ratio": 1.7371663244353184,
+    "avg_volume": 2236938.0,
+    "beta": 1.2
+  },
+  "momentum": {
+    "ticker": "BLMN",
+    "asof": "2026-08-12",
+    "ret_1m": 36.522258654134944,
+    "ret_3m": 36.35818128799224,
+    "ret_6m": 63.002876506438874,
+    "ret_12m": 79.07856414641242,
+    "rsi14": 75.30072863169065,
+    "pct_vs_200dma": 58.566545456999975,
+    "score": 82.6,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 75.30072863169065, \"vs_200dma\": 100.0, \"short_squeeze\": 62.54999999999999, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

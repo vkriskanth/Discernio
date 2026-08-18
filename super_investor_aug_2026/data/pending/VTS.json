@@ -1,0 +1,55 @@
+{
+  "ticker": "VTS",
+  "stock": {
+    "ticker": "VTS",
+    "name": "Vitesse Energy, Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "ca",
+      "manager_name": "Francis Chou - Chou Associates",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VTS",
+    "asof": "2026-08-12",
+    "market_cap": 682510912.0,
+    "pe": null,
+    "forward_pe": 21.905403,
+    "ev_ebitda": 6.485,
+    "fcf_yield": 0.037221564598222866,
+    "roe": -0.01736,
+    "gross_margin": 0.73214996,
+    "op_margin": 0.51995,
+    "rev_growth": 0.092,
+    "debt_to_equity": 25.456
+  },
+  "market_stats": {
+    "ticker": "VTS",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.19549999,
+    "short_ratio": 15.9,
+    "putcall_oi_ratio": 0.2483221476510067,
+    "avg_volume": 530677.0,
+    "beta": 0.606
+  },
+  "momentum": {
+    "ticker": "VTS",
+    "asof": "2026-08-12",
+    "ret_1m": 3.31420980239856,
+    "ret_3m": -8.499217172549123,
+    "ret_6m": -21.35300794131487,
+    "ret_12m": -28.107523507126686,
+    "rsi14": 54.347805483684475,
+    "pct_vs_200dma": -10.873969136117257,
+    "score": 45.3,
+    "components_json": "{\"trend\": 29.80132306299013, \"rsi\": 54.347805483684475, \"vs_200dma\": 28.252061727765486, \"short_squeeze\": 97.749995, \"options_skew\": 83.48691275167786}",
+    "thesis": null
+  }
+}

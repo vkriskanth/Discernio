@@ -1,0 +1,55 @@
+{
+  "ticker": "SNOW",
+  "stock": {
+    "ticker": "SNOW",
+    "name": "Snowflake Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "HH",
+      "manager_name": "Duan Yongping - H&H International Investment",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SNOW",
+    "asof": "2026-08-12",
+    "market_cap": 117632581632.0,
+    "pe": null,
+    "forward_pe": 125.75357,
+    "ev_ebitda": -102.63,
+    "fcf_yield": 0.014787550386693191,
+    "roe": -0.54869,
+    "gross_margin": 0.67144996,
+    "op_margin": -0.22173999,
+    "rev_growth": 0.335,
+    "debt_to_equity": 142.912
+  },
+  "market_stats": {
+    "ticker": "SNOW",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.055999998,
+    "short_ratio": 3.9,
+    "putcall_oi_ratio": 0.712988551125148,
+    "avg_volume": 7643317.0,
+    "beta": 1.315
+  },
+  "momentum": {
+    "ticker": "SNOW",
+    "asof": "2026-08-12",
+    "ret_1m": 21.424945493265767,
+    "ret_3m": 120.46322343584607,
+    "ret_6m": 83.51407284387705,
+    "ret_12m": 74.69238385161903,
+    "rsi14": 90.74696709324624,
+    "pct_vs_200dma": 56.7665998484294,
+    "score": 86.7,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 90.74696709324624, \"vs_200dma\": 100.0, \"short_squeeze\": 27.999999, \"options_skew\": 52.49366363995263}",
+    "thesis": null
+  }
+}

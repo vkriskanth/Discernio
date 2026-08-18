@@ -1,0 +1,71 @@
+{
+  "ticker": "ROP",
+  "stock": {
+    "ticker": "ROP",
+    "name": "Roper Technologies, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "AC",
+      "manager_name": "Chuck Akre - Akre Capital Management",
+      "action": "add",
+      "share_change_pct": 13.76,
+      "pct_of_portfolio": 0.88,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.82,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.65,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "ROP",
+    "asof": "2026-08-12",
+    "market_cap": 38891778048.0,
+    "pe": 16.378176,
+    "forward_pe": 16.197401,
+    "ev_ebitda": 15.585,
+    "fcf_yield": 0.058256209042530836,
+    "roe": 0.13066,
+    "gross_margin": 0.69525003,
+    "op_margin": 0.27725,
+    "rev_growth": 0.085,
+    "debt_to_equity": 60.531
+  },
+  "market_stats": {
+    "ticker": "ROP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0625,
+    "short_ratio": 5.89,
+    "putcall_oi_ratio": 0.41785714285714287,
+    "avg_volume": 1069708.0,
+    "beta": 0.737
+  },
+  "momentum": {
+    "ticker": "ROP",
+    "asof": "2026-08-12",
+    "ret_1m": 13.246794817901208,
+    "ret_3m": 21.489952457951045,
+    "ret_6m": 13.105669468575254,
+    "ret_12m": -24.921762703507433,
+    "rsi14": 69.15992852900527,
+    "pct_vs_200dma": 3.899491759561835,
+    "score": 55.3,
+    "components_json": "{\"trend\": 50.40998149655492, \"rsi\": 69.15992852900527, \"vs_200dma\": 57.79898351912367, \"short_squeeze\": 31.25, \"options_skew\": 72.17892857142857}",
+    "thesis": null
+  }
+}

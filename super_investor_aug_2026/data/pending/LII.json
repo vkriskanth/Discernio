@@ -1,0 +1,55 @@
+{
+  "ticker": "LII",
+  "stock": {
+    "ticker": "LII",
+    "name": "Lennox International, Inc.",
+    "sector": "Industrials",
+    "industry": "Building Products & Equipment"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 153.08,
+      "pct_of_portfolio": 1.23,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "LII",
+    "asof": "2026-08-12",
+    "market_cap": 14627115008.0,
+    "pe": 18.818586,
+    "forward_pe": 16.074896,
+    "ev_ebitda": 14.402,
+    "fcf_yield": 0.01898785261810666,
+    "roe": 0.71757007,
+    "gross_margin": 0.33330002,
+    "op_margin": 0.22856002,
+    "rev_growth": 0.03,
+    "debt_to_equity": 156.082
+  },
+  "market_stats": {
+    "ticker": "LII",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0701,
+    "short_ratio": 3.56,
+    "putcall_oi_ratio": 0.9107142857142857,
+    "avg_volume": 474709.0,
+    "beta": 1.199
+  },
+  "momentum": {
+    "ticker": "LII",
+    "asof": "2026-08-12",
+    "ret_1m": -24.601525916812506,
+    "ret_3m": -16.362806692169862,
+    "ret_6m": -22.235310909581862,
+    "ret_12m": -26.371631798161697,
+    "rsi14": 23.90992645770092,
+    "pct_vs_200dma": -15.760849069780313,
+    "score": 26.8,
+    "components_json": "{\"trend\": 27.871912000209804, \"rsi\": 23.90992645770092, \"vs_200dma\": 18.478301860439373, \"short_squeeze\": 35.05, \"options_skew\": 39.30535714285715}",
+    "thesis": null
+  }
+}

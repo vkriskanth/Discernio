@@ -1,0 +1,55 @@
+{
+  "ticker": "PBR",
+  "stock": {
+    "ticker": "PBR",
+    "name": "Petroleo Brasileiro S.A. Petrob",
+    "sector": "Energy",
+    "industry": "Oil & Gas Integrated"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "oc",
+      "manager_name": "Howard Marks - Oaktree Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.93,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PBR",
+    "asof": "2026-08-12",
+    "market_cap": 115321937920.0,
+    "pe": 4.624031,
+    "forward_pe": 4.4887085,
+    "ev_ebitda": 2.166,
+    "fcf_yield": 0.7191411615154377,
+    "roe": 0.25601,
+    "gross_margin": 0.47359002,
+    "op_margin": 0.31947002,
+    "rev_growth": 0.004,
+    "debt_to_equity": 83.269
+  },
+  "market_stats": {
+    "ticker": "PBR",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 2.68,
+    "putcall_oi_ratio": 0.8490845376507661,
+    "avg_volume": 15374201.0,
+    "beta": -0.218
+  },
+  "momentum": {
+    "ticker": "PBR",
+    "asof": "2026-08-12",
+    "ret_1m": 0.4458746720813256,
+    "ret_3m": -11.519715066902613,
+    "ret_6m": 19.013837167084024,
+    "ret_12m": 53.738904912750286,
+    "rsi14": 39.99880979084363,
+    "pct_vs_200dma": 9.929120865029795,
+    "score": 57.3,
+    "components_json": "{\"trend\": 73.74379859515454, \"rsi\": 39.99880979084363, \"vs_200dma\": 69.85824173005959, \"short_squeeze\": 0.0, \"options_skew\": 43.41606133869391}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "CHRD",
+  "stock": {
+    "ticker": "CHRD",
+    "name": "Chord Energy Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "add",
+      "share_change_pct": 20.02,
+      "pct_of_portfolio": 0.43,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CHRD",
+    "asof": "2026-08-12",
+    "market_cap": 7553776640.0,
+    "pe": 9.331081,
+    "forward_pe": 9.766931,
+    "ev_ebitda": 3.192,
+    "fcf_yield": 0.12725131782556917,
+    "roe": 0.10312,
+    "gross_margin": 0.4811,
+    "op_margin": 0.34717,
+    "rev_growth": 0.841,
+    "debt_to_equity": 17.982
+  },
+  "market_stats": {
+    "ticker": "CHRD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.087799996,
+    "short_ratio": 4.77,
+    "putcall_oi_ratio": 1.240990990990991,
+    "avg_volume": 815927.0,
+    "beta": 0.381
+  },
+  "momentum": {
+    "ticker": "CHRD",
+    "asof": "2026-08-12",
+    "ret_1m": 13.656854106448657,
+    "ret_3m": -1.510451153971759,
+    "ret_6m": 40.73211453635328,
+    "ret_12m": 46.062705156812726,
+    "rsi14": 49.72886859133365,
+    "pct_vs_200dma": 20.4977356047062,
+    "score": 68.4,
+    "components_json": "{\"trend\": 80.19158107743955, \"rsi\": 49.72886859133365, \"vs_200dma\": 90.9954712094124, \"short_squeeze\": 43.899998, \"options_skew\": 17.275900900900897}",
+    "thesis": null
+  }
+}

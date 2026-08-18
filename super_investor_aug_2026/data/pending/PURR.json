@@ -1,0 +1,55 @@
+{
+  "ticker": "PURR",
+  "stock": {
+    "ticker": "PURR",
+    "name": "Hyperliquid Strategies Inc",
+    "sector": "Financial Services",
+    "industry": "Capital Markets"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 448.82,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "PURR",
+    "asof": "2026-08-12",
+    "market_cap": 1342774016.0,
+    "pe": null,
+    "forward_pe": -29.536331,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": 0.0,
+    "op_margin": 73.80579,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "PURR",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 2.64,
+    "putcall_oi_ratio": 0.34183450618781847,
+    "avg_volume": 14125477.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "PURR",
+    "asof": "2026-08-12",
+    "ret_1m": -7.3469383518314775,
+    "ret_3m": 8.959999084472647,
+    "ret_6m": 47.084228389956806,
+    "ret_12m": null,
+    "rsi14": 55.68181099806502,
+    "pct_vs_200dma": null,
+    "score": 55.3,
+    "components_json": "{\"trend\": 66.81326824232883, \"rsi\": 55.68181099806502, \"vs_200dma\": 50, \"short_squeeze\": 0.0, \"options_skew\": 77.24963843727251}",
+    "thesis": null
+  }
+}

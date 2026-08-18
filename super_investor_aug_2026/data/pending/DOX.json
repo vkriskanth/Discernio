@@ -1,0 +1,63 @@
+{
+  "ticker": "DOX",
+  "stock": {
+    "ticker": "DOX",
+    "name": "Amdocs Limited",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 10.28,
+      "pct_of_portfolio": 0.19,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "JIM",
+      "manager_name": "Jensen Investment Management",
+      "action": "add",
+      "share_change_pct": 21.55,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DOX",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 13.465558,
+    "forward_pe": 7.0641747,
+    "ev_ebitda": 6.699,
+    "fcf_yield": null,
+    "roe": 0.13314,
+    "gross_margin": 0.38272998,
+    "op_margin": 0.17979,
+    "rev_growth": 0.027,
+    "debt_to_equity": 32.668
+  },
+  "market_stats": {
+    "ticker": "DOX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.123500004,
+    "short_ratio": 7.84,
+    "putcall_oi_ratio": 21.86111111111111,
+    "avg_volume": 1445762.0,
+    "beta": 0.417
+  },
+  "momentum": {
+    "ticker": "DOX",
+    "asof": "2026-08-12",
+    "ret_1m": 10.19426633189684,
+    "ret_3m": -11.067429137199102,
+    "ret_6m": -17.83469675241388,
+    "ret_12m": -29.988545111710796,
+    "rsi14": 61.10509654633565,
+    "pct_vs_200dma": -15.029813700811479,
+    "score": 32.1,
+    "components_json": "{\"trend\": 29.333944188431786, \"rsi\": 61.10509654633565, \"vs_200dma\": 19.940372598377042, \"short_squeeze\": 61.750001999999995, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "COST",
+  "stock": {
+    "ticker": "COST",
+    "name": "Costco Wholesale Corporation",
+    "sector": "Consumer Defensive",
+    "industry": "Discount Stores"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 1.02,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "COST",
+    "asof": "2026-08-12",
+    "market_cap": 419306995712.0,
+    "pe": 47.897415,
+    "forward_pe": 41.728344,
+    "ev_ebitda": 30.248,
+    "fcf_yield": 0.01658540219724022,
+    "roe": 0.29152,
+    "gross_margin": 0.12876001,
+    "op_margin": 0.036730003,
+    "rev_growth": 0.215,
+    "debt_to_equity": 60.257
+  },
+  "market_stats": {
+    "ticker": "COST",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0173,
+    "short_ratio": 3.33,
+    "putcall_oi_ratio": 1.421844622443425,
+    "avg_volume": 2400643.0,
+    "beta": 0.86
+  },
+  "momentum": {
+    "ticker": "COST",
+    "asof": "2026-08-12",
+    "ret_1m": 3.127090175679381,
+    "ret_3m": -6.977929104047909,
+    "ret_6m": -1.9847768137786659,
+    "ret_12m": -3.452636535722753,
+    "rsi14": 60.88213344622557,
+    "pct_vs_200dma": -0.668525785287799,
+    "score": 41.1,
+    "components_json": "{\"trend\": 45.93013361036293, \"rsi\": 60.88213344622557, \"vs_200dma\": 48.662948429424404, \"short_squeeze\": 8.65, \"options_skew\": 5.212963683023559}",
+    "thesis": null
+  }
+}

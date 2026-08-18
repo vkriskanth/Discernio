@@ -1,0 +1,71 @@
+{
+  "ticker": "STZ",
+  "stock": {
+    "ticker": "STZ",
+    "name": "Constellation Brands, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Brewers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 60.49,
+      "pct_of_portfolio": 0.32,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HCM",
+      "manager_name": "Hillman Capital Management",
+      "action": "add",
+      "share_change_pct": 4.3,
+      "pct_of_portfolio": 0.08,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "PIM",
+      "manager_name": "Richard Pzena - Pzena Investment Management",
+      "action": "add",
+      "share_change_pct": 0.59,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "STZ",
+    "asof": "2026-08-12",
+    "market_cap": 22761388032.0,
+    "pe": 12.691428,
+    "forward_pe": 10.753763,
+    "ev_ebitda": 9.725,
+    "fcf_yield": 0.09711567453146085,
+    "roe": 0.2369,
+    "gross_margin": 0.5272,
+    "op_margin": 0.35931,
+    "rev_growth": -0.033,
+    "debt_to_equity": 123.205
+  },
+  "market_stats": {
+    "ticker": "STZ",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.061300002,
+    "short_ratio": 3.9,
+    "putcall_oi_ratio": 0.6227569331158238,
+    "avg_volume": 2219817.0,
+    "beta": 0.4
+  },
+  "momentum": {
+    "ticker": "STZ",
+    "asof": "2026-08-12",
+    "ret_1m": 0.29174940662402005,
+    "ret_3m": -9.283372530586053,
+    "ret_6m": -17.63630329014748,
+    "ret_12m": -20.737575113426608,
+    "rsi14": 67.12472208130728,
+    "pct_vs_200dma": -6.749764168287598,
+    "score": 41.6,
+    "components_json": "{\"trend\": 33.629067208409296, \"rsi\": 67.12472208130728, \"vs_200dma\": 36.500471663424804, \"short_squeeze\": 30.650000999999996, \"options_skew\": 58.512112561174554}",
+    "thesis": null
+  }
+}

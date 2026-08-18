@@ -1,0 +1,63 @@
+{
+  "ticker": "CNI",
+  "stock": {
+    "ticker": "CNI",
+    "name": "Canadian National Railway Compa",
+    "sector": "Industrials",
+    "industry": "Railroads"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FFH",
+      "manager_name": "Prem Watsa - Fairfax Financial Holdings",
+      "action": "add",
+      "share_change_pct": 25.25,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.02,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CNI",
+    "asof": "2026-08-12",
+    "market_cap": 76314181632.0,
+    "pe": 22.408525,
+    "forward_pe": 19.543032,
+    "ev_ebitda": 10.795,
+    "fcf_yield": 0.03965842299920478,
+    "roe": 0.22017999,
+    "gross_margin": 0.55965,
+    "op_margin": 0.40269002,
+    "rev_growth": 0.113,
+    "debt_to_equity": 103.89
+  },
+  "market_stats": {
+    "ticker": "CNI",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": 2.87,
+    "putcall_oi_ratio": 1.1144278606965174,
+    "avg_volume": 1582074.0,
+    "beta": 1.002
+  },
+  "momentum": {
+    "ticker": "CNI",
+    "asof": "2026-08-12",
+    "ret_1m": 1.2340739676488965,
+    "ret_3m": 13.501668663771405,
+    "ret_6m": 20.503160289263022,
+    "ret_12m": 38.002242263092214,
+    "rsi14": 33.09465917767578,
+    "pct_vs_200dma": 17.42520187081853,
+    "score": 58.9,
+    "components_json": "{\"trend\": 75.40234559114721, \"rsi\": 33.09465917767578, \"vs_200dma\": 84.85040374163705, \"short_squeeze\": 0.0, \"options_skew\": 25.717661691542286}",
+    "thesis": null
+  }
+}

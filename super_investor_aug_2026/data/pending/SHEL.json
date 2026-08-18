@@ -1,0 +1,55 @@
+{
+  "ticker": "SHEL",
+  "stock": {
+    "ticker": "SHEL",
+    "name": "Shell PLC",
+    "sector": "Energy",
+    "industry": "Oil & Gas Integrated"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 8.37,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SHEL",
+    "asof": "2026-08-12",
+    "market_cap": 248778604544.0,
+    "pe": 9.963495,
+    "forward_pe": 10.212597,
+    "ev_ebitda": 5.117,
+    "fcf_yield": 0.08625490401528796,
+    "roe": 0.14341,
+    "gross_margin": 0.26093,
+    "op_margin": 0.16691,
+    "rev_growth": 0.447,
+    "debt_to_equity": 40.2
+  },
+  "market_stats": {
+    "ticker": "SHEL",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0177,
+    "short_ratio": 3.98,
+    "putcall_oi_ratio": 0.40307692307692305,
+    "avg_volume": 6731949.0,
+    "beta": -0.218
+  },
+  "momentum": {
+    "ticker": "SHEL",
+    "asof": "2026-08-12",
+    "ret_1m": 6.871218067446705,
+    "ret_3m": 6.652635741444324,
+    "ret_6m": 17.944104652605674,
+    "ret_12m": 31.1812946026198,
+    "rsi14": 56.3340852960987,
+    "pct_vs_200dma": 11.580793747268636,
+    "score": 62.9,
+    "components_json": "{\"trend\": 69.85153995926292, \"rsi\": 56.3340852960987, \"vs_200dma\": 73.16158749453727, \"short_squeeze\": 8.85, \"options_skew\": 73.16476923076924}",
+    "thesis": null
+  }
+}

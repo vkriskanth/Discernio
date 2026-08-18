@@ -1,0 +1,55 @@
+{
+  "ticker": "COIN",
+  "stock": {
+    "ticker": "COIN",
+    "name": "Coinbase Global, Inc.",
+    "sector": "Financial Services",
+    "industry": "Financial Data & Stock Exchanges"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 140.55,
+      "pct_of_portfolio": 1.64,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "COIN",
+    "asof": "2026-08-12",
+    "market_cap": 39058415616.0,
+    "pe": null,
+    "forward_pe": 48.974136,
+    "ev_ebitda": 53.006,
+    "fcf_yield": 0.06831953682491124,
+    "roe": -0.07847,
+    "gross_margin": 0.8581,
+    "op_margin": -0.13922,
+    "rev_growth": -0.173,
+    "debt_to_equity": 50.982
+  },
+  "market_stats": {
+    "ticker": "COIN",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0991,
+    "short_ratio": 2.86,
+    "putcall_oi_ratio": 0.7813376458879943,
+    "avg_volume": 8292885.0,
+    "beta": 3.361
+  },
+  "momentum": {
+    "ticker": "COIN",
+    "asof": "2026-08-12",
+    "ret_1m": -8.089784793440401,
+    "ret_3m": -28.51329320221827,
+    "ret_6m": -8.66100389145612,
+    "ret_12m": -53.55891376439994,
+    "rsi14": 40.0965047660985,
+    "pct_vs_200dma": -27.608089426353644,
+    "score": 22.7,
+    "components_json": "{\"trend\": 17.424145366137708, \"rsi\": 40.0965047660985, \"vs_200dma\": 0.0, \"short_squeeze\": 49.55, \"options_skew\": 47.934779019270785}",
+    "thesis": null
+  }
+}

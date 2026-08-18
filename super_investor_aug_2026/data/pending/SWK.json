@@ -1,0 +1,55 @@
+{
+  "ticker": "SWK",
+  "stock": {
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker Inc.",
+    "sector": "Industrials",
+    "industry": "Tools & Accessories"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "add",
+      "share_change_pct": 2.9,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "SWK",
+    "asof": "2026-08-12",
+    "market_cap": 15440696320.0,
+    "pe": 24.998777,
+    "forward_pe": 16.056112,
+    "ev_ebitda": 11.348,
+    "fcf_yield": 0.09190323769025463,
+    "roe": 0.06886,
+    "gross_margin": 0.32213002,
+    "op_margin": 0.08443,
+    "rev_growth": 0.004,
+    "debt_to_equity": 58.172
+  },
+  "market_stats": {
+    "ticker": "SWK",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0622,
+    "short_ratio": 4.6,
+    "putcall_oi_ratio": 0.5522620904836193,
+    "avg_volume": 1766191.0,
+    "beta": 1.172
+  },
+  "momentum": {
+    "ticker": "SWK",
+    "asof": "2026-08-12",
+    "ret_1m": 17.511725925820485,
+    "ret_3m": 31.55101145057757,
+    "ret_6m": 14.340702131994675,
+    "ret_12m": 55.94173501951247,
+    "rsi14": 76.21993008221396,
+    "pct_vs_200dma": 31.16193368336704,
+    "score": 80.3,
+    "components_json": "{\"trend\": 86.14420808257665, \"rsi\": 76.21993008221396, \"vs_200dma\": 100.0, \"short_squeeze\": 31.099999999999998, \"options_skew\": 63.2141185647426}",
+    "thesis": null
+  }
+}

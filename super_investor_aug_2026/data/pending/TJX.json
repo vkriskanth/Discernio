@@ -1,0 +1,55 @@
+{
+  "ticker": "TJX",
+  "stock": {
+    "ticker": "TJX",
+    "name": "TJX Companies, Inc. (The)",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Retail"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "JIM",
+      "manager_name": "Jensen Investment Management",
+      "action": "add",
+      "share_change_pct": 2072.63,
+      "pct_of_portfolio": 1.76,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TJX",
+    "asof": "2026-08-12",
+    "market_cap": 170433789952.0,
+    "pe": 30.015564,
+    "forward_pe": 26.816986,
+    "ev_ebitda": 20.447,
+    "fcf_yield": 0.025313350370340534,
+    "roe": 0.6125,
+    "gross_margin": 0.31351998,
+    "op_margin": 0.11771,
+    "rev_growth": 0.092,
+    "debt_to_equity": 136.307
+  },
+  "market_stats": {
+    "ticker": "TJX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0176,
+    "short_ratio": 3.89,
+    "putcall_oi_ratio": 0.7616293379276396,
+    "avg_volume": 5966408.0,
+    "beta": 0.616
+  },
+  "momentum": {
+    "ticker": "TJX",
+    "asof": "2026-08-12",
+    "ret_1m": 2.141812757176176,
+    "ret_3m": 2.530928785598796,
+    "ret_6m": 0.7884037093291774,
+    "ret_12m": 17.39971680462855,
+    "rsi14": 50.1558880983317,
+    "pct_vs_200dma": -0.6099806366398064,
+    "score": 48.7,
+    "components_json": "{\"trend\": 57.95568647032981, \"rsi\": 50.1558880983317, \"vs_200dma\": 48.780038726720385, \"short_squeeze\": 8.8, \"options_skew\": 49.24932316022644}",
+    "thesis": null
+  }
+}

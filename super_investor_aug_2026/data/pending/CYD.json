@@ -1,0 +1,55 @@
+{
+  "ticker": "CYD",
+  "stock": {
+    "ticker": "CYD",
+    "name": "China Yuchai Intl Ltd.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "CYD",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": 16.334496,
+    "forward_pe": 11.394823,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": 0.17929001,
+    "op_margin": 0.067379996,
+    "rev_growth": 0.062,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "CYD",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.022,
+    "short_ratio": 1.74,
+    "putcall_oi_ratio": 0.47619047619047616,
+    "avg_volume": 192812.0,
+    "beta": 1.448
+  },
+  "momentum": {
+    "ticker": "CYD",
+    "asof": "2026-08-12",
+    "ret_1m": 4.67668442204543,
+    "ret_3m": -1.946513982804221,
+    "ret_6m": -3.301724506710235,
+    "ret_12m": 68.94727654945763,
+    "rsi14": 52.75323607705643,
+    "pct_vs_200dma": 8.323163000736788,
+    "score": 62.9,
+    "components_json": "{\"trend\": 76.00443907292872, \"rsi\": 52.75323607705643, \"vs_200dma\": 66.64632600147357, \"short_squeeze\": 10.999999999999998, \"options_skew\": 68.28809523809524}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "ticker": "META",
+  "stock": {
+    "ticker": "META",
+    "name": "Meta Platforms, Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "CAS",
+      "manager_name": "Clifford Sosin - CAS Investment Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 4.08,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 3.88,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "tp",
+      "manager_name": "Daniel Loeb - Third Point",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 2.47,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "AM",
+      "manager_name": "David Tepper - Appaloosa Management",
+      "action": "add",
+      "share_change_pct": 54.64,
+      "pct_of_portfolio": 1.8,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 1.7,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "psc",
+      "manager_name": "Bill Ackman - Pershing Square Capital Management",
+      "action": "add",
+      "share_change_pct": 20.11,
+      "pct_of_portfolio": 1.55,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "RVC",
+      "manager_name": "Robert Vinall - RV Capital GmbH",
+      "action": "add",
+      "share_change_pct": 6.77,
+      "pct_of_portfolio": 1.38,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DA",
+      "manager_name": "Pat Dorsey - Dorsey Asset Management",
+      "action": "add",
+      "share_change_pct": 23.64,
+      "pct_of_portfolio": 1.38,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "vg",
+      "manager_name": "Viking Global Investors",
+      "action": "add",
+      "share_change_pct": 75.76,
+      "pct_of_portfolio": 1.29,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "WP",
+      "manager_name": "David Rolfe - Wedgewood Partners",
+      "action": "add",
+      "share_change_pct": 16.21,
+      "pct_of_portfolio": 1.24,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "TFP",
+      "manager_name": "Triple Frond Partners",
+      "action": "add",
+      "share_change_pct": 20.8,
+      "pct_of_portfolio": 1.2,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "LMM",
+      "manager_name": "Bill Miller - Miller Value Partners",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.85,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "TGM",
+      "manager_name": "Chase Coleman - Tiger Global Management",
+      "action": "add",
+      "share_change_pct": 12.22,
+      "pct_of_portfolio": 0.84,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "PTNT",
+      "manager_name": "Samantha McLemore - Patient Capital Management",
+      "action": "add",
+      "share_change_pct": 19.56,
+      "pct_of_portfolio": 0.6,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "add",
+      "share_change_pct": 29.41,
+      "pct_of_portfolio": 0.44,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 39.13,
+      "pct_of_portfolio": 0.35,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "CAU",
+      "manager_name": "Sarah Ketterer - Causeway Capital Management",
+      "action": "add",
+      "share_change_pct": 31.18,
+      "pct_of_portfolio": 0.24,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MAVFX",
+      "manager_name": "David Katz - Matrix Asset Advisors",
+      "action": "add",
+      "share_change_pct": 14.35,
+      "pct_of_portfolio": 0.22,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "DA",
+      "manager_name": "Pat Dorsey - Dorsey Asset Management",
+      "action": "add",
+      "share_change_pct": 0.77,
+      "pct_of_portfolio": 0.06,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 2.56,
+      "pct_of_portfolio": 0.05,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "MPF",
+      "manager_name": "Mairs & Power Funds",
+      "action": "add",
+      "share_change_pct": 2.54,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q2 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 4.11,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "CCM",
+      "manager_name": "Glenn Greenberg - Brave Warrior Advisors",
+      "action": "add",
+      "share_change_pct": 10.36,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "HA",
+      "manager_name": "Bill Nygren - Oakmark Funds",
+      "action": "add",
+      "share_change_pct": 4.35,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "META",
+    "asof": "2026-08-15",
+    "market_cap": 1502646501376.0,
+    "pe": 22.419231,
+    "forward_pe": 16.908413,
+    "ev_ebitda": 14.024,
+    "fcf_yield": 0.014343776176408066,
+    "roe": 0.29848,
+    "gross_margin": 0.81747,
+    "op_margin": 0.34827,
+    "rev_growth": 0.28,
+    "debt_to_equity": 42.997
+  },
+  "market_stats": {
+    "ticker": "META",
+    "asof": "2026-08-14",
+    "short_pct_float": 0.0143,
+    "short_ratio": 1.55,
+    "putcall_oi_ratio": 0.4915722312160747,
+    "avg_volume": 18212669.0,
+    "beta": 1.243
+  },
+  "momentum": {
+    "ticker": "META",
+    "asof": "2026-08-14",
+    "ret_1m": -10.675807275706084,
+    "ret_3m": -3.926859445963271,
+    "ret_6m": -8.488049433875977,
+    "ret_12m": -23.656490394635277,
+    "rsi14": 49.912576829949714,
+    "pct_vs_200dma": -5.304278902250614,
+    "score": 39.5,
+    "components_json": "{\"trend\": 36.81293117819411, \"rsi\": 49.912576829949714, \"vs_200dma\": 39.39144219549877, \"short_squeeze\": 7.1499999999999995, \"options_skew\": 67.26213217788782}",
+    "thesis": null
+  }
+}

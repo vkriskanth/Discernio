@@ -1,0 +1,55 @@
+{
+  "ticker": "VHT",
+  "stock": {
+    "ticker": "VHT",
+    "name": "Vanguard Health Care ETF",
+    "sector": null,
+    "industry": null
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "VAN",
+      "manager_name": "Arnold Van Den Berg - Century Management",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "VHT",
+    "asof": "2026-08-12",
+    "market_cap": null,
+    "pe": null,
+    "forward_pe": null,
+    "ev_ebitda": null,
+    "fcf_yield": null,
+    "roe": null,
+    "gross_margin": null,
+    "op_margin": null,
+    "rev_growth": null,
+    "debt_to_equity": null
+  },
+  "market_stats": {
+    "ticker": "VHT",
+    "asof": "2026-08-12",
+    "short_pct_float": null,
+    "short_ratio": null,
+    "putcall_oi_ratio": 0.50853889943074,
+    "avg_volume": 250903.0,
+    "beta": null
+  },
+  "momentum": {
+    "ticker": "VHT",
+    "asof": "2026-08-12",
+    "ret_1m": 5.763753530310156,
+    "ret_3m": 16.10705317652128,
+    "ret_6m": 10.60797792999657,
+    "ret_12m": 33.11158646876757,
+    "rsi14": 69.55836082746175,
+    "pct_vs_200dma": 11.079536173072025,
+    "score": 63.6,
+    "components_json": "{\"trend\": 71.25914391946239, \"rsi\": 69.55836082746175, \"vs_200dma\": 72.15907234614406, \"short_squeeze\": 0.0, \"options_skew\": 66.13045540796965}",
+    "thesis": null
+  }
+}

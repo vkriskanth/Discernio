@@ -1,0 +1,55 @@
+{
+  "ticker": "KLAC",
+  "stock": {
+    "ticker": "KLAC",
+    "name": "KLA Corporation",
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment & Materials"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "tp",
+      "manager_name": "Daniel Loeb - Third Point",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.78,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "KLAC",
+    "asof": "2026-08-12",
+    "market_cap": 270416003072.0,
+    "pe": 56.395096,
+    "forward_pe": 31.491163,
+    "ev_ebitda": 43.465,
+    "fcf_yield": 0.009705740378468603,
+    "roe": 0.87496,
+    "gross_margin": 0.61301,
+    "op_margin": 0.42486,
+    "rev_growth": 0.152,
+    "debt_to_equity": 96.88
+  },
+  "market_stats": {
+    "ticker": "KLAC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0231,
+    "short_ratio": 1.95,
+    "putcall_oi_ratio": 1.51080785567097,
+    "avg_volume": 12830188.0,
+    "beta": 1.458
+  },
+  "momentum": {
+    "ticker": "KLAC",
+    "asof": "2026-08-12",
+    "ret_1m": -9.315445548436807,
+    "ret_3m": 15.481078307191677,
+    "ret_6m": 46.38146759889772,
+    "ret_12m": 131.00537368120322,
+    "rsi14": 45.25329017679929,
+    "pct_vs_200dma": 26.07737099339913,
+    "score": 72.9,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 45.25329017679929, \"vs_200dma\": 100.0, \"short_squeeze\": 11.55, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

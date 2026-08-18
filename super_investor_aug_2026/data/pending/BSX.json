@@ -1,0 +1,55 @@
+{
+  "ticker": "BSX",
+  "stock": {
+    "ticker": "BSX",
+    "name": "Boston Scientific Corporation",
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 42.48,
+      "pct_of_portfolio": 0.91,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BSX",
+    "asof": "2026-08-12",
+    "market_cap": 73562890240.0,
+    "pe": 20.550606,
+    "forward_pe": 14.762294,
+    "ev_ebitda": 15.148,
+    "fcf_yield": 0.033323528969598025,
+    "roe": 0.15338999,
+    "gross_margin": 0.69189,
+    "op_margin": 0.22895999,
+    "rev_growth": 0.075,
+    "debt_to_equity": 50.151
+  },
+  "market_stats": {
+    "ticker": "BSX",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0154,
+    "short_ratio": 1.08,
+    "putcall_oi_ratio": 0.6890030855794537,
+    "avg_volume": 20854203.0,
+    "beta": 0.566
+  },
+  "momentum": {
+    "ticker": "BSX",
+    "asof": "2026-08-12",
+    "ret_1m": 20.47853465517706,
+    "ret_3m": -5.064691203420679,
+    "ret_6m": -30.828282006260523,
+    "ret_12m": -50.01459794612987,
+    "rsi14": 86.69811273223772,
+    "pct_vs_200dma": -27.83288516327388,
+    "score": 26.9,
+    "components_json": "{\"trend\": 19.226268858643692, \"rsi\": 86.69811273223772, \"vs_200dma\": 0.0, \"short_squeeze\": 7.7, \"options_skew\": 54.09349419185044}",
+    "thesis": null
+  }
+}

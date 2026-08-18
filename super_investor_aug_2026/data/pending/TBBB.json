@@ -1,0 +1,55 @@
+{
+  "ticker": "TBBB",
+  "stock": {
+    "ticker": "TBBB",
+    "name": "BBB Foods Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Discount Stores"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAC",
+      "manager_name": "Dodge & Cox Funds",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TBBB",
+    "asof": "2026-08-12",
+    "market_cap": 5091365888.0,
+    "pe": null,
+    "forward_pe": -410.06067,
+    "ev_ebitda": -180.584,
+    "fcf_yield": 0.3579372247229858,
+    "roe": -0.78365,
+    "gross_margin": 0.16218,
+    "op_margin": -0.00085,
+    "rev_growth": 0.334,
+    "debt_to_equity": 340.301
+  },
+  "market_stats": {
+    "ticker": "TBBB",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.045700002,
+    "short_ratio": 6.4,
+    "putcall_oi_ratio": 0.36910994764397903,
+    "avg_volume": 697485.0,
+    "beta": -0.005
+  },
+  "momentum": {
+    "ticker": "TBBB",
+    "asof": "2026-08-12",
+    "ret_1m": 1.4405725141409365,
+    "ret_3m": 9.940150050713736,
+    "ret_6m": 10.747046684493245,
+    "ret_12m": 73.58257902684471,
+    "rsi14": 54.697664944789814,
+    "pct_vs_200dma": 17.964367461659258,
+    "score": 73.8,
+    "components_json": "{\"trend\": 85.63919063129998, \"rsi\": 54.697664944789814, \"vs_200dma\": 85.92873492331852, \"short_squeeze\": 22.850001, \"options_skew\": 75.4303664921466}",
+    "thesis": null
+  }
+}

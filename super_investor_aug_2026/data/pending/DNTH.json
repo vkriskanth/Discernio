@@ -1,0 +1,55 @@
+{
+  "ticker": "DNTH",
+  "stock": {
+    "ticker": "DNTH",
+    "name": "Dianthus Therapeutics, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "pcm",
+      "manager_name": "Polen Capital Management",
+      "action": "add",
+      "share_change_pct": 126.58,
+      "pct_of_portfolio": 0.01,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "DNTH",
+    "asof": "2026-08-12",
+    "market_cap": 6116423680.0,
+    "pe": null,
+    "forward_pe": -23.053425,
+    "ev_ebitda": -23.805,
+    "fcf_yield": -0.015075884344231693,
+    "roe": -0.26065,
+    "gross_margin": 1.0,
+    "op_margin": -80.79106,
+    "rev_growth": 2.943,
+    "debt_to_equity": 0.11
+  },
+  "market_stats": {
+    "ticker": "DNTH",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.176,
+    "short_ratio": 8.49,
+    "putcall_oi_ratio": 0.1388888888888889,
+    "avg_volume": 1050300.0,
+    "beta": 0.082
+  },
+  "momentum": {
+    "ticker": "DNTH",
+    "asof": "2026-08-12",
+    "ret_1m": 8.511061266268594,
+    "ret_3m": 27.568194520421052,
+    "ret_6m": 116.25344782729643,
+    "ret_12m": 481.78933338718474,
+    "rsi14": 56.4309076230938,
+    "pct_vs_200dma": 57.84129666608999,
+    "score": 91.3,
+    "components_json": "{\"trend\": 100.0, \"rsi\": 56.4309076230938, \"vs_200dma\": 100.0, \"short_squeeze\": 87.99999999999999, \"options_skew\": 90.78611111111111}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "NEE",
+  "stock": {
+    "ticker": "NEE",
+    "name": "NextEra Energy, Inc.",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Electric"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "T",
+      "manager_name": "Torray Funds",
+      "action": "add",
+      "share_change_pct": 19.09,
+      "pct_of_portfolio": 0.5,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "NEE",
+    "asof": "2026-08-12",
+    "market_cap": 178945654784.0,
+    "pe": 19.27753,
+    "forward_pe": 19.41641,
+    "ev_ebitda": 20.366,
+    "fcf_yield": -0.09928642948858339,
+    "roe": 0.11677,
+    "gross_margin": 0.61024,
+    "op_margin": 0.31524,
+    "rev_growth": 0.124,
+    "debt_to_equity": 161.676
+  },
+  "market_stats": {
+    "ticker": "NEE",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0,
+    "short_ratio": 0.0,
+    "putcall_oi_ratio": 0.5314349827833017,
+    "avg_volume": 12148582.0,
+    "beta": 0.653
+  },
+  "momentum": {
+    "ticker": "NEE",
+    "asof": "2026-08-12",
+    "ret_1m": -4.545454158152051,
+    "ret_3m": -8.979780631235856,
+    "ret_6m": -4.565579961327792,
+    "ret_12m": 21.38705600477109,
+    "rsi14": 25.454491859504387,
+    "pct_vs_200dma": -1.7131430805246373,
+    "score": 43.7,
+    "components_json": "{\"trend\": 54.49121422413934, \"rsi\": 25.454491859504387, \"vs_200dma\": 46.573713838950724, \"short_squeeze\": 0.0, \"options_skew\": 64.60328664835377}",
+    "thesis": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticker": "BXC",
+  "stock": {
+    "ticker": "BXC",
+    "name": "Bluelinx Holdings Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TA",
+      "manager_name": "Third Avenue Management",
+      "action": "add",
+      "share_change_pct": 0.05,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "BXC",
+    "asof": "2026-08-12",
+    "market_cap": 681402240.0,
+    "pe": null,
+    "forward_pe": 30.382048,
+    "ev_ebitda": 13.381,
+    "fcf_yield": 0.03682314868821095,
+    "roe": -0.0031299999,
+    "gross_margin": 0.15845,
+    "op_margin": 0.0241,
+    "rev_growth": 0.044,
+    "debt_to_equity": 108.037
+  },
+  "market_stats": {
+    "ticker": "BXC",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0644,
+    "short_ratio": 2.89,
+    "putcall_oi_ratio": 2.7384615384615385,
+    "avg_volume": 161638.0,
+    "beta": 1.396
+  },
+  "momentum": {
+    "ticker": "BXC",
+    "asof": "2026-08-12",
+    "ret_1m": 59.666430163638616,
+    "ret_3m": 82.8882461404401,
+    "ret_6m": 13.140165226948541,
+    "ret_12m": 24.709342401544056,
+    "rsi14": 81.94303273535083,
+    "pct_vs_200dma": 46.60790961038559,
+    "score": 76.0,
+    "components_json": "{\"trend\": 88.69226037083422, \"rsi\": 81.94303273535083, \"vs_200dma\": 100.0, \"short_squeeze\": 32.199999999999996, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

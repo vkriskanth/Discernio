@@ -1,0 +1,55 @@
+{
+  "ticker": "EXR",
+  "stock": {
+    "ticker": "EXR",
+    "name": "Extra Space Storage Inc",
+    "sector": "Real Estate",
+    "industry": "REIT - Industrial"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "DAV",
+      "manager_name": "Christopher Davis - Davis Advisors",
+      "action": "add",
+      "share_change_pct": 0.64,
+      "pct_of_portfolio": 0.0,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "EXR",
+    "asof": "2026-08-12",
+    "market_cap": 32110014464.0,
+    "pe": 32.116997,
+    "forward_pe": 30.580675,
+    "ev_ebitda": 19.734,
+    "fcf_yield": 0.046696882359897024,
+    "roe": 0.06953,
+    "gross_margin": 0.74919,
+    "op_margin": 0.45882,
+    "rev_growth": 0.038,
+    "debt_to_equity": 101.674
+  },
+  "market_stats": {
+    "ticker": "EXR",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.030199999,
+    "short_ratio": 3.79,
+    "putcall_oi_ratio": 0.31088082901554404,
+    "avg_volume": 1184269.0,
+    "beta": 1.185
+  },
+  "momentum": {
+    "ticker": "EXR",
+    "asof": "2026-08-12",
+    "ret_1m": 3.1784439969901657,
+    "ret_3m": 3.8708738330264003,
+    "ret_6m": 8.662407741975887,
+    "ret_12m": 11.606449191838198,
+    "rsi14": 49.83680011768781,
+    "pct_vs_200dma": 6.366071472680512,
+    "score": 56.0,
+    "components_json": "{\"trend\": 58.402564149235964, \"rsi\": 49.83680011768781, \"vs_200dma\": 62.732142945361026, \"short_squeeze\": 15.099999500000001, \"options_skew\": 79.31424870466321}",
+    "thesis": null
+  }
+}

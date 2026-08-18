@@ -1,0 +1,55 @@
+{
+  "ticker": "GTES",
+  "stock": {
+    "ticker": "GTES",
+    "name": "Gates Industrial Corporation Lt",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "FE",
+      "manager_name": "First Eagle Investment Management",
+      "action": "add",
+      "share_change_pct": 542.87,
+      "pct_of_portfolio": 0.03,
+      "quarter": "Q2 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "GTES",
+    "asof": "2026-08-12",
+    "market_cap": 7008489984.0,
+    "pe": 19.634752,
+    "forward_pe": 14.324298,
+    "ev_ebitda": 12.313,
+    "fcf_yield": 0.05959379223677293,
+    "roe": 0.10384,
+    "gross_margin": 0.40532002,
+    "op_margin": 0.15346,
+    "rev_growth": 0.066,
+    "debt_to_equity": 60.695
+  },
+  "market_stats": {
+    "ticker": "GTES",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.052600004,
+    "short_ratio": 5.91,
+    "putcall_oi_ratio": 7.957364341085271,
+    "avg_volume": 2025082.0,
+    "beta": 1.278
+  },
+  "momentum": {
+    "ticker": "GTES",
+    "asof": "2026-08-12",
+    "ret_1m": 7.068767207262838,
+    "ret_3m": 7.274831910310264,
+    "ret_6m": 8.528039361495733,
+    "ret_12m": 15.45153912134909,
+    "rsi14": 60.1496724409904,
+    "pct_vs_200dma": 13.089951788069843,
+    "score": 55.1,
+    "components_json": "{\"trend\": 60.921477030081434, \"rsi\": 60.1496724409904, \"vs_200dma\": 76.17990357613968, \"short_squeeze\": 26.300002, \"options_skew\": 0.0}",
+    "thesis": null
+  }
+}

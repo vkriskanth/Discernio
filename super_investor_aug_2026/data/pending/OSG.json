@@ -1,0 +1,55 @@
+{
+  "ticker": "OSG",
+  "stock": {
+    "ticker": "OSG",
+    "name": "Octave Specialty Group, Inc.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Specialty"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "TA",
+      "manager_name": "Third Avenue Management",
+      "action": "add",
+      "share_change_pct": 71.49,
+      "pct_of_portfolio": 0.42,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "OSG",
+    "asof": "2026-08-12",
+    "market_cap": 205889792.0,
+    "pe": null,
+    "forward_pe": 6.3035855,
+    "ev_ebitda": 76.997,
+    "fcf_yield": 1.657699280205208,
+    "roe": -0.06762,
+    "gross_margin": 0.62109,
+    "op_margin": -0.08637,
+    "rev_growth": 0.51,
+    "debt_to_equity": 15.311
+  },
+  "market_stats": {
+    "ticker": "OSG",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.0346,
+    "short_ratio": 4.11,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 480012.0,
+    "beta": 0.85
+  },
+  "momentum": {
+    "ticker": "OSG",
+    "asof": "2026-08-12",
+    "ret_1m": -23.60197303925029,
+    "ret_3m": -23.223143231631717,
+    "ret_6m": -25.201289011383743,
+    "ret_12m": -45.608899277809456,
+    "rsi14": 20.62867581619747,
+    "pct_vs_200dma": -26.066524393806347,
+    "score": 16.7,
+    "components_json": "{\"trend\": 17.229110615971578, \"rsi\": 20.62867581619747, \"vs_200dma\": 0.0, \"short_squeeze\": 17.3, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}

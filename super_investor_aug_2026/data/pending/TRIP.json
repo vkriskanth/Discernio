@@ -1,0 +1,63 @@
+{
+  "ticker": "TRIP",
+  "stock": {
+    "ticker": "TRIP",
+    "name": "TripAdvisor, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Travel Services"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "SE",
+      "manager_name": "Mason Hawkins - Southeastern Asset Management",
+      "action": "add",
+      "share_change_pct": 62.0,
+      "pct_of_portfolio": 0.92,
+      "quarter": "Q1 2026"
+    },
+    {
+      "manager_code": "GLRE",
+      "manager_name": "David Einhorn - Greenlight Capital",
+      "action": "buy_new",
+      "share_change_pct": null,
+      "pct_of_portfolio": 0.52,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "TRIP",
+    "asof": "2026-08-12",
+    "market_cap": 1238664704.0,
+    "pe": null,
+    "forward_pe": 9.641075,
+    "ev_ebitda": 12.139,
+    "fcf_yield": -0.08194307924673051,
+    "roe": -0.00233,
+    "gross_margin": 0.63966,
+    "op_margin": 0.09437,
+    "rev_growth": -0.072,
+    "debt_to_equity": 134.928
+  },
+  "market_stats": {
+    "ticker": "TRIP",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.2959,
+    "short_ratio": 10.72,
+    "putcall_oi_ratio": 0.1630376703179268,
+    "avg_volume": 3948359.0,
+    "beta": 0.884
+  },
+  "momentum": {
+    "ticker": "TRIP",
+    "asof": "2026-08-12",
+    "ret_1m": -20.59264742138054,
+    "ret_3m": -5.743539896537797,
+    "ret_6m": -14.843123264128655,
+    "ret_12m": -35.7706290523926,
+    "rsi14": 27.191417592030135,
+    "pct_vs_200dma": -16.362623263846032,
+    "score": 39.1,
+    "components_json": "{\"trend\": 29.515749430843023, \"rsi\": 27.191417592030135, \"vs_200dma\": 17.274753472307935, \"short_squeeze\": 100.0, \"options_skew\": 89.17538738979428}",
+    "thesis": null
+  }
+}

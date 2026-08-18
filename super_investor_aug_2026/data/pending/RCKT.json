@@ -1,0 +1,55 @@
+{
+  "ticker": "RCKT",
+  "stock": {
+    "ticker": "RCKT",
+    "name": "Rocket Pharmaceuticals, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "superinvestor_buys": [
+    {
+      "manager_code": "mc",
+      "manager_name": "Lee Ainslie - Maverick Capital",
+      "action": "add",
+      "share_change_pct": 41.95,
+      "pct_of_portfolio": 0.04,
+      "quarter": "Q1 2026"
+    }
+  ],
+  "fundamentals": {
+    "ticker": "RCKT",
+    "asof": "2026-08-12",
+    "market_cap": 378722368.0,
+    "pe": null,
+    "forward_pe": -2.7201123,
+    "ev_ebitda": -0.688,
+    "fcf_yield": 0.22744002276622857,
+    "roe": -0.04772,
+    "gross_margin": 0.0,
+    "op_margin": 0.0,
+    "rev_growth": null,
+    "debt_to_equity": 6.723
+  },
+  "market_stats": {
+    "ticker": "RCKT",
+    "asof": "2026-08-12",
+    "short_pct_float": 0.173,
+    "short_ratio": 8.4,
+    "putcall_oi_ratio": 0.0,
+    "avg_volume": 2372211.0,
+    "beta": 0.474
+  },
+  "momentum": {
+    "ticker": "RCKT",
+    "asof": "2026-08-12",
+    "ret_1m": -5.631872423531991,
+    "ret_3m": -5.631872423531991,
+    "ret_6m": 6.018516440395905,
+    "ret_12m": 17.636981268138598,
+    "rsi14": 56.65235814352796,
+    "pct_vs_200dma": -3.5572919435593042,
+    "score": 55.7,
+    "components_json": "{\"trend\": 57.17078571231461, \"rsi\": 56.65235814352796, \"vs_200dma\": 42.885416112881394, \"short_squeeze\": 86.49999999999999, \"options_skew\": 50.0}",
+    "thesis": null
+  }
+}
